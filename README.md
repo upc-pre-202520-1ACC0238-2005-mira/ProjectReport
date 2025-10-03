@@ -9,12 +9,12 @@
 	<h3 style="margin: 10px 0; border-bottom: none;">Producto: Xantina</h3>
 	<h4 style="margin: 10px 0; border-bottom: none;">Integrantes:</h4>
 	<ul style="display: inline-block; text-align: left; padding: 0;">
-		<li style="padding: 5px 0;">León Vivas, Fabrizio Amir (20211b994)</li>
-		<li style="padding: 5px 0;">Pereira Vasquez, Nelson Fabrizzio (202417468)</li>
-		<li style="padding: 5px 0;">Oliva López, Fabián Alejandro (202312013)</li>
-		<li style="padding: 5px 0;">Vidal Castro, Miguel Angel (202314186)</li>
-		<li style="padding: 5px 0;">Mondoñedo Rodriguez, Juan Diego Javier (202110373)</li>
-		<li style="padding: 5px 0;">Tantaleán Mesta, Guillermo Fabián (202311958)</li>
+		<li>León Vivas, Fabrizio Amir</li>
+    <li>Pereira Vasquez, Nelson Fabrizzio</li>
+    <li>Vidal Castro, Miguel Angel</li>
+    <li>Oliva López, Fabián Alejandro</li>
+    <li>Mondoñedo Rodriguez, Juan Diego Javier</li>
+    <li>Tantaleán Mesta, Guillermo Fabián</li>
 	</ul>
 	<h4 style="margin: 10px 0; border-bottom: none;">Setiembre de 2025</h4>
 </div>
@@ -112,7 +112,7 @@
 
 # Project Report Collaboration Insights
 
-El desarrollo del informe se realizó en un repositorio dedicado en la organización de GitHub. Enlace: [https://github.com/CodyLionVivo/ProjectReport](https://github.com/CodyLionVivo/ProjectReport)
+El desarrollo del informe se realizó en un repositorio dedicado en la organización de GitHub: [Enlace](https://github.com/upc-pre-202520-1ACC0238-2005-mira/ProjectReport)
 
 Se presenta una tabla que especifica qué miembro del equipo se corresponde con qué usuario de GitHub.
 
@@ -151,7 +151,21 @@ Se presenta una tabla que especifica qué miembro del equipo se corresponde con 
 
 Este entregable comprende la elaboración del informe desde el Capítulo I hasta el Capítulo II, desarrollado íntegramente a partir del proceso de investigación en equipo y del diseño del sistema.
 
-<img src="./img/insight_tb1.png">
+**TB1 Network Graph**
+<figure style="text-align: center;">
+    <img src="img/chapter1/TB1_NetworkGraph.PNG" alt="TB1 Network Graph">
+</figure>
+
+**TB1 Contributors**
+<figure style="text-align: center;">
+    <img src="img/chapter1/TB1_CommitsOverTime.PNG" alt="TB1 Contributors">
+    <img src="img/chapter1/TB1_CommitsPerUser.PNG" alt="TB1 Contributors">
+</figure>
+
+**TB1 Pulse**
+<figure style="text-align: center;">
+    <img src="img/chapter1/TB1_Pulse.PNG" alt="TB1 Pulse">
+</figure>
 
 <div style="page-break-before: always;"></div>
 
@@ -241,13 +255,12 @@ Este entregable comprende la elaboración del informe desde el Capítulo I hasta
 					<li><strong>Juan Diego Mondoñedo:</strong> Analicé los resultados de nuestras entrevistas para desarrollar parte del needfinding y definir las user stories </li>
           <li><strong>Fabián Oliva López:</strong> Investigué acerca de posibles competidores y desarrollo su respectivo análisis competitivo a su vez de estrategias frente a estos competidores</li>
           <li><strong>Miguel Vidal Castro</strong> Determiné mediante las entrevistas del segmento objetivo de dueño de café, información relevante para entender que bounded contexts desarrollar en la aplicación para poder cubrir sus necesidades. </li>
-          <li><strong>Fabrizio:</strong> </li>
           <li><strong>Fabrizzio Pereira:</strong> Investigué el dominio del café de especialidad y desarrollé la arquitectura completa del sistema usando metodologías como Lean UX y Domain-Driven Design.</li>
-					<li><strong>Guillermo: Desarrollé toda la parte de DDD como el event storming identificando los principales bounded context.</strong>  </li>
+					<li><strong>Guillermo:</strong> Desarrollé toda la parte de DDD como el event storming identificando los principales bounded context.  </li>
 				</ul>
 			</td>
 			<td>
-				<strong>TB1:</strong> <br>
+				<strong>TB1:</strong>El equipo reforzó y actualizó conocimientos clave en metodologías de desarrollo como Lean UX y Domain-Driven Design, aplicándolos al dominio del café de especialidad. Cada integrante contribuyó con investigación y análisis (usuarios, competidores, modelo de negocio, arquitectura) lo que permitió construir una base conceptual sólida para el proyecto y asegurar la pertinencia de las soluciones propuestas. <br>
 			</td>
 		</tr>
 		<tr>
@@ -262,13 +275,12 @@ Este entregable comprende la elaboración del informe desde el Capítulo I hasta
 					<li><strong>Juan Diego Mondoñedo:</strong> Refresqué mis conocimientos sobre las user stories e investigué sobre el ambiente laboral de nuestro publico objetivo para plantear user stories pertinentes. </li>
           <li><strong>Fabian Oliva López:</strong> Pude aprender la necesidad de investigar acerca de competidores lo cual ayuda a ver puntos estrategicos los cuales puede improvisar nuestro trabajor para entregar un producto de buena calidad </li>
           <li><strong>Miguel Vidal Castro:</strong> Pude aprendar a investigar sobre como realizar un diagrama C4, reforzando conocimientos pasados. Realicé un Event Storming del proyecto lo que me ayudó a identificar los bounded contexts</li>
-          <li><strong>Fabrizio:</strong> </li>
           <li><strong>Fabrizzio Pereira:</strong> Aprendí sobre café de especialidad desde cero y estudié nuevas metodologías de desarrollo que no conocía previamente.</li>
 					<li><strong>Guillermo: Realicé investigación del modelo de negocio del tema en cuestión para el trabajo lo cual me permitió entender la aplicación de conocimientos de software a nivel de dirección. </strong>  </li>
 				</ul>
 			</td>
 			<td>
-				<strong>TB1:</strong> <br>
+				<strong>TB1:</strong>El equipo demostró apertura hacia el aprendizaje permanente, investigando tanto aspectos técnicos (diagramas C4, DDD, user stories) como estratégicos (modelo de negocio, competidores y dominio del café de especialidad). Esta disposición a aprender y actualizarse permitió aplicar de forma más efectiva los conocimientos adquiridos, adaptándolos a un contexto real y fortaleciendo las competencias profesionales de cada integrante. <br>
 			</td>
 		</tr>
 	</tobdy>
@@ -308,24 +320,14 @@ Este entregable comprende la elaboración del informe desde el Capítulo I hasta
       <td style="border: 1px solid #000; padding: 8px;">Identificar correctamente las necesidades de nuestros segmentos mediante el needfinding e interpretarlas para definir user stories adecuados para su caso.</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #000; padding: 8px;">Oliva López Fabián Alejandro;</td>
-      <td style="border: 1px solid #000; padding: 8px;">&nbsp;</td>
-      <td style="border: 1px solid #000; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid #000; padding: 8px;">Oliva López, Fabián Alejandro</td>
+      <td style="border: 1px solid #000; padding: 8px;"> Realizar un análisis detallado de los competidores directos e indirectos de Xantina, identificando sus fortalezas, debilidades y estrategias de mercado, con el fin de reconocer oportunidades de diferenciación.</td>
+      <td style="border: 1px solid #000; padding: 8px;">Proponer y documentar estrategias competitivas para Xantina basadas en el análisis realizado, estableciendo acciones concretas que permitan posicionar la solución frente a los principales competidores.</td>
     </tr>
     <tr>
       <td style="border: 1px solid #000; padding: 8px;">Vidal Castro Miguel Angel</td>
       <td style="border: 1px solid #000; padding: 8px;">Completar la parte de Software Architecture Diagrams, entrevistar al segmento objetivo de dueño de cafetería.</td>
       <td style="border: 1px solid #000; padding: 8px;">Determinar que bounded context se aplican en los diagramas para saber identificarlos. Realización de Event Storming para entender que bounded context se usan.</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #000; padding: 8px;">&nbsp;</td>
-      <td style="border: 1px solid #000; padding: 8px;">&nbsp;</td>
-      <td style="border: 1px solid #000; padding: 8px;">&nbsp;</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #000; padding: 8px;">&nbsp;</td>
-      <td style="border: 1px solid #000; padding: 8px;">&nbsp;</td>
-      <td style="border: 1px solid #000; padding: 8px;">&nbsp;</td>
     </tr>
   </tbody>
 </table>
@@ -3965,5 +3967,33 @@ Tune, N. (2020, 12 enero). Modelling Bounded Contexts with the Bounded Context C
 
 
 # Anexos
-- Reporte: [Enlace](https://github.com/CodyLionVivo/ProjectReport)
+- Enlace para acceder al [video exposición de TB1]()
+
+- Enlace para acceder al [video exposición de TP1]()
+
+- Enlace para acceder al [Figma]()
+
+- Enlace para acceder al  [repositorio Front-end](https://github.com/upc-pre-202520-1ACC0238-2005-mira/XantinaApp)
+
+- Enlace para acceder al  [Front-end]()
+
+- Enlace para acceder al [repositorio Back-end](https://github.com/upc-pre-202520-1ACC0238-2005-mira/backend)
+
+- Enlace para acceder al [repositorio Landing-page](https://github.com/upc-pre-202520-1ACC0238-2005-mira/landing-page)
+
+- Enlace para acceder al [Landing-page]()
+
+- Enlace para acceder al [Backend deployado]()
+
+- Enlace para acceder al [repositorio Informe](https://github.com/CodyLionVivo/ProjectReport/tree/main?tab=readme-ov-file)
+
+- Enlace al video "About the Team": [video about the team]()
+
+- Enlace al video "About the Product": [video about the product]()
+
+- Enlace para acceder al [video de entrevistas de validacion]()
+
+- Enlace para acceder al [video exposicion tb2]()
+
+- Enlace para acceder al [video exposicion trabajo final]()
 
