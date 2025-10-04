@@ -3949,6 +3949,31 @@ El diseño de base de datos es el proceso de organizar y estructurar los datos e
 ### 4.8.1. Database Diagram.
 <td><img src="img\Database_Diagram.png"></td>
 
+# 3.1 Product Design
+
+## 3.1.1 Style Guidelines
+### 3.1.1.1 General Style Guidelines
+
+## 3.1.2 Information Architecture
+### 3.1.2.1 Organization Systems  
+### 3.1.2.2 Labelling Systems  
+### 3.1.2.3 SEO Tags and Meta Tags  
+### 3.1.2.4 Searching Systems  
+### 3.1.2.5 Navigation Systems
+
+## 3.1.3 Landing Page UI Design
+
+Enlace al Landing Page en Figma: https://www.figma.com/design/zS1yCqj9PyyEGF9Zt7cW8m/Sin-t%C3%ADtulo?node-id=0-1&t=ov1PuM3qcHJrhFmS-1 
+
+### 3.1.3.1 Landing Page Wireframe  
+### 3.1.3.2 Landing Page Mock-up
+
+## 3.1.4 Mobile Applications UX/UI Design
+### 3.1.4.1 Mobile Applications Wireframes  
+### 3.1.4.2 Mobile Applications Wireflow Diagrams  
+### 3.1.4.3 Mobile Applications Mock-ups  
+### 3.1.4.4 Mobile Applications User Flow Diagrams
+
 
 # Conclusiones
 - Xantina encaja con claridad en el nicho de cafeterías de especialidad en Lima: resuelve dos trabajos críticos —aprendizaje práctico y estandarización operativa— donde hoy dominan soluciones dispersas (cursos presenciales y contenido suelto en redes). El diferencial no es “tener más contenido”, sino insertarse en el flujo diario de barra con recetas aprobadas, checklist y catas accionables. El go-to-market más sólido combina pilotos por tienda, alianzas con tostadores y escuelas y un modelo freemium→B2B para equipos. El principal riesgo es la adopción en turno; queda mitigado con co-diseño en tiendas piloto y evidencia de uso en momentos clave (apertura, pico y cierre).
