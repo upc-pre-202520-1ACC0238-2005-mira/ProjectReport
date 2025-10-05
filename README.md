@@ -4117,6 +4117,16 @@ Enlace al Landing Page en Figma: https://www.figma.com/design/zS1yCqj9PyyEGF9Zt7
 
 ### 3.1.3.2 Landing Page Mock-up
 
+![Wireframe 1](./img/chapter3/mk1.png)
+
+![Wireframe 2](./img/chapter3/mk2.png)
+
+![Wireframe 3](./img/chapter3/mk3.png)
+
+![Wireframe 4](./img/chapter3/mk4.png)
+
+![Wireframe 5](./img/chapter3/mk5.png)
+
 ## 3.1.4 Mobile Applications UX/UI Design
 ### 3.1.4.1 Mobile Applications Wireframes  
 ### 3.1.4.2 Mobile Applications Wireflow Diagrams  
