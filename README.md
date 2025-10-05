@@ -3961,11 +3961,14 @@ En **Xantina**, se emplean dos tipografías que garantizan una experiencia visua
 **Figura 1:**  
 Uso de la tipografía **"Rethink Sans"** en encabezados y botones  
 ![Uso de Rethink Sans](./img/chapter3/rethink.png)
+
 **Fuente:** [Google Fonts – Rethink Sans](https://fonts.google.com/specimen/Rethink+Sans)
+
 
 **Figura 2:**  
 Uso de la tipografía **"Hedvig Letters Serif"** en textos generales  
 ![Uso de Hedvig Letters Serif](./img/chapter3/hedving.png)
+
 **Fuente:** [Google Fonts – Hedvig Letters Serif](https://fonts.google.com/specimen/Hedvig+Letters+Serif)
 
 ### Colores principales
@@ -4017,13 +4020,20 @@ Colores aplicados en wireframes (escala de grises)
 ![Wireframes en escala de grises](./img/chapter3/colorwireframe.png)  
 [Ver paleta en Coolors](https://coolors.co/ffffff-d9d9d9-909196-000000)
 
-
-
 ## 3.1.2 Information Architecture
 
-
-
 ### 3.1.2.1 Organization Systems
+
+#### Jerárquico  
+La arquitectura de **Xantina** está basada en un sistema jerárquico donde la página de inicio funciona como eje central de navegación. Desde esta, los usuarios pueden acceder a distintas áreas como **“Para Baristas”**, **“Para Cafeterías”**, **“Planes”**, **“Testimonios”** y **“Equipo”**.  
+Este enfoque organiza el contenido de forma descendente, partiendo de una visión general hacia apartados más específicos, lo que favorece una navegación intuitiva y comprensible para todo tipo de usuarios.
+
+#### Modular y Seccional  
+Cada sección del sitio está diseñada como un bloque funcional independiente, con contenidos y objetivos particulares. Este enfoque **modular** permite gestionar fácilmente los cambios o actualizaciones sin alterar la estructura general del sitio.  
+Además, las secciones están diferenciadas visualmente, lo que mejora la claridad del contenido y reduce la carga cognitiva, permitiendo al usuario enfocarse en una temática a la vez sin distracciones.
+
+
+
 ### 3.1.2.2 Labelling Systems
 ### 3.1.2.3 SEO Tags and Meta Tags
 ### 3.1.2.4 Searching Systems
