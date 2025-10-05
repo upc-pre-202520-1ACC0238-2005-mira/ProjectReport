@@ -4079,7 +4079,12 @@ Indica el autor del contenido o la organización responsable del sitio web.
 ![Derechos de autor](./img/chapter3/footerrightstag.png)
 
 ### 3.1.2.4 Searching Systems
+
+Actualmente, la plataforma no cuenta con un sistema de búsqueda integrado. Se sugiere evaluar la incorporación de esta función en futuras actualizaciones para optimizar la experiencia del usuario, especialmente en sitios con gran cantidad de contenido.
+
 ### 3.1.2.5 Navigation Systems
+
+
 
 ## 3.1.3 Landing Page UI Design
 
