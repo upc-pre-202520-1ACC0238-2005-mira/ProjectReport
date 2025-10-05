@@ -3954,18 +3954,86 @@ El diseño de base de datos es el proceso de organizar y estructurar los datos e
 ## 3.1.1 Style Guidelines
 ### 3.1.1.1 General Style Guidelines
 
+En Xantina, se emplean dos tipografías para asegurar una experiencia visual clara y sofisticada. Rethink Sans se utiliza en títulos y botones, gracias a su diseño moderno y minimalista, que permite resaltar de manera efectiva las secciones más importantes de la plataforma. Su estilo sans-serif no solo facilita la lectura, sino que también aporta una presencia visual fresca y atractiva. Para los textos largos, se opta por Hedvig Letters Serif, una fuente con serifa que combina elegancia y funcionalidad. Su diseño clásico asegura una lectura cómoda y fluida, adaptándose perfectamente a diferentes tamaños de pantalla. Al unir estas dos tipografías, se crea una jerarquía visual bien definida, donde Rethink Sans guía al usuario hacia los elementos clave, mientras que Hedvig Letters Serif proporciona una base sólida y legible para el contenido extenso, optimizando la experiencia de navegación.
+
+En **Xantina**, se emplean dos tipografías que garantizan una experiencia visual clara, funcional y elegante. **Rethink Sans** se utiliza en **títulos** y **botones**, debido a su diseño moderno y minimalista, ideal para destacar elementos clave de la plataforma sin comprometer la legibilidad. Su estilo sans-serif aporta un toque contemporáneo que mejora la navegación y la atención del usuario. Para los **textos generales**, se usa **Hedvig Letters Serif**, una fuente con serifa que transmite profesionalismo y confianza. Su diseño clásico y bien equilibrado facilita la lectura en párrafos largos, ofreciendo una experiencia visual cómoda en todo tipo de dispositivos. Esta combinación crea una jerarquía visual efectiva donde **Rethink Sans** capta la atención en los elementos más importantes y **Hedvig Letters Serif** sostiene el cuerpo del contenido de manera clara y ordenada.
+
+**Figura 1:**  
+Uso de la tipografía **"Rethink Sans"** en encabezados y botones  
+![Uso de Rethink Sans](./img/chapter3/rethink.png)
+**Fuente:** [Google Fonts – Rethink Sans](https://fonts.google.com/specimen/Rethink+Sans)
+
+**Figura 2:**  
+Uso de la tipografía **"Hedvig Letters Serif"** en textos generales  
+![Uso de Hedvig Letters Serif](./img/chapter3/hedving.png)
+**Fuente:** [Google Fonts – Hedvig Letters Serif](https://fonts.google.com/specimen/Hedvig+Letters+Serif)
+
+### Colores principales
+
+La identidad visual de **Xantina** se basa en una paleta sobria y profesional. El **color primario `#492C1E`** —un marrón oscuro— comunica solidez, confianza y calidez, atributos esenciales para la marca. Este se equilibra con el **gris claro `#D9D9D9`**, que aporta neutralidad y suavidad en la interfaz.
+
+Como colores secundarios se utilizan el **negro `#000000`** y el **gris medio `#909196`**, útiles para fondos, bordes y otros elementos que requieren contraste sin sobresalir visualmente.
+
+---
+
+### Estilo visual
+
+Los colores de texto están pensados para facilitar la lectura en distintos contextos visuales. El **azul violáceo `#202245`** se emplea en títulos y encabezados, el **blanco `#FFFFFF`** en fondos oscuros, y el **gris `#909196`** como texto secundario o informativo. Esta combinación asegura un equilibrio entre estética y funcionalidad.
+
+El uso de formas suaves y bordes redondeados complementa el estilo moderno y limpio de la plataforma, guiando la atención sin generar distracciones.
+
+---
+
+### Interactividad
+
+Los botones están diseñados para ser funcionales y accesibles:
+
+- **Botones primarios:** fondo `#202245`, con texto claro.
+- **Botones secundarios:** fondo `#D9D9D9`, con texto oscuro.
+
+Todos los elementos interactivos cuentan con transiciones suaves y efectos de hover que brindan una respuesta visual inmediata, mejorando la experiencia en dispositivos táctiles y de escritorio.
+
+---
+
+### Paletas de color
+
+**Figura 1:**
+Colores utilizados en textos  
+![Colores del texto](./img/chapter3/colortext.png)
+[Ver paleta en Coolors](https://coolors.co/202245-ffffff-909196)
+
+**Figura 2:**  
+Colores primarios  
+![Colores principales](./img/chapter3/colorprimario.png)  
+[Ver paleta en Coolors](https://coolors.co/492c1e-d9d9d9)
+
+**Figura 3:**  
+Colores secundarios  
+![Colores secundarios](./img/chapter3/colorsecundario.png)  
+[Ver paleta en Coolors](https://coolors.co/000000-909196)
+
+**Figura 4:**  
+Colores aplicados en wireframes (escala de grises)  
+![Wireframes en escala de grises](./img/chapter3/colorwireframe.png)  
+[Ver paleta en Coolors](https://coolors.co/ffffff-d9d9d9-909196-000000)
+
+
+
 ## 3.1.2 Information Architecture
-### 3.1.2.1 Organization Systems  
-### 3.1.2.2 Labelling Systems  
-### 3.1.2.3 SEO Tags and Meta Tags  
-### 3.1.2.4 Searching Systems  
+
+
+
+### 3.1.2.1 Organization Systems
+### 3.1.2.2 Labelling Systems
+### 3.1.2.3 SEO Tags and Meta Tags
+### 3.1.2.4 Searching Systems
 ### 3.1.2.5 Navigation Systems
 
 ## 3.1.3 Landing Page UI Design
 
 Enlace al Landing Page en Figma: https://www.figma.com/design/zS1yCqj9PyyEGF9Zt7cW8m/Sin-t%C3%ADtulo?node-id=0-1&t=ov1PuM3qcHJrhFmS-1 
 
-### 3.1.3.1 Landing Page Wireframe  
+### 3.1.3.1 Landing Page Wireframe
 ### 3.1.3.2 Landing Page Mock-up
 
 ## 3.1.4 Mobile Applications UX/UI Design
