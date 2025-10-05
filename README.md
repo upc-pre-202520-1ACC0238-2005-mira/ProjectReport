@@ -4102,6 +4102,19 @@ La arquitectura de la plataforma se basa en un diseño modular que permite la in
 Enlace al Landing Page en Figma: https://www.figma.com/design/zS1yCqj9PyyEGF9Zt7cW8m/Sin-t%C3%ADtulo?node-id=0-1&t=ov1PuM3qcHJrhFmS-1 
 
 ### 3.1.3.1 Landing Page Wireframe
+
+![Wireframe 1](./img/chapter3/wf1.png)
+
+![Wireframe 2](./img/chapter3/wf2.png)
+
+![Wireframe 3](./img/chapter3/wf3.png)
+
+![Wireframe 4](./img/chapter3/wf4.png)
+
+![Wireframe 5](./img/chapter3/wf5.png)
+
+![Wireframe 6](./img/chapter3/wf6.png)
+
 ### 3.1.3.2 Landing Page Mock-up
 
 ## 3.1.4 Mobile Applications UX/UI Design
