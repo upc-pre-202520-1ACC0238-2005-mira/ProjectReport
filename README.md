@@ -4084,6 +4084,17 @@ Actualmente, la plataforma no cuenta con un sistema de búsqueda integrado. Se s
 
 ### 3.1.2.5 Navigation Systems
 
+### Navegación Superior  
+El menú principal está estratégicamente ubicado en la parte superior de la página, garantizando que los enlaces hacia las secciones más relevantes sean fácilmente accesibles y visibles en todo momento. Esta ubicación fija permite que los usuarios puedan desplazarse por el sitio sin perder nunca la referencia de dónde se encuentran ni la posibilidad de cambiar rápidamente de sección, optimizando así la experiencia de navegación.
+
+### Flujo Lógico  
+El recorrido del usuario ha sido diseñado cuidadosamente para que resulte natural e intuitivo, conduciéndolo desde la página de bienvenida hacia áreas específicas según sus intereses y necesidades. Este flujo lineal evita pasos innecesarios o confusos, lo que facilita la exploración y aumenta la probabilidad de que el usuario encuentre rápidamente la información que busca sin sentirse abrumado o perdido.
+
+### Footer con Navegación Secundaria  
+El pie de página complementa la navegación principal ofreciendo enlaces adicionales a contenido relevante como información corporativa, políticas de privacidad, redes sociales y datos de contacto. Esta navegación secundaria está diseñada para no saturar el menú principal, pero a la vez proporciona acceso rápido a información complementaria que puede ser crucial para ciertos usuarios, reforzando la estructura global del sitio y su usabilidad.
+
+### Estructura Modular  
+La arquitectura de la plataforma se basa en un diseño modular que permite la incorporación, modificación o eliminación de secciones de forma ágil y sin afectar la integridad del resto del sitio. Esta modularidad facilita el mantenimiento y la escalabilidad, haciendo posible que el sitio evolucione conforme a las necesidades del negocio o de los usuarios sin requerir una reestructuración completa.
 
 
 ## 3.1.3 Landing Page UI Design
