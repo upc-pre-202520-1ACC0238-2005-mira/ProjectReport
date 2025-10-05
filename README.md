@@ -4032,9 +4032,19 @@ Este enfoque organiza el contenido de forma descendente, partiendo de una visió
 Cada sección del sitio está diseñada como un bloque funcional independiente, con contenidos y objetivos particulares. Este enfoque **modular** permite gestionar fácilmente los cambios o actualizaciones sin alterar la estructura general del sitio.  
 Además, las secciones están diferenciadas visualmente, lo que mejora la claridad del contenido y reduce la carga cognitiva, permitiendo al usuario enfocarse en una temática a la vez sin distracciones.
 
-
-
 ### 3.1.2.2 Labelling Systems
+
+#### Menú principal  
+Las etiquetas de navegación en el menú principal de **Xantina** son precisas y fáciles de interpretar: **“Para Baristas”**, **“Para Cafeterías”**, **“Planes”**, **“Testimonios”** y **“Equipo”**.  
+Estas denominaciones permiten que los usuarios comprendan de inmediato qué tipo de contenido encontrarán en cada sección, lo que mejora la experiencia de navegación y reduce la fricción.
+
+#### Botones de acción  
+Los botones de la plataforma utilizan verbos de acción claros y en lenguaje directo, como **“Comenzar”**, **“Conocer más”**, **“Solicitar Demo”**, **“Elegir Plan”** y **“Enviar”**.  
+Este tipo de etiquetado impulsa la acción y facilita la toma de decisiones rápidas, guiando al usuario a través de cada paso del recorrido sin confusión.
+
+#### Formulario  
+Los campos de los formularios están identificados con etiquetas simples y comprensibles como **“Nombre”**, **“Correo electrónico”** y **“Mensaje”**. Esto garantiza que los usuarios puedan completar los datos sin ambigüedades, reduciendo errores y mejorando la eficacia del contacto.
+
 ### 3.1.2.3 SEO Tags and Meta Tags
 ### 3.1.2.4 Searching Systems
 ### 3.1.2.5 Navigation Systems
