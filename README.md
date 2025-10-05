@@ -4046,6 +4046,38 @@ Este tipo de etiquetado impulsa la acción y facilita la toma de decisiones ráp
 Los campos de los formularios están identificados con etiquetas simples y comprensibles como **“Nombre”**, **“Correo electrónico”** y **“Mensaje”**. Esto garantiza que los usuarios puedan completar los datos sin ambigüedades, reduciendo errores y mejorando la eficacia del contacto.
 
 ### 3.1.2.3 SEO Tags and Meta Tags
+
+
+La plataforma SafeWork incorpora metaetiquetas esenciales para mejorar el posicionamiento en buscadores, facilitar la lectura por parte de motores de búsqueda y garantizar una experiencia óptima en navegadores modernos y dispositivos móviles. A continuación, se detallan las principales meta etiquetas utilizadas:
+
+---
+
+#### Título  
+La etiqueta `<title>` es una de las más relevantes para SEO. Define el nombre que aparece en la pestaña del navegador y en los resultados de búsqueda.
+
+![Título](./img/chapter3/titletag.png)
+
+---
+
+#### Descripción  
+La meta descripción proporciona un resumen breve del contenido del sitio. Es clave para mejorar la visibilidad y el CTR en motores de búsqueda como Google.
+
+![Descripción](./img/chapter3/descriptiontag.png)
+
+---
+
+#### Palabras clave  
+Ayuda a relacionar el sitio en términos de búsqueda relevantes, aunque actualmente tiene poco peso en algoritmos de búsqueda.
+
+![Palabras clave](./img/chapter3/keywordstag.png)
+
+---
+
+#### Derechos de autor  
+Indica el autor del contenido o la organización responsable del sitio web.
+
+![Derechos de autor](./img/chapter3/footerrightstag.png)
+
 ### 3.1.2.4 Searching Systems
 ### 3.1.2.5 Navigation Systems
 
