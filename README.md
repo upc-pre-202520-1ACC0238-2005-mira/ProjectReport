@@ -3952,11 +3952,10 @@ El diseño de base de datos es el proceso de organizar y estructurar los datos e
 
 # Capítulo IV: Product Implementation & Validation
 
-### 4.  Product Implementation & Validation
 En esta sección se describe el proceso de implementación del producto Xantina, abarcando la gestión del entorno de desarrollo, el control de versiones del código fuente, las convenciones de estilo aplicadas y la configuración del despliegue del software.
 Asimismo, se incluyen las validaciones realizadas durante la integración de los componentes y las pruebas funcionales básicas del sistema.
 
-### 4.1. Software Configuration Management
+## 4.1. Software Configuration Management
 
 ### 4.1.1. Software Development Environment Configuration
 
@@ -3974,7 +3973,7 @@ Backend Web Applications:
 
 ### 4.1.4. Software Deployment Configuration
 
-## 4.2 Landing Page & Mobile Application Implementation
+## 4.2. Landing Page & Mobile Application Implementation
 
 ### 4.2.1. Sprint 1
 #### 4.2.1.1. Sprint Planning 1
@@ -4001,7 +4000,7 @@ Backend Web Applications:
         </tr>
         <tr>
             <th>Prepared By</th>
-            <td>Guillermo Tantañean</td>
+            <td>Guillermo Tantaleán</td>
         </tr>
         <tr>
             <th>Attendees (to planning meeting)</th>
@@ -4057,6 +4056,19 @@ Backend Web Applications:
         </tr>
     </tbody>
 </table>
+
+#### 4.2.1.2. Sprint Backlog 1
+#### 4.2.1.3. Development Evidence for Sprint Review
+#### 4.2.1.4. Testing Suite Evidence for Sprint Review
+#### 4.2.1.5. Execution Evidence for Sprint Review
+#### 4.2.1.6. Services Documentation Evidence for Sprint Review 
+#### 4.2.1.7. Software Deployment Evidence for Sprint Review
+#### 4.2.1.8. Team Collaboration Insights during Sprint
+
+## 4.3. Validation Interviews
+### 4.3.1. Diseño de Entrevistas
+### 4.3.2. Registro de Entrevistas
+### 4.3.3. Evaluaciones según heurísticas
 
 # Conclusiones
 - Xantina encaja con claridad en el nicho de cafeterías de especialidad en Lima: resuelve dos trabajos críticos —aprendizaje práctico y estandarización operativa— donde hoy dominan soluciones dispersas (cursos presenciales y contenido suelto en redes). El diferencial no es “tener más contenido”, sino insertarse en el flujo diario de barra con recetas aprobadas, checklist y catas accionables. El go-to-market más sólido combina pilotos por tienda, alianzas con tostadores y escuelas y un modelo freemium→B2B para equipos. El principal riesgo es la adopción en turno; queda mitigado con co-diseño en tiendas piloto y evidencia de uso en momentos clave (apertura, pico y cierre).
