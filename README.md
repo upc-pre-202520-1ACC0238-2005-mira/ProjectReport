@@ -5,16 +5,15 @@
 	<h4 style="margin: 10px 0; border-bottom: none;">NRC: 2005</h4>
 	<h4 style="margin: 10px 0; border-bottom: none;">Mayta Guillermo, Jorge Luis</h4>
 	<h2 style="margin: 10px 0; border-bottom: none;">Informe de Trabajo Final</h2>
-	<h3 style="margin: 10px 0; border-bottom: none;">Startup: AromaTech</h3>
+	<h3 style="margin: 10px 0; border-bottom: none;">Startup: Mira</h3>
 	<h3 style="margin: 10px 0; border-bottom: none;">Producto: Xantina</h3>
 	<h4 style="margin: 10px 0; border-bottom: none;">Integrantes:</h4>
 	<ul style="display: inline-block; text-align: left; padding: 0;">
-		<li>León Vivas, Fabrizio Amir</li>
-    <li>Pereira Vasquez, Nelson Fabrizzio</li>
-    <li>Vidal Castro, Miguel Angel</li>
-    <li>Oliva López, Fabián Alejandro</li>
-    <li>Mondoñedo Rodriguez, Juan Diego Javier</li>
-    <li>Tantaleán Mesta, Guillermo Fabián</li>
+		<li style="padding: 5px 0;">Pereira Vasquez, Nelson Fabrizzio (202417468)</li>
+		<li style="padding: 5px 0;">Oliva López, Fabián Alejandro (202312013)</li>
+		<li style="padding: 5px 0;">Vidal Castro, Miguel Angel (202314186)</li>
+		<li style="padding: 5px 0;">Mondoñedo Rodriguez, Juan Diego Javier (202110373)</li>
+		<li style="padding: 5px 0;">Tantaleán Mesta, Guillermo Fabián (202311958)</li>
 	</ul>
 	<h4 style="margin: 10px 0; border-bottom: none;">Setiembre de 2025</h4>
 </div>
