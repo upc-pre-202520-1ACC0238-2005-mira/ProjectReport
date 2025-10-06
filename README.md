@@ -9,11 +9,11 @@
 	<h3 style="margin: 10px 0; border-bottom: none;">Producto: Xantina</h3>
 	<h4 style="margin: 10px 0; border-bottom: none;">Integrantes:</h4>
 	<ul style="display: inline-block; text-align: left; padding: 0;">
-		<li style="padding: 5px 0;">Pereira Vasquez, Nelson Fabrizzio (202417468)</li>
-		<li style="padding: 5px 0;">Oliva López, Fabián Alejandro (202312013)</li>
-		<li style="padding: 5px 0;">Vidal Castro, Miguel Angel (202314186)</li>
 		<li style="padding: 5px 0;">Mondoñedo Rodriguez, Juan Diego Javier (202110373)</li>
+		<li style="padding: 5px 0;">Oliva López, Fabián Alejandro (202312013)</li>
+		<li style="padding: 5px 0;">Pereira Vasquez, Nelson Fabrizzio (202417468)</li>
 		<li style="padding: 5px 0;">Tantaleán Mesta, Guillermo Fabián (202311958)</li>
+		<li style="padding: 5px 0;">Vidal Castro, Miguel Angel (202314186)</li>
 	</ul>
 	<h4 style="margin: 10px 0; border-bottom: none;">Octubre de 2025</h4>
 </div>
