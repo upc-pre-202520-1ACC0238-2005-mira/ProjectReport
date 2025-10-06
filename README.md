@@ -15,7 +15,7 @@
 		<li style="padding: 5px 0;">Mondoñedo Rodriguez, Juan Diego Javier (202110373)</li>
 		<li style="padding: 5px 0;">Tantaleán Mesta, Guillermo Fabián (202311958)</li>
 	</ul>
-	<h4 style="margin: 10px 0; border-bottom: none;">Setiembre de 2025</h4>
+	<h4 style="margin: 10px 0; border-bottom: none;">Octubre de 2025</h4>
 </div>
 
 <div style="page-break-before: always;"></div>
@@ -102,6 +102,68 @@
         <p style="margin: 2px 0; text-indent: 30px;">2.6.1.6. Bounded Context Software Architecture Code Level Diagrams</p>
         <p style="margin: 2px 0; text-indent: 40px;">2.6.1.6.1. Bounded Context Domain Layer Class Diagrams</p>
         <p style="margin: 2px 0; text-indent: 40px;">2.6.1.6.2. Bounded Context Database Design Diagram</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">2.0</td>
+      <td style="border: 1px solid black; padding: 8px;">09/10/2025</td>
+      <td style="border: 1px solid black; padding: 8px;">
+        <ul style="margin: 0; padding-left: 18px;">
+          <li>Pereira Vasquez, Nelson Fabrizzio</li>
+          <li>Vidal Castro, Miguel Angel</li>
+          <li>Oliva López, Fabián Alejandro</li>
+          <li>Mondoñedo Rodriguez, Juan Diego Javier</li>
+          <li>Tantaleán Mesta, Guillermo Fabián</li>
+        </ul>
+      </td>
+      <td style="border: 1px solid black; padding: 8px;">
+        <strong>Correcciones de entrega anterior (TB1):</strong><br>
+        <p style="margin: 2px 0; font-weight: bold;">Corrección de objetivos SMART</p>
+        <p style="margin: 2px 0; font-weight: bold;">Corrección de imágenes de Event Storming</p>
+        <p style="margin: 2px 0; font-weight: bold;">Corrección de Student Outcomes</p>
+        <p style="margin: 2px 0; font-weight: bold;">Agregados de entrega (TP):</p>
+        <p style="margin: 2px 0; font-weight: bold;">Capítulo III: UX/UI Design</p>
+        <p style="margin: 2px 0; text-indent: 10px;">3.1. Product Design</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.1. Style Guidelines</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.1.1. General Style Guidelines</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.2. Information Architecture</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.2.1. Organization Systems</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.2.2. Labelling Systems</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.2.3. SEO Tags and Meta Tags</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.2.4. Searching Systems</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.2.5. Navigation Systems</p>
+        <p style="margin: 2px 0; text-indent: 10px;">3.1.3. Landing Page UI Design</p>
+        <p style="margin: 2px 0; text-indent: 10px;">3.1.3.1. Landing Page Wireframe</p>
+        <p style="margin: 2px 0; text-indent: 10px;">3.1.3.2. Landing Page Mock-up </p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.4. Mobile Applications UX/UI Design</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.4.1. Mobile Applications Wireframes</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.4.2. Mobile Applications Wireflow Diagrams</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.4.3. Mobile Applications Mock-ups</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.4.4. Mobile Applications User Flow Diagrams</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.4.5. Mobile Applications User Flow Diagrams</p>
+        <p style="margin: 2px 0; font-weight: bold;">Capítulo IV: Product Implementation & Validation</p>
+        <p style="margin: 2px 0; text-indent: 10px;">4.1. Software Configuration Management</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.1.1. Software Development Environment Configuration</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.1.2. Source Code Management </p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.1.3. Source Code Style Guide & Conventions</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.1.4. Software Deployment Configuration</p>
+        <p style="margin: 2px 0; text-indent: 10px;">4.2. Landing Page & Mobile Application Implementation</p>
+        <p style="margin: 2px 0; text-indent: 10px;">4.2.1. Sprint 1</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.2.1.1. Sprint Planning 1</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.2.1.2. Sprint Backlog 1</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.2.1.3. Development Evidence for Sprint Review</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.2.1.4. Testing Suite Evidence for Sprint Review</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.2.1.5. Execution Evidence for Sprint Review</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.2.1.6. Services Documentation Evidence for Sprint Review</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.2.1.7. Software Deployment Evidence for Sprint Review</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.2.1.8. Team Collaboration Insights during Sprint </p>
+        <p style="margin: 2px 0; text-indent: 10px;">4.3. Validation Interviews</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.3.1. Diseño de Entrevistas</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.3.2. Registro de Entrevistas </p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.3.3. Evaluaciones según heurísticas</p>
+        <p style="margin: 2px 0; text-indent: 20px;">Conclusiones</p>
+        <p style="margin: 2px 0; text-indent: 20px;">Bibliografía</p>
+        <p style="margin: 2px 0; text-indent: 10px;">Anexos</p>
       </td>
     </tr>
   </tbody>
