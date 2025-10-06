@@ -4048,7 +4048,7 @@ Los campos de los formularios están identificados con etiquetas simples y compr
 ### 3.1.2.3 SEO Tags and Meta Tags
 
 
-La plataforma SafeWork incorpora metaetiquetas esenciales para mejorar el posicionamiento en buscadores, facilitar la lectura por parte de motores de búsqueda y garantizar una experiencia óptima en navegadores modernos y dispositivos móviles. A continuación, se detallan las principales meta etiquetas utilizadas:
+La plataforma Xantina incorpora metaetiquetas esenciales para mejorar el posicionamiento en buscadores, facilitar la lectura por parte de motores de búsqueda y garantizar una experiencia óptima en navegadores modernos y dispositivos móviles. A continuación, se detallan las principales meta etiquetas utilizadas:
 
 ---
 
@@ -4128,7 +4128,7 @@ Enlace al Landing Page en Figma: https://www.figma.com/design/zS1yCqj9PyyEGF9Zt7
 ![Wireframe 5](./img/chapter3/mk5.png)
 
 ## 3.1.4 Mobile Applications UX/UI Design
-### 3.1.4.1 Mobile Applications Wireframes  
+### 3.1.4.1 Mobile Applications Wireframes
 ### 3.1.4.2 Mobile Applications Wireflow Diagrams  
 ### 3.1.4.3 Mobile Applications Mock-ups  
 ### 3.1.4.4 Mobile Applications User Flow Diagrams
