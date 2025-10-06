@@ -183,10 +183,6 @@ Se presenta una tabla que especifica qué miembro del equipo se corresponde con 
 	<th>GitHub Username</th>
   </tr>
   <tr>
-	<td>León Vivas, Fabrizio Amir</td>
-	<td>CodyLionVivo</td>
-  </tr>
-  <tr>
 	<td>Vidal Castro, Miguel Angel</td>
 	<td>Gossk</td>
   </tr>
@@ -224,6 +220,28 @@ Este entregable comprende la elaboración del informe desde el Capítulo I hasta
 </figure>
 
 **TB1 Pulse**
+<figure style="text-align: center;">
+    <img src="img/chapter1/TB1_Pulse.PNG" alt="TB1 Pulse">
+</figure>
+
+<div style="page-break-before: always;"></div>
+
+**TP**
+
+Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta el Capítulo IV, desarrollado íntegramente a partir del proceso de diseño y desarrollo del producto y otros artefactos como la landing page, además de la validación de estos mismos.
+
+**TP Network Graph** Corregir a la imagen correcta
+<figure style="text-align: center;">
+    <img src="img/chapter1/TB1_NetworkGraph.PNG" alt="TB1 Network Graph">
+</figure>
+
+**TP Contributors** Corregir a la imagen correcta
+<figure style="text-align: center;">
+    <img src="img/chapter1/TB1_CommitsOverTime.PNG" alt="TB1 Contributors">
+    <img src="img/chapter1/TB1_CommitsPerUser.PNG" alt="TB1 Contributors">
+</figure>
+
+**TP Pulse** Corregir a la imagen correcta
 <figure style="text-align: center;">
     <img src="img/chapter1/TB1_Pulse.PNG" alt="TB1 Pulse">
 </figure>
@@ -360,11 +378,6 @@ Este entregable comprende la elaboración del informe desde el Capítulo I hasta
   </thead>
   <tbody>
     <tr>
-      <td style="border: 1px solid #000; padding: 8px;">León Vivas, Fabrizio Amir</td>
-      <td style="border: 1px solid #000; padding: 8px;">Desarrollar proyectos de alto impacto en la sociedad que permita que las personas tengan una mejor calidad de vida.</td>
-      <td style="border: 1px solid #000; padding: 8px;">Completar soluciones de software con los artefactos aprendidos y conocimientos adquiridos a lo largo de mi carrera universitario como lo es con Xantina.</td>
-    </tr>
-    <tr>
       <td style="border: 1px solid #000; padding: 8px;">Pereira Vasquez, Fabrizzio</td>
       <td style="border: 1px solid #000; padding: 8px;">Completar el diseño de la arquitectura de software para AromaTech/Xantina aplicando Domain-Driven Design incluyendo bounded contexts, agregados y servicios del dominio del café de especialidad.</td>
       <td style="border: 1px solid #000; padding: 8px;">Desarrollar y documentar el Lean UX Process completo (Problem Statements, Assumptions, Hypothesis Statements y Canvas) </td>
@@ -425,36 +438,9 @@ Construir la plataforma móvil de referencia para el café de especialidad en La
         </thead>
         <tbody>
             <tr>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"><img style="width: 240px; height: auto; border-radius: 25%;" src="" alt="Foto de "></td>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"></td>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">202224135</td>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">Ingeniería de Software</td>
-                <td style="max-width: 300px; overflow: hidden; text-overflow: ellipsis; white-space: normal;">
-                    <ul>
-                        <li>Diseño web</li>
-                        <li>Gestión y diseño de bases de datos SQL y noSQL</li>
-                        <li>Programación en C++ y Python</li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"><img style="width: 240px; height: auto; border-radius: 25%;" src="./img/chapter1/Fabrizio.png" alt="Foto de Fabrizio León"></td>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">León Vivas, Fabrizio Amir</td>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">20211b994</td>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">Ingeniería de Software</td>
-                <td style="max-width: 300px; overflow: hidden; text-overflow: ellipsis; white-space: normal;">
-                    <ul>
-                        <li>Desarrollo front-end</li>
-                        <li>Conocimiento de TI en sistemas basados en UNIX</li>
-                        <li>Competente en C++, JavaScript y Python</li>
-                        <li>Experiencia con Frameworks ágiles</li>
-                    </ul>
-                </td> 
-            </tr>
-            <tr>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"><img style="width: 240px; height: auto; border-radius: 25%;" src="./img/chapter1/JuanDiego.jpg" alt="Foto de Juan Diego Mondoñedo"></td>
+                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"><img style="width: 240px; height: auto; border-radius: 25%;" src="./img/chapter1/JuanDiego.jpg" alt="Foto de Juan Mondoñedo"></td>
                 <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">Mondoñedo Rodriguez, Juan Diego Javier</td>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">202110373</td>
+                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">U202110373</td>
                 <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">Ingeniería de Software</td>
                 <td style="max-width: 300px; overflow: hidden; text-overflow: ellipsis; white-space: normal;">
                     <ul>
@@ -466,9 +452,9 @@ Construir la plataforma móvil de referencia para el café de especialidad en La
                 </td>
             </tr>
             <tr>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"><img width="192" height="185" alt="image" src="https://github.com/user-attachments/assets/57fbf2a0-8aee-432f-b12c-32d9b0a2f53e" />
+                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"><img style="width: 240px; height: auto; border-radius: 25%;" src="./img/chapter1/fabianOliva.png" alt="Foto de Fabián Oliva"></td>
                 <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">Oliva López, Fabián Alejandro</td>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">202312013</td>
+                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">U202312013</td>
                 <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">Ingeniería de Software</td>
                 <td style="max-width: 300px; overflow: hidden; text-overflow: ellipsis; white-space: normal;">
                     <ul>
@@ -481,9 +467,9 @@ Construir la plataforma móvil de referencia para el café de especialidad en La
                 </td>
             </tr>
             <tr>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"><img style="width: 240px; height: auto; border-radius: 25%;" src="./img/chapter1/Miguel.png" alt="Foto de Miguel Vidal "></td>
+                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"><img style="width: 240px; height: auto; border-radius: 25%;" src="./img/chapter1/Miguel.png" alt="Foto de Miguel Vidal"></td>
                 <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">Vidal Castro, Miguel Angel</td>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">202314186</td>
+                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">U202314186</td>
                 <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">Ingeniería de Software</td>
                 <td style="max-width: 300px; overflow: hidden; text-overflow: ellipsis; white-space: normal;">
                     <ul>
@@ -496,8 +482,8 @@ Construir la plataforma móvil de referencia para el café de especialidad en La
             </tr>
             <tr>
                 <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"><img style="width: 240px; height: auto; border-radius: 25%;" src="./img/chapter1/guillermo.JPG" alt="Foto de Guillermo Tantaleán"></td>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"></td>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">20221e247</td>
+                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">Tantaleán Mesta, Guillermo Fabián</td>
+                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">U202311958</td>
                 <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">Ingeniería de Software</td>
                 <td style="max-width: 300px; overflow: hidden; text-overflow: ellipsis; white-space: normal;">
                     <ul>
@@ -509,9 +495,9 @@ Construir la plataforma móvil de referencia para el café de especialidad en La
                 </td> 
             </tr>
 			  <tr>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"><img style="width: 240px; height: auto; border-radius: 25%;" src="img/nelson.jpeg" alt="Foto de Fabrizzio Pereira"></td>
+                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"><img style="width: 240px; height: auto; border-radius: 25%;" src="./img/chapter1/nelson.jpeg" alt="Foto de Nelson Pereira"></td>
                 <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">Nelson Fabrizzio, Pereira Vasquez</td>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">202417468</td>
+                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">U202417468</td>
                 <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">Ingeniería de Software</td>
                 <td style="max-width: 300px; overflow: hidden; text-overflow: ellipsis; white-space: normal;">
                     <ul>
