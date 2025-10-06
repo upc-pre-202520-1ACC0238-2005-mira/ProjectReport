@@ -3946,9 +3946,93 @@ Bounded Context: Management
 
 #### 2.6.1.6.2. Bounded Context Database Design Diagram
 El diseño de base de datos es el proceso de organizar y estructurar los datos en un sistema, creando tablas, relaciones y reglas para garantizar eficiencia, integridad y facilidad de acceso. Este diseño asegura que los datos se almacenen de manera coherente y sean fáciles de gestionar, consultar y mantener a medida que el sistema crece y evoluciona.
+
 ### 4.8.1. Database Diagram.
 <td><img src="img\Database_Diagram.png"></td>
 
+## 4.2 Landing Page & Mobile Application Implementation
+
+### 4.2.1. Sprint 1
+#### 4.2.1.1. Sprint Planning 1
+<table border="1" cellpadding="6" cellspacing="0">
+    <tbody>
+        <tr>
+            <th>Sprint #</th>
+            <td>1</td>
+        </tr>
+        <tr>
+            <th colspan="2">Sprint Planning Background</th>
+        </tr>
+        <tr>
+            <th>Date</th>
+            <td>2/10/2025</td>
+        </tr>
+        <tr>
+            <th>Time</th>
+            <td>09:00 PM</td>
+        </tr>
+        <tr>
+            <th>Location</th>
+            <td>Reunión presencial después de clase</td>
+        </tr>
+        <tr>
+            <th>Prepared By</th>
+            <td>Guillermo Tantañean</td>
+        </tr>
+        <tr>
+            <th>Attendees (to planning meeting)</th>
+            <td>
+                Guillermo Tantaleán, Fabrizzio Pereira, Miguel Vidal, Fabián Oliva, Juan Diego Mondoñedo
+            </td>
+        </tr>
+        <tr>
+            <th>Sprint 1 Review Summary</th>
+            <td>
+                Se avanzó en la implementación de la Landing Page con Next.js, 
+                completando UI, división de desarrollo, desarrollo en conjunto y despliegue.  
+                Se logró un 70% de despliegue del backend con Nest.js y MongoDB liderado por Guillermo Tantaleán, 
+                incluyendo arquitectura, desarrollo compartido y configuración de despliegue.  
+                También se desarrollaron las pantallas core de la aplicación (UI y flujo principal).  
+                En paralelo, se actualizó el registro de versiones del informe, <i>Project Report Collaboration Insights</i>, 
+                <i>Student Outcome</i>, y capítulos del informe académico:
+                <ul>
+                    <li><b>Capítulo III: UX/UI Design</b> – Miguel Vidal (Style Guidelines, Information Architecture, Wireframes, Mock-ups y Prototipos)</li>
+                    <li><b>Capítulo IV: Product Implementation & Validation</b> – Fabián Oliva (Software Configuration Management, Landing Page & Mobile App Implementation, Sprint Documentation)</li>
+                    <li><b>Sprint 1 Documentación y Conclusiones</b> – Juan Diego</li>
+                    <li>Bibliografía y Anexos</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <th>Sprint 1 Retrospective Summary</th>
+            <td>
+                El equipo destacó el buen avance en paralelo entre desarrollo técnico (frontend, backend y pantallas core) 
+                y documentación académica. Se valoró la coordinación entre responsables de UI/UX, backend y redacción.  
+                Como mejora se identificó la necesidad de consolidar evidencias del sprint en un repositorio común 
+                y mantener un flujo más frecuente de revisiones intermedias.
+            </td>
+        </tr>
+        <tr>
+            <th colspan="2">Sprint Goal & User Stories</th>
+        </tr>
+        <tr>
+            <th>Sprint 1 Goal</th>
+            <td>
+                Orientar la comunicación y captar potenciales usuarios a través de una landing page que refleje 
+                la propuesta de valor de Café Metrix, avanzar en el backend y pantallas principales de la aplicación, 
+                y documentar los capítulos clave del informe académico.
+            </td>
+        </tr>
+        <tr>
+            <th>Sprint 1 Velocity</th>
+            <td>8</td>
+        </tr>
+        <tr>
+            <th>Sum of Story Points</th>
+            <td>8</td>
+        </tr>
+    </tbody>
+</table>
 
 # Conclusiones
 - Xantina encaja con claridad en el nicho de cafeterías de especialidad en Lima: resuelve dos trabajos críticos —aprendizaje práctico y estandarización operativa— donde hoy dominan soluciones dispersas (cursos presenciales y contenido suelto en redes). El diferencial no es “tener más contenido”, sino insertarse en el flujo diario de barra con recetas aprobadas, checklist y catas accionables. El go-to-market más sólido combina pilotos por tienda, alianzas con tostadores y escuelas y un modelo freemium→B2B para equipos. El principal riesgo es la adopción en turno; queda mitigado con co-diseño en tiendas piloto y evidencia de uso en momentos clave (apertura, pico y cierre).
