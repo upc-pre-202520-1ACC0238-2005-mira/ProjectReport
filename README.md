@@ -3950,6 +3950,30 @@ El diseño de base de datos es el proceso de organizar y estructurar los datos e
 ### 4.8.1. Database Diagram.
 <td><img src="img\Database_Diagram.png"></td>
 
+# Capítulo IV: Product Implementation & Validation
+
+### 4.  Product Implementation & Validation
+En esta sección se describe el proceso de implementación del producto Xantina, abarcando la gestión del entorno de desarrollo, el control de versiones del código fuente, las convenciones de estilo aplicadas y la configuración del despliegue del software.
+Asimismo, se incluyen las validaciones realizadas durante la integración de los componentes y las pruebas funcionales básicas del sistema.
+
+### 4.1. Software Configuration Management
+
+### 4.1.1. Software Development Environment Configuration
+
+### 4.1.2. Source Code Management
+
+Gestión de Cambios en el Código Fuente con GitHub
+
+En esta sección, nuestro equipo detalla los métodos y la estructura organizativa para gestionar los cambios en el código fuente utilizando GitHub como plataforma de control de versiones. Hemos configurado un repositorio remoto en GitHub para almacenar el código fuente y facilitar la colaboración entre los miembros del equipo. Los URLs de los repositorios son los siguientes:
+
+Landing Page: 
+Frontend Web Applications:
+Backend Web Applications:
+
+### 4.1.3. Source Code Style Guide & Conventions
+
+### 4.1.4. Software Deployment Configuration
+
 ## 4.2 Landing Page & Mobile Application Implementation
 
 ### 4.2.1. Sprint 1
