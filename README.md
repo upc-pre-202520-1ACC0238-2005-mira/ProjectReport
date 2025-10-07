@@ -1429,6 +1429,23 @@ d) Momentos críticos de trabajo
   * Poder anotar ajustes y que el equipo los vea.
   * Tips cortos, no bloqueantes, con opción “guardar para después”.
 
+**Interpretación de hallazgos**
+El análisis conjunto de las entrevistas con baristas y jefes de barra evidencia una problemática estructural en la operación de las cafeterías de especialidad: la ausencia de herramientas digitales que faciliten la estandarización de recetas, la calibración guiada, y el registro sistemático de catas. La práctica actual, apoyada en conocimientos verbales o registros informales (papel, chats), genera variabilidad en taza, retrabajos durante el servicio y dificultades de consistencia entre turnos.
+
+En los baristas, se identifican tres momentos críticos del flujo operativo —apertura/calibración, horas pico y cierre/catas— donde emergen las mayores fricciones. Durante la apertura, la falta de guías estructuradas conduce a calibraciones intuitivas (“a ojo”); en horas pico, el acceso limitado a las recetas aprobadas incrementa la incertidumbre y los errores; y al cierre, la carencia de formatos estandarizados de cata dificulta el aprendizaje colectivo y la retroalimentación del equipo. Estos patrones reflejan una necesidad funcional clara de inmediatez, simplicidad y validación visual en la interfaz.
+
+Por su parte, los jefes de barra y dueños priorizan la consistencia de marca y la eficiencia operativa, destacando la importancia de checklists de calibración, recetas aprobadas por lote y método, y la capacidad de controlar y validar los estándares en toda la operación. También manifiestan interés por herramientas que agilicen el onboarding de nuevos baristas, reduzcan la dependencia del conocimiento tribal y fomenten una cultura de mejora continua basada en datos (recetas, catas, métricas de consistencia).
+
+Ambos perfiles coinciden en que la adopción tecnológica solo será viable si la solución es ágil, intuitiva y no interrumpe el flujo de trabajo. Aplicaciones lentas, con texto excesivo o que exijan múltiples pasos en contextos de presión, constituyen barreras relevantes. Por ello, la propuesta debe priorizar flujos cortos (≤2 toques y ≤10 s), lenguaje especializado pero claro, y retroalimentación visual inmediata (“aprobado por”, “última actualización”).
+
+En síntesis, los hallazgos confirman una oportunidad de diseño para una app móvil centrada en la barra, que combine:
+	•	Estandarización técnica (recetas aprobadas, checklists);
+	•	Aprendizaje operativo continuo (catas, cápsulas breves);
+	•	Gestión ligera de equipos y conocimiento (roles, validaciones, actualizaciones trazables).
+
+Esta convergencia entre necesidad funcional (consistencia y eficiencia) y motivación emocional (confianza y orgullo en el trabajo bien hecho) sustenta el valor de una solución como Xantina, que actúe tanto como asistente operativo durante el turno como plataforma educativa viva para el equipo.
+
+
 <div style="page-break-after: always;"></div>
 
 ## 2.3. Needfinding
