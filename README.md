@@ -1058,7 +1058,7 @@ Dividimos la guía en **dos bloques** por segmento. El **Bloque A (descubrimient
               <li><strong>Duración:</strong> 06:17</li>
             </ul>
           </div>
-          <img style="max-width: 40%; height: auto; border-radius: 10px; object-fit: cover; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);" src="/img/chapter2/segmento-barista-1.png">
+          <img style="max-width: 40%; height: 240px; border-radius: 10px; object-fit: cover; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);" src="/img/chapter2/segmento-barista-1.png">
         </div>
       </td>
     </tr>
@@ -1102,7 +1102,7 @@ Dividimos la guía en **dos bloques** por segmento. El **Bloque A (descubrimient
               <li><strong>Duración:</strong> 06:25</li>
             </ul>
           </div>
-          <img style="max-width: 40%; height: auto; border-radius: 10px; object-fit: cover; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);" src="">
+          <img style="max-width: 40%; height: 240px; border-radius: 10px; object-fit: cover; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);" src="/img/chapter2/segmento-barista-2.png">
         </div>
       </td>
     </tr>
@@ -1117,39 +1117,6 @@ Dividimos la guía en **dos bloques** por segmento. El **Bloque A (descubrimient
           font-family: Arial, sans-serif;
           margin-bottom: 40px;">
   <thead>
-    <tr>
-      <th style="
-            text-align: left;
-            padding: 12px;
-            background-color: #f0f0f0;
-            font-size: 22px;"><strong>SEGMENTO OBJETIVO: BARISTA</strong></th>
-      <th style="
-            text-align: left;
-            padding: 12px;
-            background-color: #f0f0f0;
-            font-size: 22px;"><strong>#3</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td colspan="2" style="padding: 0; vertical-align: top; background-color: #fff border-top: 1px solid #ddd;" style="padding: 0; vertical-align: top; background-color: #fff border-top: 1px solid #ddd;">
-        <div style="display: flex; gap: 24px; align-items: flex-start; background-color: #fafafa; border-radius: 10px; padding: 24px;">
-          <div style="flex: 1; display: flex; flex-direction: column;">
-            <p style="font-size: 18px; font-weight: bold; color: #2c3e50; margin-bottom: 12px; padding-bottom: 6px;">Datos generales</p>
-            <ul style="margin: 0; padding-left: 20px; list-style-type: disc; font-size: 1.05em; line-height: 1.7; color: #333;">
-              <li><strong>Nombres:</strong> Jorge Rolando</li>
-              <li><strong>Apellidos:</strong> Garcia Roque</li>
-              <li><strong>Edad:</strong> 27</li>
-              <li><strong>Distrito:</strong> San Miguel</li>
-              <li><strong>URL Entrevista:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b994_upc_edu_pe/EdrzyrYimb5Ail4Jx6mqBMEBFv7kOmMJCXt7YLxTAVuznw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MmQAAK" target="_blank">Ver video</a></li>
-              <li><strong>Timestamp:</strong> 12:43</li>
-              <li><strong>Duración:</strong> 07:48</li>
-            </ul>
-          </div>
-          <img style="max-width: 40%; height: auto; border-radius: 10px; object-fit: cover; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);" src="">
-        </div>
-      </td>
-    </tr>
   </tbody>
 </table>
 
@@ -1181,16 +1148,16 @@ Dividimos la guía en **dos bloques** por segmento. El **Bloque A (descubrimient
           <div style="flex: 1; display: flex; flex-direction: column;">
             <p style="font-size: 18px; font-weight: bold; color: #2c3e50; margin-bottom: 12px; padding-bottom: 6px;">Datos generales</p>
             <ul style="margin: 0; padding-left: 20px; list-style-type: disc; font-size: 1.05em; line-height: 1.7; color: #333;">
-              <li><strong>Nombres:</strong> Jorge Rolando</li>
-              <li><strong>Apellidos:</strong> Garcia Roque</li>
-              <li><strong>Edad:</strong> 27</li>
+              <li><strong>Nombres:</strong> Miguel Ángel</li>
+              <li><strong>Apellidos:</strong> Saucedo Zambrano</li>
+              <li><strong>Edad:</strong> 26</li>
               <li><strong>Distrito:</strong> San Miguel</li>
               <li><strong>URL Entrevista:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b994_upc_edu_pe/EdrzyrYimb5Ail4Jx6mqBMEBFv7kOmMJCXt7YLxTAVuznw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MmQAAK" target="_blank">Ver video</a></li>
               <li><strong>Timestamp:</strong> 20:31</li>
               <li><strong>Duración:</strong> 03:39</li>
             </ul>
           </div>
-          <img style="max-width: 40%; height: auto; border-radius: 10px; object-fit: cover; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);" src="">
+          <img style="max-width: 40%; height: 240px; border-radius: 10px; object-fit: cover; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);" src="/img/chapter2/segmento-dueño-1.png">
         </div>
       </td>
     </tr>
@@ -1225,8 +1192,8 @@ Dividimos la guía en **dos bloques** por segmento. El **Bloque A (descubrimient
           <div style="flex: 1; display: flex; flex-direction: column;">
             <p style="font-size: 18px; font-weight: bold; color: #2c3e50; margin-bottom: 12px; padding-bottom: 6px;">Datos generales</p>
             <ul style="margin: 0; padding-left: 20px; list-style-type: disc; font-size: 1.05em; line-height: 1.7; color: #333;">
-              <li><strong>Nombres:</strong> Jorge Rolando</li>
-              <li><strong>Apellidos:</strong> Garcia Roque</li>
+              <li><strong>Nombres:</strong> Nicolle</li>
+              <li><strong>Apellidos:</strong> Requena</li>
               <li><strong>Edad:</strong> 27</li>
               <li><strong>Distrito:</strong> San Miguel</li>
               <li><strong>URL Entrevista:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b994_upc_edu_pe/EdrzyrYimb5Ail4Jx6mqBMEBFv7kOmMJCXt7YLxTAVuznw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MmQAAK" target="_blank">Ver video</a></li>
@@ -1234,7 +1201,7 @@ Dividimos la guía en **dos bloques** por segmento. El **Bloque A (descubrimient
               <li><strong>Duración:</strong> 04:24</li>
             </ul>
           </div>
-          <img style="max-width: 40%; height: auto; border-radius: 10px; object-fit: cover; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);" src="">
+          <img style="max-width: 40%; height: 240px; border-radius: 10px; object-fit: cover; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);" src="/img/chapter2/segmento-dueño-2.png">
         </div>
       </td>
     </tr>
@@ -1269,16 +1236,16 @@ Dividimos la guía en **dos bloques** por segmento. El **Bloque A (descubrimient
           <div style="flex: 1; display: flex; flex-direction: column;">
             <p style="font-size: 18px; font-weight: bold; color: #2c3e50; margin-bottom: 12px; padding-bottom: 6px;">Datos generales</p>
             <ul style="margin: 0; padding-left: 20px; list-style-type: disc; font-size: 1.05em; line-height: 1.7; color: #333;">
-              <li><strong>Nombres:</strong> Jorge Rolando</li>
-              <li><strong>Apellidos:</strong> Garcia Roque</li>
-              <li><strong>Edad:</strong> 27</li>
-              <li><strong>Distrito:</strong> San Miguel</li>
+              <li><strong>Nombres:</strong> Fabiola Milagros </li>
+              <li><strong>Apellidos:</strong> Martinez</li>
+              <li><strong>Edad:</strong> 29</li>
+              <li><strong>Distrito:</strong> Arequipa </li>
               <li><strong>URL Entrevista:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b994_upc_edu_pe/EdrzyrYimb5Ail4Jx6mqBMEBFv7kOmMJCXt7YLxTAVuznw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MmQAAK" target="_blank">Ver video</a></li>
               <li><strong>Timestamp:</strong> 28:32</li>
               <li><strong>Duración:</strong> 04:55</li>
             </ul>
           </div>
-          <img style="max-width: 40%; height: auto; border-radius: 10px; object-fit: cover; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);" src="">
+          <img style="max-width: 40%; height: 240px; border-radius: 10px; object-fit: cover; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);" src="/img/chapter2/segmento-dueño-3.png">
         </div>
       </td>
     </tr>
