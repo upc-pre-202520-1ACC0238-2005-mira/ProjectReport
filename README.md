@@ -528,11 +528,11 @@ El contenido disponible en línea —por ejemplo, en redes sociales o blogs— s
 **Problemática**  
 
 1) **Aprendizaje técnico accesible y estructurado**  
-   Falta una vía gratuita y digital que enseñe, de forma guiada y práctica, cómo preparar café con consistencia. Esto incluye:
-   - Bebidas y métodos: espresso, cappuccino, latte, macchiato, moka, cold brew, entre otros.  
-   - Parámetros de extracción: dosis, molienda, relación café/agua, temperatura, presión y tiempo.  
-   - Procedimientos de barra: calibración, tiempos de tiro, purga, limpieza y control básico de insumos.  
-   La ausencia de un repositorio único y usables “paso a paso” ralentiza la capacitación, dificulta estandarizar recetas y afecta la calidad del servicio.
+Existe una falta de plataformas digitales gratuitas que enseñen de manera guiada, práctica y estandarizada los fundamentos de la preparación de café.
+Esto incluye:
+- Métodos de extracción.
+- Parámetros críticos (dosis, molienda, relación café/agua, temperatura, presión, tiempo).  
+- Procedimientos de calibración y control operativo en barra.
 
 2) **Visibilidad del origen y cultura cafetera**  
    El trabajo en finca y el valor del origen (cultivo, cosecha, beneficiado, secado, clasificación, tostado) rara vez se comunica de forma simple en el punto de consumo. Esto contribuye a:
