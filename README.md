@@ -4143,7 +4143,65 @@ Enlace al Landing Page en Figma: https://www.figma.com/design/zS1yCqj9PyyEGF9Zt7
 
 ![Mobile Wireframe 16](./img/chapter3/mawf16.png) ![Mobile Wireframe 17](./img/chapter3/mawf17.png) ![Mobile Wireframe 18](./img/chapter3/mawf18.png)
 
-### 3.1.4.2 Mobile Applications Wireflow Diagrams  
+### 3.1.4.2 Mobile Applications Wireflow Diagrams
+
+## User Goal 01: Crear y acceder a la cuenta de usuario
+
+![Wf1](./img/chapter3/flwf1.png)
+
+**Descripción:**  
+El objetivo es permitir que cualquier nuevo usuario (barista, jefe de barra o administrador) pueda crear una cuenta fácilmente o acceder a una ya existente. La app debe garantizar un flujo sencillo, seguro y sin fricción, desde el registro hasta el ingreso al sistema, incluyendo opciones para recuperación de contraseña.
+
+## User Goal 02: Gestionar recetas de café de forma estandarizada
+
+![Wf2](./img/chapter3/flwf2.png)
+
+**Descripción:**  
+Este objetivo busca que los baristas puedan crear nuevas recetas, editar las existentes, ver los parámetros importantes de forma clara (como molienda, dosis, tiempo), y compartirlas con su equipo. Asegura consistencia y eficiencia en la barra.
+
+## User Goal 03: Calibrar y operar la barra de manera guiada
+
+![Wf3](./img/chapter3/flwf3.png)
+
+**Descripción:**  
+Los baristas deben poder iniciar su turno con una guía clara para calibrar el espresso u otros métodos, utilizando listas de verificación, temporizadores automáticos y herramientas prácticas desde la app. Esto mejora la calidad y reduce errores humanos.
+
+## User Goal 04: Registrar y analizar catas de café
+
+![Wf4](./img/chapter3/flwf4.png)
+
+**Descripción:**  
+Permite documentar rápidamente los atributos sensoriales de una bebida, comparar resultados de distintas catas y visualizar tendencias. Esto ayuda a mejorar la consistencia y calidad del producto final.
+
+## User Goal 05: Controlar inventario y trazabilidad de lotes
+
+![Wf5](./img/chapter3/flwf5.png)
+
+**Descripción:**  
+Facilita registrar la llegada de nuevos lotes de café, almacenar información clave (tostador, fecha de tueste), y recibir alertas automáticas cuando el stock esté bajo. Garantiza trazabilidad y continuidad operativa.
+
+## User Goal 06: Gestionar usuarios y permisos de equipo
+
+![Wf6](./img/chapter3/flwf6.png)
+
+**Descripción:**  
+Permite al jefe de barra invitar nuevos baristas, asignar roles con distintos niveles de acceso (junior, senior, administrador), y eliminar usuarios que ya no forman parte del equipo, resguardando así los datos e integridad del sistema.
+
+## User Goal 07: Generar reportes y visualizar tendencias
+
+![Wf7](./img/chapter3/flwf7.png)
+
+**Descripción:**  
+El sistema permite generar reportes de consumo por período, visualizar datos en gráficos, y hacer proyecciones. Esto ayuda a planificar compras, evitar quiebres de stock y tomar decisiones basadas en datos.
+
+## User Goal 08: Comunicar novedades y actualizaciones al equipo
+
+![Wf8](./img/chapter3/flwf8.png)
+
+**Descripción:**  
+Ofrece una sección centralizada donde el jefe de barra puede enviar comunicados sobre nuevas recetas, cambios de turno, ajustes en lotes o procesos, y que los baristas puedan ver y reaccionar. Mejora la coordinación interna.
+
+
 ### 3.1.4.3 Mobile Applications Mock-ups
 
 ![Mockup 1 - Login](./img/chapter3/mamk1.png) ![Mockup 2 - Create Account](./img/chapter3/mamk2.png)
