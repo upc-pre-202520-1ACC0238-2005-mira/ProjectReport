@@ -4290,6 +4290,12 @@ Ofrece una sección centralizada donde el jefe de barra puede enviar comunicados
 
 ### 3.1.4.5 Mobile Applications Prototyping
 
+Enlace al prototipo en Figma:
+
+[https://www.figma.com/proto/zS1yCqj9PyyEGF9Zt7cW8m/XANTINA?node-id=54-2921&p=f&t=Fe8H8cgSwXWuYtIu-1&scaling=scale-down&content-scaling=fixed&page-id=48%3A2&starting-point-node-id=54%3A2921](https://www.figma.com/proto/zS1yCqj9PyyEGF9Zt7cW8m/XANTINA?node-id=54-2921&p=f&t=Fe8H8cgSwXWuYtIu-1&scaling=scale-down&content-scaling=fixed&page-id=48%3A2&starting-point-node-id=54%3A2921)
+
+![Prototyping](./img/chapter3/prototyping.png)
+
 # Conclusiones
 - Xantina encaja con claridad en el nicho de cafeterías de especialidad en Lima: resuelve dos trabajos críticos —aprendizaje práctico y estandarización operativa— donde hoy dominan soluciones dispersas (cursos presenciales y contenido suelto en redes). El diferencial no es “tener más contenido”, sino insertarse en el flujo diario de barra con recetas aprobadas, checklist y catas accionables. El go-to-market más sólido combina pilotos por tienda, alianzas con tostadores y escuelas y un modelo freemium→B2B para equipos. El principal riesgo es la adopción en turno; queda mitigado con co-diseño en tiendas piloto y evidencia de uso en momentos clave (apertura, pico y cierre).
 - El diseño propuesto —mobile-first, offline-friendly, flujos cortos y lenguaje ubicuo de barismo— es viable y mantenible para iteraciones rápidas. La separación por dominios (recetas, calibración, catas, cápsulas) y la trazabilidad de cambios (recetas “de la casa” con sello y fecha) soportan consistencia entre turnos. Priorizar búsqueda por método/lote, acceso en ≤2 toques y checklists de ≤1 minuto asegura desempeño en condiciones reales (ruido, manos ocupadas, tiempo limitado). La instrumentación de eventos (receta abierta, checklist completado, cata registrada) permitirá validar hipótesis y dirigir el roadmap con datos, cuidando privacidad y seguridad.
