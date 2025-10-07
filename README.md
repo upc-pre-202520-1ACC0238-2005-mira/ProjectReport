@@ -3957,7 +3957,52 @@ Asimismo, se incluyen las validaciones realizadas durante la integración de los
 
 ## 4.1. Software Configuration Management
 
+La Gestión de Configuración de Software (SCM, por sus siglas en inglés) es una disciplina en el desarrollo de software encargada de identificar, controlar y rastrear los componentes del software a lo largo de su ciclo de vida. Esta metodología facilita la administración organizada de cambios en documentos, códigos y otros elementos durante el proceso de desarrollo, garantizando así una gestión eficiente y ordenada. Su objetivo principal es mejorar la eficiencia del equipo de desarrollo y minimizar los errores. (Martin, 2023)
+
 ### 4.1.1. Software Development Environment Configuration
+
+En esta sección, presentaremos las convenciones y prácticas recomendadas adoptadas en Kotlin, Java, XML y JavaScript para el desarrollo de Xantina, una aplicación móvil enfocada en la gestión inteligente de pedidos y experiencias sensoriales en el sector gastronómico.
+Estas directrices garantizan una estructura coherente del código, mejoran la mantenibilidad y optimizan el rendimiento general del sistema en tiempo real.
+
+El proyecto Xantina busca responder a los desafíos tecnológicos actuales mediante soluciones que integren sostenibilidad, innovación y eficiencia operativa. Las prácticas aplicadas aseguran que el sistema se mantenga robusto, escalable y alineado con los principios de calidad de software y experiencia de usuario moderna.
+
+A continuación, se detallan las directrices y configuraciones aplicadas en cada una de las tecnologías empleadas, contribuyendo al desarrollo de una plataforma confiable, intuitiva y eficiente.
+
+**Definición de Requisitos**
+
+Antes de iniciar el desarrollo de Xantina, fue necesario definir los requisitos funcionales y técnicos que darían forma al producto. Estos requisitos reflejan el compromiso con la innovación tecnológica, la eficiencia operativa y la mejora continua en la experiencia del usuario.
+
+- **Gestión de Datos en Tiempo Real: Uso de una base de datos sincronizada para mantener actualizada la información sin necesidad de intervención manual.**
+- **Escalabilidad del Sistema: Arquitectura adaptable que permita futuras integraciones o expansión de funcionalidades.**
+- **Experiencia de Usuario Intuitiva: Diseño centrado en el usuario con interfaces responsivas y una navegación clara.**
+- **Integración Multiplataforma: Compatibilidad con sistemas Android modernos, asegurando rendimiento óptimo en diferentes dispositivos.**
+
+**Elección de la Tecnología**
+
+Con base en los requisitos anteriores, se seleccionó un conjunto de tecnologías modernas y multiplataforma que permiten construir una aplicación de alto rendimiento, segura y escalable.
+
+**Configuración del Entorno de Desarrollo Android Studio**
+
+ - **Editor de Código: Android Studio | Versión estable 2025**
+ - **Propósito: Desarrollo, compilación y despliegue de la aplicación móvil Android.**
+ - **Ruta de descarga: https://developer.android.com/studio**
+
+**Editor de Código Alternativo: Visual Studio Code**
+
+ - **Propósito: Desarrollo y edición de código del backend y scripts auxiliares.**
+ - **Ruta de descarga: https://code.visualstudio.com/**
+
+**Control de Versiones: Git y GitHub**
+
+ - **Propósito: Gestión de versiones, colaboración en el código y control de cambios.**
+ - **Ruta de descarga: https://git-scm.com/**
+ - **Repositorio del proyecto: -link del repo**
+
+ **Product UX/UI Design**
+ - **UI/UX: Creación de una interfaz amigable y accesible para los usuarios.**
+ - **Herramienta: Figma**
+ - **Propósito: Diseño de prototipos, flujos de interacción y maquetado visual de la aplicación.**
+ - **Ruta del Figma: -link del figma**
 
 ### 4.1.2. Source Code Management
 
@@ -3965,9 +4010,9 @@ Gestión de Cambios en el Código Fuente con GitHub
 
 En esta sección, nuestro equipo detalla los métodos y la estructura organizativa para gestionar los cambios en el código fuente utilizando GitHub como plataforma de control de versiones. Hemos configurado un repositorio remoto en GitHub para almacenar el código fuente y facilitar la colaboración entre los miembros del equipo. Los URLs de los repositorios son los siguientes:
 
-Landing Page: 
-Frontend Web Applications:
-Backend Web Applications:
+- Landing Page: 
+- Frontend Web Applications:
+- Backend Web Applications:
 
 ### 4.1.3. Source Code Style Guide & Conventions
 
