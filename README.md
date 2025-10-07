@@ -335,7 +335,7 @@ Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta
           <li><strong>Fabián Oliva López:</strong> Investigué acerca de posibles competidores y desarrollo su respectivo análisis competitivo a su vez de estrategias frente a estos competidores</li>
           <li><strong>Miguel Vidal Castro</strong> Determiné mediante las entrevistas del segmento objetivo de dueño de café, información relevante para entender que bounded contexts desarrollar en la aplicación para poder cubrir sus necesidades. </li>
           <li><strong>Fabrizzio Pereira:</strong> Investigué el dominio del café de especialidad y desarrollé la arquitectura completa del sistema usando metodologías como Lean UX y Domain-Driven Design.</li>
-					<li><strong>Guillermo:</strong> Desarrollé toda la parte de DDD como el event storming identificando los principales bounded context.  </li>
+					<li><strong>Guillermo Tantaleán:</strong> Desarrollé toda la parte de DDD como el event storming identificando los principales bounded context.  </li>
 				</ul>
 			</td>
 			<td>
@@ -355,7 +355,7 @@ Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta
           <li><strong>Fabian Oliva López:</strong> Pude aprender la necesidad de investigar acerca de competidores lo cual ayuda a ver puntos estrategicos los cuales puede improvisar nuestro trabajor para entregar un producto de buena calidad </li>
           <li><strong>Miguel Vidal Castro:</strong> Pude aprendar a investigar sobre como realizar un diagrama C4, reforzando conocimientos pasados. Realicé un Event Storming del proyecto lo que me ayudó a identificar los bounded contexts</li>
           <li><strong>Fabrizzio Pereira:</strong> Aprendí sobre café de especialidad desde cero y estudié nuevas metodologías de desarrollo que no conocía previamente.</li>
-					<li><strong>Guillermo: Realicé investigación del modelo de negocio del tema en cuestión para el trabajo lo cual me permitió entender la aplicación de conocimientos de software a nivel de dirección. </strong>  </li>
+					<li><strong>Guillermo Tantaleán:</strong>  Realicé investigación del modelo de negocio del tema en cuestión para el trabajo lo cual me permitió entender la aplicación de conocimientos de software a nivel de dirección.  </li>
 				</ul>
 			</td>
 			<td>
