@@ -4131,13 +4131,17 @@ Enlace al Landing Page en Figma: https://www.figma.com/design/zS1yCqj9PyyEGF9Zt7
 ## 3.1.4 Mobile Applications UX/UI Design
 ### 3.1.4.1 Mobile Applications Wireframes
 
-![Mobile Wireframe 1](./img/chapter3/mawf1.png)  ![Mobile Wireframe 2](./img/chapter3/mawf2.png)
+![Mobile Wireframe 1](./img/chapter3/mawf1.png) ![Mobile Wireframe 2](./img/chapter3/mawf2.png) ![Mobile Wireframe 3](./img/chapter3/mawf3.png)
 
-![Mobile Wireframe 3](./img/chapter3/mawf3.png)  ![Mobile Wireframe 4](./img/chapter3/mawf4.png)
+![Mobile Wireframe 4](./img/chapter3/mawf4.png) ![Mobile Wireframe 5](./img/chapter3/mawf5.png)  ![Mobile Wireframe 6](./img/chapter3/mawf6.png)
 
-![Mobile Wireframe 5](./img/chapter3/mawf5.png)  ![Mobile Wireframe 6](./img/chapter3/mawf6.png)
+![Mobile Wireframe 7](./img/chapter3/mawf7.png) ![Mobile Wireframe 8](./img/chapter3/mawf8.png) ![Mobile Wireframe 9](./img/chapter3/mawf9.png)
 
-![Mobile Wireframe 7](./img/chapter3/mawf7.png) ![Mobile Wireframe 8](./img/chapter3/mawf8.png)
+![Mobile Wireframe 10](./img/chapter3/mawf10.png) ![Mobile Wireframe 11](./img/chapter3/mawf11.png) ![Mobile Wireframe 12](./img/chapter3/mawf12.png)
+
+![Mobile Wireframe 13](./img/chapter3/mawf13.png) ![Mobile Wireframe 14](./img/chapter3/mawf14.png) ![Mobile Wireframe 15](./img/chapter3/mawf15.png)
+
+![Mobile Wireframe 16](./img/chapter3/mawf16.png) ![Mobile Wireframe 17](./img/chapter3/mawf17.png) ![Mobile Wireframe 18](./img/chapter3/mawf18.png)
 
 ### 3.1.4.2 Mobile Applications Wireflow Diagrams  
 ### 3.1.4.3 Mobile Applications Mock-ups
