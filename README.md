@@ -1704,6 +1704,16 @@ En esta sección se aborda el Diseño Estratégico con Domain Driven Design (DDD
       style="max-width: 100%; height: auto;">
 
 ## 2.5.2. Context Mapping
+El Context Mapping de Xantina permite visualizar las principales áreas funcionales del sistema y cómo interactúan entre sí para ofrecer una experiencia integral a los usuarios. Este mapa contextual agrupa los componentes en cinco dominios: Usuarios, Marketplace, Social / Comunidad, Analítica y Operaciones de Tienda, representando el flujo de información y dependencias entre módulos.
+
+El dominio Users (Barista & Consumer) centraliza la gestión de perfiles y aprendizaje, conectando con Tutorials & Guides y un sistema de Rewards & Progression, orientado a la formación continua. Desde este módulo, los usuarios pueden acceder a recursos educativos y recibir reconocimiento por su avance.
+El Marketplace gestiona el catálogo de productos, órdenes y pagos, vinculando suscripciones y recursos adquiribles con la experiencia de aprendizaje y operación en barra.
+El módulo Social / Community impulsa la interacción entre baristas y entusiastas mediante un Feed, perfiles con badges, reacciones y retos, fortaleciendo la comunidad alrededor del conocimiento compartido.
+La sección de Analytics consolida métricas de extracción, reportes de ingresos y tendencias de uso, generando dashboards que ofrecen información estratégica para la mejora continua.
+Finalmente, Shop Operations integra la gestión operativa diaria: control de consistencia, entrenamiento de baristas, inventario, insumos, y generación de reportes de negocio.
+
+Este mapeo contextual evidencia las relaciones entre módulos educativos, operativos, sociales y comerciales, asegurando coherencia en el diseño del ecosistema digital y facilitando la alineación entre experiencia de usuario, objetivos de negocio y viabilidad técnica.
+
 <img src="./img/chapter2/contextmapping.png">
 
 Enlace al Miro: https://miro.com/app/board/uXjVJHF5uag=/
