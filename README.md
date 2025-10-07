@@ -4146,29 +4146,31 @@ Enlace al Landing Page en Figma: https://www.figma.com/design/zS1yCqj9PyyEGF9Zt7
 ### 3.1.4.2 Mobile Applications Wireflow Diagrams  
 ### 3.1.4.3 Mobile Applications Mock-ups
 
-**Login:** Pantalla de acceso donde los usuarios ingresan su correo y contraseña para entrar a la aplicación.  
-![Mockup 1 - Login](./img/chapter3/mamk1.png)
+![Mockup 1 - Login](./img/chapter3/mamk1.png) ![Mockup 2 - Create Account](./img/chapter3/mamk2.png)
 
-**Create Account / Forgot Password:** Pantalla combinada que permite a nuevos usuarios registrarse creando una cuenta con su nombre, correo y contraseña, o recuperar el acceso si olvidaron su contraseña ingresando su correo electrónico para recibir instrucciones de restablecimiento.  
-![Mockup 2 - Create Account](./img/chapter3/mamk2.png)
+![Mockup 3 - Create Password](./img/chapter3/mamk3.png) ![Mockup 4 - Onboarding](./img/chapter3/mamk4.png)
 
-**Create Password:** Pantalla donde el usuario crea una nueva contraseña segura al momento de registrarse o al recuperar el acceso a su cuenta.  
-![Mockup 3 - Create Password](./img/chapter3/mamk3.png)
+![Mockup 5 - Home](./img/chapter3/mamk5.png) ![Mockup 6 - Recipe Detail](./img/chapter3/mamk6.png)
 
-**Onboarding:** Pantalla de introducción que presenta brevemente la propuesta de valor de la app antes de iniciar sesión o crear una cuenta.  
-![Mockup 4 - Onboarding](./img/chapter3/mamk4.png)
+![Mockup 7 - Order](./img/chapter3/mamk7.png) ![Mockup 8 - Saved Recipe](./img/chapter3/mamk8.png)
 
-**Home:** Pantalla principal de la app donde el usuario accede a funciones clave como recetas, inventario, calibración, pedidos y catas.  
-![Mockup 5 - Home](./img/chapter3/mamk5.png)
+![Mockup 9](./img/chapter3/mamk9.png) ![Mockup 10](./img/chapter3/mamk10.png)
 
-**Recipe Detail:** Vista detallada de una receta donde se muestran todos los parámetros de preparación, ingredientes, instrucciones y opciones para editar o compartir.  
-![Mockup 6 - Recipe Detail](./img/chapter3/mamk6.png)
+![Mockup 11](./img/chapter3/mamk11.png) ![Mockup 12](./img/chapter3/mamk12.png)
 
-**Order:** Pantalla que permite al usuario registrar, visualizar o gestionar pedidos de café, insumos u otros materiales necesarios para la operación de la cafetería.  
-![Mockup 7 - Order](./img/chapter3/mamk7.png)
+![Mockup 12.1](./img/chapter3/mamk121.png) ![Mockup 12.2](./img/chapter3/mamk122.png)
 
-**Saved Recipes / Recipe Form:** Pantalla donde se listan todas las recetas guardadas por el usuario o compartidas por el equipo, con acceso rápido para consultar, editar o preparar, y una vista de edición donde se ingresan parámetros, ingredientes y métodos de elaboración.  
-![Mockup 8 - Saved Recipe](./img/chapter3/mamk8.png)
+![Mockup 12.3](./img/chapter3/mamk123.png) ![Mockup 12.4](./img/chapter3/mamk124.png)
+
+![Mockup 13](./img/chapter3/mamk13.png) ![Mockup 13.1](./img/chapter3/mamk131.png)
+
+![Mockup 14](./img/chapter3/mamk14.png) ![Mockup 15](./img/chapter3/mamk15.png)
+
+![Mockup 16](./img/chapter3/mamk16.png) ![Mockup 17](./img/chapter3/mamk17.png)
+
+![Mockup 17.1](./img/chapter3/mamk171.png) ![Mockup 17.2](./img/chapter3/mamk172.png)
+
+![Mockup 18](./img/chapter3/mamk18.png) ![Mockup 19](./img/chapter3/mamk19.png) ![Mockup 20](./img/chapter3/mamk20.png)
 
 ### 3.1.4.4 Mobile Applications User Flow Diagrams
 
