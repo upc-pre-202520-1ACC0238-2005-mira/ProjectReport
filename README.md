@@ -521,7 +521,9 @@ Esta sección presenta el contexto y la coyuntura del café de especialidad que 
 
 **Aproximación preliminar a los antecedentes**  
 
-En el ecosistema del café de especialidad, la formación práctica suele darse en escuelas o talleres presenciales y, en el día a día, mediante transferencia informal de conocimiento en barra. Aunque existen videos y blogs, el contenido está disperso, no siempre es confiable ni está adaptado al flujo real de trabajo. Esto genera una curva de aprendizaje lenta para baristas en formación y para emprendedores que quieren abrir una cafetería. A la vez, el consumidor final está cada vez más interesado en entender el “viaje del grano a la taza”, pero rara vez accede a información clara y breve sobre el origen, los procesos y el valor social del café.
+El crecimiento del café de especialidad en América Latina ha impulsado la creación de espacios de formación técnica para baristas y emprendedores. Sin embargo, la mayor parte de la capacitación sigue ocurriendo de forma presencial y fragmentada, lo que limita el acceso de nuevos talentos y emprendedores al conocimiento estandarizado.
+A su vez,según Elías J. (2022), se señala que la digitalización del aprendizaje técnico en el sector agroindustrial y gastronómico aún es baja, especialmente en etapas de transformación y servicio (cafeterías, barras, microemprendimientos).
+El contenido disponible en línea —por ejemplo, en redes sociales o blogs— suele carecer de validez técnica y secuencia pedagógica, lo que ralentiza el aprendizaje y genera inconsistencias en las prácticas de extracción y preparación. Esta brecha ha sido identificada también por INEI (2024), que destaca la necesidad de herramientas digitales formativas que conecten conocimiento técnico, cultura cafetera y cadena de valor.
 
 **Problemática**  
 
@@ -4011,6 +4013,10 @@ En conjunto, los hallazgos evidencian que la aplicación Xantina no solo debe en
 
 # Bibliografía
 Tune, N. (2020, 12 enero). Modelling Bounded Contexts with the Bounded Context Canvas: A Workshop Recipe. Medium. https://medium.com/nick-tune-tech-strategy-blog/modelling-bounded-contexts-with-the-bounded-context-design-canvas-a-workshop-recipe-1f123e592ab
+
+Elías, J., Negro, Á. G., Schling, M., & Mount, I. (2022). Análisis sobre la innovación en el sector gastronómico del Perú. https://doi.org/10.18235/0004446
+
+INEI [INEI]. (2024). Producción nacional 2024. Informe Técnico INEI, 9(9). https://www.inei.gob.pe/media/MenuRecursivo/boletines/informe-de-producion.pdf
 
 
 # Anexos
