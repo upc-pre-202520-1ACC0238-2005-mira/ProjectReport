@@ -4016,7 +4016,70 @@ En esta sección, nuestro equipo detalla los métodos y la estructura organizati
 
 ### 4.1.3. Source Code Style Guide & Conventions
 
-### 4.1.4. Software Deployment Configuration
+Todo el código de la solución deberá ser escrito completamente en **inglés**, con el objetivo de mantener la consistencia internacional, facilitar su mantenimiento y permitir la colaboración entre diferentes equipos de desarrollo.
+
+### HTML
+- Escribir todas las etiquetas y atributos en minúscula.  
+- Cerrar correctamente todas las etiquetas.  
+- Especificar los atributos `alt`, `width` y `height` en las imágenes para mejorar la accesibilidad.  
+- Evitar espacios innecesarios o valores repetidos en los atributos.  
+
+### CSS
+- Asignar nombres de clases e identificadores que sean claros, descriptivos y en inglés.  
+- Mantener una estructura ordenada y consistente, utilizando sangrías y comentarios para separar secciones.  
+- Aplicar propiedades abreviadas cuando sea posible para optimizar el código.  
+- Evitar el uso de unidades después de valores de cero (`margin: 0;` en lugar de `margin: 0px;`).  
+
+### JavaScript
+- Usar **lowerCamelCase** para nombrar variables y funciones.  
+- Emplear `let` y `const` en lugar de `var` para declarar variables.  
+- Asegurar que los nombres de funciones y variables sean descriptivos y estén en inglés.  
+- Mantener un formato limpio con sangrías uniformes y comentarios solo cuando sean necesarios.  
+
+### Android Studio
+- Escribir todo el código y comentarios en inglés.  
+- Mantener una estructura de carpetas organizada por funcionalidades (por ejemplo: `ui/`, `data/`, `model/`).  
+- Nombrar los archivos, layouts y recursos en minúscula y con guiones bajos (`activity_main.xml`, `btn_login`).  
+- Evitar el uso de valores fijos o texto directo en el código; emplear los recursos definidos en `strings.xml` y `colors.xml`.  
+
+## 4.1.4. Software Deployment Configuration
+
+### Aplicación Móvil Deployment
+
+Para el despliegue de la aplicación móvil de **Xantina**, es necesario contar con el entorno de desarrollo configurado en **Android Studio**, así como acceso al repositorio remoto alojado en **GitHub**.  
+Este proceso garantiza que el código fuente se mantenga sincronizado entre los miembros del equipo y que las versiones generadas puedan ser compiladas y distribuidas correctamente.
+
+### Creación de ramas
+- Se crean ramas específicas para que cada integrante del equipo pueda trabajar en diferentes módulos o características de la aplicación sin generar conflictos en la rama principal.  
+- Se utiliza una estructura de ramas basada en **GitFlow**, lo que facilita la integración continua y la administración del código en desarrollo.  
+- La rama `main` contiene la versión estable lista para su publicación y la rama `develop` almacena las actualizaciones en curso.
+
+### Estructura del proyecto
+- Se mantiene una estructura ordenada dentro de Android Studio para facilitar la navegación y el mantenimiento del código:  
+  - Carpeta `app/src/main/java`: contiene las clases y controladores principales del proyecto.  
+  - Carpeta `app/src/main/res/layout`: incluye los archivos XML con el diseño de las interfaces de usuario.  
+  - Carpeta `app/src/main/res/values`: almacena los recursos como cadenas de texto, colores y estilos.  
+  - Archivo `app/src/main/AndroidManifest.xml`: define los permisos, actividades y componentes de la aplicación.  
+
+### Subida de archivos al repositorio
+- Se instala y configura **Git** en Android Studio mediante la opción integrada de *Version Control*.  
+- Se enlaza el repositorio remoto de GitHub con el proyecto local desde la opción **VCS → Git → Remotes**.  
+- Se emplean los comandos internos de Android Studio (`Commit` y `Push`) o la terminal integrada para enviar los cambios al repositorio remoto.  
+- Se mantienen mensajes de *commit* claros y descriptivos siguiendo la convención **Conventional Commits**.
+
+### Configuración para el despliegue
+- En Android Studio, se selecciona la opción **Build → Build Bundle(s) / APK(s)** para generar el archivo instalable (.apk o .aab).  
+- Se configura el archivo `build.gradle` para definir el *applicationId*, versión y dependencias necesarias.  
+- Se realiza la conexión de un dispositivo físico mediante USB o un emulador configurado en **AVD Manager**.  
+- Una vez generado el archivo instalable, se prueba la aplicación en distintos dispositivos para validar su correcto funcionamiento antes del despliegue final.  
+- Para su publicación, se firma la aplicación mediante una **keystore** y se distribuye a través de **Google Play Console** o por medios internos de prueba (*Beta/Testing*).
+
+### Resolución de conflictos
+- En caso de conflictos al integrar ramas, se utilizan las herramientas de comparación y fusión integradas en Android Studio.  
+- Se verifican los cambios manualmente en los archivos afectados y se realiza una nueva compilación para confirmar que el proyecto se ejecuta correctamente.  
+- Se documentan las correcciones en el repositorio para mantener trazabilidad y transparencia entre los miembros del equipo.
+
+Gracias a este flujo de trabajo, la aplicación móvil de **Xantina** puede ser compilada, probada y desplegada de forma eficiente, asegurando una versión estable y lista para ser distribuida en entornos de producción o pruebas controladas.
 
 ## 4.2. Landing Page & Mobile Application Implementation
 
