@@ -1698,9 +1698,11 @@ Finalmente, Shop Operations integra la gestión operativa diaria: control de con
 
 Este mapeo contextual evidencia las relaciones entre módulos educativos, operativos, sociales y comerciales, asegurando coherencia en el diseño del ecosistema digital y facilitando la alineación entre experiencia de usuario, objetivos de negocio y viabilidad técnica.
 
-<img src="./img/chapter2/contextmapping.png">
+<img src="./img/chapter2/contextMappingv2.jpg">
 
 Enlace al Miro: https://miro.com/app/board/uXjVJHF5uag=/
+
+El contexto Shop Operations incluye el submódulo Recipe Management, encargado de la creación, actualización, aprobación y estandarización de recetas dentro de la cafetería. Este contexto centraliza la administración de recetas, asegurando trazabilidad por lote, método y fecha, así como la visibilidad controlada por roles (barista, jefe de barra).
 
 ## 2.5.3. Software Architecture
 
@@ -1715,6 +1717,7 @@ Este es el diagrama de Contenedores de nuestro sistema:
 ### 2.5.3.3. Software Architecture Deployment Diagrams
 Este es el diagrama de Despliegue de nuestro sistema:
 <img src="./img/chapter2/c4_3.png">
+AuthService y Notification Service son servicios externos gestionados (p. ej. Firebase Auth, Firebase Cloud Messaging) que proveen autenticación y mensajería push. Aunque no forman parte del código base de la aplicación, son dependencias críticas integradas vía APIs seguras (OAuth2 / HTTPS).
 
 # 2.6. Tactical-Level Domain-Driven Design
 
