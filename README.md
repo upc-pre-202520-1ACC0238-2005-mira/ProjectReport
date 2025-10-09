@@ -3996,13 +3996,13 @@ Con base en los requisitos anteriores, se seleccionó un conjunto de tecnología
 
  - **Propósito: Gestión de versiones, colaboración en el código y control de cambios.**
  - **Ruta de descarga: https://git-scm.com/**
- - **Repositorio del proyecto: -link del repo**
+ - **Repositorio del proyecto:** (https://github.com/upc-pre-202520-1ACC0238-2005-mira)
 
  **Product UX/UI Design**
  - **UI/UX: Creación de una interfaz amigable y accesible para los usuarios.**
  - **Herramienta: Figma**
  - **Propósito: Diseño de prototipos, flujos de interacción y maquetado visual de la aplicación.**
- - **Ruta del Figma: -link del figma**
+ - **Ruta del Figma:** (https://www.figma.com/design/zS1yCqj9PyyEGF9Zt7cW8m/XANTINA?node-id=48-2&t=On8xXJobTBgODpbA-1)
 
 ### 4.1.2. Source Code Management
 
@@ -4010,9 +4010,9 @@ Gestión de Cambios en el Código Fuente con GitHub
 
 En esta sección, nuestro equipo detalla los métodos y la estructura organizativa para gestionar los cambios en el código fuente utilizando GitHub como plataforma de control de versiones. Hemos configurado un repositorio remoto en GitHub para almacenar el código fuente y facilitar la colaboración entre los miembros del equipo. Los URLs de los repositorios son los siguientes:
 
-- Landing Page: 
-- Frontend Web Applications:
-- Backend Web Applications:
+- Figma: https: (https://www.figma.com/design/zS1yCqj9PyyEGF9Zt7cW8m/XANTINA?node-id=48-2&t=On8xXJobTBgODpbA-1)
+- Landing Page: https://github.com/upc-pre-202520-1ACC0238-2005-mira/landing-page.git
+- Backend Web Applications: https://github.com/upc-pre-202520-1ACC0238-2005-mira/backend.git
 
 ### 4.1.3. Source Code Style Guide & Conventions
 
