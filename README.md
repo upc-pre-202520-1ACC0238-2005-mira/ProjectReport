@@ -4350,16 +4350,84 @@ Gracias a este flujo de trabajo, la aplicación móvil de **Xantina** puede ser 
 
 
 #### 4.2.1.3. Development Evidence for Sprint Review
+
 #### 4.2.1.4. Testing Suite Evidence for Sprint Review
+
 #### 4.2.1.5. Execution Evidence for Sprint Review
+
 #### 4.2.1.6. Services Documentation Evidence for Sprint Review 
+
 #### 4.2.1.7. Software Deployment Evidence for Sprint Review
+
 #### 4.2.1.8. Team Collaboration Insights during Sprint
 
 ## 4.3. Validation Interviews
+
+En esta sección validaremos la propuesta de valor y la usabilidad de Xantina con usuarios reales de nuestros segmentos principales .  
+El objetivo es comprobar si las funcionalidades priorizadas aportan valor inmediato en el flujo de trabajo del día a día de nuestro público objetivo y son percibidas como herramientas rápidas, claras y útiles que facilitan su jornada diaria.  
+
+Para estas entrevistas primero realizaremos un diseño enfocándonos en identificar los user goals más relevantes de cada segmento objetivo para posteriormente definir preguntas propicias para evaluar su experiencia con nuestro producto.  
+
 ### 4.3.1. Diseño de Entrevistas
+
+#### Segmento #1: **Baristas (junior y senior)**
+- Acceder rápidamente a recetas aprobadas desde el móvil (EP02/US05, EP10/US23).  
+- Crear o ajustar recetas según cambios de lote (EP02/US04, EP02/US06).  
+- Seguir checklist de calibración al inicio de turno (EP03/US08).  
+- Registrar catas rápidas y comparar perfiles (EP04/US10, EP04/US11).  
+- Consultar offline recetas en horas pico (EP10/US25).  
+
+#### Segmento #2: **Jefes de barra / Dueños**
+- Crear cuenta y gestionar permisos de baristas (EP01/US01, EP06/US14–US16).  
+- Estandarizar y compartir recetas “de la casa” con el equipo (EP02/US07).  
+- Monitorear inventario y recibir alertas de stock (EP05/US12–US13).  
+- Generar reportes básicos de consumo y desempeño (EP07/US17).  
+- Comunicar cambios de lotes o recetas mediante notificaciones (EP08/US18–US19).  
+
+#### Segmento #3: **Entusiastas avanzados (home brewers)**
+- Acceder a recetas probadas y microlecciones (EP02/US04, EP09/US20).  
+- Registrar catas personales y compararlas (EP04/US10–US11).  
+- Consultar biblioteca de métodos y tips confiables.  
+
+#### Segmento #4: **Aliados del ecosistema (tostadores, escuelas) – Influenciadores**
+- Validar la trazabilidad de lotes compartidos (EP05/US12).  
+- Difundir contenido educativo y talleres (EP09/US20–US21).  
+
+### Preguntas para cada segmento:
+
+#### Baristas  
+1. ¿Qué tarea realizaste primero en la app? ¿Por qué?  
+2. ¿Qué tan fácil fue encontrar y usar una receta en medio del servicio?  
+3. En una escala de 1 a 5, ¿qué tan intuitivo fue el flujo de calibración?  
+4. ¿Qué tan claro fue el proceso de registrar una nueva cata?  
+5. ¿Qué función mejorarías para optimizar el flujo de la app durante horas pico?  
+6. Del 1 al 10, ¿qué tan útil es Xantina para mejorar la consistencia de tu servicio?  
+
+#### Jefes de barra / Dueños  
+1. ¿Tuviste dificultades durante el proceso de creación de cuenta y asignación de permisos?  
+2. ¿Cómo percibes la utilidad de compartir información y recetas con tu equipo?  
+3. ¿Encontraste alguna dificultad con la funcionalidad de gestión de inventario?  
+4. En una escala de 1 a 5, ¿cómo calificarías la claridad de los reportes de consumo?  
+5. Si pudieras añadir una función para optimizar la operación diaria en tu negocio, ¿cuál sería y por qué?  
+6. ¿Cual de las funcionalidades de Xantina te motivaría a recomendar la app a otro dueño de cafetería?   
+
+#### Entusiastas avanzados (home brewers)  
+1. ¿Qué tan útiles te resultaron las recetas y guías rápidas?  
+2. ¿Hay alguna funcionalidad que esperabas tener y no viste en la app?  
+3. ¿Qué tan clara fue la experiencia al registrar tu primera cata personal?  
+4. En una escala de 1 a 5, ¿qué tan fácil fue navegar entre recetas y catas?  
+5. ¿Cuál de las funciones que ofrece la app crees que utilizarías de manera constante en casa?  
+
+#### Aliados del ecosistema  
+1. ¿Qué tan claro fue el flujo de compartir o validar información de un lote?  
+2. ¿La app refleja estándares de calidad que recomendarías a tus estudiantes/clientes?  
+3. ¿Qué parte de la experiencia podría mejorarse brindar una mejor integración con programas de formación o certificaciones existentes?  
+4. ¿Qué te motivaría a recomendar Xantina a tu red principal de colaboradores?  
+
 ### 4.3.2. Registro de Entrevistas
+
 ### 4.3.3. Evaluaciones según heurísticas
+
 
 # Conclusiones
 - Xantina encaja con claridad en el nicho de cafeterías de especialidad en Lima: resuelve dos trabajos críticos —aprendizaje práctico y estandarización operativa— donde hoy dominan soluciones dispersas (cursos presenciales y contenido suelto en redes). El diferencial no es “tener más contenido”, sino insertarse en el flujo diario de barra con recetas aprobadas, checklist y catas accionables. El go-to-market más sólido combina pilotos por tienda, alianzas con tostadores y escuelas y un modelo freemium→B2B para equipos. El principal riesgo es la adopción en turno; queda mitigado con co-diseño en tiendas piloto y evidencia de uso en momentos clave (apertura, pico y cierre).
