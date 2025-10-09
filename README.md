@@ -1545,6 +1545,13 @@ La presente sección detalla la especificación de requerimientos del sistema Xa
 | **EP03** | Calibración y Operación en Barra | Permitir al barista calibrar su equipo y guiarlo en los procesos de preparación de forma ágil. |
 | **EP04** | Registro y Análisis de Catas | Ayudar a los baristas a documentar sus catas, comparar perfiles y tomar decisiones para mejorar la consistencia. |
 | **EP05** | Gestión de Inventario y Trazabilidad | Permitir el control básico de insumos y la trazabilidad de los granos de café. |
+| **EP06** | Gestión de Usuarios y Permisos | Permitir la administración de accesos, roles y seguridad en los equipos de trabajo. |
+| **EP07** | Reportes y Análisis | Facilitar al jefe de barra el acceso a reportes e insights sobre el consumo y desempeño. |
+| **EP08** | Comunicación y Difusión de Información | Mejorar la coordinación del equipo mediante comunicados y notificaciones. |
+| **EP09** | Landing Page y Difusión Pública | Mostrar información clara, atractiva y accesible sobre la plataforma y su propuesta de valor. |
+| **EP10** | Aplicación Móvil | Ofrecer a los baristas y jefes de barra acceso rápido y optimizado desde dispositivos móviles. |
+| **EP11** | Backend y API | Garantizar que todos los módulos del sistema tengan servicios estables, seguros y escalables. |
+| **EP12** | Seguridad y Autenticación Avanzada | Fortalecer la seguridad mediante cifrado y buenas prácticas en la autenticación. |
 
 ---
 
@@ -1609,7 +1616,42 @@ La presente sección detalla la especificación de requerimientos del sistema Xa
 | **EP08/US18** | Enviar comunicados al equipo | **Como** jefe de barra, **quiero** poder enviar comunicados importantes a todo mi equipo, **para poder** informar sobre cambios en recetas, nuevos procedimientos o actualizaciones del día. | **Dado** que tengo información importante que compartir,<br>**cuando** creo un comunicado y lo envío al equipo,<br>**entonces** todos los miembros reciben una notificación y pueden ver el mensaje en su panel principal. |
 | **EP08/US19** | Compartir actualizaciones de lote | **Como** jefe de barra, **quiero** notificar automáticamente al equipo cuando hay cambios en los lotes de café, **para que** todos estén al tanto de ajustes necesarios en las recetas y preparaciones. | **Dado** que registro un nuevo lote o modifico parámetros de uno existente,<br>**cuando** marco la opción "Notificar al equipo",<br>**entonces** todos los baristas reciben una alerta con los detalles del cambio y las recetas afectadas. |
 
+##### **EP09: Landing Page y Difusión Pública**
 
+| Story ID | Título de la Historia | Descripción (Situación y Motivación) | Criterios de Aceptación |
+| :--- | :--- | :--- | :--- |
+| **EP09/US20** | Ver información de la plataforma | **Como** visitante, **quiero** ver la información general de la app en la landing page, **para** entender su propuesta de valor. | **Dado** que ingreso a la página,<br>**cuando** navego por la landing,<br>**entonces** veo secciones con descripción, beneficios y capturas de la app. |
+| **EP09/US21** | Contactar al equipo | **Como** interesado, **quiero** tener un formulario de contacto, **para** resolver dudas o solicitar información. | **Dado** que estoy en la landing,<br>**cuando** uso el formulario de contacto,<br>**entonces** mi mensaje se envía al equipo y recibo confirmación. |
+| **EP09/US22** | Descargar la app | **Como** usuario potencial, **quiero** tener enlaces directos a Google Play y App Store, **para** descargar la app fácilmente. | **Dado** que estoy en la landing,<br>**cuando** selecciono “Descargar App”,<br>**entonces** soy redirigido a la tienda correspondiente. |
+
+---
+
+##### **EP10: Aplicación Móvil**
+
+| Story ID | Título de la Historia | Descripción (Situación y Motivación) | Criterios de Aceptación |
+| :--- | :--- | :--- | :--- |
+| **EP10/US23** | Acceso rápido desde móvil | **Como** barista, **quiero** que la app esté optimizada para uso con una mano, **para** poder trabajar en barra sin complicaciones. | **Dado** que abro la app,<br>**cuando** navego en sus menús,<br>**entonces** los botones y pantallas están adaptados al móvil. |
+| **EP10/US24** | Notificaciones push | **Como** miembro del equipo, **quiero** recibir notificaciones en mi celular, **para** estar al tanto de cambios en recetas o inventario. | **Dado** que un jefe crea un comunicado o receta,<br>**cuando** se envía la notificación,<br>**entonces** me aparece un aviso push en mi móvil. |
+| **EP10/US25** | Uso offline parcial | **Como** barista, **quiero** poder consultar recetas guardadas offline, **para** no depender totalmente de la conexión a internet. | **Dado** que no tengo conexión,<br>**cuando** abro la sección de recetas,<br>**entonces** puedo acceder a las últimas recetas descargadas. |
+
+---
+
+##### **EP11: Backend y API**
+
+| Story ID | Título de la Historia | Descripción (Situación y Motivación) | Criterios de Aceptación |
+| :--- | :--- | :--- | :--- |
+| **EP11/TS26** | API de gestión de usuarios | **Como** desarrollador, **quiero** un endpoint para crear, autenticar y manejar usuarios, **para** conectar frontend, móvil y backend. | **Dado** un request a la API,<br>**cuando** envío credenciales correctas,<br>**entonces** recibo tokens válidos para usar el sistema. |
+| **EP11/TS27** | API de recetas e inventario | **Como** desarrollador, **quiero** un endpoint que maneje recetas e inventario, **para** dar soporte a los módulos de barra y reportes. | **Dado** que consumo el endpoint,<br>**cuando** hago un POST/GET válido,<br>**entonces** la información se guarda o recupera correctamente. |
+| **EP11/TS28** | Logs y monitoreo | **Como** administrador técnico, **quiero** que el backend registre logs, **para** monitorear y solucionar incidencias. | **Dado** que se ejecuta una acción crítica,<br>**cuando** ocurre un error o evento importante,<br>**entonces** se registra en los logs con detalle. |
+
+---
+
+##### **EP12: Seguridad y Autenticación Avanzada**
+
+| Story ID | Título de la Historia | Descripción (Situación y Motivación) | Criterios de Aceptación |
+| :--- | :--- | :--- | :--- |
+| **EP12/TS29** | Cifrado de datos sensibles | **Como** administrador, **quiero** que las contraseñas e información crítica estén cifradas, **para** cumplir estándares de seguridad. | **Dado** que un usuario se registra,<br>**cuando** sus datos se guardan,<br>**entonces** la contraseña y campos sensibles están encriptados. |
+| **EP12/TS30** | Control de sesiones activas | **Como** usuario, **quiero** ver y cerrar mis sesiones activas, **para** tener control de mi seguridad. | **Dado** que accedo a mi perfil,<br>**cuando** entro a la sección de seguridad,<br>**entonces** veo mis sesiones activas y puedo cerrarlas. |
 
 ## 2.4.2. Impact Mapping
 <img src="./img/chapter2/impactMapping_Barista.png">
@@ -4149,23 +4191,164 @@ Gracias a este flujo de trabajo, la aplicación móvil de **Xantina** puede ser 
         <tr>
             <th>Sprint 1 Goal</th>
             <td>
-                Orientar la comunicación y captar potenciales usuarios a través de una landing page que refleje 
-                la propuesta de valor de Café Metrix, avanzar en el backend y pantallas principales de la aplicación, 
-                y documentar los capítulos clave del informe académico.
+                Desarrollar las primeras versiones de la aplicación móvil en conjunto con un backend funcional que cumpla con los requerimientos identificados durante el needfinding y documentar los capítulos clave del informe académico.
             </td>
         </tr>
         <tr>
             <th>Sprint 1 Velocity</th>
-            <td>8</td>
+            <td>15</td>
         </tr>
         <tr>
             <th>Sum of Story Points</th>
-            <td>8</td>
+            <td>15</td>
         </tr>
     </tbody>
 </table>
 
 #### 4.2.1.2. Sprint Backlog 1
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="6">Work-Item / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>EP08/US18</td>
+      <td>Landing Page Inicial</td>
+      <td>TK10</td>
+      <td>Configurar Next.js y diseño base</td>
+      <td>Inicializar proyecto con Next.js, TailwindCSS y estructura de componentes reutilizables.</td>
+      <td>5</td>
+      <td>Fabrizzio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TK11</td>
+      <td>Hero y Sección de Valor</td>
+      <td>Diseñar hero banner con CTA principal y mensajes de valor para baristas y cafeterías.</td>
+      <td>4</td>
+      <td>Fabrizzio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TK12</td>
+      <td>Planes y características</td>
+      <td>Implementar sección comparativa de planes con precios, beneficios y CTA de registro.</td>
+      <td>5</td>
+      <td>Fabrizzio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TK13</td>
+      <td>Footer con navegación</td>
+      <td>Construir pie de página con enlaces a secciones, contacto y legales.</td>
+      <td>3</td>
+      <td>Fabrizzio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>EP01/US01</td>
+      <td>Creación de cuenta y unión a cafetería</td>
+      <td>TK14</td>
+      <td>Configurar proyecto Nest.js y conexión a MongoDB</td>
+      <td>Configurar entorno, módulos principales y conexión con base de datos Mongo.</td>
+      <td>6</td>
+      <td>Guillermo</td>
+      <td>In Process</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TK15</td>
+      <td>Implementar módulo de usuarios</td>
+      <td>Crear endpoints para registro, login y recuperación de cuenta.</td>
+      <td>8</td>
+      <td>Guillermo</td>
+      <td>In Process</td>
+    </tr>
+    <tr>
+      <td>EP02/US04</td>
+      <td>Crear y guardar una receta</td>
+      <td>TK16</td>
+      <td>Implementar módulo de recetas</td>
+      <td>Crear endpoints CRUD para recetas con historial de modificaciones.</td>
+      <td>8</td>
+      <td>Guillermo</td>
+      <td>In Process</td>
+    </tr>
+    <tr>
+      <td>EP05/US12</td>
+      <td>Controlar mis lotes de café</td>
+      <td>TK17</td>
+      <td>Endpoints inventario y lotes</td>
+      <td>Crear endpoints para registrar, consultar y alertar stock bajo de granos.</td>
+      <td>6</td>
+      <td>Guillermo</td>
+      <td>In Process</td>
+    </tr>
+    <tr>
+      <td>EP01/US02</td>
+      <td>Entrar a mi cuenta</td>
+      <td>TK18</td>
+      <td>Diseñar pantalla Login y Registro</td>
+      <td>Implementar interfaces con validación de campos y conexión al backend.</td>
+      <td>6</td>
+      <td>Miguel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>EP02/US05</td>
+      <td>Acceder rápidamente a recetas</td>
+      <td>TK19</td>
+      <td>Pantalla de Recetas</td>
+      <td>Implementar vista lista de recetas con accesos rápidos a parámetros clave.</td>
+      <td>7</td>
+      <td>Miguel</td>
+      <td>In Process</td>
+    </tr>
+    <tr>
+      <td>EP05/US12</td>
+      <td>Controlar mis lotes de café</td>
+      <td>TK20</td>
+      <td>Pantalla de Inventario</td>
+      <td>Construir pantalla para registrar lotes de café e inventario actual.</td>
+      <td>6</td>
+      <td>Miguel</td>
+      <td>In Process</td>
+    </tr>
+    <tr>
+      <td>EP04/US10</td>
+      <td>Registrar una cata simplificada</td>
+      <td>TK21</td>
+      <td>Pantalla de Catas</td>
+      <td>Crear formulario simplificado para registrar notas sensoriales y puntajes.</td>
+      <td>5</td>
+      <td>Miguel</td>
+      <td>In Process</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 #### 4.2.1.3. Development Evidence for Sprint Review
 #### 4.2.1.4. Testing Suite Evidence for Sprint Review
 #### 4.2.1.5. Execution Evidence for Sprint Review
