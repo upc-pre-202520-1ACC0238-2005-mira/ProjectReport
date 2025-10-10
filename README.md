@@ -1639,7 +1639,42 @@ La presente sección detalla la especificación de requerimientos del sistema Xa
 
 ---
 
+##### **EP09: Landing Page y Difusión Pública**
 
+| Story ID | Título de la Historia | Descripción (Situación y Motivación) | Criterios de Aceptación |
+| :--- | :--- | :--- | :--- |
+| **EP09/US20** | Ver información de la plataforma | **Como** visitante, **quiero** ver la información general de la app en la landing page, **para** entender su propuesta de valor. | **Dado** que ingreso a la página,<br>**cuando** navego por la landing,<br>**entonces** veo secciones con descripción, beneficios y capturas de la app. |
+| **EP09/US21** | Contactar al equipo | **Como** interesado, **quiero** tener un formulario de contacto, **para** resolver dudas o solicitar información. | **Dado** que estoy en la landing,<br>**cuando** uso el formulario de contacto,<br>**entonces** mi mensaje se envía al equipo y recibo confirmación. |
+| **EP09/US22** | Descargar la app | **Como** usuario potencial, **quiero** tener enlaces directos a Google Play y App Store, **para** descargar la app fácilmente. | **Dado** que estoy en la landing,<br>**cuando** selecciono “Descargar App”,<br>**entonces** soy redirigido a la tienda correspondiente. |
+
+---
+
+##### **EP10: Aplicación Móvil**
+
+| Story ID | Título de la Historia | Descripción (Situación y Motivación) | Criterios de Aceptación |
+| :--- | :--- | :--- | :--- |
+| **EP10/US23** | Acceso rápido desde móvil | **Como** barista, **quiero** que la app esté optimizada para uso con una mano, **para** poder trabajar en barra sin complicaciones. | **Dado** que abro la app,<br>**cuando** navego en sus menús,<br>**entonces** los botones y pantallas están adaptados al móvil. |
+| **EP10/US24** | Notificaciones push | **Como** miembro del equipo, **quiero** recibir notificaciones en mi celular, **para** estar al tanto de cambios en recetas o inventario. | **Dado** que un jefe crea un comunicado o receta,<br>**cuando** se envía la notificación,<br>**entonces** me aparece un aviso push en mi móvil. |
+| **EP10/US25** | Uso offline parcial | **Como** barista, **quiero** poder consultar recetas guardadas offline, **para** no depender totalmente de la conexión a internet. | **Dado** que no tengo conexión,<br>**cuando** abro la sección de recetas,<br>**entonces** puedo acceder a las últimas recetas descargadas. |
+
+---
+
+##### **EP11: Backend y API**
+
+| Story ID | Título de la Historia | Descripción (Situación y Motivación) | Criterios de Aceptación |
+| :--- | :--- | :--- | :--- |
+| **EP11/TS26** | API de gestión de usuarios | **Como** desarrollador, **quiero** un endpoint para crear, autenticar y manejar usuarios, **para** conectar frontend, móvil y backend. | **Dado** un request a la API,<br>**cuando** envío credenciales correctas,<br>**entonces** recibo tokens válidos para usar el sistema. |
+| **EP11/TS27** | API de recetas e inventario | **Como** desarrollador, **quiero** un endpoint que maneje recetas e inventario, **para** dar soporte a los módulos de barra y reportes. | **Dado** que consumo el endpoint,<br>**cuando** hago un POST/GET válido,<br>**entonces** la información se guarda o recupera correctamente. |
+| **EP11/TS28** | Logs y monitoreo | **Como** administrador técnico, **quiero** que el backend registre logs, **para** monitorear y solucionar incidencias. | **Dado** que se ejecuta una acción crítica,<br>**cuando** ocurre un error o evento importante,<br>**entonces** se registra en los logs con detalle. |
+
+---
+
+##### **EP12: Seguridad y Autenticación Avanzada**
+
+| Story ID | Título de la Historia | Descripción (Situación y Motivación) | Criterios de Aceptación |
+| :--- | :--- | :--- | :--- |
+| **EP12/TS29** | Cifrado de datos sensibles | **Como** administrador, **quiero** que las contraseñas e información crítica estén cifradas, **para** cumplir estándares de seguridad. | **Dado** que un usuario se registra,<br>**cuando** sus datos se guardan,<br>**entonces** la contraseña y campos sensibles están encriptados. |
+| **EP12/TS30** | Control de sesiones activas | **Como** usuario, **quiero** ver y cerrar mis sesiones activas, **para** tener control de mi seguridad. | **Dado** que accedo a mi perfil,<br>**cuando** entro a la sección de seguridad,<br>**entonces** veo mis sesiones activas y puedo cerrarlas. |
 
 ## 2.4.2. Impact Mapping
 <img src="./img/chapter2/impactMapping_Barista.png">
@@ -3976,8 +4011,445 @@ Bounded Context: Management
 
 #### 2.6.1.6.2. Bounded Context Database Design Diagram
 El diseño de base de datos es el proceso de organizar y estructurar los datos en un sistema, creando tablas, relaciones y reglas para garantizar eficiencia, integridad y facilidad de acceso. Este diseño asegura que los datos se almacenen de manera coherente y sean fáciles de gestionar, consultar y mantener a medida que el sistema crece y evoluciona.
+
 ### 4.8.1. Database Diagram.
 <td><img src="img\Database_Diagram.png"></td>
+
+# Capítulo IV: Product Implementation & Validation
+
+En esta sección se describe el proceso de implementación del producto Xantina, abarcando la gestión del entorno de desarrollo, el control de versiones del código fuente, las convenciones de estilo aplicadas y la configuración del despliegue del software.
+Asimismo, se incluyen las validaciones realizadas durante la integración de los componentes y las pruebas funcionales básicas del sistema.
+
+## 4.1. Software Configuration Management
+
+La Gestión de Configuración de Software (SCM, por sus siglas en inglés) es una disciplina en el desarrollo de software encargada de identificar, controlar y rastrear los componentes del software a lo largo de su ciclo de vida. Esta metodología facilita la administración organizada de cambios en documentos, códigos y otros elementos durante el proceso de desarrollo, garantizando así una gestión eficiente y ordenada. Su objetivo principal es mejorar la eficiencia del equipo de desarrollo y minimizar los errores.
+
+### 4.1.1. Software Development Environment Configuration
+
+En esta sección, presentaremos las convenciones y prácticas recomendadas adoptadas en Kotlin, Java, XML y JavaScript para el desarrollo de Xantina, una aplicación móvil enfocada en la gestión inteligente de pedidos y experiencias sensoriales en el sector gastronómico.
+Estas directrices garantizan una estructura coherente del código, mejoran la mantenibilidad y optimizan el rendimiento general del sistema en tiempo real.
+
+El proyecto Xantina busca responder a los desafíos tecnológicos actuales mediante soluciones que integren sostenibilidad, innovación y eficiencia operativa. Las prácticas aplicadas aseguran que el sistema se mantenga robusto, escalable y alineado con los principios de calidad de software y experiencia de usuario moderna.
+
+A continuación, se detallan las directrices y configuraciones aplicadas en cada una de las tecnologías empleadas, contribuyendo al desarrollo de una plataforma confiable, intuitiva y eficiente.
+
+**Definición de Requisitos**
+
+Antes de iniciar el desarrollo de Xantina, fue necesario definir los requisitos funcionales y técnicos que darían forma al producto. Estos requisitos reflejan el compromiso con la innovación tecnológica, la eficiencia operativa y la mejora continua en la experiencia del usuario.
+
+- **Gestión de Datos en Tiempo Real: Uso de una base de datos sincronizada para mantener actualizada la información sin necesidad de intervención manual.**
+- **Escalabilidad del Sistema: Arquitectura adaptable que permita futuras integraciones o expansión de funcionalidades.**
+- **Experiencia de Usuario Intuitiva: Diseño centrado en el usuario con interfaces responsivas y una navegación clara.**
+- **Integración Multiplataforma: Compatibilidad con sistemas Android modernos, asegurando rendimiento óptimo en diferentes dispositivos.**
+
+**Elección de la Tecnología**
+
+Con base en los requisitos anteriores, se seleccionó un conjunto de tecnologías modernas y multiplataforma que permiten construir una aplicación de alto rendimiento, segura y escalable.
+
+**Configuración del Entorno de Desarrollo Android Studio**
+
+ - **Editor de Código: Android Studio | Versión estable 2025**
+ - **Propósito: Desarrollo, compilación y despliegue de la aplicación móvil Android.**
+ - **Ruta de descarga: https://developer.android.com/studio**
+
+**Editor de Código Alternativo: Visual Studio Code**
+
+ - **Propósito: Desarrollo y edición de código del backend y scripts auxiliares.**
+ - **Ruta de descarga: https://code.visualstudio.com/**
+
+**Control de Versiones: Git y GitHub**
+
+ - **Propósito: Gestión de versiones, colaboración en el código y control de cambios.**
+ - **Ruta de descarga: https://git-scm.com/**
+ - **Repositorio del proyecto:** (https://github.com/upc-pre-202520-1ACC0238-2005-mira)
+
+ **Product UX/UI Design**
+ - **UI/UX: Creación de una interfaz amigable y accesible para los usuarios.**
+ - **Herramienta: Figma**
+ - **Propósito: Diseño de prototipos, flujos de interacción y maquetado visual de la aplicación.**
+ - **Ruta del Figma:** (https://www.figma.com/design/zS1yCqj9PyyEGF9Zt7cW8m/XANTINA?node-id=48-2&t=On8xXJobTBgODpbA-1)
+
+### 4.1.2. Source Code Management
+
+Gestión de Cambios en el Código Fuente con GitHub
+
+En esta sección, nuestro equipo detalla los métodos y la estructura organizativa para gestionar los cambios en el código fuente utilizando GitHub como plataforma de control de versiones. Hemos configurado un repositorio remoto en GitHub para almacenar el código fuente y facilitar la colaboración entre los miembros del equipo. Los URLs de los repositorios son los siguientes:
+
+- Figma: https: (https://www.figma.com/design/zS1yCqj9PyyEGF9Zt7cW8m/XANTINA?node-id=48-2&t=On8xXJobTBgODpbA-1)
+- Landing Page: https://github.com/upc-pre-202520-1ACC0238-2005-mira/landing-page.git
+- Backend Web Applications: https://github.com/upc-pre-202520-1ACC0238-2005-mira/backend.git
+
+### 4.1.3. Source Code Style Guide & Conventions
+
+Todo el código de la solución deberá ser escrito completamente en **inglés**, con el objetivo de mantener la consistencia internacional, facilitar su mantenimiento y permitir la colaboración entre diferentes equipos de desarrollo.
+
+### HTML
+- Escribir todas las etiquetas y atributos en minúscula.  
+- Cerrar correctamente todas las etiquetas.  
+- Especificar los atributos `alt`, `width` y `height` en las imágenes para mejorar la accesibilidad.  
+- Evitar espacios innecesarios o valores repetidos en los atributos.  
+
+### CSS
+- Asignar nombres de clases e identificadores que sean claros, descriptivos y en inglés.  
+- Mantener una estructura ordenada y consistente, utilizando sangrías y comentarios para separar secciones.  
+- Aplicar propiedades abreviadas cuando sea posible para optimizar el código.  
+- Evitar el uso de unidades después de valores de cero (`margin: 0;` en lugar de `margin: 0px;`).  
+
+### JavaScript
+- Usar **lowerCamelCase** para nombrar variables y funciones.  
+- Emplear `let` y `const` en lugar de `var` para declarar variables.  
+- Asegurar que los nombres de funciones y variables sean descriptivos y estén en inglés.  
+- Mantener un formato limpio con sangrías uniformes y comentarios solo cuando sean necesarios.  
+
+### Android Studio
+- Escribir todo el código y comentarios en inglés.  
+- Mantener una estructura de carpetas organizada por funcionalidades (por ejemplo: `ui/`, `data/`, `model/`).  
+- Nombrar los archivos, layouts y recursos en minúscula y con guiones bajos (`activity_main.xml`, `btn_login`).  
+- Evitar el uso de valores fijos o texto directo en el código; emplear los recursos definidos en `strings.xml` y `colors.xml`.  
+
+## 4.1.4. Software Deployment Configuration
+
+### Aplicación Móvil Deployment
+
+Para el despliegue de la aplicación móvil de **Xantina**, es necesario contar con el entorno de desarrollo configurado en **Android Studio**, así como acceso al repositorio remoto alojado en **GitHub**.  
+Este proceso garantiza que el código fuente se mantenga sincronizado entre los miembros del equipo y que las versiones generadas puedan ser compiladas y distribuidas correctamente.
+
+### Creación de ramas
+- Se crean ramas específicas para que cada integrante del equipo pueda trabajar en diferentes módulos o características de la aplicación sin generar conflictos en la rama principal.  
+- Se utiliza una estructura de ramas basada en **GitFlow**, lo que facilita la integración continua y la administración del código en desarrollo.  
+- La rama `main` contiene la versión estable lista para su publicación y la rama `develop` almacena las actualizaciones en curso.
+
+### Estructura del proyecto
+- Se mantiene una estructura ordenada dentro de Android Studio para facilitar la navegación y el mantenimiento del código:  
+  - Carpeta `app/src/main/java`: contiene las clases y controladores principales del proyecto.  
+  - Carpeta `app/src/main/res/layout`: incluye los archivos XML con el diseño de las interfaces de usuario.  
+  - Carpeta `app/src/main/res/values`: almacena los recursos como cadenas de texto, colores y estilos.  
+  - Archivo `app/src/main/AndroidManifest.xml`: define los permisos, actividades y componentes de la aplicación.  
+
+### Subida de archivos al repositorio
+- Se instala y configura **Git** en Android Studio mediante la opción integrada de *Version Control*.  
+- Se enlaza el repositorio remoto de GitHub con el proyecto local desde la opción **VCS → Git → Remotes**.  
+- Se emplean los comandos internos de Android Studio (`Commit` y `Push`) o la terminal integrada para enviar los cambios al repositorio remoto.  
+- Se mantienen mensajes de *commit* claros y descriptivos siguiendo la convención **Conventional Commits**.
+
+### Configuración para el despliegue
+- En Android Studio, se selecciona la opción **Build → Build Bundle(s) / APK(s)** para generar el archivo instalable (.apk o .aab).  
+- Se configura el archivo `build.gradle` para definir el *applicationId*, versión y dependencias necesarias.  
+- Se realiza la conexión de un dispositivo físico mediante USB o un emulador configurado en **AVD Manager**.  
+- Una vez generado el archivo instalable, se prueba la aplicación en distintos dispositivos para validar su correcto funcionamiento antes del despliegue final.  
+- Para su publicación, se firma la aplicación mediante una **keystore** y se distribuye a través de **Google Play Console** o por medios internos de prueba (*Beta/Testing*).
+
+### Resolución de conflictos
+- En caso de conflictos al integrar ramas, se utilizan las herramientas de comparación y fusión integradas en Android Studio.  
+- Se verifican los cambios manualmente en los archivos afectados y se realiza una nueva compilación para confirmar que el proyecto se ejecuta correctamente.  
+- Se documentan las correcciones en el repositorio para mantener trazabilidad y transparencia entre los miembros del equipo.
+
+Gracias a este flujo de trabajo, la aplicación móvil de **Xantina** puede ser compilada, probada y desplegada de forma eficiente, asegurando una versión estable y lista para ser distribuida en entornos de producción o pruebas controladas.
+
+## 4.2. Landing Page & Mobile Application Implementation
+
+### 4.2.1. Sprint 1
+#### 4.2.1.1. Sprint Planning 1
+<table border="1" cellpadding="6" cellspacing="0">
+    <tbody>
+        <tr>
+            <th>Sprint #</th>
+            <td>1</td>
+        </tr>
+        <tr>
+            <th colspan="2">Sprint Planning Background</th>
+        </tr>
+        <tr>
+            <th>Date</th>
+            <td>2/10/2025</td>
+        </tr>
+        <tr>
+            <th>Time</th>
+            <td>09:00 PM</td>
+        </tr>
+        <tr>
+            <th>Location</th>
+            <td>Reunión presencial después de clase</td>
+        </tr>
+        <tr>
+            <th>Prepared By</th>
+            <td>Guillermo Tantaleán</td>
+        </tr>
+        <tr>
+            <th>Attendees (to planning meeting)</th>
+            <td>
+                Guillermo Tantaleán, Fabrizzio Pereira, Miguel Vidal, Fabián Oliva, Juan Diego Mondoñedo
+            </td>
+        </tr>
+        <tr>
+            <th>Sprint 1 Review Summary</th>
+            <td>
+                Se avanzó en la implementación de la Landing Page con Next.js, 
+                completando UI, división de desarrollo, desarrollo en conjunto y despliegue.  
+                Se logró un 70% de despliegue del backend con Nest.js y MongoDB liderado por Guillermo Tantaleán, 
+                incluyendo arquitectura, desarrollo compartido y configuración de despliegue.  
+                También se desarrollaron las pantallas core de la aplicación (UI y flujo principal).  
+                En paralelo, se actualizó el registro de versiones del informe, <i>Project Report Collaboration Insights</i>, 
+                <i>Student Outcome</i>, y capítulos del informe académico:
+                <ul>
+                    <li><b>Capítulo III: UX/UI Design</b> – Miguel Vidal (Style Guidelines, Information Architecture, Wireframes, Mock-ups y Prototipos)</li>
+                    <li><b>Capítulo IV: Product Implementation & Validation</b> – Fabián Oliva (Software Configuration Management, Landing Page & Mobile App Implementation, Sprint Documentation)</li>
+                    <li><b>Sprint 1 Documentación y Conclusiones</b> – Juan Diego</li>
+                    <li>Bibliografía y Anexos</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <th>Sprint 1 Retrospective Summary</th>
+            <td>
+                El equipo destacó el buen avance en paralelo entre desarrollo técnico (frontend, backend y pantallas core) 
+                y documentación académica. Se valoró la coordinación entre responsables de UI/UX, backend y redacción.  
+                Como mejora se identificó la necesidad de consolidar evidencias del sprint en un repositorio común 
+                y mantener un flujo más frecuente de revisiones intermedias.
+            </td>
+        </tr>
+        <tr>
+            <th colspan="2">Sprint Goal & User Stories</th>
+        </tr>
+        <tr>
+            <th>Sprint 1 Goal</th>
+            <td>
+                Desarrollar las primeras versiones de la aplicación móvil en conjunto con un backend funcional que cumpla con los requerimientos identificados durante el needfinding y documentar los capítulos clave del informe académico.
+            </td>
+        </tr>
+        <tr>
+            <th>Sprint 1 Velocity</th>
+            <td>15</td>
+        </tr>
+        <tr>
+            <th>Sum of Story Points</th>
+            <td>15</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 4.2.1.2. Sprint Backlog 1
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="6">Work-Item / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>EP08/US18</td>
+      <td>Landing Page Inicial</td>
+      <td>TK10</td>
+      <td>Configurar Next.js y diseño base</td>
+      <td>Inicializar proyecto con Next.js, TailwindCSS y estructura de componentes reutilizables.</td>
+      <td>5</td>
+      <td>Fabrizzio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TK11</td>
+      <td>Hero y Sección de Valor</td>
+      <td>Diseñar hero banner con CTA principal y mensajes de valor para baristas y cafeterías.</td>
+      <td>4</td>
+      <td>Fabrizzio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TK12</td>
+      <td>Planes y características</td>
+      <td>Implementar sección comparativa de planes con precios, beneficios y CTA de registro.</td>
+      <td>5</td>
+      <td>Fabrizzio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TK13</td>
+      <td>Footer con navegación</td>
+      <td>Construir pie de página con enlaces a secciones, contacto y legales.</td>
+      <td>3</td>
+      <td>Fabrizzio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>EP01/US01</td>
+      <td>Creación de cuenta y unión a cafetería</td>
+      <td>TK14</td>
+      <td>Configurar proyecto Nest.js y conexión a MongoDB</td>
+      <td>Configurar entorno, módulos principales y conexión con base de datos Mongo.</td>
+      <td>6</td>
+      <td>Guillermo</td>
+      <td>In Process</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TK15</td>
+      <td>Implementar módulo de usuarios</td>
+      <td>Crear endpoints para registro, login y recuperación de cuenta.</td>
+      <td>8</td>
+      <td>Guillermo</td>
+      <td>In Process</td>
+    </tr>
+    <tr>
+      <td>EP02/US04</td>
+      <td>Crear y guardar una receta</td>
+      <td>TK16</td>
+      <td>Implementar módulo de recetas</td>
+      <td>Crear endpoints CRUD para recetas con historial de modificaciones.</td>
+      <td>8</td>
+      <td>Guillermo</td>
+      <td>In Process</td>
+    </tr>
+    <tr>
+      <td>EP05/US12</td>
+      <td>Controlar mis lotes de café</td>
+      <td>TK17</td>
+      <td>Endpoints inventario y lotes</td>
+      <td>Crear endpoints para registrar, consultar y alertar stock bajo de granos.</td>
+      <td>6</td>
+      <td>Guillermo</td>
+      <td>In Process</td>
+    </tr>
+    <tr>
+      <td>EP01/US02</td>
+      <td>Entrar a mi cuenta</td>
+      <td>TK18</td>
+      <td>Diseñar pantalla Login y Registro</td>
+      <td>Implementar interfaces con validación de campos y conexión al backend.</td>
+      <td>6</td>
+      <td>Miguel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>EP02/US05</td>
+      <td>Acceder rápidamente a recetas</td>
+      <td>TK19</td>
+      <td>Pantalla de Recetas</td>
+      <td>Implementar vista lista de recetas con accesos rápidos a parámetros clave.</td>
+      <td>7</td>
+      <td>Miguel</td>
+      <td>In Process</td>
+    </tr>
+    <tr>
+      <td>EP05/US12</td>
+      <td>Controlar mis lotes de café</td>
+      <td>TK20</td>
+      <td>Pantalla de Inventario</td>
+      <td>Construir pantalla para registrar lotes de café e inventario actual.</td>
+      <td>6</td>
+      <td>Miguel</td>
+      <td>In Process</td>
+    </tr>
+    <tr>
+      <td>EP04/US10</td>
+      <td>Registrar una cata simplificada</td>
+      <td>TK21</td>
+      <td>Pantalla de Catas</td>
+      <td>Crear formulario simplificado para registrar notas sensoriales y puntajes.</td>
+      <td>5</td>
+      <td>Miguel</td>
+      <td>In Process</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+#### 4.2.1.3. Development Evidence for Sprint Review
+
+#### 4.2.1.4. Testing Suite Evidence for Sprint Review
+
+#### 4.2.1.5. Execution Evidence for Sprint Review
+
+#### 4.2.1.6. Services Documentation Evidence for Sprint Review 
+
+#### 4.2.1.7. Software Deployment Evidence for Sprint Review
+
+#### 4.2.1.8. Team Collaboration Insights during Sprint
+
+## 4.3. Validation Interviews
+
+En esta sección validaremos la propuesta de valor y la usabilidad de Xantina con usuarios reales de nuestros segmentos principales .  
+El objetivo es comprobar si las funcionalidades priorizadas aportan valor inmediato en el flujo de trabajo del día a día de nuestro público objetivo y son percibidas como herramientas rápidas, claras y útiles que facilitan su jornada diaria.  
+
+Para estas entrevistas primero realizaremos un diseño enfocándonos en identificar los user goals más relevantes de cada segmento objetivo para posteriormente definir preguntas propicias para evaluar su experiencia con nuestro producto.  
+
+### 4.3.1. Diseño de Entrevistas
+
+#### Segmento #1: **Baristas (junior y senior)**
+- Acceder rápidamente a recetas aprobadas desde el móvil (EP02/US05, EP10/US23).  
+- Crear o ajustar recetas según cambios de lote (EP02/US04, EP02/US06).  
+- Seguir checklist de calibración al inicio de turno (EP03/US08).  
+- Registrar catas rápidas y comparar perfiles (EP04/US10, EP04/US11).  
+- Consultar offline recetas en horas pico (EP10/US25).  
+
+#### Segmento #2: **Jefes de barra / Dueños**
+- Crear cuenta y gestionar permisos de baristas (EP01/US01, EP06/US14–US16).  
+- Estandarizar y compartir recetas “de la casa” con el equipo (EP02/US07).  
+- Monitorear inventario y recibir alertas de stock (EP05/US12–US13).  
+- Generar reportes básicos de consumo y desempeño (EP07/US17).  
+- Comunicar cambios de lotes o recetas mediante notificaciones (EP08/US18–US19).  
+
+#### Segmento #3: **Entusiastas avanzados (home brewers)**
+- Acceder a recetas probadas y microlecciones (EP02/US04, EP09/US20).  
+- Registrar catas personales y compararlas (EP04/US10–US11).  
+- Consultar biblioteca de métodos y tips confiables.  
+
+#### Segmento #4: **Aliados del ecosistema (tostadores, escuelas) – Influenciadores**
+- Validar la trazabilidad de lotes compartidos (EP05/US12).  
+- Difundir contenido educativo y talleres (EP09/US20–US21).  
+
+### Preguntas para cada segmento:
+
+#### Baristas  
+1. ¿Qué tarea realizaste primero en la app? ¿Por qué?  
+2. ¿Qué tan fácil fue encontrar y usar una receta en medio del servicio?  
+3. En una escala de 1 a 5, ¿qué tan intuitivo fue el flujo de calibración?  
+4. ¿Qué tan claro fue el proceso de registrar una nueva cata?  
+5. ¿Qué función mejorarías para optimizar el flujo de la app durante horas pico?  
+6. Del 1 al 10, ¿qué tan útil es Xantina para mejorar la consistencia de tu servicio?  
+
+#### Jefes de barra / Dueños  
+1. ¿Tuviste dificultades durante el proceso de creación de cuenta y asignación de permisos?  
+2. ¿Cómo percibes la utilidad de compartir información y recetas con tu equipo?  
+3. ¿Encontraste alguna dificultad con la funcionalidad de gestión de inventario?  
+4. En una escala de 1 a 5, ¿cómo calificarías la claridad de los reportes de consumo?  
+5. Si pudieras añadir una función para optimizar la operación diaria en tu negocio, ¿cuál sería y por qué?  
+6. ¿Cual de las funcionalidades de Xantina te motivaría a recomendar la app a otro dueño de cafetería?   
+
+#### Entusiastas avanzados (home brewers)  
+1. ¿Qué tan útiles te resultaron las recetas y guías rápidas?  
+2. ¿Hay alguna funcionalidad que esperabas tener y no viste en la app?  
+3. ¿Qué tan clara fue la experiencia al registrar tu primera cata personal?  
+4. En una escala de 1 a 5, ¿qué tan fácil fue navegar entre recetas y catas?  
+5. ¿Cuál de las funciones que ofrece la app crees que utilizarías de manera constante en casa?  
+
+#### Aliados del ecosistema  
+1. ¿Qué tan claro fue el flujo de compartir o validar información de un lote?  
+2. ¿La app refleja estándares de calidad que recomendarías a tus estudiantes/clientes?  
+3. ¿Qué parte de la experiencia podría mejorarse brindar una mejor integración con programas de formación o certificaciones existentes?  
+4. ¿Qué te motivaría a recomendar Xantina a tu red principal de colaboradores?  
+
+### 4.3.2. Registro de Entrevistas
+
+### 4.3.3. Evaluaciones según heurísticas
 
 
 # Conclusiones
@@ -4001,33 +4473,11 @@ Pichler, R. (2010). Agile Product Management with Scrum: Creating Products that 
 
 
 # Anexos
-- Enlace para acceder al [video exposición de TB1]()
-
-- Enlace para acceder al [video exposición de TP1]()
-
-- Enlace para acceder al [Figma]()
-
-- Enlace para acceder al  [repositorio Front-end](https://github.com/upc-pre-202520-1ACC0238-2005-mira/XantinaApp)
-
-- Enlace para acceder al  [Front-end]()
-
-- Enlace para acceder al [repositorio Back-end](https://github.com/upc-pre-202520-1ACC0238-2005-mira/backend)
-
-- Enlace para acceder al [repositorio Landing-page](https://github.com/upc-pre-202520-1ACC0238-2005-mira/landing-page)
-
-- Enlace para acceder al [Landing-page]()
-
-- Enlace para acceder al [Backend deployado]()
-
-- Enlace para acceder al [repositorio Informe](https://github.com/CodyLionVivo/ProjectReport/tree/main?tab=readme-ov-file)
-
-- Enlace al video "About the Team": [video about the team]()
-
-- Enlace al video "About the Product": [video about the product]()
-
-- Enlace para acceder al [video de entrevistas de validacion]()
-
-- Enlace para acceder al [video exposicion tb2]()
-
-- Enlace para acceder al [video exposicion trabajo final]()
-
+- Reporte: [Enlace](https://github.com/upc-pre-202520-1ACC0238-2005-mira/ProjectReport)
+- Repositorio de la Landing Page: [Enlace](https://github.com/upc-pre-202520-1ACC0238-2005-mira/landing-page)
+- Repositorio de la App: [Enlace](https://github.com/upc-pre-202520-1ACC0238-2005-mira/XantinaApp)
+- Repositorio del Backend: [Enlace](https://github.com/upc-pre-202520-1ACC0238-2005-mira/backend)
+- Landing Page: [Enlace](https://xantina.vercel.app/)
+- Backend API: [Enlace](https://backend-production-da30.up.railway.app/api)
+- Enlace para acceder al [video exposición de TP1](https://upcedupe-my.sharepoint.com/:f:/g/personal/u202311958_upc_edu_pe/EjGOGgMcO51MhhDyf7FuWIgBqsYm6hWDUe0vhWCp1AmMzw?e=U0Ra7a)
+- Enlace para acceder al [Figma](https://www.figma.com/design/zS1yCqj9PyyEGF9Zt7cW8m/XANTINA?node-id=48-2&p=f&t=On8xXJobTBgODpbA-0)
