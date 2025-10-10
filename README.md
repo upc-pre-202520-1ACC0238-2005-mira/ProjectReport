@@ -4351,9 +4351,14 @@ Gracias a este flujo de trabajo, la aplicación móvil de **Xantina** puede ser 
 
 #### 4.2.1.3. Development Evidence for Sprint Review
 
+<img src="img\landingEvidence1.PNG">
+<img src="img\landingEvidence2.PNG">
+
 #### 4.2.1.4. Testing Suite Evidence for Sprint Review
 
 #### 4.2.1.5. Execution Evidence for Sprint Review
+
+
 
 #### 4.2.1.6. Services Documentation Evidence for Sprint Review 
 
