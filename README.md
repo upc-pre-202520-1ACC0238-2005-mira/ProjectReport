@@ -4444,5 +4444,11 @@ Tune, N. (2020, 12 enero). Modelling Bounded Contexts with the Bounded Context C
 
 
 # Anexos
-- Reporte: [Enlace](https://github.com/CodyLionVivo/ProjectReport)
+- Reporte: [Enlace](https://github.com/upc-pre-202520-1ACC0238-2005-mira/ProjectReport)
+- Repositorio de la Landing Page: [Enlace](https://github.com/upc-pre-202520-1ACC0238-2005-mira/landing-page)
+- Repositorio de la App: [Enlace](https://github.com/upc-pre-202520-1ACC0238-2005-mira/XantinaApp)
+- Repositorio del Backend: [Enlace](https://github.com/upc-pre-202520-1ACC0238-2005-mira/backend)
+- Landing Page: [Enlace](https://xantina.vercel.app/)
+- Backend API: [Enlace](https://backend-production-da30.up.railway.app/api)
+
 
