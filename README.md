@@ -1058,7 +1058,7 @@ Dividimos la guía en **dos bloques** por segmento. El **Bloque A (descubrimient
               <li><strong>Duración:</strong> 06:17</li>
             </ul>
           </div>
-          <img style="max-width: 40%; height: auto; border-radius: 10px; object-fit: cover; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);" src="/img/chapter2/segmento-barista-1.png">
+          <img style="max-width: 40%; height: 240px; border-radius: 10px; object-fit: cover; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);" src="/img/chapter2/segmento-barista-1.png">
         </div>
       </td>
     </tr>
@@ -1102,7 +1102,7 @@ Dividimos la guía en **dos bloques** por segmento. El **Bloque A (descubrimient
               <li><strong>Duración:</strong> 06:25</li>
             </ul>
           </div>
-          <img style="max-width: 40%; height: auto; border-radius: 10px; object-fit: cover; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);" src="">
+          <img style="max-width: 40%; height: 240px; border-radius: 10px; object-fit: cover; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);" src="/img/chapter2/segmento-barista-2.png">
         </div>
       </td>
     </tr>
@@ -1117,39 +1117,6 @@ Dividimos la guía en **dos bloques** por segmento. El **Bloque A (descubrimient
           font-family: Arial, sans-serif;
           margin-bottom: 40px;">
   <thead>
-    <tr>
-      <th style="
-            text-align: left;
-            padding: 12px;
-            background-color: #f0f0f0;
-            font-size: 22px;"><strong>SEGMENTO OBJETIVO: BARISTA</strong></th>
-      <th style="
-            text-align: left;
-            padding: 12px;
-            background-color: #f0f0f0;
-            font-size: 22px;"><strong>#3</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td colspan="2" style="padding: 0; vertical-align: top; background-color: #fff border-top: 1px solid #ddd;" style="padding: 0; vertical-align: top; background-color: #fff border-top: 1px solid #ddd;">
-        <div style="display: flex; gap: 24px; align-items: flex-start; background-color: #fafafa; border-radius: 10px; padding: 24px;">
-          <div style="flex: 1; display: flex; flex-direction: column;">
-            <p style="font-size: 18px; font-weight: bold; color: #2c3e50; margin-bottom: 12px; padding-bottom: 6px;">Datos generales</p>
-            <ul style="margin: 0; padding-left: 20px; list-style-type: disc; font-size: 1.05em; line-height: 1.7; color: #333;">
-              <li><strong>Nombres:</strong> Jorge Rolando</li>
-              <li><strong>Apellidos:</strong> Garcia Roque</li>
-              <li><strong>Edad:</strong> 27</li>
-              <li><strong>Distrito:</strong> San Miguel</li>
-              <li><strong>URL Entrevista:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b994_upc_edu_pe/EdrzyrYimb5Ail4Jx6mqBMEBFv7kOmMJCXt7YLxTAVuznw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MmQAAK" target="_blank">Ver video</a></li>
-              <li><strong>Timestamp:</strong> 12:43</li>
-              <li><strong>Duración:</strong> 07:48</li>
-            </ul>
-          </div>
-          <img style="max-width: 40%; height: auto; border-radius: 10px; object-fit: cover; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);" src="">
-        </div>
-      </td>
-    </tr>
   </tbody>
 </table>
 
@@ -1181,16 +1148,16 @@ Dividimos la guía en **dos bloques** por segmento. El **Bloque A (descubrimient
           <div style="flex: 1; display: flex; flex-direction: column;">
             <p style="font-size: 18px; font-weight: bold; color: #2c3e50; margin-bottom: 12px; padding-bottom: 6px;">Datos generales</p>
             <ul style="margin: 0; padding-left: 20px; list-style-type: disc; font-size: 1.05em; line-height: 1.7; color: #333;">
-              <li><strong>Nombres:</strong> Jorge Rolando</li>
-              <li><strong>Apellidos:</strong> Garcia Roque</li>
-              <li><strong>Edad:</strong> 27</li>
+              <li><strong>Nombres:</strong> Miguel Ángel</li>
+              <li><strong>Apellidos:</strong> Saucedo Zambrano</li>
+              <li><strong>Edad:</strong> 26</li>
               <li><strong>Distrito:</strong> San Miguel</li>
               <li><strong>URL Entrevista:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b994_upc_edu_pe/EdrzyrYimb5Ail4Jx6mqBMEBFv7kOmMJCXt7YLxTAVuznw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MmQAAK" target="_blank">Ver video</a></li>
               <li><strong>Timestamp:</strong> 20:31</li>
               <li><strong>Duración:</strong> 03:39</li>
             </ul>
           </div>
-          <img style="max-width: 40%; height: auto; border-radius: 10px; object-fit: cover; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);" src="">
+          <img style="max-width: 40%; height: 240px; border-radius: 10px; object-fit: cover; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);" src="/img/chapter2/segmento-dueño-1.png">
         </div>
       </td>
     </tr>
@@ -1225,8 +1192,8 @@ Dividimos la guía en **dos bloques** por segmento. El **Bloque A (descubrimient
           <div style="flex: 1; display: flex; flex-direction: column;">
             <p style="font-size: 18px; font-weight: bold; color: #2c3e50; margin-bottom: 12px; padding-bottom: 6px;">Datos generales</p>
             <ul style="margin: 0; padding-left: 20px; list-style-type: disc; font-size: 1.05em; line-height: 1.7; color: #333;">
-              <li><strong>Nombres:</strong> Jorge Rolando</li>
-              <li><strong>Apellidos:</strong> Garcia Roque</li>
+              <li><strong>Nombres:</strong> Nicolle</li>
+              <li><strong>Apellidos:</strong> Requena</li>
               <li><strong>Edad:</strong> 27</li>
               <li><strong>Distrito:</strong> San Miguel</li>
               <li><strong>URL Entrevista:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b994_upc_edu_pe/EdrzyrYimb5Ail4Jx6mqBMEBFv7kOmMJCXt7YLxTAVuznw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MmQAAK" target="_blank">Ver video</a></li>
@@ -1234,7 +1201,7 @@ Dividimos la guía en **dos bloques** por segmento. El **Bloque A (descubrimient
               <li><strong>Duración:</strong> 04:24</li>
             </ul>
           </div>
-          <img style="max-width: 40%; height: auto; border-radius: 10px; object-fit: cover; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);" src="">
+          <img style="max-width: 40%; height: 240px; border-radius: 10px; object-fit: cover; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);" src="/img/chapter2/segmento-dueño-2.png">
         </div>
       </td>
     </tr>
@@ -1269,16 +1236,16 @@ Dividimos la guía en **dos bloques** por segmento. El **Bloque A (descubrimient
           <div style="flex: 1; display: flex; flex-direction: column;">
             <p style="font-size: 18px; font-weight: bold; color: #2c3e50; margin-bottom: 12px; padding-bottom: 6px;">Datos generales</p>
             <ul style="margin: 0; padding-left: 20px; list-style-type: disc; font-size: 1.05em; line-height: 1.7; color: #333;">
-              <li><strong>Nombres:</strong> Jorge Rolando</li>
-              <li><strong>Apellidos:</strong> Garcia Roque</li>
-              <li><strong>Edad:</strong> 27</li>
-              <li><strong>Distrito:</strong> San Miguel</li>
+              <li><strong>Nombres:</strong> Fabiola Milagros </li>
+              <li><strong>Apellidos:</strong> Martinez</li>
+              <li><strong>Edad:</strong> 29</li>
+              <li><strong>Distrito:</strong> Arequipa </li>
               <li><strong>URL Entrevista:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b994_upc_edu_pe/EdrzyrYimb5Ail4Jx6mqBMEBFv7kOmMJCXt7YLxTAVuznw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MmQAAK" target="_blank">Ver video</a></li>
               <li><strong>Timestamp:</strong> 28:32</li>
               <li><strong>Duración:</strong> 04:55</li>
             </ul>
           </div>
-          <img style="max-width: 40%; height: auto; border-radius: 10px; object-fit: cover; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);" src="">
+          <img style="max-width: 40%; height: 240px; border-radius: 10px; object-fit: cover; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);" src="/img/chapter2/segmento-dueño-3.png">
         </div>
       </td>
     </tr>
@@ -1461,6 +1428,23 @@ d) Momentos críticos de trabajo
 
   * Poder anotar ajustes y que el equipo los vea.
   * Tips cortos, no bloqueantes, con opción “guardar para después”.
+
+**Interpretación de hallazgos**
+El análisis conjunto de las entrevistas con baristas y jefes de barra evidencia una problemática estructural en la operación de las cafeterías de especialidad: la ausencia de herramientas digitales que faciliten la estandarización de recetas, la calibración guiada, y el registro sistemático de catas. La práctica actual, apoyada en conocimientos verbales o registros informales (papel, chats), genera variabilidad en taza, retrabajos durante el servicio y dificultades de consistencia entre turnos.
+
+En los baristas, se identifican tres momentos críticos del flujo operativo —apertura/calibración, horas pico y cierre/catas— donde emergen las mayores fricciones. Durante la apertura, la falta de guías estructuradas conduce a calibraciones intuitivas (“a ojo”); en horas pico, el acceso limitado a las recetas aprobadas incrementa la incertidumbre y los errores; y al cierre, la carencia de formatos estandarizados de cata dificulta el aprendizaje colectivo y la retroalimentación del equipo. Estos patrones reflejan una necesidad funcional clara de inmediatez, simplicidad y validación visual en la interfaz.
+
+Por su parte, los jefes de barra y dueños priorizan la consistencia de marca y la eficiencia operativa, destacando la importancia de checklists de calibración, recetas aprobadas por lote y método, y la capacidad de controlar y validar los estándares en toda la operación. También manifiestan interés por herramientas que agilicen el onboarding de nuevos baristas, reduzcan la dependencia del conocimiento tribal y fomenten una cultura de mejora continua basada en datos (recetas, catas, métricas de consistencia).
+
+Ambos perfiles coinciden en que la adopción tecnológica solo será viable si la solución es ágil, intuitiva y no interrumpe el flujo de trabajo. Aplicaciones lentas, con texto excesivo o que exijan múltiples pasos en contextos de presión, constituyen barreras relevantes. Por ello, la propuesta debe priorizar flujos cortos (≤2 toques y ≤10 s), lenguaje especializado pero claro, y retroalimentación visual inmediata (“aprobado por”, “última actualización”).
+
+En síntesis, los hallazgos confirman una oportunidad de diseño para una app móvil centrada en la barra, que combine:
+	•	Estandarización técnica (recetas aprobadas, checklists);
+	•	Aprendizaje operativo continuo (catas, cápsulas breves);
+	•	Gestión ligera de equipos y conocimiento (roles, validaciones, actualizaciones trazables).
+
+Esta convergencia entre necesidad funcional (consistencia y eficiencia) y motivación emocional (confianza y orgullo en el trabajo bien hecho) sustenta el valor de una solución como Xantina, que actúe tanto como asistente operativo durante el turno como plataforma educativa viva para el equipo.
+
 
 <div style="page-break-after: always;"></div>
 
@@ -1739,9 +1723,21 @@ En esta sección se aborda el Diseño Estratégico con Domain Driven Design (DDD
       style="max-width: 100%; height: auto;">
 
 ## 2.5.2. Context Mapping
-<img src="./img/chapter2/contextmapping.png">
+El Context Mapping de Xantina permite visualizar las principales áreas funcionales del sistema y cómo interactúan entre sí para ofrecer una experiencia integral a los usuarios. Este mapa contextual agrupa los componentes en cinco dominios: Usuarios, Marketplace, Social / Comunidad, Analítica y Operaciones de Tienda, representando el flujo de información y dependencias entre módulos.
+
+El dominio Users (Barista & Consumer) centraliza la gestión de perfiles y aprendizaje, conectando con Tutorials & Guides y un sistema de Rewards & Progression, orientado a la formación continua. Desde este módulo, los usuarios pueden acceder a recursos educativos y recibir reconocimiento por su avance.
+El Marketplace gestiona el catálogo de productos, órdenes y pagos, vinculando suscripciones y recursos adquiribles con la experiencia de aprendizaje y operación en barra.
+El módulo Social / Community impulsa la interacción entre baristas y entusiastas mediante un Feed, perfiles con badges, reacciones y retos, fortaleciendo la comunidad alrededor del conocimiento compartido.
+La sección de Analytics consolida métricas de extracción, reportes de ingresos y tendencias de uso, generando dashboards que ofrecen información estratégica para la mejora continua.
+Finalmente, Shop Operations integra la gestión operativa diaria: control de consistencia, entrenamiento de baristas, inventario, insumos, y generación de reportes de negocio.
+
+Este mapeo contextual evidencia las relaciones entre módulos educativos, operativos, sociales y comerciales, asegurando coherencia en el diseño del ecosistema digital y facilitando la alineación entre experiencia de usuario, objetivos de negocio y viabilidad técnica.
+
+<img src="./img/chapter2/contextMappingv2.jpg">
 
 Enlace al Miro: https://miro.com/app/board/uXjVJHF5uag=/
+
+El contexto Shop Operations incluye el submódulo Recipe Management, encargado de la creación, actualización, aprobación y estandarización de recetas dentro de la cafetería. Este contexto centraliza la administración de recetas, asegurando trazabilidad por lote, método y fecha, así como la visibilidad controlada por roles (barista, jefe de barra).
 
 ## 2.5.3. Software Architecture
 
@@ -1756,6 +1752,7 @@ Este es el diagrama de Contenedores de nuestro sistema:
 ### 2.5.3.3. Software Architecture Deployment Diagrams
 Este es el diagrama de Despliegue de nuestro sistema:
 <img src="./img/chapter2/c4_3.png">
+AuthService y Notification Service son servicios externos gestionados (p. ej. Firebase Auth, Firebase Cloud Messaging) que proveen autenticación y mensajería push. Aunque no forman parte del código base de la aplicación, son dependencias críticas integradas vía APIs seguras (OAuth2 / HTTPS).
 
 # 2.6. Tactical-Level Domain-Driven Design
 
