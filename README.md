@@ -5,7 +5,7 @@
 	<h4 style="margin: 10px 0; border-bottom: none;">NRC: 2005</h4>
 	<h4 style="margin: 10px 0; border-bottom: none;">Mayta Guillermo, Jorge Luis</h4>
 	<h2 style="margin: 10px 0; border-bottom: none;">Informe de Trabajo Final</h2>
-	<h3 style="margin: 10px 0; border-bottom: none;">Startup: AromaTech</h3>
+	<h3 style="margin: 10px 0; border-bottom: none;">Startup: Mira</h3>
 	<h3 style="margin: 10px 0; border-bottom: none;">Producto: Xantina</h3>
 	<h4 style="margin: 10px 0; border-bottom: none;">Integrantes:</h4>
 	<ul style="display: inline-block; text-align: left; padding: 0;">
@@ -293,7 +293,7 @@ Este entregable comprende la elaboración del informe desde el Capítulo I hasta
     </tr>
     <tr>
       <td style="border: 1px solid #000; padding: 8px;">Pereira Vasquez, Fabrizzio</td>
-      <td style="border: 1px solid #000; padding: 8px;">Completar el diseño de la arquitectura de software para AromaTech/Xantina aplicando Domain-Driven Design incluyendo bounded contexts, agregados y servicios del dominio del café de especialidad.</td>
+      <td style="border: 1px solid #000; padding: 8px;">Completar el diseño de la arquitectura de software para Mira/Xantina aplicando Domain-Driven Design incluyendo bounded contexts, agregados y servicios del dominio del café de especialidad.</td>
       <td style="border: 1px solid #000; padding: 8px;">Desarrollar y documentar el Lean UX Process completo (Problem Statements, Assumptions, Hypothesis Statements y Canvas) </td>
     </tr>
     <tr>
@@ -339,7 +339,7 @@ En esta sección se presenta una **visión general** de la startup del proyecto.
 
 ### 1.1.1. Descripción de la Startup
 
-AromaTech es una startup que crea aplicaciones móviles para el café de especialidad. Ayudamos a baristas, cafeterías y entusiastas a estandarizar recetas, registrar catas y simplificar el trabajo en barra. También somos entusiastas del café: desde la barra y el origen hemos vivido que el valor del café no termina en “pedir y tomar”, sino en entender su viaje —del grano a la taza— y compartirlo con una comunidad curiosa. Por eso diseñamos herramientas rápidas y usables que convierten cada preparación en una experiencia de aprendizaje.
+Mira es una startup que crea aplicaciones móviles para el café de especialidad. Ayudamos a baristas, cafeterías y entusiastas a estandarizar recetas, registrar catas y simplificar el trabajo en barra. También somos entusiastas del café: desde la barra y el origen hemos vivido que el valor del café no termina en “pedir y tomar”, sino en entender su viaje —del grano a la taza— y compartirlo con una comunidad curiosa. Por eso diseñamos herramientas rápidas y usables que convierten cada preparación en una experiencia de aprendizaje.
 
 **Misión**  
 Educar a baristas y amantes del café sobre los derivados (espresso, cappuccino, latte, macchiato, cold brew, etc.) y sus recetas; explicar de forma simple la extracción (relación café/agua, molienda, temperatura, presión, tiempo), la química del grano (tostado, compuestos solubles, desgasificación) y la texturización de la leche. Todo mediante experiencias móviles guiadas, prácticas y colaborativas que invitan a experimentar, registrar y compartir.
@@ -466,7 +466,7 @@ Construir la plataforma móvil de referencia para el café de especialidad en La
 
 ## 1.2. Solution Profile
 
-Esta sección presenta el contexto y la coyuntura del café de especialidad que justifican la viabilidad de AromaTech/Xantina —técnica, de negocio y de experiencia—. Resume antecedentes y problemática con 5W2H y da paso al Lean UX Process (Problem Statements, Assumptions, Hypothesis y Lean UX Canvas), enlazando con Segmentos objetivo (1.3).
+Esta sección presenta el contexto y la coyuntura del café de especialidad que justifican la viabilidad de Mira/Xantina —técnica, de negocio y de experiencia—. Resume antecedentes y problemática con 5W2H y da paso al Lean UX Process (Problem Statements, Assumptions, Hypothesis y Lean UX Canvas), enlazando con Segmentos objetivo (1.3).
 
 ### 1.2.1 Antecedentes y problemática
 
@@ -1502,7 +1502,7 @@ Se elaboraron **Empathy Maps** para los dos *User Personas* de Xantina: **Miguel
 
 ### 2.3.5. Ubiquitous Language
 
-Glosario de términos clave del dominio del café de especialidad utilizados en AromaTech/Xantina:
+Glosario de términos clave del dominio del café de especialidad utilizados en Mira/Xantina:
 
 **Rebote** (Recuperación rápida)
 Arreglar un error en la preparación sin que el cliente lo note.
@@ -1688,7 +1688,27 @@ Este es el diagrama de Contexto de nuestro sistema:
 Este es el diagrama de Contenedores de nuestro sistema:
 <img src="./img/chapter2/c4_2.png">
 
-### 2.5.3.3. Software Architecture Deployment Diagrams
+### 2.5.3.3. Software Architecture Components Level Diagrams
+
+Estos son los diagramas de Componentes de nuestro sistema
+
+Diagrama de componente Social:
+
+<img src="./img/chapter2/c4_4.png">
+
+Diagrama de componente Auth:
+
+<img src="./img/chapter2/c4_5.png">
+
+Diagrama de componente Extracción:
+
+<img src="./img/chapter2/c4_6.png">
+
+Diagrama de componente Tienda:
+
+<img src="./img/chapter2/c4_7.png">
+
+### 2.5.3.4. Software Architecture Deployment Diagrams
 Este es el diagrama de Despliegue de nuestro sistema:
 <img src="./img/chapter2/c4_3.png">
 
