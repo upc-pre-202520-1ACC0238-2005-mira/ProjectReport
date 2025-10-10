@@ -9,14 +9,13 @@
 	<h3 style="margin: 10px 0; border-bottom: none;">Producto: Xantina</h3>
 	<h4 style="margin: 10px 0; border-bottom: none;">Integrantes:</h4>
 	<ul style="display: inline-block; text-align: left; padding: 0;">
-		<li style="padding: 5px 0;">León Vivas, Fabrizio Amir (20211b994)</li>
-		<li style="padding: 5px 0;">Pereira Vasquez, Nelson Fabrizzio (202417468)</li>
-		<li style="padding: 5px 0;">Oliva López, Fabián Alejandro (202312013)</li>
-		<li style="padding: 5px 0;">Vidal Castro, Miguel Angel (202314186)</li>
 		<li style="padding: 5px 0;">Mondoñedo Rodriguez, Juan Diego Javier (202110373)</li>
+		<li style="padding: 5px 0;">Oliva López, Fabián Alejandro (202312013)</li>
+		<li style="padding: 5px 0;">Pereira Vasquez, Nelson Fabrizzio (202417468)</li>
 		<li style="padding: 5px 0;">Tantaleán Mesta, Guillermo Fabián (202311958)</li>
+		<li style="padding: 5px 0;">Vidal Castro, Miguel Angel (202314186)</li>
 	</ul>
-	<h4 style="margin: 10px 0; border-bottom: none;">Setiembre de 2025</h4>
+	<h4 style="margin: 10px 0; border-bottom: none;">Octubre de 2025</h4>
 </div>
 
 <div style="page-break-before: always;"></div>
@@ -105,6 +104,68 @@
         <p style="margin: 2px 0; text-indent: 40px;">2.6.1.6.2. Bounded Context Database Design Diagram</p>
       </td>
     </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">2.0</td>
+      <td style="border: 1px solid black; padding: 8px;">09/10/2025</td>
+      <td style="border: 1px solid black; padding: 8px;">
+        <ul style="margin: 0; padding-left: 18px;">
+          <li>Pereira Vasquez, Nelson Fabrizzio</li>
+          <li>Vidal Castro, Miguel Angel</li>
+          <li>Oliva López, Fabián Alejandro</li>
+          <li>Mondoñedo Rodriguez, Juan Diego Javier</li>
+          <li>Tantaleán Mesta, Guillermo Fabián</li>
+        </ul>
+      </td>
+      <td style="border: 1px solid black; padding: 8px;">
+        <strong>Correcciones de entrega anterior (TB1):</strong><br>
+        <p style="margin: 2px 0; font-weight: bold;">Corrección de objetivos SMART</p>
+        <p style="margin: 2px 0; font-weight: bold;">Corrección de imágenes de Event Storming</p>
+        <p style="margin: 2px 0; font-weight: bold;">Corrección de Student Outcomes</p>
+        <p style="margin: 2px 0; font-weight: bold;">Agregados de entrega (TP):</p>
+        <p style="margin: 2px 0; font-weight: bold;">Capítulo III: UX/UI Design</p>
+        <p style="margin: 2px 0; text-indent: 10px;">3.1. Product Design</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.1. Style Guidelines</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.1.1. General Style Guidelines</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.2. Information Architecture</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.2.1. Organization Systems</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.2.2. Labelling Systems</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.2.3. SEO Tags and Meta Tags</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.2.4. Searching Systems</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.2.5. Navigation Systems</p>
+        <p style="margin: 2px 0; text-indent: 10px;">3.1.3. Landing Page UI Design</p>
+        <p style="margin: 2px 0; text-indent: 10px;">3.1.3.1. Landing Page Wireframe</p>
+        <p style="margin: 2px 0; text-indent: 10px;">3.1.3.2. Landing Page Mock-up </p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.4. Mobile Applications UX/UI Design</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.4.1. Mobile Applications Wireframes</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.4.2. Mobile Applications Wireflow Diagrams</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.4.3. Mobile Applications Mock-ups</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.4.4. Mobile Applications User Flow Diagrams</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.4.5. Mobile Applications User Flow Diagrams</p>
+        <p style="margin: 2px 0; font-weight: bold;">Capítulo IV: Product Implementation & Validation</p>
+        <p style="margin: 2px 0; text-indent: 10px;">4.1. Software Configuration Management</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.1.1. Software Development Environment Configuration</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.1.2. Source Code Management </p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.1.3. Source Code Style Guide & Conventions</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.1.4. Software Deployment Configuration</p>
+        <p style="margin: 2px 0; text-indent: 10px;">4.2. Landing Page & Mobile Application Implementation</p>
+        <p style="margin: 2px 0; text-indent: 10px;">4.2.1. Sprint 1</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.2.1.1. Sprint Planning 1</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.2.1.2. Sprint Backlog 1</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.2.1.3. Development Evidence for Sprint Review</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.2.1.4. Testing Suite Evidence for Sprint Review</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.2.1.5. Execution Evidence for Sprint Review</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.2.1.6. Services Documentation Evidence for Sprint Review</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.2.1.7. Software Deployment Evidence for Sprint Review</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.2.1.8. Team Collaboration Insights during Sprint </p>
+        <p style="margin: 2px 0; text-indent: 10px;">4.3. Validation Interviews</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.3.1. Diseño de Entrevistas</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.3.2. Registro de Entrevistas </p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.3.3. Evaluaciones según heurísticas</p>
+        <p style="margin: 2px 0; text-indent: 20px;">Conclusiones</p>
+        <p style="margin: 2px 0; text-indent: 20px;">Bibliografía</p>
+        <p style="margin: 2px 0; text-indent: 10px;">Anexos</p>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -112,7 +173,7 @@
 
 # Project Report Collaboration Insights
 
-El desarrollo del informe se realizó en un repositorio dedicado en la organización de GitHub. Enlace: [https://github.com/CodyLionVivo/ProjectReport](https://github.com/CodyLionVivo/ProjectReport)
+El desarrollo del informe se realizó en un repositorio dedicado en la organización de GitHub: [Enlace](https://github.com/upc-pre-202520-1ACC0238-2005-mira/ProjectReport)
 
 Se presenta una tabla que especifica qué miembro del equipo se corresponde con qué usuario de GitHub.
 
@@ -120,10 +181,6 @@ Se presenta una tabla que especifica qué miembro del equipo se corresponde con 
   <tr>
 	<th>Team Member <br>(Last Name, First Name)</th>
 	<th>GitHub Username</th>
-  </tr>
-  <tr>
-	<td>León Vivas, Fabrizio Amir</td>
-	<td>CodyLionVivo</td>
   </tr>
   <tr>
 	<td>Vidal Castro, Miguel Angel</td>
@@ -151,7 +208,43 @@ Se presenta una tabla que especifica qué miembro del equipo se corresponde con 
 
 Este entregable comprende la elaboración del informe desde el Capítulo I hasta el Capítulo II, desarrollado íntegramente a partir del proceso de investigación en equipo y del diseño del sistema.
 
-<img src="./img/insight_tb1.png">
+**TB1 Network Graph**
+<figure style="text-align: center;">
+    <img src="img/chapter1/TB1_NetworkGraph.PNG" alt="TB1 Network Graph">
+</figure>
+
+**TB1 Contributors**
+<figure style="text-align: center;">
+    <img src="img/chapter1/TB1_CommitsOverTime.PNG" alt="TB1 Contributors">
+    <img src="img/chapter1/TB1_CommitsPerUser.PNG" alt="TB1 Contributors">
+</figure>
+
+**TB1 Pulse**
+<figure style="text-align: center;">
+    <img src="img/chapter1/TB1_Pulse.PNG" alt="TB1 Pulse">
+</figure>
+
+<div style="page-break-before: always;"></div>
+
+**TP**
+
+Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta el Capítulo IV, desarrollado íntegramente a partir del proceso de diseño y desarrollo del producto y otros artefactos como la landing page, además de la validación de estos mismos.
+
+**TP Network Graph** Corregir a la imagen correcta
+<figure style="text-align: center;">
+    <img src="img/chapter1/TB1_NetworkGraph.PNG" alt="TB1 Network Graph">
+</figure>
+
+**TP Contributors** Corregir a la imagen correcta
+<figure style="text-align: center;">
+    <img src="img/chapter1/TB1_CommitsOverTime.PNG" alt="TB1 Contributors">
+    <img src="img/chapter1/TB1_CommitsPerUser.PNG" alt="TB1 Contributors">
+</figure>
+
+**TP Pulse** Corregir a la imagen correcta
+<figure style="text-align: center;">
+    <img src="img/chapter1/TB1_Pulse.PNG" alt="TB1 Pulse">
+</figure>
 
 <div style="page-break-before: always;"></div>
 
@@ -241,13 +334,12 @@ Este entregable comprende la elaboración del informe desde el Capítulo I hasta
 					<li><strong>Juan Diego Mondoñedo:</strong> Analicé los resultados de nuestras entrevistas para desarrollar parte del needfinding y definir las user stories </li>
           <li><strong>Fabián Oliva López:</strong> Investigué acerca de posibles competidores y desarrollo su respectivo análisis competitivo a su vez de estrategias frente a estos competidores</li>
           <li><strong>Miguel Vidal Castro</strong> Determiné mediante las entrevistas del segmento objetivo de dueño de café, información relevante para entender que bounded contexts desarrollar en la aplicación para poder cubrir sus necesidades. </li>
-          <li><strong>Fabrizio:</strong> </li>
           <li><strong>Fabrizzio Pereira:</strong> Investigué el dominio del café de especialidad y desarrollé la arquitectura completa del sistema usando metodologías como Lean UX y Domain-Driven Design.</li>
-					<li><strong>Guillermo: Desarrollé toda la parte de DDD como el event storming identificando los principales bounded context.</strong>  </li>
+					<li><strong>Guillermo Tantaleán:</strong> Desarrollé toda la parte de DDD como el event storming identificando los principales bounded context.  </li>
 				</ul>
 			</td>
 			<td>
-				<strong>TB1:</strong> <br>
+				<strong>TB1:</strong>El equipo reforzó y actualizó conocimientos clave en metodologías de desarrollo como Lean UX y Domain-Driven Design, aplicándolos al dominio del café de especialidad. Cada integrante contribuyó con investigación y análisis (usuarios, competidores, modelo de negocio, arquitectura) lo que permitió construir una base conceptual sólida para el proyecto y asegurar la pertinencia de las soluciones propuestas. <br>
 			</td>
 		</tr>
 		<tr>
@@ -262,13 +354,12 @@ Este entregable comprende la elaboración del informe desde el Capítulo I hasta
 					<li><strong>Juan Diego Mondoñedo:</strong> Refresqué mis conocimientos sobre las user stories e investigué sobre el ambiente laboral de nuestro publico objetivo para plantear user stories pertinentes. </li>
           <li><strong>Fabian Oliva López:</strong> Pude aprender la necesidad de investigar acerca de competidores lo cual ayuda a ver puntos estrategicos los cuales puede improvisar nuestro trabajor para entregar un producto de buena calidad </li>
           <li><strong>Miguel Vidal Castro:</strong> Pude aprendar a investigar sobre como realizar un diagrama C4, reforzando conocimientos pasados. Realicé un Event Storming del proyecto lo que me ayudó a identificar los bounded contexts</li>
-          <li><strong>Fabrizio:</strong> </li>
           <li><strong>Fabrizzio Pereira:</strong> Aprendí sobre café de especialidad desde cero y estudié nuevas metodologías de desarrollo que no conocía previamente.</li>
-					<li><strong>Guillermo: Realicé investigación del modelo de negocio del tema en cuestión para el trabajo lo cual me permitió entender la aplicación de conocimientos de software a nivel de dirección. </strong>  </li>
+					<li><strong>Guillermo Tantaleán:</strong>  Realicé investigación del modelo de negocio del tema en cuestión para el trabajo lo cual me permitió entender la aplicación de conocimientos de software a nivel de dirección.  </li>
 				</ul>
 			</td>
 			<td>
-				<strong>TB1:</strong> <br>
+				<strong>TB1:</strong>El equipo demostró apertura hacia el aprendizaje permanente, investigando tanto aspectos técnicos (diagramas C4, DDD, user stories) como estratégicos (modelo de negocio, competidores y dominio del café de especialidad). Esta disposición a aprender y actualizarse permitió aplicar de forma más efectiva los conocimientos adquiridos, adaptándolos a un contexto real y fortaleciendo las competencias profesionales de cada integrante. <br>
 			</td>
 		</tr>
 	</tobdy>
@@ -287,11 +378,6 @@ Este entregable comprende la elaboración del informe desde el Capítulo I hasta
   </thead>
   <tbody>
     <tr>
-      <td style="border: 1px solid #000; padding: 8px;">León Vivas, Fabrizio Amir</td>
-      <td style="border: 1px solid #000; padding: 8px;">Desarrollar proyectos de alto impacto en la sociedad que permita que las personas tengan una mejor calidad de vida.</td>
-      <td style="border: 1px solid #000; padding: 8px;">Completar soluciones de software con los artefactos aprendidos y conocimientos adquiridos a lo largo de mi carrera universitario como lo es con Xantina.</td>
-    </tr>
-    <tr>
       <td style="border: 1px solid #000; padding: 8px;">Pereira Vasquez, Fabrizzio</td>
       <td style="border: 1px solid #000; padding: 8px;">Completar el diseño de la arquitectura de software para Mira/Xantina aplicando Domain-Driven Design incluyendo bounded contexts, agregados y servicios del dominio del café de especialidad.</td>
       <td style="border: 1px solid #000; padding: 8px;">Desarrollar y documentar el Lean UX Process completo (Problem Statements, Assumptions, Hypothesis Statements y Canvas) </td>
@@ -308,24 +394,14 @@ Este entregable comprende la elaboración del informe desde el Capítulo I hasta
       <td style="border: 1px solid #000; padding: 8px;">Identificar correctamente las necesidades de nuestros segmentos mediante el needfinding e interpretarlas para definir user stories adecuados para su caso.</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #000; padding: 8px;">Oliva López Fabián Alejandro;</td>
-      <td style="border: 1px solid #000; padding: 8px;">Realizar un análisis detallado de los competidores para identificar sus fortalezas, debilidades y estrategias de mercado que puedan impactar en el proyecto.</td>
-      <td style="border: 1px solid #000; padding: 8px;">Proponer estrategias y tácticas frente a los competidores, orientadas a diferenciar el proyecto y lograr una posición competitiva más sólida.</td>
+      <td style="border: 1px solid #000; padding: 8px;">Oliva López, Fabián Alejandro</td>
+      <td style="border: 1px solid #000; padding: 8px;"> Realizar un análisis detallado de los competidores directos e indirectos de Xantina, identificando sus fortalezas, debilidades y estrategias de mercado, con el fin de reconocer oportunidades de diferenciación.</td>
+      <td style="border: 1px solid #000; padding: 8px;">Proponer y documentar estrategias competitivas para Xantina basadas en el análisis realizado, estableciendo acciones concretas que permitan posicionar la solución frente a los principales competidores.</td>
     </tr>
     <tr>
       <td style="border: 1px solid #000; padding: 8px;">Vidal Castro Miguel Angel</td>
       <td style="border: 1px solid #000; padding: 8px;">Completar la parte de Software Architecture Diagrams, entrevistar al segmento objetivo de dueño de cafetería.</td>
       <td style="border: 1px solid #000; padding: 8px;">Determinar que bounded context se aplican en los diagramas para saber identificarlos. Realización de Event Storming para entender que bounded context se usan.</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #000; padding: 8px;">&nbsp;</td>
-      <td style="border: 1px solid #000; padding: 8px;">&nbsp;</td>
-      <td style="border: 1px solid #000; padding: 8px;">&nbsp;</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #000; padding: 8px;">&nbsp;</td>
-      <td style="border: 1px solid #000; padding: 8px;">&nbsp;</td>
-      <td style="border: 1px solid #000; padding: 8px;">&nbsp;</td>
     </tr>
   </tbody>
 </table>
@@ -362,36 +438,9 @@ Construir la plataforma móvil de referencia para el café de especialidad en La
         </thead>
         <tbody>
             <tr>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"><img style="width: 240px; height: auto; border-radius: 25%;" src="" alt="Foto de "></td>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"></td>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">202224135</td>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">Ingeniería de Software</td>
-                <td style="max-width: 300px; overflow: hidden; text-overflow: ellipsis; white-space: normal;">
-                    <ul>
-                        <li>Diseño web</li>
-                        <li>Gestión y diseño de bases de datos SQL y noSQL</li>
-                        <li>Programación en C++ y Python</li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"><img style="width: 240px; height: auto; border-radius: 25%;" src="./img/chapter1/Fabrizio.png" alt="Foto de Fabrizio León"></td>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">León Vivas, Fabrizio Amir</td>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">20211b994</td>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">Ingeniería de Software</td>
-                <td style="max-width: 300px; overflow: hidden; text-overflow: ellipsis; white-space: normal;">
-                    <ul>
-                        <li>Desarrollo front-end</li>
-                        <li>Conocimiento de TI en sistemas basados en UNIX</li>
-                        <li>Competente en C++, JavaScript y Python</li>
-                        <li>Experiencia con Frameworks ágiles</li>
-                    </ul>
-                </td> 
-            </tr>
-            <tr>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"><img style="width: 240px; height: auto; border-radius: 25%;" src="./img/chapter1/JuanDiego.jpg" alt="Foto de Juan Diego Mondoñedo"></td>
+                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"><img style="width: 240px; height: auto; border-radius: 25%;" src="./img/chapter1/JuanDiego.jpg" alt="Foto de Juan Mondoñedo"></td>
                 <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">Mondoñedo Rodriguez, Juan Diego Javier</td>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">202110373</td>
+                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">U202110373</td>
                 <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">Ingeniería de Software</td>
                 <td style="max-width: 300px; overflow: hidden; text-overflow: ellipsis; white-space: normal;">
                     <ul>
@@ -403,9 +452,9 @@ Construir la plataforma móvil de referencia para el café de especialidad en La
                 </td>
             </tr>
             <tr>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"><img width="192" height="185" alt="image" src="https://github.com/user-attachments/assets/57fbf2a0-8aee-432f-b12c-32d9b0a2f53e" />
+                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"><img style="width: 240px; height: auto; border-radius: 25%;" src="./img/chapter1/fabianOliva.png" alt="Foto de Fabián Oliva"></td>
                 <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">Oliva López, Fabián Alejandro</td>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">202312013</td>
+                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">U202312013</td>
                 <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">Ingeniería de Software</td>
                 <td style="max-width: 300px; overflow: hidden; text-overflow: ellipsis; white-space: normal;">
                     <ul>
@@ -418,9 +467,9 @@ Construir la plataforma móvil de referencia para el café de especialidad en La
                 </td>
             </tr>
             <tr>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"><img style="width: 240px; height: auto; border-radius: 25%;" src="./img/chapter1/Miguel.png" alt="Foto de Miguel Vidal "></td>
+                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"><img style="width: 240px; height: auto; border-radius: 25%;" src="./img/chapter1/Miguel.png" alt="Foto de Miguel Vidal"></td>
                 <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">Vidal Castro, Miguel Angel</td>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">202314186</td>
+                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">U202314186</td>
                 <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">Ingeniería de Software</td>
                 <td style="max-width: 300px; overflow: hidden; text-overflow: ellipsis; white-space: normal;">
                     <ul>
@@ -433,8 +482,8 @@ Construir la plataforma móvil de referencia para el café de especialidad en La
             </tr>
             <tr>
                 <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"><img style="width: 240px; height: auto; border-radius: 25%;" src="./img/chapter1/guillermo.JPG" alt="Foto de Guillermo Tantaleán"></td>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"></td>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">20221e247</td>
+                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">Tantaleán Mesta, Guillermo Fabián</td>
+                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">U202311958</td>
                 <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">Ingeniería de Software</td>
                 <td style="max-width: 300px; overflow: hidden; text-overflow: ellipsis; white-space: normal;">
                     <ul>
@@ -446,9 +495,9 @@ Construir la plataforma móvil de referencia para el café de especialidad en La
                 </td> 
             </tr>
 			  <tr>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"><img style="width: 240px; height: auto; border-radius: 25%;" src="img/nelson.jpeg" alt="Foto de Fabrizzio Pereira"></td>
+                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"><img style="width: 240px; height: auto; border-radius: 25%;" src="./img/chapter1/nelson.jpeg" alt="Foto de Nelson Pereira"></td>
                 <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">Nelson Fabrizzio, Pereira Vasquez</td>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">202417468</td>
+                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">U202417468</td>
                 <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">Ingeniería de Software</td>
                 <td style="max-width: 300px; overflow: hidden; text-overflow: ellipsis; white-space: normal;">
                     <ul>
@@ -472,16 +521,18 @@ Esta sección presenta el contexto y la coyuntura del café de especialidad que 
 
 **Aproximación preliminar a los antecedentes**  
 
-En el ecosistema del café de especialidad, la formación práctica suele darse en escuelas o talleres presenciales y, en el día a día, mediante transferencia informal de conocimiento en barra. Aunque existen videos y blogs, el contenido está disperso, no siempre es confiable ni está adaptado al flujo real de trabajo. Esto genera una curva de aprendizaje lenta para baristas en formación y para emprendedores que quieren abrir una cafetería. A la vez, el consumidor final está cada vez más interesado en entender el “viaje del grano a la taza”, pero rara vez accede a información clara y breve sobre el origen, los procesos y el valor social del café.
+El crecimiento del café de especialidad en América Latina ha impulsado la creación de espacios de formación técnica para baristas y emprendedores. Sin embargo, la mayor parte de la capacitación sigue ocurriendo de forma presencial y fragmentada, lo que limita el acceso de nuevos talentos y emprendedores al conocimiento estandarizado.
+A su vez,según Elías J. (2022), se señala que la digitalización del aprendizaje técnico en el sector agroindustrial y gastronómico aún es baja, especialmente en etapas de transformación y servicio (cafeterías, barras, microemprendimientos).
+El contenido disponible en línea —por ejemplo, en redes sociales o blogs— suele carecer de validez técnica y secuencia pedagógica, lo que ralentiza el aprendizaje y genera inconsistencias en las prácticas de extracción y preparación. Esta brecha ha sido identificada también por INEI (2024), que destaca la necesidad de herramientas digitales formativas que conecten conocimiento técnico, cultura cafetera y cadena de valor.
 
 **Problemática**  
 
 1) **Aprendizaje técnico accesible y estructurado**  
-   Falta una vía gratuita y digital que enseñe, de forma guiada y práctica, cómo preparar café con consistencia. Esto incluye:
-   - Bebidas y métodos: espresso, cappuccino, latte, macchiato, moka, cold brew, entre otros.  
-   - Parámetros de extracción: dosis, molienda, relación café/agua, temperatura, presión y tiempo.  
-   - Procedimientos de barra: calibración, tiempos de tiro, purga, limpieza y control básico de insumos.  
-   La ausencia de un repositorio único y usables “paso a paso” ralentiza la capacitación, dificulta estandarizar recetas y afecta la calidad del servicio.
+Existe una falta de plataformas digitales gratuitas que enseñen de manera guiada, práctica y estandarizada los fundamentos de la preparación de café.
+Esto incluye:
+- Métodos de extracción.
+- Parámetros críticos (dosis, molienda, relación café/agua, temperatura, presión, tiempo).  
+- Procedimientos de calibración y control operativo en barra.
 
 2) **Visibilidad del origen y cultura cafetera**  
    El trabajo en finca y el valor del origen (cultivo, cosecha, beneficiado, secado, clasificación, tostado) rara vez se comunica de forma simple en el punto de consumo. Esto contribuye a:
@@ -1007,7 +1058,7 @@ Dividimos la guía en **dos bloques** por segmento. El **Bloque A (descubrimient
               <li><strong>Duración:</strong> 06:17</li>
             </ul>
           </div>
-          <img style="max-width: 40%; height: auto; border-radius: 10px; object-fit: cover; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);" src="/img/chapter2/segmento-barista-1.png">
+          <img style="max-width: 40%; height: 240px; border-radius: 10px; object-fit: cover; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);" src="/img/chapter2/segmento-barista-1.png">
         </div>
       </td>
     </tr>
@@ -1051,7 +1102,7 @@ Dividimos la guía en **dos bloques** por segmento. El **Bloque A (descubrimient
               <li><strong>Duración:</strong> 06:25</li>
             </ul>
           </div>
-          <img style="max-width: 40%; height: auto; border-radius: 10px; object-fit: cover; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);" src="">
+          <img style="max-width: 40%; height: 240px; border-radius: 10px; object-fit: cover; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);" src="/img/chapter2/segmento-barista-2.png">
         </div>
       </td>
     </tr>
@@ -1066,39 +1117,6 @@ Dividimos la guía en **dos bloques** por segmento. El **Bloque A (descubrimient
           font-family: Arial, sans-serif;
           margin-bottom: 40px;">
   <thead>
-    <tr>
-      <th style="
-            text-align: left;
-            padding: 12px;
-            background-color: #f0f0f0;
-            font-size: 22px;"><strong>SEGMENTO OBJETIVO: BARISTA</strong></th>
-      <th style="
-            text-align: left;
-            padding: 12px;
-            background-color: #f0f0f0;
-            font-size: 22px;"><strong>#3</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td colspan="2" style="padding: 0; vertical-align: top; background-color: #fff border-top: 1px solid #ddd;" style="padding: 0; vertical-align: top; background-color: #fff border-top: 1px solid #ddd;">
-        <div style="display: flex; gap: 24px; align-items: flex-start; background-color: #fafafa; border-radius: 10px; padding: 24px;">
-          <div style="flex: 1; display: flex; flex-direction: column;">
-            <p style="font-size: 18px; font-weight: bold; color: #2c3e50; margin-bottom: 12px; padding-bottom: 6px;">Datos generales</p>
-            <ul style="margin: 0; padding-left: 20px; list-style-type: disc; font-size: 1.05em; line-height: 1.7; color: #333;">
-              <li><strong>Nombres:</strong> Jorge Rolando</li>
-              <li><strong>Apellidos:</strong> Garcia Roque</li>
-              <li><strong>Edad:</strong> 27</li>
-              <li><strong>Distrito:</strong> San Miguel</li>
-              <li><strong>URL Entrevista:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b994_upc_edu_pe/EdrzyrYimb5Ail4Jx6mqBMEBFv7kOmMJCXt7YLxTAVuznw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MmQAAK" target="_blank">Ver video</a></li>
-              <li><strong>Timestamp:</strong> 12:43</li>
-              <li><strong>Duración:</strong> 07:48</li>
-            </ul>
-          </div>
-          <img style="max-width: 40%; height: auto; border-radius: 10px; object-fit: cover; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);" src="">
-        </div>
-      </td>
-    </tr>
   </tbody>
 </table>
 
@@ -1130,16 +1148,16 @@ Dividimos la guía en **dos bloques** por segmento. El **Bloque A (descubrimient
           <div style="flex: 1; display: flex; flex-direction: column;">
             <p style="font-size: 18px; font-weight: bold; color: #2c3e50; margin-bottom: 12px; padding-bottom: 6px;">Datos generales</p>
             <ul style="margin: 0; padding-left: 20px; list-style-type: disc; font-size: 1.05em; line-height: 1.7; color: #333;">
-              <li><strong>Nombres:</strong> Jorge Rolando</li>
-              <li><strong>Apellidos:</strong> Garcia Roque</li>
-              <li><strong>Edad:</strong> 27</li>
+              <li><strong>Nombres:</strong> Miguel Ángel</li>
+              <li><strong>Apellidos:</strong> Saucedo Zambrano</li>
+              <li><strong>Edad:</strong> 26</li>
               <li><strong>Distrito:</strong> San Miguel</li>
               <li><strong>URL Entrevista:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b994_upc_edu_pe/EdrzyrYimb5Ail4Jx6mqBMEBFv7kOmMJCXt7YLxTAVuznw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MmQAAK" target="_blank">Ver video</a></li>
               <li><strong>Timestamp:</strong> 20:31</li>
               <li><strong>Duración:</strong> 03:39</li>
             </ul>
           </div>
-          <img style="max-width: 40%; height: auto; border-radius: 10px; object-fit: cover; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);" src="">
+          <img style="max-width: 40%; height: 240px; border-radius: 10px; object-fit: cover; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);" src="/img/chapter2/segmento-dueño-1.png">
         </div>
       </td>
     </tr>
@@ -1174,8 +1192,8 @@ Dividimos la guía en **dos bloques** por segmento. El **Bloque A (descubrimient
           <div style="flex: 1; display: flex; flex-direction: column;">
             <p style="font-size: 18px; font-weight: bold; color: #2c3e50; margin-bottom: 12px; padding-bottom: 6px;">Datos generales</p>
             <ul style="margin: 0; padding-left: 20px; list-style-type: disc; font-size: 1.05em; line-height: 1.7; color: #333;">
-              <li><strong>Nombres:</strong> Jorge Rolando</li>
-              <li><strong>Apellidos:</strong> Garcia Roque</li>
+              <li><strong>Nombres:</strong> Nicolle</li>
+              <li><strong>Apellidos:</strong> Requena</li>
               <li><strong>Edad:</strong> 27</li>
               <li><strong>Distrito:</strong> San Miguel</li>
               <li><strong>URL Entrevista:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b994_upc_edu_pe/EdrzyrYimb5Ail4Jx6mqBMEBFv7kOmMJCXt7YLxTAVuznw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MmQAAK" target="_blank">Ver video</a></li>
@@ -1183,7 +1201,7 @@ Dividimos la guía en **dos bloques** por segmento. El **Bloque A (descubrimient
               <li><strong>Duración:</strong> 04:24</li>
             </ul>
           </div>
-          <img style="max-width: 40%; height: auto; border-radius: 10px; object-fit: cover; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);" src="">
+          <img style="max-width: 40%; height: 240px; border-radius: 10px; object-fit: cover; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);" src="/img/chapter2/segmento-dueño-2.png">
         </div>
       </td>
     </tr>
@@ -1218,16 +1236,16 @@ Dividimos la guía en **dos bloques** por segmento. El **Bloque A (descubrimient
           <div style="flex: 1; display: flex; flex-direction: column;">
             <p style="font-size: 18px; font-weight: bold; color: #2c3e50; margin-bottom: 12px; padding-bottom: 6px;">Datos generales</p>
             <ul style="margin: 0; padding-left: 20px; list-style-type: disc; font-size: 1.05em; line-height: 1.7; color: #333;">
-              <li><strong>Nombres:</strong> Jorge Rolando</li>
-              <li><strong>Apellidos:</strong> Garcia Roque</li>
-              <li><strong>Edad:</strong> 27</li>
-              <li><strong>Distrito:</strong> San Miguel</li>
+              <li><strong>Nombres:</strong> Fabiola Milagros </li>
+              <li><strong>Apellidos:</strong> Martinez</li>
+              <li><strong>Edad:</strong> 29</li>
+              <li><strong>Distrito:</strong> Arequipa </li>
               <li><strong>URL Entrevista:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b994_upc_edu_pe/EdrzyrYimb5Ail4Jx6mqBMEBFv7kOmMJCXt7YLxTAVuznw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MmQAAK" target="_blank">Ver video</a></li>
               <li><strong>Timestamp:</strong> 28:32</li>
               <li><strong>Duración:</strong> 04:55</li>
             </ul>
           </div>
-          <img style="max-width: 40%; height: auto; border-radius: 10px; object-fit: cover; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);" src="">
+          <img style="max-width: 40%; height: 240px; border-radius: 10px; object-fit: cover; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);" src="/img/chapter2/segmento-dueño-3.png">
         </div>
       </td>
     </tr>
@@ -1411,6 +1429,23 @@ d) Momentos críticos de trabajo
   * Poder anotar ajustes y que el equipo los vea.
   * Tips cortos, no bloqueantes, con opción “guardar para después”.
 
+**Interpretación de hallazgos**
+El análisis conjunto de las entrevistas con baristas y jefes de barra evidencia una problemática estructural en la operación de las cafeterías de especialidad: la ausencia de herramientas digitales que faciliten la estandarización de recetas, la calibración guiada, y el registro sistemático de catas. La práctica actual, apoyada en conocimientos verbales o registros informales (papel, chats), genera variabilidad en taza, retrabajos durante el servicio y dificultades de consistencia entre turnos.
+
+En los baristas, se identifican tres momentos críticos del flujo operativo —apertura/calibración, horas pico y cierre/catas— donde emergen las mayores fricciones. Durante la apertura, la falta de guías estructuradas conduce a calibraciones intuitivas (“a ojo”); en horas pico, el acceso limitado a las recetas aprobadas incrementa la incertidumbre y los errores; y al cierre, la carencia de formatos estandarizados de cata dificulta el aprendizaje colectivo y la retroalimentación del equipo. Estos patrones reflejan una necesidad funcional clara de inmediatez, simplicidad y validación visual en la interfaz.
+
+Por su parte, los jefes de barra y dueños priorizan la consistencia de marca y la eficiencia operativa, destacando la importancia de checklists de calibración, recetas aprobadas por lote y método, y la capacidad de controlar y validar los estándares en toda la operación. También manifiestan interés por herramientas que agilicen el onboarding de nuevos baristas, reduzcan la dependencia del conocimiento tribal y fomenten una cultura de mejora continua basada en datos (recetas, catas, métricas de consistencia).
+
+Ambos perfiles coinciden en que la adopción tecnológica solo será viable si la solución es ágil, intuitiva y no interrumpe el flujo de trabajo. Aplicaciones lentas, con texto excesivo o que exijan múltiples pasos en contextos de presión, constituyen barreras relevantes. Por ello, la propuesta debe priorizar flujos cortos (≤2 toques y ≤10 s), lenguaje especializado pero claro, y retroalimentación visual inmediata (“aprobado por”, “última actualización”).
+
+En síntesis, los hallazgos confirman una oportunidad de diseño para una app móvil centrada en la barra, que combine:
+	•	Estandarización técnica (recetas aprobadas, checklists);
+	•	Aprendizaje operativo continuo (catas, cápsulas breves);
+	•	Gestión ligera de equipos y conocimiento (roles, validaciones, actualizaciones trazables).
+
+Esta convergencia entre necesidad funcional (consistencia y eficiencia) y motivación emocional (confianza y orgullo en el trabajo bien hecho) sustenta el valor de una solución como Xantina, que actúe tanto como asistente operativo durante el turno como plataforma educativa viva para el equipo.
+
+
 <div style="page-break-after: always;"></div>
 
 ## 2.3. Needfinding
@@ -1540,76 +1575,90 @@ La presente sección detalla la especificación de requerimientos del sistema Xa
 ## 2.4.1. User Stories
 | EPIC ID | TÍTULO DE LA ÉPICA | Objetivo Principal |
 | :--- | :--- | :--- |
-| **EP01** | Gestión de Cuentas de Usuario | Que el usuario pueda crear su cuenta y acceder a ella de forma fácil y segura. |
-| **EP02** | Gestión de Recetas | Que el barista pueda crear, estandarizar y acceder a las recetas de forma rápida y confiable. |
-| **EP03** | Calibración y Operación en Barra | Permitir al barista calibrar su equipo y guiarlo en los procesos de preparación de forma ágil. |
-| **EP04** | Registro y Análisis de Catas | Ayudar a los baristas a documentar sus catas, comparar perfiles y tomar decisiones para mejorar la consistencia. |
-| **EP05** | Gestión de Inventario y Trazabilidad | Permitir el control básico de insumos y la trazabilidad de los granos de café. |
+| **EP00** | Landing Page - Experiencia Web Informativa | Presentar información clara y relevante del producto para captar y orientar a los visitantes. |
+| **EP01** | Gestión de Cuentas de Usuario | Permitir que el usuario cree, acceda y recupere su cuenta de forma fácil y segura. |
+| **EP02** | Gestión de Recetas | Facilitar la creación, actualización y estandarización de recetas con parámetros consistentes. |
+| **EP03** | Calibración y Operación en Barra | Guiar al barista en la calibración del equipo y en los procedimientos diarios de preparación. |
+| **EP04** | Registro y Análisis de Catas | Registrar, comparar y analizar catas para mejorar la consistencia y aprendizaje del equipo. |
+| **EP05** | Gestión de Inventario y Trazabilidad | Controlar los lotes de café y generar alertas para mantener una trazabilidad efectiva. |
+| **EP06** | Gestión de Usuarios y Permisos | Administrar roles y accesos del equipo para mantener la seguridad y estandarización. |
+| **EP07** | Reportes y Análisis | Generar reportes e indicadores que ayuden a la toma de decisiones operativas. |
+| **EP08** | Comunicación y Difusión de Información | Facilitar la comunicación interna mediante notificaciones y actualizaciones relevantes. |
+| **EP99** | Spike Stories | Explorar, evaluar y documentar la viabilidad técnica de integraciones o componentes críticos. |
 
 ---
 
 #### Desglose de Historias de Usuario por Épica
 
-##### **EP01: Gestión de Cuentas de Usuario**
+
+| Código Épica | Código Historia | Título de la Historia | Descripción (Situación y Motivación) | Criterios de Aceptación |
+| :---: | :---: | :--- | :--- | :--- |
+| **EP00** | **US01** | Conocer la propuesta de valor | **Como** visitante, **quiero** visualizar la información general de la plataforma, **para** comprender qué beneficios ofrece. | **Dado** que el visitante accede al sitio web,<br>**Cuando** navega a la página de inicio,<br>**Entonces** el sistema muestra información clara y concisa sobre la propuesta de valor y los beneficios principales. |
+| **EP00** | **US02** | Navegar entre secciones informativas | **Como** visitante, **quiero** desplazarme fácilmente entre secciones, **para** explorar contenido relevante. | **Dado** que el visitante está en la landing page,<br>**Cuando** selecciona una opción del menú de navegación,<br>**Entonces** el sistema dirige la vista hacia la sección correspondiente sin pérdida de contexto. |
+| **EP00** | **US03** | Conocer planes y precios | **Como** visitante, **quiero** visualizar los planes y precios del servicio, **para** identificar la opción más adecuada. | **Dado** que el visitante navega por el sitio,<br>**Cuando** accede a la sección de planes,<br>**Entonces** el sistema presenta los planes disponibles con descripciones y precios actualizados. |
+| **EP00** | **US04** | Contactar con el equipo | **Como** visitante, **quiero** disponer de un formulario de contacto, **para** enviar consultas o solicitar más información. | **Dado** que el visitante completa los campos requeridos,<br>**Cuando** envía el formulario de contacto,<br>**Entonces** el sistema registra la solicitud y muestra una confirmación de envío. |
+| **EP00** | **US05** | Suscribirse a novedades | **Como** visitante, **quiero** suscribirme con mi correo electrónico, **para** recibir actualizaciones y noticias relevantes. | **Dado** que el visitante introduce un correo electrónico válido,<br>**Cuando** confirma su suscripción,<br>**Entonces** el sistema guarda la dirección y muestra un mensaje de confirmación. |
+| **EP01** | **US06** | Crear cuenta y unirse a una cafetería | **Como** usuario nuevo, **quiero** registrarme y asociarme a mi cafetería, **para** acceder a las funcionalidades. | **Dado** que el usuario accede por primera vez a la aplicación,<br>**Cuando** completa los campos requeridos y envía la información,<br>**Entonces** el sistema crea la cuenta y la vincula a la organización seleccionada. |
+| **EP01** | **US07** | Iniciar sesión | **Como** usuario registrado, **quiero** autenticarme con mis credenciales, **para** ingresar a la aplicación. | **Dado** que el usuario tiene una cuenta activa,<br>**Cuando** introduce credenciales válidas,<br>**Entonces** el sistema valida la autenticación y muestra el panel principal. |
+| **EP01** | **US08** | Recuperar contraseña | **Como** usuario, **quiero** restablecer mi contraseña olvidada, **para** recuperar el acceso a mi cuenta. | **Dado** que el usuario solicita recuperar su contraseña,<br>**Cuando** sigue las instrucciones recibidas por correo,<br>**Entonces** el sistema permite definir una nueva contraseña y acceder nuevamente. |
+| **EP02** | **US09** | Crear receta | **Como** barista, **quiero** registrar los parámetros de una receta, **para** documentar las preparaciones. | **Dado** que el usuario accede a la sección de recetas,<br>**Cuando** completa los campos obligatorios,<br>**Entonces** el sistema registra la receta en su perfil. |
+| **EP02** | **US10** | Consultar receta aprobada | **Como** barista, **quiero** acceder a recetas aprobadas rápidamente, **para** seguir los parámetros correctos. | **Dado** que existen recetas aprobadas,<br>**Cuando** el usuario selecciona una receta,<br>**Entonces** el sistema muestra los parámetros registrados. |
+| **EP02** | **US11** | Actualizar receta por lote | **Como** barista, **quiero** ajustar una receta según el lote de café, **para** mantener la consistencia. | **Dado** que el usuario edita una receta existente,<br>**Cuando** actualiza sus parámetros,<br>**Entonces** el sistema guarda la versión modificada y registra la fecha. |
+| **EP02** | **US12** | Compartir receta con el equipo | **Como** jefe de barra, **quiero** compartir recetas aprobadas, **para** asegurar la estandarización. | **Dado** que una receta está aprobada,<br>**Cuando** el jefe de barra la comparte,<br>**Entonces** el sistema la hace visible para los miembros de la organización. |
+| **EP03** | **US13** | Seguir checklist de calibración | **Como** barista, **quiero** seguir un checklist guiado, **para** calibrar el espresso de forma sistemática. | **Dado** que el barista inicia su turno,<br>**Cuando** accede al checklist diario,<br>**Entonces** el sistema presenta los pasos ordenados y verifica su cumplimiento. |
+| **EP03** | **US14** | Usar cronómetro integrado | **Como** barista, **quiero** usar un temporizador incorporado, **para** medir el tiempo de extracción. | **Dado** que el barista inicia una preparación,<br>**Cuando** el flujo comienza,<br>**Entonces** el sistema activa automáticamente el cronómetro. |
+| **EP04** | **US15** | Registrar cata simplificada | **Como** barista, **quiero** registrar atributos principales, **para** documentar la evaluación sensorial. | **Dado** que el usuario selecciona "Registrar Cata",<br>**Cuando** ingresa las notas sensoriales y puntaje,<br>**Entonces** el sistema guarda el registro completo. |
+| **EP04** | **US16** | Comparar catas del mismo café | **Como** barista, **quiero** comparar perfiles de cata, **para** identificar variaciones. | **Dado** que existen varias catas registradas,<br>**Cuando** el usuario selecciona un café,<br>**Entonces** el sistema muestra una comparación visual de sus perfiles. |
+| **EP05** | **US17** | Registrar lote de café | **Como** barista, **quiero** registrar un nuevo lote, **para** mantener control del inventario. | **Dado** que un nuevo lote es recibido,<br>**Cuando** se completan los datos del lote,<br>**Entonces** el sistema añade el registro al inventario. |
+| **EP05** | **US18** | Recibir alerta de stock bajo | **Como** jefe de barra, **quiero** recibir alertas de stock bajo, **para** reponer antes de que se agote. | **Dado** que un lote alcanza el nivel mínimo,<br>**Cuando** el inventario se actualiza,<br>**Entonces** el sistema genera una alerta visual o notificación. |
+| **EP06** | **US19** | Registrar nuevo barista | **Como** jefe de barra, **quiero** invitar a un nuevo barista, **para** integrarlo al equipo. | **Dado** que el jefe de barra tiene permisos de administrador,<br>**Cuando** envía una invitación al nuevo usuario,<br>**Entonces** el sistema le otorga acceso con rol básico. |
+| **EP06** | **US20** | Asignar roles y permisos | **Como** jefe de barra, **quiero** asignar niveles de acceso, **para** controlar quién puede editar recetas. | **Dado** que existen usuarios en la organización,<br>**Cuando** el jefe de barra actualiza su rol,<br>**Entonces** el sistema aplica los permisos correspondientes. |
+| **EP06** | **US21** | Dar de baja usuario | **Como** jefe de barra, **quiero** revocar acceso a un excolaborador, **para** proteger la información. | **Dado** que un usuario ya no pertenece a la cafetería,<br>**Cuando** se elimina su acceso,<br>**Entonces** el sistema bloquea su autenticación y visibilidad de datos. |
+| **EP07** | **US22** | Generar reporte de consumo | **Como** jefe de barra, **quiero** generar reportes de consumo por período, **para** planificar compras. | **Dado** que existen registros de inventario,<br>**Cuando** el usuario solicita un reporte,<br>**Entonces** el sistema genera un resumen con métricas de consumo por lote. |
+| **EP08** | **US23** | Enviar comunicados al equipo | **Como** jefe de barra, **quiero** enviar comunicados, **para** informar cambios o novedades. | **Dado** que el jefe de barra redacta un comunicado,<br>**Cuando** lo envía al equipo,<br>**Entonces** el sistema lo distribuye a todos los usuarios activos. |
+| **EP08** | **US24** | Notificar cambios en lotes | **Como** jefe de barra, **quiero** notificar cambios de lote, **para** mantener la consistencia. | **Dado** que un lote es actualizado,<br>**Cuando** se marca la opción de notificar,<br>**Entonces** el sistema envía alertas con los detalles del cambio. |
+| **EP99** | **SP01** | Investigar API de Mapas | **Como** equipo de desarrollo, **quiero** investigar la integración de APIs de mapas (Google Maps, Mapbox), **para** determinar la mejor opción para el módulo de ubicación. | **Dado** que el equipo evalúa proveedores de mapas,<br>**Cuando** revisa documentación técnica y costos,<br>**Entonces** el sistema registra un informe con recomendaciones y PoC funcional. |
+| **EP99** | **SP02** | Evaluar autenticación OAuth2 | **Como** equipo de desarrollo, **quiero** evaluar el uso de OAuth2, **para** implementar autenticación segura en web y móvil. | **Dado** que el sistema requiere autenticación segura,<br>**Cuando** se prueban distintas alternativas (Auth0, Firebase, OAuth propio),<br>**Entonces** se documenta la opción óptima y sus implicaciones. |
+| **EP99** | **SP03** | Analizar rendimiento de base de datos | **Como** equipo de desarrollo, **quiero** probar el rendimiento de MongoDB Atlas, **para** garantizar tiempos de respuesta adecuados. | **Dado** que se requiere validar escalabilidad,<br>**Cuando** se ejecutan pruebas de carga sobre endpoints,<br>**Entonces** se documentan métricas de latencia, uso de recursos y conclusiones. |
+
+---
+
+##### **EP09: Landing Page y Difusión Pública**
 
 | Story ID | Título de la Historia | Descripción (Situación y Motivación) | Criterios de Aceptación |
 | :--- | :--- | :--- | :--- |
-| **EP01/US01** | Creacion de cuenta y union a una cafeteria| **Cuando** descargo la app por primera vez, **quiero** poder registrarme fácilmente y unirme a la organizacion de mi cafeteria, **para poder** acceder a las funcionalidades . | **Dado** que soy un usuario nuevo,<br>**cuando** ingreso mi correo y una contraseña segura,<br>**entonces** mi cuenta se crea y veo la pantalla principal. |
-| **EP01/US02** | Entrar a mi cuenta | **Cuando** ya tengo una cuenta, **quiero** iniciar sesión rápidamente, **para poder** ver el inventario y recetas, controlar mis dispositivos, o registrar cambios en mis catas o tuestes. | **Dado** que ya estoy registrado,<br>**cuando** pongo mi correo y contraseña correctos,<br>**entonces** puedo entrar y ver mi Panel Principal. |
-| **EP01/US03** | Recuperar mi acceso | **Cuando** olvido mi contraseña, **quiero** poder recuperarla usando mi correo, **para poder** volver a entrar a mi cuenta sin perder mis datos. | **Dado** que olvidé mi contraseña,<br>**cuando** pido recuperarla y sigo los pasos que me llegan al correo,<br>**entonces** puedo poner una nueva contraseña y volver a entrar. |
+| **EP09/US20** | Ver información de la plataforma | **Como** visitante, **quiero** ver la información general de la app en la landing page, **para** entender su propuesta de valor. | **Dado** que ingreso a la página,<br>**cuando** navego por la landing,<br>**entonces** veo secciones con descripción, beneficios y capturas de la app. |
+| **EP09/US21** | Contactar al equipo | **Como** interesado, **quiero** tener un formulario de contacto, **para** resolver dudas o solicitar información. | **Dado** que estoy en la landing,<br>**cuando** uso el formulario de contacto,<br>**entonces** mi mensaje se envía al equipo y recibo confirmación. |
+| **EP09/US22** | Descargar la app | **Como** usuario potencial, **quiero** tener enlaces directos a Google Play y App Store, **para** descargar la app fácilmente. | **Dado** que estoy en la landing,<br>**cuando** selecciono “Descargar App”,<br>**entonces** soy redirigido a la tienda correspondiente. |
 
-##### **EP02: Gestión de Recetas**
+---
 
-| Story ID | Título de la Historia | Descripción (Situación y Motivación) | Criterios de Aceptación |
-| :--- | :--- | :--- | :--- |
-| **EP02/US04** | Crear y guardar una receta | **Cuando** estoy desarrollando una nueva bebida, **quiero** poder crear y guardar una receta con todos sus parámetros, **para poder**  tenerla documentada y no olvidarla. | **Dado** que estoy en la app,<br>**cuando** creo una nueva receta y registro el nombre, método, dosis, molienda, relación, temperatura, presión y tiempo,<br>**entonces** la receta queda guardada en mi perfil para uso futuro. |
-| **EP02/US05** | Anotar mis gastos diarios | **Cuando** estoy en la barra en horas pico, **quiero** acceder a una receta aprobada con un mínimo de toques, **para poder** preparar la bebida de forma rápida y sin errores. | **Dado** que ya tengo recetas guardadas, **cuando** selecciono una receta desde la pantalla principal, **entonces** veo los parámetros clave (dosis, molienda, tiempo) en una sola vista, optimizada para uso con una mano. |
-| **EP02/US06** | Actualizar una receta por lote | **Cuando** el lote de café cambia, **quiero** poder ajustar los parámetros de una receta existente, **para poder** adaptarme a la nueva materia prima y mantener la consistencia. | **Dado** que estoy consultando una receta, **cuando** elijo la opción de editar y ajusto los parámetros (ej. molienda, tiempo), **entonces** los cambios se guardan y quedan registrados con un historial de modificaciones. |
-| **EP02/US07** | Compartir una receta con mi equipo | **Cuando** mi jefe aprueba una receta, **quiero** poder compartirla con el equipo de mi cafetería, **para poder** asegurar que todos trabajemos con el mismo estándar.  | **Dado** que tengo una receta aprobada, **cuando** la comparto con el equipo de mi cafetería, **entonces** la receta aparece en la lista de recetas "de la casa" de todos los miembros.|
-
-##### **EP03: Calibración y Operación en Barra**
+##### **EP10: Aplicación Móvil**
 
 | Story ID | Título de la Historia | Descripción (Situación y Motivación) | Criterios de Aceptación |
 | :--- | :--- | :--- | :--- |
-| **EP03/US08** | Seguir un checklist de calibración | **Cuando** estoy en la apertura, **quiero** seguir un checklist guiado, **para poder** calibrar el espresso y otros métodos de forma sistemática y no olvidar ningún paso. | **Dado** que empiezo mi turno, **cuando** selecciono la opción "Calibración del día", **entonces** la app me muestra una lista de verificación con los pasos esenciales a seguir.|
-| **EP03/US09** | Usar un cronómetro integrado | **Cuando** estoy extrayendo un espresso, **quiero** usar un temporizador que se active al iniciar, **para poder** medir el tiempo de forma precisa sin usar un dispositivo extra.| **Dado** que he iniciado la preparación de una receta, **cuando** la app detecta el inicio del flujo, **entonces** un cronómetro en pantalla se activa automáticamente. |
+| **EP10/US23** | Acceso rápido desde móvil | **Como** barista, **quiero** que la app esté optimizada para uso con una mano, **para** poder trabajar en barra sin complicaciones. | **Dado** que abro la app,<br>**cuando** navego en sus menús,<br>**entonces** los botones y pantallas están adaptados al móvil. |
+| **EP10/US24** | Notificaciones push | **Como** miembro del equipo, **quiero** recibir notificaciones en mi celular, **para** estar al tanto de cambios en recetas o inventario. | **Dado** que un jefe crea un comunicado o receta,<br>**cuando** se envía la notificación,<br>**entonces** me aparece un aviso push en mi móvil. |
+| **EP10/US25** | Uso offline parcial | **Como** barista, **quiero** poder consultar recetas guardadas offline, **para** no depender totalmente de la conexión a internet. | **Dado** que no tengo conexión,<br>**cuando** abro la sección de recetas,<br>**entonces** puedo acceder a las últimas recetas descargadas. |
 
-##### **EP04: Registro y Análisis de Catas**
+---
 
-| Story ID | Título de la Historia | Descripción (Situación y Motivación) | Criterios de Aceptación |
-| :--- | :--- | :--- | :--- |
-| **EP04/US10** | Registrar una cata simplificada | **Cuando** estoy catando una preparación, **quiero** registrar los atributos principales de forma rápida y guiada, **para poder** documentar la experiencia sin tener un formulario largo. | **Dado** que estoy catando un café,<br>**cuando** selecciono la opción "Registrar Cata",<br>**entonces** veo un formulario conciso para ingresar notas sensoriales, puntaje y comentarios. |
-| **EP04/US11** | Comparar catas del mismo café | **Cuando** quiero mejorar la consistencia, **quiero** ver y comparar los perfiles de cata de un mismo café, **para poder** identificar variaciones y proponer ajustes. | **Dado** que he registrado varias catas,<br>**cuando** selecciono un café en el historial,<br>**entonces** veo un gráfico que superpone los perfiles de sabor de cada cata registrada. |
-
-##### **EP05: Gestión de Inventario y Trazabilidad**
+##### **EP11: Backend y API**
 
 | Story ID | Título de la Historia | Descripción (Situación y Motivación) | Criterios de Aceptación |
 | :--- | :--- | :--- | :--- |
-| **EP05/US12** | Controlar mis lotes de café | **Cuando** recibo un nuevo lote de café, **quiero** poder registrarlo en la app, **para poder** tener un control básico de inventario. | **Dado** que un nuevo lote ha llegado,<br>**cuando** registro el nombre del grano, el tostador y la fecha de tueste,<br>**entonces** el lote aparece en mi inventario de granos. |
-| **EP05/US13** | Recibir una alerta de stock bajo | **Cuando** el inventario de un lote está por terminarse, **quiero** recibir una alerta, **para poder** hacer el pedido a tiempo y evitar quedarme sin granos. | **Dado** que el inventario de un lote ha caído por debajo de un umbral establecido,<br>**cuando** estoy en la app,<br>**entonces** veo una notificación visual en mi inventario. |
+| **EP11/TS26** | API de gestión de usuarios | **Como** desarrollador, **quiero** un endpoint para crear, autenticar y manejar usuarios, **para** conectar frontend, móvil y backend. | **Dado** un request a la API,<br>**cuando** envío credenciales correctas,<br>**entonces** recibo tokens válidos para usar el sistema. |
+| **EP11/TS27** | API de recetas e inventario | **Como** desarrollador, **quiero** un endpoint que maneje recetas e inventario, **para** dar soporte a los módulos de barra y reportes. | **Dado** que consumo el endpoint,<br>**cuando** hago un POST/GET válido,<br>**entonces** la información se guarda o recupera correctamente. |
+| **EP11/TS28** | Logs y monitoreo | **Como** administrador técnico, **quiero** que el backend registre logs, **para** monitorear y solucionar incidencias. | **Dado** que se ejecuta una acción crítica,<br>**cuando** ocurre un error o evento importante,<br>**entonces** se registra en los logs con detalle. |
 
-##### **EP06: Gestión de Usuarios y Permisos**
+---
 
-| Story ID | Título de la Historia | Descripción (Situación y Motivación) | Criterios de Aceptación |
-| :--- | :--- | :--- | :--- |
-| **EP06/US14** | Registrar a un nuevo barista | **Como** jefe de barra, **quiero** poder invitar a un nuevo barista a unirse a la cuenta de mi cafetería, **para que** pueda acceder a las recetas aprobadas y colaborar con el equipo. | **Dado** que soy jefe de barra,<br>**cuando** envío una invitación a un nuevo barista,<br>**entonces** el barista recibe acceso a las recetas aprobadas y puede colaborar con el equipo. |
-| **EP06/US15** | Asignar roles y permisos | **Como** jefe de barra, **quiero** poder asignar diferentes niveles de acceso a los miembros de mi equipo (ej. barista junior, barista senior), **para** controlar quién puede editar las recetas y registrar catas de forma oficial. | **Dado** que tengo permisos de administrador,<br>**cuando** asigno un rol a un miembro del equipo,<br>**entonces** el usuario obtiene los permisos correspondientes a su nivel de acceso. |
-| **EP06/US16** | Dar de baja a un usuario | **Como** jefe de barra, **quiero** poder eliminar el acceso de un barista que ya no trabaja con nosotros, **para** proteger la información y los estándares de mi cafetería. | **Dado** que un barista ya no forma parte del equipo,<br>**cuando** elimino su acceso desde la configuración,<br>**entonces** el usuario pierde todos los permisos y no puede acceder a la información de la cafetería. |
-
-##### **EP07: Reportes y Análisis**
+##### **EP12: Seguridad y Autenticación Avanzada**
 
 | Story ID | Título de la Historia | Descripción (Situación y Motivación) | Criterios de Aceptación |
 | :--- | :--- | :--- | :--- |
-| **EP07/US17** | Generar reporte de consumo | **Como** jefe de barra, **quiero** generar reportes de consumo de café por período, **para poder** planificar mejor las compras e identificar tendencias de uso. | **Dado** que tengo datos de inventario registrados,<br>**cuando** solicito un reporte mensual de consumo,<br>**entonces** veo gráficos con el consumo por lote y proyecciones de reposición. |
-
-##### **EP08: Comunicación y Difusión de Información**
-
-| Story ID | Título de la Historia | Descripción (Situación y Motivación) | Criterios de Aceptación |
-| :--- | :--- | :--- | :--- |
-| **EP08/US18** | Enviar comunicados al equipo | **Como** jefe de barra, **quiero** poder enviar comunicados importantes a todo mi equipo, **para poder** informar sobre cambios en recetas, nuevos procedimientos o actualizaciones del día. | **Dado** que tengo información importante que compartir,<br>**cuando** creo un comunicado y lo envío al equipo,<br>**entonces** todos los miembros reciben una notificación y pueden ver el mensaje en su panel principal. |
-| **EP08/US19** | Compartir actualizaciones de lote | **Como** jefe de barra, **quiero** notificar automáticamente al equipo cuando hay cambios en los lotes de café, **para que** todos estén al tanto de ajustes necesarios en las recetas y preparaciones. | **Dado** que registro un nuevo lote o modifico parámetros de uno existente,<br>**cuando** marco la opción "Notificar al equipo",<br>**entonces** todos los baristas reciben una alerta con los detalles del cambio y las recetas afectadas. |
-
-
+| **EP12/TS29** | Cifrado de datos sensibles | **Como** administrador, **quiero** que las contraseñas e información crítica estén cifradas, **para** cumplir estándares de seguridad. | **Dado** que un usuario se registra,<br>**cuando** sus datos se guardan,<br>**entonces** la contraseña y campos sensibles están encriptados. |
+| **EP12/TS30** | Control de sesiones activas | **Como** usuario, **quiero** ver y cerrar mis sesiones activas, **para** tener control de mi seguridad. | **Dado** que accedo a mi perfil,<br>**cuando** entro a la sección de seguridad,<br>**entonces** veo mis sesiones activas y puedo cerrarlas. |
 
 ## 2.4.2. Impact Mapping
 <img src="./img/chapter2/impactMapping_Barista.png">
@@ -1674,9 +1723,21 @@ En esta sección se aborda el Diseño Estratégico con Domain Driven Design (DDD
       style="max-width: 100%; height: auto;">
 
 ## 2.5.2. Context Mapping
-<img src="./img/chapter2/contextmapping.png">
+El Context Mapping de Xantina permite visualizar las principales áreas funcionales del sistema y cómo interactúan entre sí para ofrecer una experiencia integral a los usuarios. Este mapa contextual agrupa los componentes en cinco dominios: Usuarios, Marketplace, Social / Comunidad, Analítica y Operaciones de Tienda, representando el flujo de información y dependencias entre módulos.
+
+El dominio Users (Barista & Consumer) centraliza la gestión de perfiles y aprendizaje, conectando con Tutorials & Guides y un sistema de Rewards & Progression, orientado a la formación continua. Desde este módulo, los usuarios pueden acceder a recursos educativos y recibir reconocimiento por su avance.
+El Marketplace gestiona el catálogo de productos, órdenes y pagos, vinculando suscripciones y recursos adquiribles con la experiencia de aprendizaje y operación en barra.
+El módulo Social / Community impulsa la interacción entre baristas y entusiastas mediante un Feed, perfiles con badges, reacciones y retos, fortaleciendo la comunidad alrededor del conocimiento compartido.
+La sección de Analytics consolida métricas de extracción, reportes de ingresos y tendencias de uso, generando dashboards que ofrecen información estratégica para la mejora continua.
+Finalmente, Shop Operations integra la gestión operativa diaria: control de consistencia, entrenamiento de baristas, inventario, insumos, y generación de reportes de negocio.
+
+Este mapeo contextual evidencia las relaciones entre módulos educativos, operativos, sociales y comerciales, asegurando coherencia en el diseño del ecosistema digital y facilitando la alineación entre experiencia de usuario, objetivos de negocio y viabilidad técnica.
+
+<img src="./img/chapter2/contextMappingv2.jpg">
 
 Enlace al Miro: https://miro.com/app/board/uXjVJHF5uag=/
+
+El contexto Shop Operations incluye el submódulo Recipe Management, encargado de la creación, actualización, aprobación y estandarización de recetas dentro de la cafetería. Este contexto centraliza la administración de recetas, asegurando trazabilidad por lote, método y fecha, así como la visibilidad controlada por roles (barista, jefe de barra).
 
 ## 2.5.3. Software Architecture
 
@@ -1711,6 +1772,7 @@ Diagrama de componente Tienda:
 ### 2.5.3.4. Software Architecture Deployment Diagrams
 Este es el diagrama de Despliegue de nuestro sistema:
 <img src="./img/chapter2/c4_3.png">
+AuthService y Notification Service son servicios externos gestionados (p. ej. Firebase Auth, Firebase Cloud Messaging) que proveen autenticación y mensajería push. Aunque no forman parte del código base de la aplicación, son dependencias críticas integradas vía APIs seguras (OAuth2 / HTTPS).
 
 # 2.6. Tactical-Level Domain-Driven Design
 
@@ -3966,9 +4028,797 @@ Bounded Context: Management
 
 #### 2.6.1.6.2. Bounded Context Database Design Diagram
 El diseño de base de datos es el proceso de organizar y estructurar los datos en un sistema, creando tablas, relaciones y reglas para garantizar eficiencia, integridad y facilidad de acceso. Este diseño asegura que los datos se almacenen de manera coherente y sean fáciles de gestionar, consultar y mantener a medida que el sistema crece y evoluciona.
-### 4.8.1. Database Diagram.
-<td><img src="img\Database_Diagram.png"></td>
 
+
+# Capítulo III: UX/UI Design
+# 3.1 Product Design
+
+## 3.1.1 Style Guidelines
+### 3.1.1.1 General Style Guidelines
+
+En Xantina, se emplean dos tipografías para asegurar una experiencia visual clara y sofisticada. Rethink Sans se utiliza en títulos y botones, gracias a su diseño moderno y minimalista, que permite resaltar de manera efectiva las secciones más importantes de la plataforma. Su estilo sans-serif no solo facilita la lectura, sino que también aporta una presencia visual fresca y atractiva. Para los textos largos, se opta por Hedvig Letters Serif, una fuente con serifa que combina elegancia y funcionalidad. Su diseño clásico asegura una lectura cómoda y fluida, adaptándose perfectamente a diferentes tamaños de pantalla. Al unir estas dos tipografías, se crea una jerarquía visual bien definida, donde Rethink Sans guía al usuario hacia los elementos clave, mientras que Hedvig Letters Serif proporciona una base sólida y legible para el contenido extenso, optimizando la experiencia de navegación.
+
+En **Xantina**, se emplean dos tipografías que garantizan una experiencia visual clara, funcional y elegante. **Rethink Sans** se utiliza en **títulos** y **botones**, debido a su diseño moderno y minimalista, ideal para destacar elementos clave de la plataforma sin comprometer la legibilidad. Su estilo sans-serif aporta un toque contemporáneo que mejora la navegación y la atención del usuario. Para los **textos generales**, se usa **Hedvig Letters Serif**, una fuente con serifa que transmite profesionalismo y confianza. Su diseño clásico y bien equilibrado facilita la lectura en párrafos largos, ofreciendo una experiencia visual cómoda en todo tipo de dispositivos. Esta combinación crea una jerarquía visual efectiva donde **Rethink Sans** capta la atención en los elementos más importantes y **Hedvig Letters Serif** sostiene el cuerpo del contenido de manera clara y ordenada.
+
+**Figura 1:**  
+Uso de la tipografía **"Rethink Sans"** en encabezados y botones  
+![Uso de Rethink Sans](./img/chapter3/rethink.png)
+
+**Fuente:** [Google Fonts – Rethink Sans](https://fonts.google.com/specimen/Rethink+Sans)
+
+
+**Figura 2:**  
+Uso de la tipografía **"Hedvig Letters Serif"** en textos generales  
+![Uso de Hedvig Letters Serif](./img/chapter3/hedving.png)
+
+**Fuente:** [Google Fonts – Hedvig Letters Serif](https://fonts.google.com/specimen/Hedvig+Letters+Serif)
+
+### Colores principales
+
+La identidad visual de **Xantina** se basa en una paleta sobria y profesional. El **color primario `#492C1E`** —un marrón oscuro— comunica solidez, confianza y calidez, atributos esenciales para la marca. Este se equilibra con el **gris claro `#D9D9D9`**, que aporta neutralidad y suavidad en la interfaz.
+
+Como colores secundarios se utilizan el **negro `#000000`** y el **gris medio `#909196`**, útiles para fondos, bordes y otros elementos que requieren contraste sin sobresalir visualmente.
+
+---
+
+### Estilo visual
+
+Los colores de texto están pensados para facilitar la lectura en distintos contextos visuales. El **azul violáceo `#202245`** se emplea en títulos y encabezados, el **blanco `#FFFFFF`** en fondos oscuros, y el **gris `#909196`** como texto secundario o informativo. Esta combinación asegura un equilibrio entre estética y funcionalidad.
+
+El uso de formas suaves y bordes redondeados complementa el estilo moderno y limpio de la plataforma, guiando la atención sin generar distracciones.
+
+---
+
+### Interactividad
+
+Los botones están diseñados para ser funcionales y accesibles:
+
+- **Botones primarios:** fondo `#202245`, con texto claro.
+- **Botones secundarios:** fondo `#D9D9D9`, con texto oscuro.
+
+Todos los elementos interactivos cuentan con transiciones suaves y efectos de hover que brindan una respuesta visual inmediata, mejorando la experiencia en dispositivos táctiles y de escritorio.
+
+---
+
+### Paletas de color
+
+**Figura 1:**
+Colores utilizados en textos  
+![Colores del texto](./img/chapter3/colortext.png)
+[Ver paleta en Coolors](https://coolors.co/202245-ffffff-909196)
+
+**Figura 2:**  
+Colores primarios  
+![Colores principales](./img/chapter3/colorprimario.png)  
+[Ver paleta en Coolors](https://coolors.co/492c1e-d9d9d9)
+
+**Figura 3:**  
+Colores secundarios  
+![Colores secundarios](./img/chapter3/colorsecundario.png)  
+[Ver paleta en Coolors](https://coolors.co/000000-909196)
+
+**Figura 4:**  
+Colores aplicados en wireframes (escala de grises)  
+![Wireframes en escala de grises](./img/chapter3/colorwireframe.png)  
+[Ver paleta en Coolors](https://coolors.co/ffffff-d9d9d9-909196-000000)
+
+## 3.1.2 Information Architecture
+
+### 3.1.2.1 Organization Systems
+
+#### Jerárquico  
+La arquitectura de **Xantina** está basada en un sistema jerárquico donde la página de inicio funciona como eje central de navegación. Desde esta, los usuarios pueden acceder a distintas áreas como **“Para Baristas”**, **“Para Cafeterías”**, **“Planes”**, **“Testimonios”** y **“Equipo”**.  
+Este enfoque organiza el contenido de forma descendente, partiendo de una visión general hacia apartados más específicos, lo que favorece una navegación intuitiva y comprensible para todo tipo de usuarios.
+
+#### Modular y Seccional  
+Cada sección del sitio está diseñada como un bloque funcional independiente, con contenidos y objetivos particulares. Este enfoque **modular** permite gestionar fácilmente los cambios o actualizaciones sin alterar la estructura general del sitio.  
+Además, las secciones están diferenciadas visualmente, lo que mejora la claridad del contenido y reduce la carga cognitiva, permitiendo al usuario enfocarse en una temática a la vez sin distracciones.
+
+### 3.1.2.2 Labelling Systems
+
+#### Menú principal  
+Las etiquetas de navegación en el menú principal de **Xantina** son precisas y fáciles de interpretar: **“Para Baristas”**, **“Para Cafeterías”**, **“Planes”**, **“Testimonios”** y **“Equipo”**.  
+Estas denominaciones permiten que los usuarios comprendan de inmediato qué tipo de contenido encontrarán en cada sección, lo que mejora la experiencia de navegación y reduce la fricción.
+
+#### Botones de acción  
+Los botones de la plataforma utilizan verbos de acción claros y en lenguaje directo, como **“Comenzar”**, **“Conocer más”**, **“Solicitar Demo”**, **“Elegir Plan”** y **“Enviar”**.  
+Este tipo de etiquetado impulsa la acción y facilita la toma de decisiones rápidas, guiando al usuario a través de cada paso del recorrido sin confusión.
+
+#### Formulario  
+Los campos de los formularios están identificados con etiquetas simples y comprensibles como **“Nombre”**, **“Correo electrónico”** y **“Mensaje”**. Esto garantiza que los usuarios puedan completar los datos sin ambigüedades, reduciendo errores y mejorando la eficacia del contacto.
+
+### 3.1.2.3 SEO Tags and Meta Tags
+
+
+La plataforma Xantina incorpora metaetiquetas esenciales para mejorar el posicionamiento en buscadores, facilitar la lectura por parte de motores de búsqueda y garantizar una experiencia óptima en navegadores modernos y dispositivos móviles. A continuación, se detallan las principales meta etiquetas utilizadas:
+
+---
+
+#### Título  
+La etiqueta `<title>` es una de las más relevantes para SEO. Define el nombre que aparece en la pestaña del navegador y en los resultados de búsqueda.
+
+![Título](./img/chapter3/titletag.png)
+
+---
+
+#### Descripción  
+La meta descripción proporciona un resumen breve del contenido del sitio. Es clave para mejorar la visibilidad y el CTR en motores de búsqueda como Google.
+
+![Descripción](./img/chapter3/descriptiontag.png)
+
+---
+
+#### Palabras clave  
+Ayuda a relacionar el sitio en términos de búsqueda relevantes, aunque actualmente tiene poco peso en algoritmos de búsqueda.
+
+![Palabras clave](./img/chapter3/keywordstag.png)
+
+---
+
+#### Derechos de autor  
+Indica el autor del contenido o la organización responsable del sitio web.
+
+![Derechos de autor](./img/chapter3/footerrightstag.png)
+
+### 3.1.2.4 Searching Systems
+
+Actualmente, la plataforma no cuenta con un sistema de búsqueda integrado. Se sugiere evaluar la incorporación de esta función en futuras actualizaciones para optimizar la experiencia del usuario, especialmente en sitios con gran cantidad de contenido.
+
+### 3.1.2.5 Navigation Systems
+
+### Navegación Superior  
+El menú principal está estratégicamente ubicado en la parte superior de la página, garantizando que los enlaces hacia las secciones más relevantes sean fácilmente accesibles y visibles en todo momento. Esta ubicación fija permite que los usuarios puedan desplazarse por el sitio sin perder nunca la referencia de dónde se encuentran ni la posibilidad de cambiar rápidamente de sección, optimizando así la experiencia de navegación.
+
+### Flujo Lógico  
+El recorrido del usuario ha sido diseñado cuidadosamente para que resulte natural e intuitivo, conduciéndolo desde la página de bienvenida hacia áreas específicas según sus intereses y necesidades. Este flujo lineal evita pasos innecesarios o confusos, lo que facilita la exploración y aumenta la probabilidad de que el usuario encuentre rápidamente la información que busca sin sentirse abrumado o perdido.
+
+### Footer con Navegación Secundaria  
+El pie de página complementa la navegación principal ofreciendo enlaces adicionales a contenido relevante como información corporativa, políticas de privacidad, redes sociales y datos de contacto. Esta navegación secundaria está diseñada para no saturar el menú principal, pero a la vez proporciona acceso rápido a información complementaria que puede ser crucial para ciertos usuarios, reforzando la estructura global del sitio y su usabilidad.
+
+### Estructura Modular  
+La arquitectura de la plataforma se basa en un diseño modular que permite la incorporación, modificación o eliminación de secciones de forma ágil y sin afectar la integridad del resto del sitio. Esta modularidad facilita el mantenimiento y la escalabilidad, haciendo posible que el sitio evolucione conforme a las necesidades del negocio o de los usuarios sin requerir una reestructuración completa.
+
+
+## 3.1.3 Landing Page UI Design
+
+Enlace al Landing Page en Figma: https://www.figma.com/design/zS1yCqj9PyyEGF9Zt7cW8m/Sin-t%C3%ADtulo?node-id=0-1&t=ov1PuM3qcHJrhFmS-1 
+
+### 3.1.3.1 Landing Page Wireframe
+
+![Wireframe 1](./img/chapter3/wf1.png)
+
+![Wireframe 2](./img/chapter3/wf2.png)
+
+![Wireframe 3](./img/chapter3/wf3.png)
+
+![Wireframe 4](./img/chapter3/wf4.png)
+
+![Wireframe 5](./img/chapter3/wf5.png)
+
+![Wireframe 6](./img/chapter3/wf6.png)
+
+### 3.1.3.2 Landing Page Mock-up
+
+![Wireframe 1](./img/chapter3/mk1.png)
+
+![Wireframe 2](./img/chapter3/mk2.png)
+
+![Wireframe 3](./img/chapter3/mk3.png)
+
+![Wireframe 4](./img/chapter3/mk4.png)
+
+![Wireframe 5](./img/chapter3/mk5.png)
+
+## 3.1.4 Mobile Applications UX/UI Design
+### 3.1.4.1 Mobile Applications Wireframes
+
+![Mobile Wireframe 1](./img/chapter3/mawf1.png) ![Mobile Wireframe 2](./img/chapter3/mawf2.png) ![Mobile Wireframe 3](./img/chapter3/mawf3.png)
+
+![Mobile Wireframe 4](./img/chapter3/mawf4.png) ![Mobile Wireframe 5](./img/chapter3/mawf5.png)  ![Mobile Wireframe 6](./img/chapter3/mawf6.png)
+
+![Mobile Wireframe 7](./img/chapter3/mawf7.png) ![Mobile Wireframe 8](./img/chapter3/mawf8.png) ![Mobile Wireframe 9](./img/chapter3/mawf9.png)
+
+![Mobile Wireframe 10](./img/chapter3/mawf10.png) ![Mobile Wireframe 11](./img/chapter3/mawf11.png) ![Mobile Wireframe 12](./img/chapter3/mawf12.png)
+
+![Mobile Wireframe 13](./img/chapter3/mawf13.png) ![Mobile Wireframe 14](./img/chapter3/mawf14.png) ![Mobile Wireframe 15](./img/chapter3/mawf15.png)
+
+![Mobile Wireframe 16](./img/chapter3/mawf16.png) ![Mobile Wireframe 17](./img/chapter3/mawf17.png) ![Mobile Wireframe 18](./img/chapter3/mawf18.png)
+
+### 3.1.4.2 Mobile Applications Wireflow Diagrams
+
+## User Goal 01: Crear y acceder a la cuenta de usuario
+
+![Wf1](./img/chapter3/flwf1.png)
+
+**Descripción:**  
+El objetivo es permitir que cualquier nuevo usuario (barista, jefe de barra o administrador) pueda crear una cuenta fácilmente o acceder a una ya existente. La app debe garantizar un flujo sencillo, seguro y sin fricción, desde el registro hasta el ingreso al sistema, incluyendo opciones para recuperación de contraseña.
+
+## User Goal 02: Gestionar recetas de café de forma estandarizada
+
+![Wf2](./img/chapter3/flwf2.png)
+
+**Descripción:**  
+Este objetivo busca que los baristas puedan crear nuevas recetas, editar las existentes, ver los parámetros importantes de forma clara (como molienda, dosis, tiempo), y compartirlas con su equipo. Asegura consistencia y eficiencia en la barra.
+
+## User Goal 03: Calibrar y operar la barra de manera guiada
+
+![Wf3](./img/chapter3/flwf3.png)
+
+**Descripción:**  
+Los baristas deben poder iniciar su turno con una guía clara para calibrar el espresso u otros métodos, utilizando listas de verificación, temporizadores automáticos y herramientas prácticas desde la app. Esto mejora la calidad y reduce errores humanos.
+
+## User Goal 04: Registrar y analizar catas de café
+
+![Wf4](./img/chapter3/flwf4.png)
+
+**Descripción:**  
+Permite documentar rápidamente los atributos sensoriales de una bebida, comparar resultados de distintas catas y visualizar tendencias. Esto ayuda a mejorar la consistencia y calidad del producto final.
+
+## User Goal 05: Controlar inventario y trazabilidad de lotes
+
+![Wf5](./img/chapter3/flwf5.png)
+
+**Descripción:**  
+Facilita registrar la llegada de nuevos lotes de café, almacenar información clave (tostador, fecha de tueste), y recibir alertas automáticas cuando el stock esté bajo. Garantiza trazabilidad y continuidad operativa.
+
+## User Goal 06: Gestionar usuarios y permisos de equipo
+
+![Wf6](./img/chapter3/flwf6.png)
+
+**Descripción:**  
+Permite al jefe de barra invitar nuevos baristas, asignar roles con distintos niveles de acceso (junior, senior, administrador), y eliminar usuarios que ya no forman parte del equipo, resguardando así los datos e integridad del sistema.
+
+## User Goal 07: Generar reportes y visualizar tendencias
+
+![Wf7](./img/chapter3/flwf7.png)
+
+**Descripción:**  
+El sistema permite generar reportes de consumo por período, visualizar datos en gráficos, y hacer proyecciones. Esto ayuda a planificar compras, evitar quiebres de stock y tomar decisiones basadas en datos.
+
+## User Goal 08: Comunicar novedades y actualizaciones al equipo
+
+![Wf8](./img/chapter3/flwf8.png)
+
+**Descripción:**  
+Ofrece una sección centralizada donde el jefe de barra puede enviar comunicados sobre nuevas recetas, cambios de turno, ajustes en lotes o procesos, y que los baristas puedan ver y reaccionar. Mejora la coordinación interna.
+
+
+### 3.1.4.3 Mobile Applications Mock-ups
+
+![Mockup 1 - Login](./img/chapter3/mamk1.png) ![Mockup 2 - Create Account](./img/chapter3/mamk2.png)
+
+![Mockup 3 - Create Password](./img/chapter3/mamk3.png) ![Mockup 4 - Onboarding](./img/chapter3/mamk4.png)
+
+![Mockup 5 - Home](./img/chapter3/mamk5.png) ![Mockup 6 - Recipe Detail](./img/chapter3/mamk6.png)
+
+![Mockup 7 - Order](./img/chapter3/mamk7.png) ![Mockup 8 - Saved Recipe](./img/chapter3/mamk8.png)
+
+![Mockup 9](./img/chapter3/mamk9.png) ![Mockup 10](./img/chapter3/mamk10.png)
+
+![Mockup 11](./img/chapter3/mamk11.png) ![Mockup 12](./img/chapter3/mamk12.png)
+
+![Mockup 12.1](./img/chapter3/mamk121.png) ![Mockup 12.2](./img/chapter3/mamk122.png)
+
+![Mockup 12.3](./img/chapter3/mamk123.png) ![Mockup 12.4](./img/chapter3/mamk124.png)
+
+![Mockup 13](./img/chapter3/mamk13.png) ![Mockup 13.1](./img/chapter3/mamk131.png)
+
+![Mockup 14](./img/chapter3/mamk14.png) ![Mockup 15](./img/chapter3/mamk15.png)
+
+![Mockup 16](./img/chapter3/mamk16.png) ![Mockup 17](./img/chapter3/mamk17.png)
+
+![Mockup 17.1](./img/chapter3/mamk171.png) ![Mockup 17.2](./img/chapter3/mamk172.png)
+
+![Mockup 18](./img/chapter3/mamk18.png) ![Mockup 19](./img/chapter3/mamk19.png) ![Mockup 20](./img/chapter3/mamk20.png)
+
+### 3.1.4.4 Mobile Applications User Flow Diagrams
+
+## User Goal 01: Crear y acceder a la cuenta de usuario
+
+![Mk1](./img/chapter3/flmk1.png)
+
+**Descripción:**  
+El objetivo es permitir que cualquier nuevo usuario (barista, jefe de barra o administrador) pueda crear una cuenta fácilmente o acceder a una ya existente. La app debe garantizar un flujo sencillo, seguro y sin fricción, desde el registro hasta el ingreso al sistema, incluyendo opciones para recuperación de contraseña.
+
+## User Goal 02: Gestionar recetas de café de forma estandarizada
+
+![Mk2](./img/chapter3/flmk2.png)
+
+Descripción:
+Este objetivo busca que los baristas puedan crear nuevas recetas, editar las existentes, ver los parámetros importantes de forma clara (como molienda, dosis, tiempo), y compartirlas con su equipo. Asegura consistencia y eficiencia en la barra.
+
+## User Goal 03: Calibrar y operar la barra de manera guiada
+
+![Mk3](./img/chapter3/flmk3.png)
+
+Descripción:
+Los baristas deben poder iniciar su turno con una guía clara para calibrar el espresso u otros métodos, utilizando listas de verificación, temporizadores automáticos y herramientas prácticas desde la app. Esto mejora la calidad y reduce errores humanos.
+
+## User Goal 04: Registrar y analizar catas de café
+
+![Mk4](./img/chapter3/flmk4.png)
+
+Descripción:
+Permite documentar rápidamente los atributos sensoriales de una bebida, comparar resultados de distintas catas y visualizar tendencias. Esto ayuda a mejorar la consistencia y calidad del producto final.
+
+## User Goal 05: Controlar inventario y trazabilidad de lotes
+
+![Mk5](./img/chapter3/flmk5.png)
+
+Descripción:
+Facilita registrar la llegada de nuevos lotes de café, almacenar información clave (tostador, fecha de tueste), y recibir alertas automáticas cuando el stock esté bajo. Garantiza trazabilidad y continuidad operativa.
+
+## User Goal 06: Gestionar usuarios y permisos de equipo
+
+![Mk6](./img/chapter3/flmk6.png)
+
+Descripción:
+Permite al jefe de barra invitar nuevos baristas, asignar roles con distintos niveles de acceso (junior, senior, administrador), y eliminar usuarios que ya no forman parte del equipo, resguardando así los datos e integridad del sistema.
+
+## User Goal 07: Generar reportes y visualizar tendencias
+
+![Mk7](./img/chapter3/flmk7.png)
+
+Descripción:
+El sistema permite generar reportes de consumo por período, visualizar datos en gráficos, y hacer proyecciones. Esto ayuda a planificar compras, evitar quiebres de stock y tomar decisiones basadas en datos.
+
+## User Goal 08: Comunicar novedades y actualizaciones al equipo
+
+![Mk8](./img/chapter3/flmk8.png)
+
+Descripción:
+Ofrece una sección centralizada donde el jefe de barra puede enviar comunicados sobre nuevas recetas, cambios de turno, ajustes en lotes o procesos, y que los baristas puedan ver y reaccionar. Mejora la coordinación interna.
+
+### 3.1.4.5 Mobile Applications Prototyping
+
+Enlace al prototipo en Figma:
+
+[https://www.figma.com/proto/zS1yCqj9PyyEGF9Zt7cW8m/XANTINA?node-id=54-2921&p=f&t=Fe8H8cgSwXWuYtIu-1&scaling=scale-down&content-scaling=fixed&page-id=48%3A2&starting-point-node-id=54%3A2921](https://www.figma.com/proto/zS1yCqj9PyyEGF9Zt7cW8m/XANTINA?node-id=54-2921&p=f&t=Fe8H8cgSwXWuYtIu-1&scaling=scale-down&content-scaling=fixed&page-id=48%3A2&starting-point-node-id=54%3A2921)
+
+![Prototyping](./img/chapter3/prototyping.png)
+# Capítulo IV: Product Implementation & Validation
+
+En esta sección se describe el proceso de implementación del producto Xantina, abarcando la gestión del entorno de desarrollo, el control de versiones del código fuente, las convenciones de estilo aplicadas y la configuración del despliegue del software.
+Asimismo, se incluyen las validaciones realizadas durante la integración de los componentes y las pruebas funcionales básicas del sistema.
+
+## 4.1. Software Configuration Management
+
+La Gestión de Configuración de Software (SCM, por sus siglas en inglés) es una disciplina en el desarrollo de software encargada de identificar, controlar y rastrear los componentes del software a lo largo de su ciclo de vida. Esta metodología facilita la administración organizada de cambios en documentos, códigos y otros elementos durante el proceso de desarrollo, garantizando así una gestión eficiente y ordenada. Su objetivo principal es mejorar la eficiencia del equipo de desarrollo y minimizar los errores.
+
+### 4.1.1. Software Development Environment Configuration
+
+En esta sección, presentaremos las convenciones y prácticas recomendadas adoptadas en Kotlin, Java, XML y JavaScript para el desarrollo de Xantina, una aplicación móvil enfocada en la gestión inteligente de pedidos y experiencias sensoriales en el sector gastronómico.
+Estas directrices garantizan una estructura coherente del código, mejoran la mantenibilidad y optimizan el rendimiento general del sistema en tiempo real.
+
+El proyecto Xantina busca responder a los desafíos tecnológicos actuales mediante soluciones que integren sostenibilidad, innovación y eficiencia operativa. Las prácticas aplicadas aseguran que el sistema se mantenga robusto, escalable y alineado con los principios de calidad de software y experiencia de usuario moderna.
+
+A continuación, se detallan las directrices y configuraciones aplicadas en cada una de las tecnologías empleadas, contribuyendo al desarrollo de una plataforma confiable, intuitiva y eficiente.
+
+**Definición de Requisitos**
+
+Antes de iniciar el desarrollo de Xantina, fue necesario definir los requisitos funcionales y técnicos que darían forma al producto. Estos requisitos reflejan el compromiso con la innovación tecnológica, la eficiencia operativa y la mejora continua en la experiencia del usuario.
+
+- **Gestión de Datos en Tiempo Real: Uso de una base de datos sincronizada para mantener actualizada la información sin necesidad de intervención manual.**
+- **Escalabilidad del Sistema: Arquitectura adaptable que permita futuras integraciones o expansión de funcionalidades.**
+- **Experiencia de Usuario Intuitiva: Diseño centrado en el usuario con interfaces responsivas y una navegación clara.**
+- **Integración Multiplataforma: Compatibilidad con sistemas Android modernos, asegurando rendimiento óptimo en diferentes dispositivos.**
+
+**Elección de la Tecnología**
+
+Con base en los requisitos anteriores, se seleccionó un conjunto de tecnologías modernas y multiplataforma que permiten construir una aplicación de alto rendimiento, segura y escalable.
+
+**Configuración del Entorno de Desarrollo Android Studio**
+
+ - **Editor de Código: Android Studio | Versión estable 2025**
+ - **Propósito: Desarrollo, compilación y despliegue de la aplicación móvil Android.**
+ - **Ruta de descarga: https://developer.android.com/studio**
+
+**Editor de Código Alternativo: Visual Studio Code**
+
+ - **Propósito: Desarrollo y edición de código del backend y scripts auxiliares.**
+ - **Ruta de descarga: https://code.visualstudio.com/**
+
+**Control de Versiones: Git y GitHub**
+
+ - **Propósito: Gestión de versiones, colaboración en el código y control de cambios.**
+ - **Ruta de descarga: https://git-scm.com/**
+ - **Repositorio del proyecto:** (https://github.com/upc-pre-202520-1ACC0238-2005-mira)
+
+ **Product UX/UI Design**
+ - **UI/UX: Creación de una interfaz amigable y accesible para los usuarios.**
+ - **Herramienta: Figma**
+ - **Propósito: Diseño de prototipos, flujos de interacción y maquetado visual de la aplicación.**
+ - **Ruta del Figma:** (https://www.figma.com/design/zS1yCqj9PyyEGF9Zt7cW8m/XANTINA?node-id=48-2&t=On8xXJobTBgODpbA-1)
+
+### 4.1.2. Source Code Management
+
+Gestión de Cambios en el Código Fuente con GitHub
+
+En esta sección, nuestro equipo detalla los métodos y la estructura organizativa para gestionar los cambios en el código fuente utilizando GitHub como plataforma de control de versiones. Hemos configurado un repositorio remoto en GitHub para almacenar el código fuente y facilitar la colaboración entre los miembros del equipo. Los URLs de los repositorios son los siguientes:
+
+- Figma: https: (https://www.figma.com/design/zS1yCqj9PyyEGF9Zt7cW8m/XANTINA?node-id=48-2&t=On8xXJobTBgODpbA-1)
+- Landing Page: https://github.com/upc-pre-202520-1ACC0238-2005-mira/landing-page.git
+- Backend Web Applications: https://github.com/upc-pre-202520-1ACC0238-2005-mira/backend.git
+
+### 4.1.3. Source Code Style Guide & Conventions
+
+Todo el código de la solución deberá ser escrito completamente en **inglés**, con el objetivo de mantener la consistencia internacional, facilitar su mantenimiento y permitir la colaboración entre diferentes equipos de desarrollo.
+
+### HTML
+- Escribir todas las etiquetas y atributos en minúscula.  
+- Cerrar correctamente todas las etiquetas.  
+- Especificar los atributos `alt`, `width` y `height` en las imágenes para mejorar la accesibilidad.  
+- Evitar espacios innecesarios o valores repetidos en los atributos.  
+
+### CSS
+- Asignar nombres de clases e identificadores que sean claros, descriptivos y en inglés.  
+- Mantener una estructura ordenada y consistente, utilizando sangrías y comentarios para separar secciones.  
+- Aplicar propiedades abreviadas cuando sea posible para optimizar el código.  
+- Evitar el uso de unidades después de valores de cero (`margin: 0;` en lugar de `margin: 0px;`).  
+
+### JavaScript
+- Usar **lowerCamelCase** para nombrar variables y funciones.  
+- Emplear `let` y `const` en lugar de `var` para declarar variables.  
+- Asegurar que los nombres de funciones y variables sean descriptivos y estén en inglés.  
+- Mantener un formato limpio con sangrías uniformes y comentarios solo cuando sean necesarios.  
+
+### Android Studio
+- Escribir todo el código y comentarios en inglés.  
+- Mantener una estructura de carpetas organizada por funcionalidades (por ejemplo: `ui/`, `data/`, `model/`).  
+- Nombrar los archivos, layouts y recursos en minúscula y con guiones bajos (`activity_main.xml`, `btn_login`).  
+- Evitar el uso de valores fijos o texto directo en el código; emplear los recursos definidos en `strings.xml` y `colors.xml`.  
+
+## 4.1.4. Software Deployment Configuration
+
+### Aplicación Móvil Deployment
+
+Para el despliegue de la aplicación móvil de **Xantina**, es necesario contar con el entorno de desarrollo configurado en **Android Studio**, así como acceso al repositorio remoto alojado en **GitHub**.  
+Este proceso garantiza que el código fuente se mantenga sincronizado entre los miembros del equipo y que las versiones generadas puedan ser compiladas y distribuidas correctamente.
+
+### Creación de ramas
+- Se crean ramas específicas para que cada integrante del equipo pueda trabajar en diferentes módulos o características de la aplicación sin generar conflictos en la rama principal.  
+- Se utiliza una estructura de ramas basada en **GitFlow**, lo que facilita la integración continua y la administración del código en desarrollo.  
+- La rama `main` contiene la versión estable lista para su publicación y la rama `develop` almacena las actualizaciones en curso.
+
+### Estructura del proyecto
+- Se mantiene una estructura ordenada dentro de Android Studio para facilitar la navegación y el mantenimiento del código:  
+  - Carpeta `app/src/main/java`: contiene las clases y controladores principales del proyecto.  
+  - Carpeta `app/src/main/res/layout`: incluye los archivos XML con el diseño de las interfaces de usuario.  
+  - Carpeta `app/src/main/res/values`: almacena los recursos como cadenas de texto, colores y estilos.  
+  - Archivo `app/src/main/AndroidManifest.xml`: define los permisos, actividades y componentes de la aplicación.  
+
+### Subida de archivos al repositorio
+- Se instala y configura **Git** en Android Studio mediante la opción integrada de *Version Control*.  
+- Se enlaza el repositorio remoto de GitHub con el proyecto local desde la opción **VCS → Git → Remotes**.  
+- Se emplean los comandos internos de Android Studio (`Commit` y `Push`) o la terminal integrada para enviar los cambios al repositorio remoto.  
+- Se mantienen mensajes de *commit* claros y descriptivos siguiendo la convención **Conventional Commits**.
+
+### Configuración para el despliegue
+- En Android Studio, se selecciona la opción **Build → Build Bundle(s) / APK(s)** para generar el archivo instalable (.apk o .aab).  
+- Se configura el archivo `build.gradle` para definir el *applicationId*, versión y dependencias necesarias.  
+- Se realiza la conexión de un dispositivo físico mediante USB o un emulador configurado en **AVD Manager**.  
+- Una vez generado el archivo instalable, se prueba la aplicación en distintos dispositivos para validar su correcto funcionamiento antes del despliegue final.  
+- Para su publicación, se firma la aplicación mediante una **keystore** y se distribuye a través de **Google Play Console** o por medios internos de prueba (*Beta/Testing*).
+
+### Resolución de conflictos
+- En caso de conflictos al integrar ramas, se utilizan las herramientas de comparación y fusión integradas en Android Studio.  
+- Se verifican los cambios manualmente en los archivos afectados y se realiza una nueva compilación para confirmar que el proyecto se ejecuta correctamente.  
+- Se documentan las correcciones en el repositorio para mantener trazabilidad y transparencia entre los miembros del equipo.
+
+Gracias a este flujo de trabajo, la aplicación móvil de **Xantina** puede ser compilada, probada y desplegada de forma eficiente, asegurando una versión estable y lista para ser distribuida en entornos de producción o pruebas controladas.
+
+## 4.2. Landing Page & Mobile Application Implementation
+
+### 4.2.1. Sprint 1
+#### 4.2.1.1. Sprint Planning 1
+<table border="1" cellpadding="6" cellspacing="0">
+    <tbody>
+        <tr>
+            <th>Sprint #</th>
+            <td>1</td>
+        </tr>
+        <tr>
+            <th colspan="2">Sprint Planning Background</th>
+        </tr>
+        <tr>
+            <th>Date</th>
+            <td>2/10/2025</td>
+        </tr>
+        <tr>
+            <th>Time</th>
+            <td>09:00 PM</td>
+        </tr>
+        <tr>
+            <th>Location</th>
+            <td>Reunión presencial después de clase</td>
+        </tr>
+        <tr>
+            <th>Prepared By</th>
+            <td>Guillermo Tantaleán</td>
+        </tr>
+        <tr>
+            <th>Attendees (to planning meeting)</th>
+            <td>
+                Guillermo Tantaleán, Fabrizzio Pereira, Miguel Vidal, Fabián Oliva, Juan Diego Mondoñedo
+            </td>
+        </tr>
+        <tr>
+            <th>Sprint 1 Review Summary</th>
+            <td>
+                Se avanzó en la implementación de la Landing Page con Next.js, 
+                completando UI, división de desarrollo, desarrollo en conjunto y despliegue.  
+                Se logró un 70% de despliegue del backend con Nest.js y MongoDB liderado por Guillermo Tantaleán, 
+                incluyendo arquitectura, desarrollo compartido y configuración de despliegue.  
+                También se desarrollaron las pantallas core de la aplicación (UI y flujo principal).  
+                En paralelo, se actualizó el registro de versiones del informe, <i>Project Report Collaboration Insights</i>, 
+                <i>Student Outcome</i>, y capítulos del informe académico:
+                <ul>
+                    <li><b>Capítulo III: UX/UI Design</b> – Miguel Vidal (Style Guidelines, Information Architecture, Wireframes, Mock-ups y Prototipos)</li>
+                    <li><b>Capítulo IV: Product Implementation & Validation</b> – Fabián Oliva (Software Configuration Management, Landing Page & Mobile App Implementation, Sprint Documentation)</li>
+                    <li><b>Sprint 1 Documentación y Conclusiones</b> – Juan Diego</li>
+                    <li>Bibliografía y Anexos</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <th>Sprint 1 Retrospective Summary</th>
+            <td>
+                El equipo destacó el buen avance en paralelo entre desarrollo técnico (frontend, backend y pantallas core) 
+                y documentación académica. Se valoró la coordinación entre responsables de UI/UX, backend y redacción.  
+                Como mejora se identificó la necesidad de consolidar evidencias del sprint en un repositorio común 
+                y mantener un flujo más frecuente de revisiones intermedias.
+            </td>
+        </tr>
+        <tr>
+            <th colspan="2">Sprint Goal & User Stories</th>
+        </tr>
+        <tr>
+            <th>Sprint 1 Goal</th>
+            <td>
+                Desarrollar las primeras versiones de la aplicación móvil en conjunto con un backend funcional que cumpla con los requerimientos identificados durante el needfinding y documentar los capítulos clave del informe académico.
+            </td>
+        </tr>
+        <tr>
+            <th>Sprint 1 Velocity</th>
+            <td>15</td>
+        </tr>
+        <tr>
+            <th>Sum of Story Points</th>
+            <td>15</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 4.2.1.2. Sprint Backlog 1
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="6">Work-Item / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>EP08/US18</td>
+      <td>Landing Page Inicial</td>
+      <td>TK10</td>
+      <td>Configurar Next.js y diseño base</td>
+      <td>Inicializar proyecto con Next.js, TailwindCSS y estructura de componentes reutilizables.</td>
+      <td>5</td>
+      <td>Fabrizzio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TK11</td>
+      <td>Hero y Sección de Valor</td>
+      <td>Diseñar hero banner con CTA principal y mensajes de valor para baristas y cafeterías.</td>
+      <td>4</td>
+      <td>Fabrizzio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TK12</td>
+      <td>Planes y características</td>
+      <td>Implementar sección comparativa de planes con precios, beneficios y CTA de registro.</td>
+      <td>5</td>
+      <td>Fabrizzio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TK13</td>
+      <td>Footer con navegación</td>
+      <td>Construir pie de página con enlaces a secciones, contacto y legales.</td>
+      <td>3</td>
+      <td>Fabrizzio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>EP01/US01</td>
+      <td>Creación de cuenta y unión a cafetería</td>
+      <td>TK14</td>
+      <td>Configurar proyecto Nest.js y conexión a MongoDB</td>
+      <td>Configurar entorno, módulos principales y conexión con base de datos Mongo.</td>
+      <td>6</td>
+      <td>Guillermo</td>
+      <td>In Process</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TK15</td>
+      <td>Implementar módulo de usuarios</td>
+      <td>Crear endpoints para registro, login y recuperación de cuenta.</td>
+      <td>8</td>
+      <td>Guillermo</td>
+      <td>In Process</td>
+    </tr>
+    <tr>
+      <td>EP02/US04</td>
+      <td>Crear y guardar una receta</td>
+      <td>TK16</td>
+      <td>Implementar módulo de recetas</td>
+      <td>Crear endpoints CRUD para recetas con historial de modificaciones.</td>
+      <td>8</td>
+      <td>Guillermo</td>
+      <td>In Process</td>
+    </tr>
+    <tr>
+      <td>EP05/US12</td>
+      <td>Controlar mis lotes de café</td>
+      <td>TK17</td>
+      <td>Endpoints inventario y lotes</td>
+      <td>Crear endpoints para registrar, consultar y alertar stock bajo de granos.</td>
+      <td>6</td>
+      <td>Guillermo</td>
+      <td>In Process</td>
+    </tr>
+    <tr>
+      <td>EP01/US02</td>
+      <td>Entrar a mi cuenta</td>
+      <td>TK18</td>
+      <td>Diseñar pantalla Login y Registro</td>
+      <td>Implementar interfaces con validación de campos y conexión al backend.</td>
+      <td>6</td>
+      <td>Miguel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>EP02/US05</td>
+      <td>Acceder rápidamente a recetas</td>
+      <td>TK19</td>
+      <td>Pantalla de Recetas</td>
+      <td>Implementar vista lista de recetas con accesos rápidos a parámetros clave.</td>
+      <td>7</td>
+      <td>Miguel</td>
+      <td>In Process</td>
+    </tr>
+    <tr>
+      <td>EP05/US12</td>
+      <td>Controlar mis lotes de café</td>
+      <td>TK20</td>
+      <td>Pantalla de Inventario</td>
+      <td>Construir pantalla para registrar lotes de café e inventario actual.</td>
+      <td>6</td>
+      <td>Miguel</td>
+      <td>In Process</td>
+    </tr>
+    <tr>
+      <td>EP04/US10</td>
+      <td>Registrar una cata simplificada</td>
+      <td>TK21</td>
+      <td>Pantalla de Catas</td>
+      <td>Crear formulario simplificado para registrar notas sensoriales y puntajes.</td>
+      <td>5</td>
+      <td>Miguel</td>
+      <td>In Process</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+#### 4.2.1.3. Development Evidence for Sprint Review
+
+<img src="img\landingEvidence1.PNG">
+<img src="img\landingEvidence2.PNG">
+
+#### 4.2.1.4. Testing Suite Evidence for Sprint Review
+
+#### 4.2.1.5. Execution Evidence for Sprint Review
+
+
+
+#### 4.2.1.6. Services Documentation Evidence for Sprint Review 
+
+#### 4.2.1.7. Software Deployment Evidence for Sprint Review
+
+#### 4.2.1.8. Team Collaboration Insights during Sprint
+
+## 4.3. Validation Interviews
+
+En esta sección validaremos la propuesta de valor y la usabilidad de Xantina con usuarios reales de nuestros segmentos principales .  
+El objetivo es comprobar si las funcionalidades priorizadas aportan valor inmediato en el flujo de trabajo del día a día de nuestro público objetivo y son percibidas como herramientas rápidas, claras y útiles que facilitan su jornada diaria.  
+
+Para estas entrevistas primero realizaremos un diseño enfocándonos en identificar los user goals más relevantes de cada segmento objetivo para posteriormente definir preguntas propicias para evaluar su experiencia con nuestro producto.  
+
+### 4.3.1. Diseño de Entrevistas
+
+#### Segmento #1: **Baristas (junior y senior)**
+- Acceder rápidamente a recetas aprobadas desde el móvil (EP02/US05, EP10/US23).  
+- Crear o ajustar recetas según cambios de lote (EP02/US04, EP02/US06).  
+- Seguir checklist de calibración al inicio de turno (EP03/US08).  
+- Registrar catas rápidas y comparar perfiles (EP04/US10, EP04/US11).  
+- Consultar offline recetas en horas pico (EP10/US25).  
+
+#### Segmento #2: **Jefes de barra / Dueños**
+- Crear cuenta y gestionar permisos de baristas (EP01/US01, EP06/US14–US16).  
+- Estandarizar y compartir recetas “de la casa” con el equipo (EP02/US07).  
+- Monitorear inventario y recibir alertas de stock (EP05/US12–US13).  
+- Generar reportes básicos de consumo y desempeño (EP07/US17).  
+- Comunicar cambios de lotes o recetas mediante notificaciones (EP08/US18–US19).  
+
+#### Segmento #3: **Entusiastas avanzados (home brewers)**
+- Acceder a recetas probadas y microlecciones (EP02/US04, EP09/US20).  
+- Registrar catas personales y compararlas (EP04/US10–US11).  
+- Consultar biblioteca de métodos y tips confiables.  
+
+#### Segmento #4: **Aliados del ecosistema (tostadores, escuelas) – Influenciadores**
+- Validar la trazabilidad de lotes compartidos (EP05/US12).  
+- Difundir contenido educativo y talleres (EP09/US20–US21).  
+
+### Preguntas para cada segmento:
+
+#### Baristas  
+1. ¿Qué tarea realizaste primero en la app? ¿Por qué?  
+2. ¿Qué tan fácil fue encontrar y usar una receta en medio del servicio?  
+3. En una escala de 1 a 5, ¿qué tan intuitivo fue el flujo de calibración?  
+4. ¿Qué tan claro fue el proceso de registrar una nueva cata?  
+5. ¿Qué función mejorarías para optimizar el flujo de la app durante horas pico?  
+6. Del 1 al 10, ¿qué tan útil es Xantina para mejorar la consistencia de tu servicio?  
+
+#### Jefes de barra / Dueños  
+1. ¿Tuviste dificultades durante el proceso de creación de cuenta y asignación de permisos?  
+2. ¿Cómo percibes la utilidad de compartir información y recetas con tu equipo?  
+3. ¿Encontraste alguna dificultad con la funcionalidad de gestión de inventario?  
+4. En una escala de 1 a 5, ¿cómo calificarías la claridad de los reportes de consumo?  
+5. Si pudieras añadir una función para optimizar la operación diaria en tu negocio, ¿cuál sería y por qué?  
+6. ¿Cual de las funcionalidades de Xantina te motivaría a recomendar la app a otro dueño de cafetería?   
+
+#### Entusiastas avanzados (home brewers)  
+1. ¿Qué tan útiles te resultaron las recetas y guías rápidas?  
+2. ¿Hay alguna funcionalidad que esperabas tener y no viste en la app?  
+3. ¿Qué tan clara fue la experiencia al registrar tu primera cata personal?  
+4. En una escala de 1 a 5, ¿qué tan fácil fue navegar entre recetas y catas?  
+5. ¿Cuál de las funciones que ofrece la app crees que utilizarías de manera constante en casa?  
+
+#### Aliados del ecosistema  
+1. ¿Qué tan claro fue el flujo de compartir o validar información de un lote?  
+2. ¿La app refleja estándares de calidad que recomendarías a tus estudiantes/clientes?  
+3. ¿Qué parte de la experiencia podría mejorarse brindar una mejor integración con programas de formación o certificaciones existentes?  
+4. ¿Qué te motivaría a recomendar Xantina a tu red principal de colaboradores?  
+
+### 4.3.2. Registro de Entrevistas
+
+### 4.3.3. Evaluaciones según heurísticas
+
+## 4.4. Database Diagram.
+<td><img src="img\Database_Diagram.png"></td>
 
 # Conclusiones
 - Xantina encaja con claridad en el nicho de cafeterías de especialidad en Lima: resuelve dos trabajos críticos —aprendizaje práctico y estandarización operativa— donde hoy dominan soluciones dispersas (cursos presenciales y contenido suelto en redes). El diferencial no es “tener más contenido”, sino insertarse en el flujo diario de barra con recetas aprobadas, checklist y catas accionables. El go-to-market más sólido combina pilotos por tienda, alianzas con tostadores y escuelas y un modelo freemium→B2B para equipos. El principal riesgo es la adopción en turno; queda mitigado con co-diseño en tiendas piloto y evidencia de uso en momentos clave (apertura, pico y cierre).
@@ -3983,7 +4833,19 @@ En conjunto, los hallazgos evidencian que la aplicación Xantina no solo debe en
 # Bibliografía
 Tune, N. (2020, 12 enero). Modelling Bounded Contexts with the Bounded Context Canvas: A Workshop Recipe. Medium. https://medium.com/nick-tune-tech-strategy-blog/modelling-bounded-contexts-with-the-bounded-context-design-canvas-a-workshop-recipe-1f123e592ab
 
+Elías, J., Negro, Á. G., Schling, M., & Mount, I. (2022). Análisis sobre la innovación en el sector gastronómico del Perú. https://doi.org/10.18235/0004446
+
+INEI [INEI]. (2024). Producción nacional 2024. Informe Técnico INEI, 9(9). https://www.inei.gob.pe/media/MenuRecursivo/boletines/informe-de-producion.pdf
+
+Pichler, R. (2010). Agile Product Management with Scrum: Creating Products that Customers Love. Pearson Professional.
+
 
 # Anexos
-- Reporte: [Enlace](https://github.com/CodyLionVivo/ProjectReport)
-
+- Reporte: [Enlace](https://github.com/upc-pre-202520-1ACC0238-2005-mira/ProjectReport)
+- Repositorio de la Landing Page: [Enlace](https://github.com/upc-pre-202520-1ACC0238-2005-mira/landing-page)
+- Repositorio de la App: [Enlace](https://github.com/upc-pre-202520-1ACC0238-2005-mira/XantinaApp)
+- Repositorio del Backend: [Enlace](https://github.com/upc-pre-202520-1ACC0238-2005-mira/backend)
+- Landing Page: [Enlace](https://xantina.vercel.app/)
+- Backend API: [Enlace](https://backend-production-da30.up.railway.app/api)
+- Enlace para acceder al [video exposición de TP1](https://upcedupe-my.sharepoint.com/:f:/g/personal/u202311958_upc_edu_pe/EjGOGgMcO51MhhDyf7FuWIgBqsYm6hWDUe0vhWCp1AmMzw?e=U0Ra7a)
+- Enlace para acceder al [Figma](https://www.figma.com/design/zS1yCqj9PyyEGF9Zt7cW8m/XANTINA?node-id=48-2&p=f&t=On8xXJobTBgODpbA-0)
