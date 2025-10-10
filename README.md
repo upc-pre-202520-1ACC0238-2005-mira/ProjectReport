@@ -4012,9 +4012,353 @@ Bounded Context: Management
 #### 2.6.1.6.2. Bounded Context Database Design Diagram
 El diseño de base de datos es el proceso de organizar y estructurar los datos en un sistema, creando tablas, relaciones y reglas para garantizar eficiencia, integridad y facilidad de acceso. Este diseño asegura que los datos se almacenen de manera coherente y sean fáciles de gestionar, consultar y mantener a medida que el sistema crece y evoluciona.
 
-### 4.8.1. Database Diagram.
-<td><img src="img\Database_Diagram.png"></td>
 
+# Capítulo III: UX/UI Design
+# 3.1 Product Design
+
+## 3.1.1 Style Guidelines
+### 3.1.1.1 General Style Guidelines
+
+En Xantina, se emplean dos tipografías para asegurar una experiencia visual clara y sofisticada. Rethink Sans se utiliza en títulos y botones, gracias a su diseño moderno y minimalista, que permite resaltar de manera efectiva las secciones más importantes de la plataforma. Su estilo sans-serif no solo facilita la lectura, sino que también aporta una presencia visual fresca y atractiva. Para los textos largos, se opta por Hedvig Letters Serif, una fuente con serifa que combina elegancia y funcionalidad. Su diseño clásico asegura una lectura cómoda y fluida, adaptándose perfectamente a diferentes tamaños de pantalla. Al unir estas dos tipografías, se crea una jerarquía visual bien definida, donde Rethink Sans guía al usuario hacia los elementos clave, mientras que Hedvig Letters Serif proporciona una base sólida y legible para el contenido extenso, optimizando la experiencia de navegación.
+
+En **Xantina**, se emplean dos tipografías que garantizan una experiencia visual clara, funcional y elegante. **Rethink Sans** se utiliza en **títulos** y **botones**, debido a su diseño moderno y minimalista, ideal para destacar elementos clave de la plataforma sin comprometer la legibilidad. Su estilo sans-serif aporta un toque contemporáneo que mejora la navegación y la atención del usuario. Para los **textos generales**, se usa **Hedvig Letters Serif**, una fuente con serifa que transmite profesionalismo y confianza. Su diseño clásico y bien equilibrado facilita la lectura en párrafos largos, ofreciendo una experiencia visual cómoda en todo tipo de dispositivos. Esta combinación crea una jerarquía visual efectiva donde **Rethink Sans** capta la atención en los elementos más importantes y **Hedvig Letters Serif** sostiene el cuerpo del contenido de manera clara y ordenada.
+
+**Figura 1:**  
+Uso de la tipografía **"Rethink Sans"** en encabezados y botones  
+![Uso de Rethink Sans](./img/chapter3/rethink.png)
+
+**Fuente:** [Google Fonts – Rethink Sans](https://fonts.google.com/specimen/Rethink+Sans)
+
+
+**Figura 2:**  
+Uso de la tipografía **"Hedvig Letters Serif"** en textos generales  
+![Uso de Hedvig Letters Serif](./img/chapter3/hedving.png)
+
+**Fuente:** [Google Fonts – Hedvig Letters Serif](https://fonts.google.com/specimen/Hedvig+Letters+Serif)
+
+### Colores principales
+
+La identidad visual de **Xantina** se basa en una paleta sobria y profesional. El **color primario `#492C1E`** —un marrón oscuro— comunica solidez, confianza y calidez, atributos esenciales para la marca. Este se equilibra con el **gris claro `#D9D9D9`**, que aporta neutralidad y suavidad en la interfaz.
+
+Como colores secundarios se utilizan el **negro `#000000`** y el **gris medio `#909196`**, útiles para fondos, bordes y otros elementos que requieren contraste sin sobresalir visualmente.
+
+---
+
+### Estilo visual
+
+Los colores de texto están pensados para facilitar la lectura en distintos contextos visuales. El **azul violáceo `#202245`** se emplea en títulos y encabezados, el **blanco `#FFFFFF`** en fondos oscuros, y el **gris `#909196`** como texto secundario o informativo. Esta combinación asegura un equilibrio entre estética y funcionalidad.
+
+El uso de formas suaves y bordes redondeados complementa el estilo moderno y limpio de la plataforma, guiando la atención sin generar distracciones.
+
+---
+
+### Interactividad
+
+Los botones están diseñados para ser funcionales y accesibles:
+
+- **Botones primarios:** fondo `#202245`, con texto claro.
+- **Botones secundarios:** fondo `#D9D9D9`, con texto oscuro.
+
+Todos los elementos interactivos cuentan con transiciones suaves y efectos de hover que brindan una respuesta visual inmediata, mejorando la experiencia en dispositivos táctiles y de escritorio.
+
+---
+
+### Paletas de color
+
+**Figura 1:**
+Colores utilizados en textos  
+![Colores del texto](./img/chapter3/colortext.png)
+[Ver paleta en Coolors](https://coolors.co/202245-ffffff-909196)
+
+**Figura 2:**  
+Colores primarios  
+![Colores principales](./img/chapter3/colorprimario.png)  
+[Ver paleta en Coolors](https://coolors.co/492c1e-d9d9d9)
+
+**Figura 3:**  
+Colores secundarios  
+![Colores secundarios](./img/chapter3/colorsecundario.png)  
+[Ver paleta en Coolors](https://coolors.co/000000-909196)
+
+**Figura 4:**  
+Colores aplicados en wireframes (escala de grises)  
+![Wireframes en escala de grises](./img/chapter3/colorwireframe.png)  
+[Ver paleta en Coolors](https://coolors.co/ffffff-d9d9d9-909196-000000)
+
+## 3.1.2 Information Architecture
+
+### 3.1.2.1 Organization Systems
+
+#### Jerárquico  
+La arquitectura de **Xantina** está basada en un sistema jerárquico donde la página de inicio funciona como eje central de navegación. Desde esta, los usuarios pueden acceder a distintas áreas como **“Para Baristas”**, **“Para Cafeterías”**, **“Planes”**, **“Testimonios”** y **“Equipo”**.  
+Este enfoque organiza el contenido de forma descendente, partiendo de una visión general hacia apartados más específicos, lo que favorece una navegación intuitiva y comprensible para todo tipo de usuarios.
+
+#### Modular y Seccional  
+Cada sección del sitio está diseñada como un bloque funcional independiente, con contenidos y objetivos particulares. Este enfoque **modular** permite gestionar fácilmente los cambios o actualizaciones sin alterar la estructura general del sitio.  
+Además, las secciones están diferenciadas visualmente, lo que mejora la claridad del contenido y reduce la carga cognitiva, permitiendo al usuario enfocarse en una temática a la vez sin distracciones.
+
+### 3.1.2.2 Labelling Systems
+
+#### Menú principal  
+Las etiquetas de navegación en el menú principal de **Xantina** son precisas y fáciles de interpretar: **“Para Baristas”**, **“Para Cafeterías”**, **“Planes”**, **“Testimonios”** y **“Equipo”**.  
+Estas denominaciones permiten que los usuarios comprendan de inmediato qué tipo de contenido encontrarán en cada sección, lo que mejora la experiencia de navegación y reduce la fricción.
+
+#### Botones de acción  
+Los botones de la plataforma utilizan verbos de acción claros y en lenguaje directo, como **“Comenzar”**, **“Conocer más”**, **“Solicitar Demo”**, **“Elegir Plan”** y **“Enviar”**.  
+Este tipo de etiquetado impulsa la acción y facilita la toma de decisiones rápidas, guiando al usuario a través de cada paso del recorrido sin confusión.
+
+#### Formulario  
+Los campos de los formularios están identificados con etiquetas simples y comprensibles como **“Nombre”**, **“Correo electrónico”** y **“Mensaje”**. Esto garantiza que los usuarios puedan completar los datos sin ambigüedades, reduciendo errores y mejorando la eficacia del contacto.
+
+### 3.1.2.3 SEO Tags and Meta Tags
+
+
+La plataforma Xantina incorpora metaetiquetas esenciales para mejorar el posicionamiento en buscadores, facilitar la lectura por parte de motores de búsqueda y garantizar una experiencia óptima en navegadores modernos y dispositivos móviles. A continuación, se detallan las principales meta etiquetas utilizadas:
+
+---
+
+#### Título  
+La etiqueta `<title>` es una de las más relevantes para SEO. Define el nombre que aparece en la pestaña del navegador y en los resultados de búsqueda.
+
+![Título](./img/chapter3/titletag.png)
+
+---
+
+#### Descripción  
+La meta descripción proporciona un resumen breve del contenido del sitio. Es clave para mejorar la visibilidad y el CTR en motores de búsqueda como Google.
+
+![Descripción](./img/chapter3/descriptiontag.png)
+
+---
+
+#### Palabras clave  
+Ayuda a relacionar el sitio en términos de búsqueda relevantes, aunque actualmente tiene poco peso en algoritmos de búsqueda.
+
+![Palabras clave](./img/chapter3/keywordstag.png)
+
+---
+
+#### Derechos de autor  
+Indica el autor del contenido o la organización responsable del sitio web.
+
+![Derechos de autor](./img/chapter3/footerrightstag.png)
+
+### 3.1.2.4 Searching Systems
+
+Actualmente, la plataforma no cuenta con un sistema de búsqueda integrado. Se sugiere evaluar la incorporación de esta función en futuras actualizaciones para optimizar la experiencia del usuario, especialmente en sitios con gran cantidad de contenido.
+
+### 3.1.2.5 Navigation Systems
+
+### Navegación Superior  
+El menú principal está estratégicamente ubicado en la parte superior de la página, garantizando que los enlaces hacia las secciones más relevantes sean fácilmente accesibles y visibles en todo momento. Esta ubicación fija permite que los usuarios puedan desplazarse por el sitio sin perder nunca la referencia de dónde se encuentran ni la posibilidad de cambiar rápidamente de sección, optimizando así la experiencia de navegación.
+
+### Flujo Lógico  
+El recorrido del usuario ha sido diseñado cuidadosamente para que resulte natural e intuitivo, conduciéndolo desde la página de bienvenida hacia áreas específicas según sus intereses y necesidades. Este flujo lineal evita pasos innecesarios o confusos, lo que facilita la exploración y aumenta la probabilidad de que el usuario encuentre rápidamente la información que busca sin sentirse abrumado o perdido.
+
+### Footer con Navegación Secundaria  
+El pie de página complementa la navegación principal ofreciendo enlaces adicionales a contenido relevante como información corporativa, políticas de privacidad, redes sociales y datos de contacto. Esta navegación secundaria está diseñada para no saturar el menú principal, pero a la vez proporciona acceso rápido a información complementaria que puede ser crucial para ciertos usuarios, reforzando la estructura global del sitio y su usabilidad.
+
+### Estructura Modular  
+La arquitectura de la plataforma se basa en un diseño modular que permite la incorporación, modificación o eliminación de secciones de forma ágil y sin afectar la integridad del resto del sitio. Esta modularidad facilita el mantenimiento y la escalabilidad, haciendo posible que el sitio evolucione conforme a las necesidades del negocio o de los usuarios sin requerir una reestructuración completa.
+
+
+## 3.1.3 Landing Page UI Design
+
+Enlace al Landing Page en Figma: https://www.figma.com/design/zS1yCqj9PyyEGF9Zt7cW8m/Sin-t%C3%ADtulo?node-id=0-1&t=ov1PuM3qcHJrhFmS-1 
+
+### 3.1.3.1 Landing Page Wireframe
+
+![Wireframe 1](./img/chapter3/wf1.png)
+
+![Wireframe 2](./img/chapter3/wf2.png)
+
+![Wireframe 3](./img/chapter3/wf3.png)
+
+![Wireframe 4](./img/chapter3/wf4.png)
+
+![Wireframe 5](./img/chapter3/wf5.png)
+
+![Wireframe 6](./img/chapter3/wf6.png)
+
+### 3.1.3.2 Landing Page Mock-up
+
+![Wireframe 1](./img/chapter3/mk1.png)
+
+![Wireframe 2](./img/chapter3/mk2.png)
+
+![Wireframe 3](./img/chapter3/mk3.png)
+
+![Wireframe 4](./img/chapter3/mk4.png)
+
+![Wireframe 5](./img/chapter3/mk5.png)
+
+## 3.1.4 Mobile Applications UX/UI Design
+### 3.1.4.1 Mobile Applications Wireframes
+
+![Mobile Wireframe 1](./img/chapter3/mawf1.png) ![Mobile Wireframe 2](./img/chapter3/mawf2.png) ![Mobile Wireframe 3](./img/chapter3/mawf3.png)
+
+![Mobile Wireframe 4](./img/chapter3/mawf4.png) ![Mobile Wireframe 5](./img/chapter3/mawf5.png)  ![Mobile Wireframe 6](./img/chapter3/mawf6.png)
+
+![Mobile Wireframe 7](./img/chapter3/mawf7.png) ![Mobile Wireframe 8](./img/chapter3/mawf8.png) ![Mobile Wireframe 9](./img/chapter3/mawf9.png)
+
+![Mobile Wireframe 10](./img/chapter3/mawf10.png) ![Mobile Wireframe 11](./img/chapter3/mawf11.png) ![Mobile Wireframe 12](./img/chapter3/mawf12.png)
+
+![Mobile Wireframe 13](./img/chapter3/mawf13.png) ![Mobile Wireframe 14](./img/chapter3/mawf14.png) ![Mobile Wireframe 15](./img/chapter3/mawf15.png)
+
+![Mobile Wireframe 16](./img/chapter3/mawf16.png) ![Mobile Wireframe 17](./img/chapter3/mawf17.png) ![Mobile Wireframe 18](./img/chapter3/mawf18.png)
+
+### 3.1.4.2 Mobile Applications Wireflow Diagrams
+
+## User Goal 01: Crear y acceder a la cuenta de usuario
+
+![Wf1](./img/chapter3/flwf1.png)
+
+**Descripción:**  
+El objetivo es permitir que cualquier nuevo usuario (barista, jefe de barra o administrador) pueda crear una cuenta fácilmente o acceder a una ya existente. La app debe garantizar un flujo sencillo, seguro y sin fricción, desde el registro hasta el ingreso al sistema, incluyendo opciones para recuperación de contraseña.
+
+## User Goal 02: Gestionar recetas de café de forma estandarizada
+
+![Wf2](./img/chapter3/flwf2.png)
+
+**Descripción:**  
+Este objetivo busca que los baristas puedan crear nuevas recetas, editar las existentes, ver los parámetros importantes de forma clara (como molienda, dosis, tiempo), y compartirlas con su equipo. Asegura consistencia y eficiencia en la barra.
+
+## User Goal 03: Calibrar y operar la barra de manera guiada
+
+![Wf3](./img/chapter3/flwf3.png)
+
+**Descripción:**  
+Los baristas deben poder iniciar su turno con una guía clara para calibrar el espresso u otros métodos, utilizando listas de verificación, temporizadores automáticos y herramientas prácticas desde la app. Esto mejora la calidad y reduce errores humanos.
+
+## User Goal 04: Registrar y analizar catas de café
+
+![Wf4](./img/chapter3/flwf4.png)
+
+**Descripción:**  
+Permite documentar rápidamente los atributos sensoriales de una bebida, comparar resultados de distintas catas y visualizar tendencias. Esto ayuda a mejorar la consistencia y calidad del producto final.
+
+## User Goal 05: Controlar inventario y trazabilidad de lotes
+
+![Wf5](./img/chapter3/flwf5.png)
+
+**Descripción:**  
+Facilita registrar la llegada de nuevos lotes de café, almacenar información clave (tostador, fecha de tueste), y recibir alertas automáticas cuando el stock esté bajo. Garantiza trazabilidad y continuidad operativa.
+
+## User Goal 06: Gestionar usuarios y permisos de equipo
+
+![Wf6](./img/chapter3/flwf6.png)
+
+**Descripción:**  
+Permite al jefe de barra invitar nuevos baristas, asignar roles con distintos niveles de acceso (junior, senior, administrador), y eliminar usuarios que ya no forman parte del equipo, resguardando así los datos e integridad del sistema.
+
+## User Goal 07: Generar reportes y visualizar tendencias
+
+![Wf7](./img/chapter3/flwf7.png)
+
+**Descripción:**  
+El sistema permite generar reportes de consumo por período, visualizar datos en gráficos, y hacer proyecciones. Esto ayuda a planificar compras, evitar quiebres de stock y tomar decisiones basadas en datos.
+
+## User Goal 08: Comunicar novedades y actualizaciones al equipo
+
+![Wf8](./img/chapter3/flwf8.png)
+
+**Descripción:**  
+Ofrece una sección centralizada donde el jefe de barra puede enviar comunicados sobre nuevas recetas, cambios de turno, ajustes en lotes o procesos, y que los baristas puedan ver y reaccionar. Mejora la coordinación interna.
+
+
+### 3.1.4.3 Mobile Applications Mock-ups
+
+![Mockup 1 - Login](./img/chapter3/mamk1.png) ![Mockup 2 - Create Account](./img/chapter3/mamk2.png)
+
+![Mockup 3 - Create Password](./img/chapter3/mamk3.png) ![Mockup 4 - Onboarding](./img/chapter3/mamk4.png)
+
+![Mockup 5 - Home](./img/chapter3/mamk5.png) ![Mockup 6 - Recipe Detail](./img/chapter3/mamk6.png)
+
+![Mockup 7 - Order](./img/chapter3/mamk7.png) ![Mockup 8 - Saved Recipe](./img/chapter3/mamk8.png)
+
+![Mockup 9](./img/chapter3/mamk9.png) ![Mockup 10](./img/chapter3/mamk10.png)
+
+![Mockup 11](./img/chapter3/mamk11.png) ![Mockup 12](./img/chapter3/mamk12.png)
+
+![Mockup 12.1](./img/chapter3/mamk121.png) ![Mockup 12.2](./img/chapter3/mamk122.png)
+
+![Mockup 12.3](./img/chapter3/mamk123.png) ![Mockup 12.4](./img/chapter3/mamk124.png)
+
+![Mockup 13](./img/chapter3/mamk13.png) ![Mockup 13.1](./img/chapter3/mamk131.png)
+
+![Mockup 14](./img/chapter3/mamk14.png) ![Mockup 15](./img/chapter3/mamk15.png)
+
+![Mockup 16](./img/chapter3/mamk16.png) ![Mockup 17](./img/chapter3/mamk17.png)
+
+![Mockup 17.1](./img/chapter3/mamk171.png) ![Mockup 17.2](./img/chapter3/mamk172.png)
+
+![Mockup 18](./img/chapter3/mamk18.png) ![Mockup 19](./img/chapter3/mamk19.png) ![Mockup 20](./img/chapter3/mamk20.png)
+
+### 3.1.4.4 Mobile Applications User Flow Diagrams
+
+## User Goal 01: Crear y acceder a la cuenta de usuario
+
+![Mk1](./img/chapter3/flmk1.png)
+
+**Descripción:**  
+El objetivo es permitir que cualquier nuevo usuario (barista, jefe de barra o administrador) pueda crear una cuenta fácilmente o acceder a una ya existente. La app debe garantizar un flujo sencillo, seguro y sin fricción, desde el registro hasta el ingreso al sistema, incluyendo opciones para recuperación de contraseña.
+
+## User Goal 02: Gestionar recetas de café de forma estandarizada
+
+![Mk2](./img/chapter3/flmk2.png)
+
+Descripción:
+Este objetivo busca que los baristas puedan crear nuevas recetas, editar las existentes, ver los parámetros importantes de forma clara (como molienda, dosis, tiempo), y compartirlas con su equipo. Asegura consistencia y eficiencia en la barra.
+
+## User Goal 03: Calibrar y operar la barra de manera guiada
+
+![Mk3](./img/chapter3/flmk3.png)
+
+Descripción:
+Los baristas deben poder iniciar su turno con una guía clara para calibrar el espresso u otros métodos, utilizando listas de verificación, temporizadores automáticos y herramientas prácticas desde la app. Esto mejora la calidad y reduce errores humanos.
+
+## User Goal 04: Registrar y analizar catas de café
+
+![Mk4](./img/chapter3/flmk4.png)
+
+Descripción:
+Permite documentar rápidamente los atributos sensoriales de una bebida, comparar resultados de distintas catas y visualizar tendencias. Esto ayuda a mejorar la consistencia y calidad del producto final.
+
+## User Goal 05: Controlar inventario y trazabilidad de lotes
+
+![Mk5](./img/chapter3/flmk5.png)
+
+Descripción:
+Facilita registrar la llegada de nuevos lotes de café, almacenar información clave (tostador, fecha de tueste), y recibir alertas automáticas cuando el stock esté bajo. Garantiza trazabilidad y continuidad operativa.
+
+## User Goal 06: Gestionar usuarios y permisos de equipo
+
+![Mk6](./img/chapter3/flmk6.png)
+
+Descripción:
+Permite al jefe de barra invitar nuevos baristas, asignar roles con distintos niveles de acceso (junior, senior, administrador), y eliminar usuarios que ya no forman parte del equipo, resguardando así los datos e integridad del sistema.
+
+## User Goal 07: Generar reportes y visualizar tendencias
+
+![Mk7](./img/chapter3/flmk7.png)
+
+Descripción:
+El sistema permite generar reportes de consumo por período, visualizar datos en gráficos, y hacer proyecciones. Esto ayuda a planificar compras, evitar quiebres de stock y tomar decisiones basadas en datos.
+
+## User Goal 08: Comunicar novedades y actualizaciones al equipo
+
+![Mk8](./img/chapter3/flmk8.png)
+
+Descripción:
+Ofrece una sección centralizada donde el jefe de barra puede enviar comunicados sobre nuevas recetas, cambios de turno, ajustes en lotes o procesos, y que los baristas puedan ver y reaccionar. Mejora la coordinación interna.
+
+### 3.1.4.5 Mobile Applications Prototyping
+
+Enlace al prototipo en Figma:
+
+[https://www.figma.com/proto/zS1yCqj9PyyEGF9Zt7cW8m/XANTINA?node-id=54-2921&p=f&t=Fe8H8cgSwXWuYtIu-1&scaling=scale-down&content-scaling=fixed&page-id=48%3A2&starting-point-node-id=54%3A2921](https://www.figma.com/proto/zS1yCqj9PyyEGF9Zt7cW8m/XANTINA?node-id=54-2921&p=f&t=Fe8H8cgSwXWuYtIu-1&scaling=scale-down&content-scaling=fixed&page-id=48%3A2&starting-point-node-id=54%3A2921)
+
+![Prototyping](./img/chapter3/prototyping.png)
 # Capítulo IV: Product Implementation & Validation
 
 En esta sección se describe el proceso de implementación del producto Xantina, abarcando la gestión del entorno de desarrollo, el control de versiones del código fuente, las convenciones de estilo aplicadas y la configuración del despliegue del software.
@@ -4451,6 +4795,8 @@ Para estas entrevistas primero realizaremos un diseño enfocándonos en identifi
 
 ### 4.3.3. Evaluaciones según heurísticas
 
+## 4.4. Database Diagram.
+<td><img src="img\Database_Diagram.png"></td>
 
 # Conclusiones
 - Xantina encaja con claridad en el nicho de cafeterías de especialidad en Lima: resuelve dos trabajos críticos —aprendizaje práctico y estandarización operativa— donde hoy dominan soluciones dispersas (cursos presenciales y contenido suelto en redes). El diferencial no es “tener más contenido”, sino insertarse en el flujo diario de barra con recetas aprobadas, checklist y catas accionables. El go-to-market más sólido combina pilotos por tienda, alianzas con tostadores y escuelas y un modelo freemium→B2B para equipos. El principal riesgo es la adopción en turno; queda mitigado con co-diseño en tiendas piloto y evidencia de uso en momentos clave (apertura, pico y cierre).
