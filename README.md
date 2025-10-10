@@ -5,18 +5,17 @@
 	<h4 style="margin: 10px 0; border-bottom: none;">NRC: 2005</h4>
 	<h4 style="margin: 10px 0; border-bottom: none;">Mayta Guillermo, Jorge Luis</h4>
 	<h2 style="margin: 10px 0; border-bottom: none;">Informe de Trabajo Final</h2>
-	<h3 style="margin: 10px 0; border-bottom: none;">Startup: AromaTech</h3>
+	<h3 style="margin: 10px 0; border-bottom: none;">Startup: Mira</h3>
 	<h3 style="margin: 10px 0; border-bottom: none;">Producto: Xantina</h3>
 	<h4 style="margin: 10px 0; border-bottom: none;">Integrantes:</h4>
 	<ul style="display: inline-block; text-align: left; padding: 0;">
-		<li style="padding: 5px 0;">León Vivas, Fabrizio Amir (20211b994)</li>
-		<li style="padding: 5px 0;">Pereira Vasquez, Nelson Fabrizzio (202417468)</li>
-		<li style="padding: 5px 0;">Oliva López, Fabián Alejandro (202312013)</li>
-		<li style="padding: 5px 0;">Vidal Castro, Miguel Angel (202314186)</li>
 		<li style="padding: 5px 0;">Mondoñedo Rodriguez, Juan Diego Javier (202110373)</li>
+		<li style="padding: 5px 0;">Oliva López, Fabián Alejandro (202312013)</li>
+		<li style="padding: 5px 0;">Pereira Vasquez, Nelson Fabrizzio (202417468)</li>
 		<li style="padding: 5px 0;">Tantaleán Mesta, Guillermo Fabián (202311958)</li>
+		<li style="padding: 5px 0;">Vidal Castro, Miguel Angel (202314186)</li>
 	</ul>
-	<h4 style="margin: 10px 0; border-bottom: none;">Setiembre de 2025</h4>
+	<h4 style="margin: 10px 0; border-bottom: none;">Octubre de 2025</h4>
 </div>
 
 <div style="page-break-before: always;"></div>
@@ -105,6 +104,68 @@
         <p style="margin: 2px 0; text-indent: 40px;">2.6.1.6.2. Bounded Context Database Design Diagram</p>
       </td>
     </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">2.0</td>
+      <td style="border: 1px solid black; padding: 8px;">09/10/2025</td>
+      <td style="border: 1px solid black; padding: 8px;">
+        <ul style="margin: 0; padding-left: 18px;">
+          <li>Pereira Vasquez, Nelson Fabrizzio</li>
+          <li>Vidal Castro, Miguel Angel</li>
+          <li>Oliva López, Fabián Alejandro</li>
+          <li>Mondoñedo Rodriguez, Juan Diego Javier</li>
+          <li>Tantaleán Mesta, Guillermo Fabián</li>
+        </ul>
+      </td>
+      <td style="border: 1px solid black; padding: 8px;">
+        <strong>Correcciones de entrega anterior (TB1):</strong><br>
+        <p style="margin: 2px 0; font-weight: bold;">Corrección de objetivos SMART</p>
+        <p style="margin: 2px 0; font-weight: bold;">Corrección de imágenes de Event Storming</p>
+        <p style="margin: 2px 0; font-weight: bold;">Corrección de Student Outcomes</p>
+        <p style="margin: 2px 0; font-weight: bold;">Agregados de entrega (TP):</p>
+        <p style="margin: 2px 0; font-weight: bold;">Capítulo III: UX/UI Design</p>
+        <p style="margin: 2px 0; text-indent: 10px;">3.1. Product Design</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.1. Style Guidelines</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.1.1. General Style Guidelines</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.2. Information Architecture</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.2.1. Organization Systems</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.2.2. Labelling Systems</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.2.3. SEO Tags and Meta Tags</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.2.4. Searching Systems</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.2.5. Navigation Systems</p>
+        <p style="margin: 2px 0; text-indent: 10px;">3.1.3. Landing Page UI Design</p>
+        <p style="margin: 2px 0; text-indent: 10px;">3.1.3.1. Landing Page Wireframe</p>
+        <p style="margin: 2px 0; text-indent: 10px;">3.1.3.2. Landing Page Mock-up </p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.4. Mobile Applications UX/UI Design</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.4.1. Mobile Applications Wireframes</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.4.2. Mobile Applications Wireflow Diagrams</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.4.3. Mobile Applications Mock-ups</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.4.4. Mobile Applications User Flow Diagrams</p>
+        <p style="margin: 2px 0; text-indent: 20px;">3.1.4.5. Mobile Applications User Flow Diagrams</p>
+        <p style="margin: 2px 0; font-weight: bold;">Capítulo IV: Product Implementation & Validation</p>
+        <p style="margin: 2px 0; text-indent: 10px;">4.1. Software Configuration Management</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.1.1. Software Development Environment Configuration</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.1.2. Source Code Management </p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.1.3. Source Code Style Guide & Conventions</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.1.4. Software Deployment Configuration</p>
+        <p style="margin: 2px 0; text-indent: 10px;">4.2. Landing Page & Mobile Application Implementation</p>
+        <p style="margin: 2px 0; text-indent: 10px;">4.2.1. Sprint 1</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.2.1.1. Sprint Planning 1</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.2.1.2. Sprint Backlog 1</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.2.1.3. Development Evidence for Sprint Review</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.2.1.4. Testing Suite Evidence for Sprint Review</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.2.1.5. Execution Evidence for Sprint Review</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.2.1.6. Services Documentation Evidence for Sprint Review</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.2.1.7. Software Deployment Evidence for Sprint Review</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.2.1.8. Team Collaboration Insights during Sprint </p>
+        <p style="margin: 2px 0; text-indent: 10px;">4.3. Validation Interviews</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.3.1. Diseño de Entrevistas</p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.3.2. Registro de Entrevistas </p>
+        <p style="margin: 2px 0; text-indent: 20px;">4.3.3. Evaluaciones según heurísticas</p>
+        <p style="margin: 2px 0; text-indent: 20px;">Conclusiones</p>
+        <p style="margin: 2px 0; text-indent: 20px;">Bibliografía</p>
+        <p style="margin: 2px 0; text-indent: 10px;">Anexos</p>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -112,7 +173,7 @@
 
 # Project Report Collaboration Insights
 
-El desarrollo del informe se realizó en un repositorio dedicado en la organización de GitHub. Enlace: [https://github.com/CodyLionVivo/ProjectReport](https://github.com/CodyLionVivo/ProjectReport)
+El desarrollo del informe se realizó en un repositorio dedicado en la organización de GitHub: [Enlace](https://github.com/upc-pre-202520-1ACC0238-2005-mira/ProjectReport)
 
 Se presenta una tabla que especifica qué miembro del equipo se corresponde con qué usuario de GitHub.
 
@@ -120,10 +181,6 @@ Se presenta una tabla que especifica qué miembro del equipo se corresponde con 
   <tr>
 	<th>Team Member <br>(Last Name, First Name)</th>
 	<th>GitHub Username</th>
-  </tr>
-  <tr>
-	<td>León Vivas, Fabrizio Amir</td>
-	<td>CodyLionVivo</td>
   </tr>
   <tr>
 	<td>Vidal Castro, Miguel Angel</td>
@@ -151,7 +208,43 @@ Se presenta una tabla que especifica qué miembro del equipo se corresponde con 
 
 Este entregable comprende la elaboración del informe desde el Capítulo I hasta el Capítulo II, desarrollado íntegramente a partir del proceso de investigación en equipo y del diseño del sistema.
 
-<img src="./img/insight_tb1.png">
+**TB1 Network Graph**
+<figure style="text-align: center;">
+    <img src="img/chapter1/TB1_NetworkGraph.PNG" alt="TB1 Network Graph">
+</figure>
+
+**TB1 Contributors**
+<figure style="text-align: center;">
+    <img src="img/chapter1/TB1_CommitsOverTime.PNG" alt="TB1 Contributors">
+    <img src="img/chapter1/TB1_CommitsPerUser.PNG" alt="TB1 Contributors">
+</figure>
+
+**TB1 Pulse**
+<figure style="text-align: center;">
+    <img src="img/chapter1/TB1_Pulse.PNG" alt="TB1 Pulse">
+</figure>
+
+<div style="page-break-before: always;"></div>
+
+**TP**
+
+Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta el Capítulo IV, desarrollado íntegramente a partir del proceso de diseño y desarrollo del producto y otros artefactos como la landing page, además de la validación de estos mismos.
+
+**TP Network Graph** Corregir a la imagen correcta
+<figure style="text-align: center;">
+    <img src="img/chapter1/TB1_NetworkGraph.PNG" alt="TB1 Network Graph">
+</figure>
+
+**TP Contributors** Corregir a la imagen correcta
+<figure style="text-align: center;">
+    <img src="img/chapter1/TB1_CommitsOverTime.PNG" alt="TB1 Contributors">
+    <img src="img/chapter1/TB1_CommitsPerUser.PNG" alt="TB1 Contributors">
+</figure>
+
+**TP Pulse** Corregir a la imagen correcta
+<figure style="text-align: center;">
+    <img src="img/chapter1/TB1_Pulse.PNG" alt="TB1 Pulse">
+</figure>
 
 <div style="page-break-before: always;"></div>
 
@@ -241,13 +334,12 @@ Este entregable comprende la elaboración del informe desde el Capítulo I hasta
 					<li><strong>Juan Diego Mondoñedo:</strong> Analicé los resultados de nuestras entrevistas para desarrollar parte del needfinding y definir las user stories </li>
           <li><strong>Fabián Oliva López:</strong> Investigué acerca de posibles competidores y desarrollo su respectivo análisis competitivo a su vez de estrategias frente a estos competidores</li>
           <li><strong>Miguel Vidal Castro</strong> Determiné mediante las entrevistas del segmento objetivo de dueño de café, información relevante para entender que bounded contexts desarrollar en la aplicación para poder cubrir sus necesidades. </li>
-          <li><strong>Fabrizio:</strong> </li>
           <li><strong>Fabrizzio Pereira:</strong> Investigué el dominio del café de especialidad y desarrollé la arquitectura completa del sistema usando metodologías como Lean UX y Domain-Driven Design.</li>
-					<li><strong>Guillermo: Desarrollé toda la parte de DDD como el event storming identificando los principales bounded context.</strong>  </li>
+					<li><strong>Guillermo Tantaleán:</strong> Desarrollé toda la parte de DDD como el event storming identificando los principales bounded context.  </li>
 				</ul>
 			</td>
 			<td>
-				<strong>TB1:</strong> <br>
+				<strong>TB1:</strong>El equipo reforzó y actualizó conocimientos clave en metodologías de desarrollo como Lean UX y Domain-Driven Design, aplicándolos al dominio del café de especialidad. Cada integrante contribuyó con investigación y análisis (usuarios, competidores, modelo de negocio, arquitectura) lo que permitió construir una base conceptual sólida para el proyecto y asegurar la pertinencia de las soluciones propuestas. <br>
 			</td>
 		</tr>
 		<tr>
@@ -262,13 +354,12 @@ Este entregable comprende la elaboración del informe desde el Capítulo I hasta
 					<li><strong>Juan Diego Mondoñedo:</strong> Refresqué mis conocimientos sobre las user stories e investigué sobre el ambiente laboral de nuestro publico objetivo para plantear user stories pertinentes. </li>
           <li><strong>Fabian Oliva López:</strong> Pude aprender la necesidad de investigar acerca de competidores lo cual ayuda a ver puntos estrategicos los cuales puede improvisar nuestro trabajor para entregar un producto de buena calidad </li>
           <li><strong>Miguel Vidal Castro:</strong> Pude aprendar a investigar sobre como realizar un diagrama C4, reforzando conocimientos pasados. Realicé un Event Storming del proyecto lo que me ayudó a identificar los bounded contexts</li>
-          <li><strong>Fabrizio:</strong> </li>
           <li><strong>Fabrizzio Pereira:</strong> Aprendí sobre café de especialidad desde cero y estudié nuevas metodologías de desarrollo que no conocía previamente.</li>
-					<li><strong>Guillermo: Realicé investigación del modelo de negocio del tema en cuestión para el trabajo lo cual me permitió entender la aplicación de conocimientos de software a nivel de dirección. </strong>  </li>
+					<li><strong>Guillermo Tantaleán:</strong>  Realicé investigación del modelo de negocio del tema en cuestión para el trabajo lo cual me permitió entender la aplicación de conocimientos de software a nivel de dirección.  </li>
 				</ul>
 			</td>
 			<td>
-				<strong>TB1:</strong> <br>
+				<strong>TB1:</strong>El equipo demostró apertura hacia el aprendizaje permanente, investigando tanto aspectos técnicos (diagramas C4, DDD, user stories) como estratégicos (modelo de negocio, competidores y dominio del café de especialidad). Esta disposición a aprender y actualizarse permitió aplicar de forma más efectiva los conocimientos adquiridos, adaptándolos a un contexto real y fortaleciendo las competencias profesionales de cada integrante. <br>
 			</td>
 		</tr>
 	</tobdy>
@@ -287,11 +378,6 @@ Este entregable comprende la elaboración del informe desde el Capítulo I hasta
   </thead>
   <tbody>
     <tr>
-      <td style="border: 1px solid #000; padding: 8px;">León Vivas, Fabrizio Amir</td>
-      <td style="border: 1px solid #000; padding: 8px;">Desarrollar proyectos de alto impacto en la sociedad que permita que las personas tengan una mejor calidad de vida.</td>
-      <td style="border: 1px solid #000; padding: 8px;">Completar soluciones de software con los artefactos aprendidos y conocimientos adquiridos a lo largo de mi carrera universitario como lo es con Xantina.</td>
-    </tr>
-    <tr>
       <td style="border: 1px solid #000; padding: 8px;">Pereira Vasquez, Fabrizzio</td>
       <td style="border: 1px solid #000; padding: 8px;">Completar el diseño de la arquitectura de software para AromaTech/Xantina aplicando Domain-Driven Design incluyendo bounded contexts, agregados y servicios del dominio del café de especialidad.</td>
       <td style="border: 1px solid #000; padding: 8px;">Desarrollar y documentar el Lean UX Process completo (Problem Statements, Assumptions, Hypothesis Statements y Canvas) </td>
@@ -308,24 +394,14 @@ Este entregable comprende la elaboración del informe desde el Capítulo I hasta
       <td style="border: 1px solid #000; padding: 8px;">Identificar correctamente las necesidades de nuestros segmentos mediante el needfinding e interpretarlas para definir user stories adecuados para su caso.</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #000; padding: 8px;">Oliva López Fabián Alejandro;</td>
-      <td style="border: 1px solid #000; padding: 8px;">&nbsp;</td>
-      <td style="border: 1px solid #000; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid #000; padding: 8px;">Oliva López, Fabián Alejandro</td>
+      <td style="border: 1px solid #000; padding: 8px;"> Realizar un análisis detallado de los competidores directos e indirectos de Xantina, identificando sus fortalezas, debilidades y estrategias de mercado, con el fin de reconocer oportunidades de diferenciación.</td>
+      <td style="border: 1px solid #000; padding: 8px;">Proponer y documentar estrategias competitivas para Xantina basadas en el análisis realizado, estableciendo acciones concretas que permitan posicionar la solución frente a los principales competidores.</td>
     </tr>
     <tr>
       <td style="border: 1px solid #000; padding: 8px;">Vidal Castro Miguel Angel</td>
       <td style="border: 1px solid #000; padding: 8px;">Completar la parte de Software Architecture Diagrams, entrevistar al segmento objetivo de dueño de cafetería.</td>
       <td style="border: 1px solid #000; padding: 8px;">Determinar que bounded context se aplican en los diagramas para saber identificarlos. Realización de Event Storming para entender que bounded context se usan.</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #000; padding: 8px;">&nbsp;</td>
-      <td style="border: 1px solid #000; padding: 8px;">&nbsp;</td>
-      <td style="border: 1px solid #000; padding: 8px;">&nbsp;</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #000; padding: 8px;">&nbsp;</td>
-      <td style="border: 1px solid #000; padding: 8px;">&nbsp;</td>
-      <td style="border: 1px solid #000; padding: 8px;">&nbsp;</td>
     </tr>
   </tbody>
 </table>
@@ -362,36 +438,9 @@ Construir la plataforma móvil de referencia para el café de especialidad en La
         </thead>
         <tbody>
             <tr>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"><img style="width: 240px; height: auto; border-radius: 25%;" src="" alt="Foto de "></td>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"></td>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">202224135</td>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">Ingeniería de Software</td>
-                <td style="max-width: 300px; overflow: hidden; text-overflow: ellipsis; white-space: normal;">
-                    <ul>
-                        <li>Diseño web</li>
-                        <li>Gestión y diseño de bases de datos SQL y noSQL</li>
-                        <li>Programación en C++ y Python</li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"><img style="width: 240px; height: auto; border-radius: 25%;" src="./img/chapter1/Fabrizio.png" alt="Foto de Fabrizio León"></td>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">León Vivas, Fabrizio Amir</td>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">20211b994</td>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">Ingeniería de Software</td>
-                <td style="max-width: 300px; overflow: hidden; text-overflow: ellipsis; white-space: normal;">
-                    <ul>
-                        <li>Desarrollo front-end</li>
-                        <li>Conocimiento de TI en sistemas basados en UNIX</li>
-                        <li>Competente en C++, JavaScript y Python</li>
-                        <li>Experiencia con Frameworks ágiles</li>
-                    </ul>
-                </td> 
-            </tr>
-            <tr>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"><img style="width: 240px; height: auto; border-radius: 25%;" src="./img/chapter1/JuanDiego.jpg" alt="Foto de Juan Diego Mondoñedo"></td>
+                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"><img style="width: 240px; height: auto; border-radius: 25%;" src="./img/chapter1/JuanDiego.jpg" alt="Foto de Juan Mondoñedo"></td>
                 <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">Mondoñedo Rodriguez, Juan Diego Javier</td>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">202110373</td>
+                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">U202110373</td>
                 <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">Ingeniería de Software</td>
                 <td style="max-width: 300px; overflow: hidden; text-overflow: ellipsis; white-space: normal;">
                     <ul>
@@ -403,9 +452,9 @@ Construir la plataforma móvil de referencia para el café de especialidad en La
                 </td>
             </tr>
             <tr>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"><img width="192" height="185" alt="image" src="https://github.com/user-attachments/assets/57fbf2a0-8aee-432f-b12c-32d9b0a2f53e" />
+                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"><img style="width: 240px; height: auto; border-radius: 25%;" src="./img/chapter1/fabianOliva.png" alt="Foto de Fabián Oliva"></td>
                 <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">Oliva López, Fabián Alejandro</td>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">202312013</td>
+                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">U202312013</td>
                 <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">Ingeniería de Software</td>
                 <td style="max-width: 300px; overflow: hidden; text-overflow: ellipsis; white-space: normal;">
                     <ul>
@@ -418,9 +467,9 @@ Construir la plataforma móvil de referencia para el café de especialidad en La
                 </td>
             </tr>
             <tr>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"><img style="width: 240px; height: auto; border-radius: 25%;" src="./img/chapter1/Miguel.png" alt="Foto de Miguel Vidal "></td>
+                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"><img style="width: 240px; height: auto; border-radius: 25%;" src="./img/chapter1/Miguel.png" alt="Foto de Miguel Vidal"></td>
                 <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">Vidal Castro, Miguel Angel</td>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">202314186</td>
+                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">U202314186</td>
                 <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">Ingeniería de Software</td>
                 <td style="max-width: 300px; overflow: hidden; text-overflow: ellipsis; white-space: normal;">
                     <ul>
@@ -433,8 +482,8 @@ Construir la plataforma móvil de referencia para el café de especialidad en La
             </tr>
             <tr>
                 <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"><img style="width: 240px; height: auto; border-radius: 25%;" src="./img/chapter1/guillermo.JPG" alt="Foto de Guillermo Tantaleán"></td>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"></td>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">20221e247</td>
+                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">Tantaleán Mesta, Guillermo Fabián</td>
+                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">U202311958</td>
                 <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">Ingeniería de Software</td>
                 <td style="max-width: 300px; overflow: hidden; text-overflow: ellipsis; white-space: normal;">
                     <ul>
@@ -446,9 +495,9 @@ Construir la plataforma móvil de referencia para el café de especialidad en La
                 </td> 
             </tr>
 			  <tr>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"><img style="width: 240px; height: auto; border-radius: 25%;" src="img/nelson.jpeg" alt="Foto de Fabrizzio Pereira"></td>
+                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;"><img style="width: 240px; height: auto; border-radius: 25%;" src="./img/chapter1/nelson.jpeg" alt="Foto de Nelson Pereira"></td>
                 <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">Nelson Fabrizzio, Pereira Vasquez</td>
-                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">202417468</td>
+                <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">U202417468</td>
                 <td style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2; color: #333;">Ingeniería de Software</td>
                 <td style="max-width: 300px; overflow: hidden; text-overflow: ellipsis; white-space: normal;">
                     <ul>
@@ -472,16 +521,18 @@ Esta sección presenta el contexto y la coyuntura del café de especialidad que 
 
 **Aproximación preliminar a los antecedentes**  
 
-En el ecosistema del café de especialidad, la formación práctica suele darse en escuelas o talleres presenciales y, en el día a día, mediante transferencia informal de conocimiento en barra. Aunque existen videos y blogs, el contenido está disperso, no siempre es confiable ni está adaptado al flujo real de trabajo. Esto genera una curva de aprendizaje lenta para baristas en formación y para emprendedores que quieren abrir una cafetería. A la vez, el consumidor final está cada vez más interesado en entender el “viaje del grano a la taza”, pero rara vez accede a información clara y breve sobre el origen, los procesos y el valor social del café.
+El crecimiento del café de especialidad en América Latina ha impulsado la creación de espacios de formación técnica para baristas y emprendedores. Sin embargo, la mayor parte de la capacitación sigue ocurriendo de forma presencial y fragmentada, lo que limita el acceso de nuevos talentos y emprendedores al conocimiento estandarizado.
+A su vez,según Elías J. (2022), se señala que la digitalización del aprendizaje técnico en el sector agroindustrial y gastronómico aún es baja, especialmente en etapas de transformación y servicio (cafeterías, barras, microemprendimientos).
+El contenido disponible en línea —por ejemplo, en redes sociales o blogs— suele carecer de validez técnica y secuencia pedagógica, lo que ralentiza el aprendizaje y genera inconsistencias en las prácticas de extracción y preparación. Esta brecha ha sido identificada también por INEI (2024), que destaca la necesidad de herramientas digitales formativas que conecten conocimiento técnico, cultura cafetera y cadena de valor.
 
 **Problemática**  
 
 1) **Aprendizaje técnico accesible y estructurado**  
-   Falta una vía gratuita y digital que enseñe, de forma guiada y práctica, cómo preparar café con consistencia. Esto incluye:
-   - Bebidas y métodos: espresso, cappuccino, latte, macchiato, moka, cold brew, entre otros.  
-   - Parámetros de extracción: dosis, molienda, relación café/agua, temperatura, presión y tiempo.  
-   - Procedimientos de barra: calibración, tiempos de tiro, purga, limpieza y control básico de insumos.  
-   La ausencia de un repositorio único y usables “paso a paso” ralentiza la capacitación, dificulta estandarizar recetas y afecta la calidad del servicio.
+Existe una falta de plataformas digitales gratuitas que enseñen de manera guiada, práctica y estandarizada los fundamentos de la preparación de café.
+Esto incluye:
+- Métodos de extracción.
+- Parámetros críticos (dosis, molienda, relación café/agua, temperatura, presión, tiempo).  
+- Procedimientos de calibración y control operativo en barra.
 
 2) **Visibilidad del origen y cultura cafetera**  
    El trabajo en finca y el valor del origen (cultivo, cosecha, beneficiado, secado, clasificación, tostado) rara vez se comunica de forma simple en el punto de consumo. Esto contribuye a:
@@ -1540,81 +1591,53 @@ La presente sección detalla la especificación de requerimientos del sistema Xa
 ## 2.4.1. User Stories
 | EPIC ID | TÍTULO DE LA ÉPICA | Objetivo Principal |
 | :--- | :--- | :--- |
-| **EP01** | Gestión de Cuentas de Usuario | Que el usuario pueda crear su cuenta y acceder a ella de forma fácil y segura. |
-| **EP02** | Gestión de Recetas | Que el barista pueda crear, estandarizar y acceder a las recetas de forma rápida y confiable. |
-| **EP03** | Calibración y Operación en Barra | Permitir al barista calibrar su equipo y guiarlo en los procesos de preparación de forma ágil. |
-| **EP04** | Registro y Análisis de Catas | Ayudar a los baristas a documentar sus catas, comparar perfiles y tomar decisiones para mejorar la consistencia. |
-| **EP05** | Gestión de Inventario y Trazabilidad | Permitir el control básico de insumos y la trazabilidad de los granos de café. |
-| **EP06** | Gestión de Usuarios y Permisos | Permitir la administración de accesos, roles y seguridad en los equipos de trabajo. |
-| **EP07** | Reportes y Análisis | Facilitar al jefe de barra el acceso a reportes e insights sobre el consumo y desempeño. |
-| **EP08** | Comunicación y Difusión de Información | Mejorar la coordinación del equipo mediante comunicados y notificaciones. |
-| **EP09** | Landing Page y Difusión Pública | Mostrar información clara, atractiva y accesible sobre la plataforma y su propuesta de valor. |
-| **EP10** | Aplicación Móvil | Ofrecer a los baristas y jefes de barra acceso rápido y optimizado desde dispositivos móviles. |
-| **EP11** | Backend y API | Garantizar que todos los módulos del sistema tengan servicios estables, seguros y escalables. |
-| **EP12** | Seguridad y Autenticación Avanzada | Fortalecer la seguridad mediante cifrado y buenas prácticas en la autenticación. |
+| **EP00** | Landing Page - Experiencia Web Informativa | Presentar información clara y relevante del producto para captar y orientar a los visitantes. |
+| **EP01** | Gestión de Cuentas de Usuario | Permitir que el usuario cree, acceda y recupere su cuenta de forma fácil y segura. |
+| **EP02** | Gestión de Recetas | Facilitar la creación, actualización y estandarización de recetas con parámetros consistentes. |
+| **EP03** | Calibración y Operación en Barra | Guiar al barista en la calibración del equipo y en los procedimientos diarios de preparación. |
+| **EP04** | Registro y Análisis de Catas | Registrar, comparar y analizar catas para mejorar la consistencia y aprendizaje del equipo. |
+| **EP05** | Gestión de Inventario y Trazabilidad | Controlar los lotes de café y generar alertas para mantener una trazabilidad efectiva. |
+| **EP06** | Gestión de Usuarios y Permisos | Administrar roles y accesos del equipo para mantener la seguridad y estandarización. |
+| **EP07** | Reportes y Análisis | Generar reportes e indicadores que ayuden a la toma de decisiones operativas. |
+| **EP08** | Comunicación y Difusión de Información | Facilitar la comunicación interna mediante notificaciones y actualizaciones relevantes. |
+| **EP99** | Spike Stories | Explorar, evaluar y documentar la viabilidad técnica de integraciones o componentes críticos. |
 
 ---
 
 #### Desglose de Historias de Usuario por Épica
 
-##### **EP01: Gestión de Cuentas de Usuario**
 
-| Story ID | Título de la Historia | Descripción (Situación y Motivación) | Criterios de Aceptación |
-| :--- | :--- | :--- | :--- |
-| **EP01/US01** | Creacion de cuenta y union a una cafeteria| **Cuando** descargo la app por primera vez, **quiero** poder registrarme fácilmente y unirme a la organizacion de mi cafeteria, **para poder** acceder a las funcionalidades . | **Dado** que soy un usuario nuevo,<br>**cuando** ingreso mi correo y una contraseña segura,<br>**entonces** mi cuenta se crea y veo la pantalla principal. |
-| **EP01/US02** | Entrar a mi cuenta | **Cuando** ya tengo una cuenta, **quiero** iniciar sesión rápidamente, **para poder** ver el inventario y recetas, controlar mis dispositivos, o registrar cambios en mis catas o tuestes. | **Dado** que ya estoy registrado,<br>**cuando** pongo mi correo y contraseña correctos,<br>**entonces** puedo entrar y ver mi Panel Principal. |
-| **EP01/US03** | Recuperar mi acceso | **Cuando** olvido mi contraseña, **quiero** poder recuperarla usando mi correo, **para poder** volver a entrar a mi cuenta sin perder mis datos. | **Dado** que olvidé mi contraseña,<br>**cuando** pido recuperarla y sigo los pasos que me llegan al correo,<br>**entonces** puedo poner una nueva contraseña y volver a entrar. |
+| Código Épica | Código Historia | Título de la Historia | Descripción (Situación y Motivación) | Criterios de Aceptación |
+| :---: | :---: | :--- | :--- | :--- |
+| **EP00** | **US01** | Conocer la propuesta de valor | **Como** visitante, **quiero** visualizar la información general de la plataforma, **para** comprender qué beneficios ofrece. | **Dado** que el visitante accede al sitio web,<br>**Cuando** navega a la página de inicio,<br>**Entonces** el sistema muestra información clara y concisa sobre la propuesta de valor y los beneficios principales. |
+| **EP00** | **US02** | Navegar entre secciones informativas | **Como** visitante, **quiero** desplazarme fácilmente entre secciones, **para** explorar contenido relevante. | **Dado** que el visitante está en la landing page,<br>**Cuando** selecciona una opción del menú de navegación,<br>**Entonces** el sistema dirige la vista hacia la sección correspondiente sin pérdida de contexto. |
+| **EP00** | **US03** | Conocer planes y precios | **Como** visitante, **quiero** visualizar los planes y precios del servicio, **para** identificar la opción más adecuada. | **Dado** que el visitante navega por el sitio,<br>**Cuando** accede a la sección de planes,<br>**Entonces** el sistema presenta los planes disponibles con descripciones y precios actualizados. |
+| **EP00** | **US04** | Contactar con el equipo | **Como** visitante, **quiero** disponer de un formulario de contacto, **para** enviar consultas o solicitar más información. | **Dado** que el visitante completa los campos requeridos,<br>**Cuando** envía el formulario de contacto,<br>**Entonces** el sistema registra la solicitud y muestra una confirmación de envío. |
+| **EP00** | **US05** | Suscribirse a novedades | **Como** visitante, **quiero** suscribirme con mi correo electrónico, **para** recibir actualizaciones y noticias relevantes. | **Dado** que el visitante introduce un correo electrónico válido,<br>**Cuando** confirma su suscripción,<br>**Entonces** el sistema guarda la dirección y muestra un mensaje de confirmación. |
+| **EP01** | **US06** | Crear cuenta y unirse a una cafetería | **Como** usuario nuevo, **quiero** registrarme y asociarme a mi cafetería, **para** acceder a las funcionalidades. | **Dado** que el usuario accede por primera vez a la aplicación,<br>**Cuando** completa los campos requeridos y envía la información,<br>**Entonces** el sistema crea la cuenta y la vincula a la organización seleccionada. |
+| **EP01** | **US07** | Iniciar sesión | **Como** usuario registrado, **quiero** autenticarme con mis credenciales, **para** ingresar a la aplicación. | **Dado** que el usuario tiene una cuenta activa,<br>**Cuando** introduce credenciales válidas,<br>**Entonces** el sistema valida la autenticación y muestra el panel principal. |
+| **EP01** | **US08** | Recuperar contraseña | **Como** usuario, **quiero** restablecer mi contraseña olvidada, **para** recuperar el acceso a mi cuenta. | **Dado** que el usuario solicita recuperar su contraseña,<br>**Cuando** sigue las instrucciones recibidas por correo,<br>**Entonces** el sistema permite definir una nueva contraseña y acceder nuevamente. |
+| **EP02** | **US09** | Crear receta | **Como** barista, **quiero** registrar los parámetros de una receta, **para** documentar las preparaciones. | **Dado** que el usuario accede a la sección de recetas,<br>**Cuando** completa los campos obligatorios,<br>**Entonces** el sistema registra la receta en su perfil. |
+| **EP02** | **US10** | Consultar receta aprobada | **Como** barista, **quiero** acceder a recetas aprobadas rápidamente, **para** seguir los parámetros correctos. | **Dado** que existen recetas aprobadas,<br>**Cuando** el usuario selecciona una receta,<br>**Entonces** el sistema muestra los parámetros registrados. |
+| **EP02** | **US11** | Actualizar receta por lote | **Como** barista, **quiero** ajustar una receta según el lote de café, **para** mantener la consistencia. | **Dado** que el usuario edita una receta existente,<br>**Cuando** actualiza sus parámetros,<br>**Entonces** el sistema guarda la versión modificada y registra la fecha. |
+| **EP02** | **US12** | Compartir receta con el equipo | **Como** jefe de barra, **quiero** compartir recetas aprobadas, **para** asegurar la estandarización. | **Dado** que una receta está aprobada,<br>**Cuando** el jefe de barra la comparte,<br>**Entonces** el sistema la hace visible para los miembros de la organización. |
+| **EP03** | **US13** | Seguir checklist de calibración | **Como** barista, **quiero** seguir un checklist guiado, **para** calibrar el espresso de forma sistemática. | **Dado** que el barista inicia su turno,<br>**Cuando** accede al checklist diario,<br>**Entonces** el sistema presenta los pasos ordenados y verifica su cumplimiento. |
+| **EP03** | **US14** | Usar cronómetro integrado | **Como** barista, **quiero** usar un temporizador incorporado, **para** medir el tiempo de extracción. | **Dado** que el barista inicia una preparación,<br>**Cuando** el flujo comienza,<br>**Entonces** el sistema activa automáticamente el cronómetro. |
+| **EP04** | **US15** | Registrar cata simplificada | **Como** barista, **quiero** registrar atributos principales, **para** documentar la evaluación sensorial. | **Dado** que el usuario selecciona "Registrar Cata",<br>**Cuando** ingresa las notas sensoriales y puntaje,<br>**Entonces** el sistema guarda el registro completo. |
+| **EP04** | **US16** | Comparar catas del mismo café | **Como** barista, **quiero** comparar perfiles de cata, **para** identificar variaciones. | **Dado** que existen varias catas registradas,<br>**Cuando** el usuario selecciona un café,<br>**Entonces** el sistema muestra una comparación visual de sus perfiles. |
+| **EP05** | **US17** | Registrar lote de café | **Como** barista, **quiero** registrar un nuevo lote, **para** mantener control del inventario. | **Dado** que un nuevo lote es recibido,<br>**Cuando** se completan los datos del lote,<br>**Entonces** el sistema añade el registro al inventario. |
+| **EP05** | **US18** | Recibir alerta de stock bajo | **Como** jefe de barra, **quiero** recibir alertas de stock bajo, **para** reponer antes de que se agote. | **Dado** que un lote alcanza el nivel mínimo,<br>**Cuando** el inventario se actualiza,<br>**Entonces** el sistema genera una alerta visual o notificación. |
+| **EP06** | **US19** | Registrar nuevo barista | **Como** jefe de barra, **quiero** invitar a un nuevo barista, **para** integrarlo al equipo. | **Dado** que el jefe de barra tiene permisos de administrador,<br>**Cuando** envía una invitación al nuevo usuario,<br>**Entonces** el sistema le otorga acceso con rol básico. |
+| **EP06** | **US20** | Asignar roles y permisos | **Como** jefe de barra, **quiero** asignar niveles de acceso, **para** controlar quién puede editar recetas. | **Dado** que existen usuarios en la organización,<br>**Cuando** el jefe de barra actualiza su rol,<br>**Entonces** el sistema aplica los permisos correspondientes. |
+| **EP06** | **US21** | Dar de baja usuario | **Como** jefe de barra, **quiero** revocar acceso a un excolaborador, **para** proteger la información. | **Dado** que un usuario ya no pertenece a la cafetería,<br>**Cuando** se elimina su acceso,<br>**Entonces** el sistema bloquea su autenticación y visibilidad de datos. |
+| **EP07** | **US22** | Generar reporte de consumo | **Como** jefe de barra, **quiero** generar reportes de consumo por período, **para** planificar compras. | **Dado** que existen registros de inventario,<br>**Cuando** el usuario solicita un reporte,<br>**Entonces** el sistema genera un resumen con métricas de consumo por lote. |
+| **EP08** | **US23** | Enviar comunicados al equipo | **Como** jefe de barra, **quiero** enviar comunicados, **para** informar cambios o novedades. | **Dado** que el jefe de barra redacta un comunicado,<br>**Cuando** lo envía al equipo,<br>**Entonces** el sistema lo distribuye a todos los usuarios activos. |
+| **EP08** | **US24** | Notificar cambios en lotes | **Como** jefe de barra, **quiero** notificar cambios de lote, **para** mantener la consistencia. | **Dado** que un lote es actualizado,<br>**Cuando** se marca la opción de notificar,<br>**Entonces** el sistema envía alertas con los detalles del cambio. |
+| **EP99** | **SP01** | Investigar API de Mapas | **Como** equipo de desarrollo, **quiero** investigar la integración de APIs de mapas (Google Maps, Mapbox), **para** determinar la mejor opción para el módulo de ubicación. | **Dado** que el equipo evalúa proveedores de mapas,<br>**Cuando** revisa documentación técnica y costos,<br>**Entonces** el sistema registra un informe con recomendaciones y PoC funcional. |
+| **EP99** | **SP02** | Evaluar autenticación OAuth2 | **Como** equipo de desarrollo, **quiero** evaluar el uso de OAuth2, **para** implementar autenticación segura en web y móvil. | **Dado** que el sistema requiere autenticación segura,<br>**Cuando** se prueban distintas alternativas (Auth0, Firebase, OAuth propio),<br>**Entonces** se documenta la opción óptima y sus implicaciones. |
+| **EP99** | **SP03** | Analizar rendimiento de base de datos | **Como** equipo de desarrollo, **quiero** probar el rendimiento de MongoDB Atlas, **para** garantizar tiempos de respuesta adecuados. | **Dado** que se requiere validar escalabilidad,<br>**Cuando** se ejecutan pruebas de carga sobre endpoints,<br>**Entonces** se documentan métricas de latencia, uso de recursos y conclusiones. |
 
-##### **EP02: Gestión de Recetas**
-
-| Story ID | Título de la Historia | Descripción (Situación y Motivación) | Criterios de Aceptación |
-| :--- | :--- | :--- | :--- |
-| **EP02/US04** | Crear y guardar una receta | **Cuando** estoy desarrollando una nueva bebida, **quiero** poder crear y guardar una receta con todos sus parámetros, **para poder**  tenerla documentada y no olvidarla. | **Dado** que estoy en la app,<br>**cuando** creo una nueva receta y registro el nombre, método, dosis, molienda, relación, temperatura, presión y tiempo,<br>**entonces** la receta queda guardada en mi perfil para uso futuro. |
-| **EP02/US05** | Anotar mis gastos diarios | **Cuando** estoy en la barra en horas pico, **quiero** acceder a una receta aprobada con un mínimo de toques, **para poder** preparar la bebida de forma rápida y sin errores. | **Dado** que ya tengo recetas guardadas, **cuando** selecciono una receta desde la pantalla principal, **entonces** veo los parámetros clave (dosis, molienda, tiempo) en una sola vista, optimizada para uso con una mano. |
-| **EP02/US06** | Actualizar una receta por lote | **Cuando** el lote de café cambia, **quiero** poder ajustar los parámetros de una receta existente, **para poder** adaptarme a la nueva materia prima y mantener la consistencia. | **Dado** que estoy consultando una receta, **cuando** elijo la opción de editar y ajusto los parámetros (ej. molienda, tiempo), **entonces** los cambios se guardan y quedan registrados con un historial de modificaciones. |
-| **EP02/US07** | Compartir una receta con mi equipo | **Cuando** mi jefe aprueba una receta, **quiero** poder compartirla con el equipo de mi cafetería, **para poder** asegurar que todos trabajemos con el mismo estándar.  | **Dado** que tengo una receta aprobada, **cuando** la comparto con el equipo de mi cafetería, **entonces** la receta aparece en la lista de recetas "de la casa" de todos los miembros.|
-
-##### **EP03: Calibración y Operación en Barra**
-
-| Story ID | Título de la Historia | Descripción (Situación y Motivación) | Criterios de Aceptación |
-| :--- | :--- | :--- | :--- |
-| **EP03/US08** | Seguir un checklist de calibración | **Cuando** estoy en la apertura, **quiero** seguir un checklist guiado, **para poder** calibrar el espresso y otros métodos de forma sistemática y no olvidar ningún paso. | **Dado** que empiezo mi turno, **cuando** selecciono la opción "Calibración del día", **entonces** la app me muestra una lista de verificación con los pasos esenciales a seguir.|
-| **EP03/US09** | Usar un cronómetro integrado | **Cuando** estoy extrayendo un espresso, **quiero** usar un temporizador que se active al iniciar, **para poder** medir el tiempo de forma precisa sin usar un dispositivo extra.| **Dado** que he iniciado la preparación de una receta, **cuando** la app detecta el inicio del flujo, **entonces** un cronómetro en pantalla se activa automáticamente. |
-
-##### **EP04: Registro y Análisis de Catas**
-
-| Story ID | Título de la Historia | Descripción (Situación y Motivación) | Criterios de Aceptación |
-| :--- | :--- | :--- | :--- |
-| **EP04/US10** | Registrar una cata simplificada | **Cuando** estoy catando una preparación, **quiero** registrar los atributos principales de forma rápida y guiada, **para poder** documentar la experiencia sin tener un formulario largo. | **Dado** que estoy catando un café,<br>**cuando** selecciono la opción "Registrar Cata",<br>**entonces** veo un formulario conciso para ingresar notas sensoriales, puntaje y comentarios. |
-| **EP04/US11** | Comparar catas del mismo café | **Cuando** quiero mejorar la consistencia, **quiero** ver y comparar los perfiles de cata de un mismo café, **para poder** identificar variaciones y proponer ajustes. | **Dado** que he registrado varias catas,<br>**cuando** selecciono un café en el historial,<br>**entonces** veo un gráfico que superpone los perfiles de sabor de cada cata registrada. |
-
-##### **EP05: Gestión de Inventario y Trazabilidad**
-
-| Story ID | Título de la Historia | Descripción (Situación y Motivación) | Criterios de Aceptación |
-| :--- | :--- | :--- | :--- |
-| **EP05/US12** | Controlar mis lotes de café | **Cuando** recibo un nuevo lote de café, **quiero** poder registrarlo en la app, **para poder** tener un control básico de inventario. | **Dado** que un nuevo lote ha llegado,<br>**cuando** registro el nombre del grano, el tostador y la fecha de tueste,<br>**entonces** el lote aparece en mi inventario de granos. |
-| **EP05/US13** | Recibir una alerta de stock bajo | **Cuando** el inventario de un lote está por terminarse, **quiero** recibir una alerta, **para poder** hacer el pedido a tiempo y evitar quedarme sin granos. | **Dado** que el inventario de un lote ha caído por debajo de un umbral establecido,<br>**cuando** estoy en la app,<br>**entonces** veo una notificación visual en mi inventario. |
-
-##### **EP06: Gestión de Usuarios y Permisos**
-
-| Story ID | Título de la Historia | Descripción (Situación y Motivación) | Criterios de Aceptación |
-| :--- | :--- | :--- | :--- |
-| **EP06/US14** | Registrar a un nuevo barista | **Como** jefe de barra, **quiero** poder invitar a un nuevo barista a unirse a la cuenta de mi cafetería, **para que** pueda acceder a las recetas aprobadas y colaborar con el equipo. | **Dado** que soy jefe de barra,<br>**cuando** envío una invitación a un nuevo barista,<br>**entonces** el barista recibe acceso a las recetas aprobadas y puede colaborar con el equipo. |
-| **EP06/US15** | Asignar roles y permisos | **Como** jefe de barra, **quiero** poder asignar diferentes niveles de acceso a los miembros de mi equipo (ej. barista junior, barista senior), **para** controlar quién puede editar las recetas y registrar catas de forma oficial. | **Dado** que tengo permisos de administrador,<br>**cuando** asigno un rol a un miembro del equipo,<br>**entonces** el usuario obtiene los permisos correspondientes a su nivel de acceso. |
-| **EP06/US16** | Dar de baja a un usuario | **Como** jefe de barra, **quiero** poder eliminar el acceso de un barista que ya no trabaja con nosotros, **para** proteger la información y los estándares de mi cafetería. | **Dado** que un barista ya no forma parte del equipo,<br>**cuando** elimino su acceso desde la configuración,<br>**entonces** el usuario pierde todos los permisos y no puede acceder a la información de la cafetería. |
-
-##### **EP07: Reportes y Análisis**
-
-| Story ID | Título de la Historia | Descripción (Situación y Motivación) | Criterios de Aceptación |
-| :--- | :--- | :--- | :--- |
-| **EP07/US17** | Generar reporte de consumo | **Como** jefe de barra, **quiero** generar reportes de consumo de café por período, **para poder** planificar mejor las compras e identificar tendencias de uso. | **Dado** que tengo datos de inventario registrados,<br>**cuando** solicito un reporte mensual de consumo,<br>**entonces** veo gráficos con el consumo por lote y proyecciones de reposición. |
-
-##### **EP08: Comunicación y Difusión de Información**
-
-| Story ID | Título de la Historia | Descripción (Situación y Motivación) | Criterios de Aceptación |
-| :--- | :--- | :--- | :--- |
-| **EP08/US18** | Enviar comunicados al equipo | **Como** jefe de barra, **quiero** poder enviar comunicados importantes a todo mi equipo, **para poder** informar sobre cambios en recetas, nuevos procedimientos o actualizaciones del día. | **Dado** que tengo información importante que compartir,<br>**cuando** creo un comunicado y lo envío al equipo,<br>**entonces** todos los miembros reciben una notificación y pueden ver el mensaje en su panel principal. |
-| **EP08/US19** | Compartir actualizaciones de lote | **Como** jefe de barra, **quiero** notificar automáticamente al equipo cuando hay cambios en los lotes de café, **para que** todos estén al tanto de ajustes necesarios en las recetas y preparaciones. | **Dado** que registro un nuevo lote o modifico parámetros de uno existente,<br>**cuando** marco la opción "Notificar al equipo",<br>**entonces** todos los baristas reciben una alerta con los detalles del cambio y las recetas afectadas. |
+---
 
 ##### **EP09: Landing Page y Difusión Pública**
 
@@ -4442,6 +4465,12 @@ En conjunto, los hallazgos evidencian que la aplicación Xantina no solo debe en
 # Bibliografía
 Tune, N. (2020, 12 enero). Modelling Bounded Contexts with the Bounded Context Canvas: A Workshop Recipe. Medium. https://medium.com/nick-tune-tech-strategy-blog/modelling-bounded-contexts-with-the-bounded-context-design-canvas-a-workshop-recipe-1f123e592ab
 
+Elías, J., Negro, Á. G., Schling, M., & Mount, I. (2022). Análisis sobre la innovación en el sector gastronómico del Perú. https://doi.org/10.18235/0004446
+
+INEI [INEI]. (2024). Producción nacional 2024. Informe Técnico INEI, 9(9). https://www.inei.gob.pe/media/MenuRecursivo/boletines/informe-de-producion.pdf
+
+Pichler, R. (2010). Agile Product Management with Scrum: Creating Products that Customers Love. Pearson Professional.
+
 
 # Anexos
 - Reporte: [Enlace](https://github.com/upc-pre-202520-1ACC0238-2005-mira/ProjectReport)
@@ -4450,5 +4479,5 @@ Tune, N. (2020, 12 enero). Modelling Bounded Contexts with the Bounded Context C
 - Repositorio del Backend: [Enlace](https://github.com/upc-pre-202520-1ACC0238-2005-mira/backend)
 - Landing Page: [Enlace](https://xantina.vercel.app/)
 - Backend API: [Enlace](https://backend-production-da30.up.railway.app/api)
-
-
+- Enlace para acceder al [video exposición de TP1](https://upcedupe-my.sharepoint.com/:f:/g/personal/u202311958_upc_edu_pe/EjGOGgMcO51MhhDyf7FuWIgBqsYm6hWDUe0vhWCp1AmMzw?e=U0Ra7a)
+- Enlace para acceder al [Figma](https://www.figma.com/design/zS1yCqj9PyyEGF9Zt7cW8m/XANTINA?node-id=48-2&p=f&t=On8xXJobTBgODpbA-0)
