@@ -331,15 +331,25 @@ Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta
 					<li><strong>Fabrizio León:</strong>
           Realiza una investigación mediante el uso de entrevistas para la validación de los items hechos en el Lean UX Process.
           </li>
-					<li><strong>Juan Diego Mondoñedo:</strong> Analicé los resultados de nuestras entrevistas para desarrollar parte del needfinding y definir las user stories </li>
-          <li><strong>Fabián Oliva López:</strong> Investigué acerca de posibles competidores y desarrollo su respectivo análisis competitivo a su vez de estrategias frente a estos competidores</li>
-          <li><strong>Miguel Vidal Castro</strong> Determiné mediante las entrevistas del segmento objetivo de dueño de café, información relevante para entender que bounded contexts desarrollar en la aplicación para poder cubrir sus necesidades. </li>
+					<li><strong>Juan Diego Mondoñedo:</strong> Analicé los resultados de nuestras entrevistas para desarrollar parte del needfinding y definir las user stories. </li>
+          <li><strong>Fabián Oliva López:</strong> Investigué acerca de posibles competidores y desarrollo su respectivo análisis competitivo a su vez de estrategias frente a estos competidores.</li>
+          <li><strong>Miguel Vidal Castro:</strong> Determiné mediante las entrevistas del segmento objetivo de dueño de café, información relevante para entender qué bounded contexts desarrollar en la aplicación para poder cubrir sus necesidades. </li>
           <li><strong>Fabrizzio Pereira:</strong> Investigué el dominio del café de especialidad y desarrollé la arquitectura completa del sistema usando metodologías como Lean UX y Domain-Driven Design.</li>
-					<li><strong>Guillermo Tantaleán:</strong> Desarrollé toda la parte de DDD como el event storming identificando los principales bounded context.  </li>
+					<li><strong>Guillermo Tantaleán:</strong> Desarrollé toda la parte de DDD como el event storming identificando los principales bounded contexts.  </li>
 				</ul>
+        <br><strong>TP:</strong><br>
+        <ul>
+          <li><strong>Fabrizio León:</strong> </li>
+          <li><strong>Juan Diego Mondoñedo:</strong> </li>
+          <li><strong>Fabián Oliva López:</strong> </li>
+          <li><strong>Miguel Vidal Castro:</strong> </li>
+          <li><strong>Fabrizzio Pereira:</strong> </li>
+          <li><strong>Guillermo Tantaleán:</strong> </li>
+        </ul>
 			</td>
 			<td>
-				<strong>TB1:</strong>El equipo reforzó y actualizó conocimientos clave en metodologías de desarrollo como Lean UX y Domain-Driven Design, aplicándolos al dominio del café de especialidad. Cada integrante contribuyó con investigación y análisis (usuarios, competidores, modelo de negocio, arquitectura) lo que permitió construir una base conceptual sólida para el proyecto y asegurar la pertinencia de las soluciones propuestas. <br>
+				<strong>TB1:</strong> El equipo reforzó y actualizó conocimientos clave en metodologías de desarrollo como Lean UX y Domain-Driven Design, aplicándolos al dominio del café de especialidad. Cada integrante contribuyó con investigación y análisis (usuarios, competidores, modelo de negocio, arquitectura), lo que permitió construir una base conceptual sólida para el proyecto y asegurar la pertinencia de las soluciones propuestas. <br>
+        <strong>TP:</strong> 
 			</td>
 		</tr>
 		<tr>
@@ -349,20 +359,29 @@ Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta
 			<td>
 				<strong>TB1:</strong><br>
 				<ul>
-					<li><strong>Fabrizio León:</strong>
-          Fue importante que aprenda sobre del modelo de negocio para así desarrollar los artefactos de una mejora manera. Además, investigue más acerca del DDD para su correcto planteamiento. </li>
-					<li><strong>Juan Diego Mondoñedo:</strong> Refresqué mis conocimientos sobre las user stories e investigué sobre el ambiente laboral de nuestro publico objetivo para plantear user stories pertinentes. </li>
-          <li><strong>Fabian Oliva López:</strong> Pude aprender la necesidad de investigar acerca de competidores lo cual ayuda a ver puntos estrategicos los cuales puede improvisar nuestro trabajor para entregar un producto de buena calidad </li>
-          <li><strong>Miguel Vidal Castro:</strong> Pude aprendar a investigar sobre como realizar un diagrama C4, reforzando conocimientos pasados. Realicé un Event Storming del proyecto lo que me ayudó a identificar los bounded contexts</li>
+					<li><strong>Fabrizio León:</strong> Fue importante que aprenda sobre el modelo de negocio para así desarrollar los artefactos de una mejor manera. Además, investigué más acerca del DDD para su correcto planteamiento. </li>
+					<li><strong>Juan Diego Mondoñedo:</strong> Refresqué mis conocimientos sobre las user stories e investigué sobre el ambiente laboral de nuestro público objetivo para plantear user stories pertinentes. </li>
+          <li><strong>Fabián Oliva López:</strong> Pude aprender la necesidad de investigar acerca de competidores, lo cual ayuda a ver puntos estratégicos los cuales puede improvisar nuestro trabajo para entregar un producto de buena calidad. </li>
+          <li><strong>Miguel Vidal Castro:</strong> Pude aprender a investigar sobre cómo realizar un diagrama C4, reforzando conocimientos pasados. Realicé un Event Storming del proyecto lo que me ayudó a identificar los bounded contexts.</li>
           <li><strong>Fabrizzio Pereira:</strong> Aprendí sobre café de especialidad desde cero y estudié nuevas metodologías de desarrollo que no conocía previamente.</li>
-					<li><strong>Guillermo Tantaleán:</strong>  Realicé investigación del modelo de negocio del tema en cuestión para el trabajo lo cual me permitió entender la aplicación de conocimientos de software a nivel de dirección.  </li>
+					<li><strong>Guillermo Tantaleán:</strong> Realicé investigación del modelo de negocio del tema en cuestión para el trabajo, lo cual me permitió entender la aplicación de conocimientos de software a nivel de dirección.  </li>
 				</ul>
+        <br><strong>TP:</strong><br>
+        <ul>
+          <li><strong>Fabrizio León:</strong> </li>
+          <li><strong>Juan Diego Mondoñedo:</strong> </li>
+          <li><strong>Fabián Oliva López:</strong> </li>
+          <li><strong>Miguel Vidal Castro: Me encargué de realizar los wireframes y mockups de la app teniendo en cuenta los style guidelines definidos</strong> </li>
+          <li><strong>Fabrizzio Pereira:</strong> </li>
+          <li><strong>Guillermo Tantaleán:</strong> </li>
+        </ul>
 			</td>
 			<td>
-				<strong>TB1:</strong>El equipo demostró apertura hacia el aprendizaje permanente, investigando tanto aspectos técnicos (diagramas C4, DDD, user stories) como estratégicos (modelo de negocio, competidores y dominio del café de especialidad). Esta disposición a aprender y actualizarse permitió aplicar de forma más efectiva los conocimientos adquiridos, adaptándolos a un contexto real y fortaleciendo las competencias profesionales de cada integrante. <br>
+				<strong>TB1:</strong> El equipo demostró apertura hacia el aprendizaje permanente, investigando tanto aspectos técnicos (diagramas C4, DDD, user stories) como estratégicos (modelo de negocio, competidores y dominio del café de especialidad). Esta disposición a aprender y actualizarse permitió aplicar de forma más efectiva los conocimientos adquiridos, adaptándolos a un contexto real y fortaleciendo las competencias profesionales de cada integrante. <br>
+        <strong>TP: El equipo mejoró las observaciones anteriormente obtenidas, desarrolló la app teniendo en cuenta styles guidelines. Su uso fue aprobada por los entrevistados que dieron un feedback de la aplicación mostrada, dando observaciones que serán de utilidad para próximas mejoras.</strong> 
 			</td>
 		</tr>
-	</tobdy>
+	</tbody>
 </table>
 
 <div style="page-break-before: always;"></div>
@@ -380,28 +399,54 @@ Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta
     <tr>
       <td style="border: 1px solid #000; padding: 8px;">Pereira Vasquez, Fabrizzio</td>
       <td style="border: 1px solid #000; padding: 8px;">Completar el diseño de la arquitectura de software para Mira/Xantina aplicando Domain-Driven Design incluyendo bounded contexts, agregados y servicios del dominio del café de especialidad.</td>
-      <td style="border: 1px solid #000; padding: 8px;">Desarrollar y documentar el Lean UX Process completo (Problem Statements, Assumptions, Hypothesis Statements y Canvas) </td>
+      <td style="border: 1px solid #000; padding: 8px;">Desarrollar y documentar el Lean UX Process completo (Problem Statements, Assumptions, Hypothesis Statements y Canvas).</td>
     </tr>
     <tr>
       <td style="border: 1px solid #000; padding: 8px;">Tantaleán Mesta, Guillermo Fabián</td>
-      <td style="border: 1px solid #000; padding: 8px;">Definir y documentar la arquitectura de software de Xantina mediante la aplicación de Domain-Driven Design, incluyendo la delimitación de bounded contexts, modelos de comunicación y decisiones estratégicas del dominio.
-;</td>
+      <td style="border: 1px solid #000; padding: 8px;">Definir y documentar la arquitectura de software de Xantina mediante la aplicación de Domain-Driven Design, incluyendo la delimitación de bounded contexts, modelos de comunicación y decisiones estratégicas del dominio.</td>
       <td style="border: 1px solid #000; padding: 8px;">Elaborar y validar el proceso Lean UX para Xantina, integrando problem statements, supuestos, hipótesis y el Lean UX Canvas, como base para el diseño centrado en el usuario.</td>
     </tr>
     <tr>
       <td style="border: 1px solid #000; padding: 8px;">Mondoñedo Rodriguez, Juan Diego Javier</td>
-      <td style="border: 1px solid #000; padding: 8px;">Resolver parte de las problematicas y dolores diarios del grupo objetivo que seleccionamos para nuestro enfoque de proyecto para brindarles mayor satisfaccion de vida.</td>
+      <td style="border: 1px solid #000; padding: 8px;">Resolver parte de las problemáticas y dolores diarios del grupo objetivo que seleccionamos para nuestro enfoque de proyecto para brindarles mayor satisfacción de vida.</td>
       <td style="border: 1px solid #000; padding: 8px;">Identificar correctamente las necesidades de nuestros segmentos mediante el needfinding e interpretarlas para definir user stories adecuados para su caso.</td>
     </tr>
     <tr>
       <td style="border: 1px solid #000; padding: 8px;">Oliva López, Fabián Alejandro</td>
-      <td style="border: 1px solid #000; padding: 8px;"> Realizar un análisis detallado de los competidores directos e indirectos de Xantina, identificando sus fortalezas, debilidades y estrategias de mercado, con el fin de reconocer oportunidades de diferenciación.</td>
+      <td style="border: 1px solid #000; padding: 8px;">Realizar un análisis detallado de los competidores directos e indirectos de Xantina, identificando sus fortalezas, debilidades y estrategias de mercado, con el fin de reconocer oportunidades de diferenciación.</td>
       <td style="border: 1px solid #000; padding: 8px;">Proponer y documentar estrategias competitivas para Xantina basadas en el análisis realizado, estableciendo acciones concretas que permitan posicionar la solución frente a los principales competidores.</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #000; padding: 8px;">Vidal Castro Miguel Angel</td>
+      <td style="border: 1px solid #000; padding: 8px;">Vidal Castro, Miguel Ángel</td>
       <td style="border: 1px solid #000; padding: 8px;">Completar la parte de Software Architecture Diagrams, entrevistar al segmento objetivo de dueño de cafetería.</td>
-      <td style="border: 1px solid #000; padding: 8px;">Determinar que bounded context se aplican en los diagramas para saber identificarlos. Realización de Event Storming para entender que bounded context se usan.</td>
+      <td style="border: 1px solid #000; padding: 8px;">Determinar qué bounded context se aplican en los diagramas para saber identificarlos. Realización de Event Storming para entender qué bounded context se usan.</td>
+    </tr>
+
+    <!-- TP vacío -->
+    <tr>
+      <td style="border: 1px solid #000; padding: 8px;">Pereira Vasquez, Fabrizzio</td>
+      <td style="border: 1px solid #000; padding: 8px;"></td>
+      <td style="border: 1px solid #000; padding: 8px;"></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #000; padding: 8px;">Tantaleán Mesta, Guillermo Fabián</td>
+      <td style="border: 1px solid #000; padding: 8px;"></td>
+      <td style="border: 1px solid #000; padding: 8px;"></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #000; padding: 8px;">Mondoñedo Rodriguez, Juan Diego Javier</td>
+      <td style="border: 1px solid #000; padding: 8px;"></td>
+      <td style="border: 1px solid #000; padding: 8px;"></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #000; padding: 8px;">Oliva López, Fabián Alejandro</td>
+      <td style="border: 1px solid #000; padding: 8px;"></td>
+      <td style="border: 1px solid #000; padding: 8px;"></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #000; padding: 8px;">Vidal Castro, Miguel Ángel</td>
+      <td style="border: 1px solid #000; padding: 8px;"></td>
+      <td style="border: 1px solid #000; padding: 8px;"></td>
     </tr>
   </tbody>
 </table>
