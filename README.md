@@ -312,6 +312,8 @@ Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta
 
 # Student Outcome
 
+# Student Outcome
+
 <table style="border-collapse: collapse; width: 100%; text-align: left;">
 	<thead>
 		<tr>
@@ -329,27 +331,27 @@ Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta
 				<strong>TB1:</strong><br>
 				<ul>
 					<li><strong>Fabrizio León:</strong>
-          Realiza una investigación mediante el uso de entrevistas para la validación de los items hechos en el Lean UX Process.
+          Realiza una investigación mediante el uso de entrevistas para la validación de los ítems hechos en el Lean UX Process.
           </li>
 					<li><strong>Juan Diego Mondoñedo:</strong> Analicé los resultados de nuestras entrevistas para desarrollar parte del needfinding y definir las user stories. </li>
-          <li><strong>Fabián Oliva López:</strong> Investigué acerca de posibles competidores y desarrollo su respectivo análisis competitivo a su vez de estrategias frente a estos competidores.</li>
-          <li><strong>Miguel Vidal Castro:</strong> Determiné mediante las entrevistas del segmento objetivo de dueño de café, información relevante para entender qué bounded contexts desarrollar en la aplicación para poder cubrir sus necesidades. </li>
+          <li><strong>Fabián Oliva López:</strong> Investigué acerca de posibles competidores y desarrollé su respectivo análisis competitivo, además de estrategias frente a estos competidores.</li>
+          <li><strong>Miguel Vidal Castro:</strong> Determiné mediante las entrevistas al segmento objetivo de dueños de café, información relevante para entender qué bounded contexts desarrollar en la aplicación y cubrir sus necesidades. </li>
           <li><strong>Fabrizzio Pereira:</strong> Investigué el dominio del café de especialidad y desarrollé la arquitectura completa del sistema usando metodologías como Lean UX y Domain-Driven Design.</li>
-					<li><strong>Guillermo Tantaleán:</strong> Desarrollé toda la parte de DDD como el event storming identificando los principales bounded contexts.  </li>
+					<li><strong>Guillermo Tantaleán:</strong> Desarrollé toda la parte de DDD, incluyendo el event storming e identificación de los principales bounded contexts.  </li>
 				</ul>
         <br><strong>TP:</strong><br>
         <ul>
           <li><strong>Fabrizio León:</strong> </li>
           <li><strong>Juan Diego Mondoñedo:</strong> </li>
           <li><strong>Fabián Oliva López:</strong> </li>
-          <li><strong>Miguel Vidal Castro:</strong> </li>
+          <li><strong>Miguel Vidal Castro:</strong> Elaboré los wireframes y mockups de la aplicación, aplicando los style guidelines definidos por el equipo. Este trabajo permitió plasmar de forma visual la estructura y funcionalidad del producto, facilitando la validación con los usuarios y asegurando coherencia con los objetivos del proyecto. </li>
           <li><strong>Fabrizzio Pereira:</strong> </li>
           <li><strong>Guillermo Tantaleán:</strong> </li>
         </ul>
 			</td>
 			<td>
 				<strong>TB1:</strong> El equipo reforzó y actualizó conocimientos clave en metodologías de desarrollo como Lean UX y Domain-Driven Design, aplicándolos al dominio del café de especialidad. Cada integrante contribuyó con investigación y análisis (usuarios, competidores, modelo de negocio, arquitectura), lo que permitió construir una base conceptual sólida para el proyecto y asegurar la pertinencia de las soluciones propuestas. <br>
-        <strong>TP:</strong> 
+        <strong>TP:</strong> El equipo continuó ampliando y aplicando los conocimientos adquiridos en metodologías de desarrollo como Lean UX y Domain-Driven Design, consolidando la arquitectura del sistema y afinando los aspectos de diseño e implementación. Cada integrante profundizó en su área de especialización, lo que permitió fortalecer la comprensión técnica y mejorar la calidad de los artefactos generados. Este proceso de actualización constante aseguró que las soluciones desarrolladas se mantuvieran alineadas con las mejores prácticas del sector y con las necesidades reales del proyecto.
 			</td>
 		</tr>
 		<tr>
@@ -361,8 +363,8 @@ Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta
 				<ul>
 					<li><strong>Fabrizio León:</strong> Fue importante que aprenda sobre el modelo de negocio para así desarrollar los artefactos de una mejor manera. Además, investigué más acerca del DDD para su correcto planteamiento. </li>
 					<li><strong>Juan Diego Mondoñedo:</strong> Refresqué mis conocimientos sobre las user stories e investigué sobre el ambiente laboral de nuestro público objetivo para plantear user stories pertinentes. </li>
-          <li><strong>Fabián Oliva López:</strong> Pude aprender la necesidad de investigar acerca de competidores, lo cual ayuda a ver puntos estratégicos los cuales puede improvisar nuestro trabajo para entregar un producto de buena calidad. </li>
-          <li><strong>Miguel Vidal Castro:</strong> Pude aprender a investigar sobre cómo realizar un diagrama C4, reforzando conocimientos pasados. Realicé un Event Storming del proyecto lo que me ayudó a identificar los bounded contexts.</li>
+          <li><strong>Fabián Oliva López:</strong> Pude aprender la necesidad de investigar acerca de competidores, lo cual ayuda a ver puntos estratégicos que pueden mejorar nuestro trabajo para entregar un producto de buena calidad. </li>
+          <li><strong>Miguel Vidal Castro:</strong> Pude aprender a investigar sobre cómo realizar un diagrama C4, reforzando conocimientos previos. Realicé un Event Storming del proyecto que me ayudó a identificar los bounded contexts.</li>
           <li><strong>Fabrizzio Pereira:</strong> Aprendí sobre café de especialidad desde cero y estudié nuevas metodologías de desarrollo que no conocía previamente.</li>
 					<li><strong>Guillermo Tantaleán:</strong> Realicé investigación del modelo de negocio del tema en cuestión para el trabajo, lo cual me permitió entender la aplicación de conocimientos de software a nivel de dirección.  </li>
 				</ul>
@@ -371,18 +373,19 @@ Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta
           <li><strong>Fabrizio León:</strong> </li>
           <li><strong>Juan Diego Mondoñedo:</strong> </li>
           <li><strong>Fabián Oliva López:</strong> </li>
-          <li><strong>Miguel Vidal Castro: Me encargué de realizar los wireframes y mockups de la app teniendo en cuenta los style guidelines definidos</strong> </li>
+          <li><strong>Miguel Vidal Castro:</strong> El equipo demostró una actitud de aprendizaje continuo al incorporar nuevos conocimientos durante el desarrollo de la aplicación. A partir de las observaciones recibidas, se realizaron mejoras en la interfaz y la experiencia del usuario, aplicando los style guidelines definidos. Esta experiencia reforzó la importancia de la retroalimentación y la adaptación constante como parte del crecimiento profesional, promoviendo una cultura de mejora y aprendizaje permanente dentro del grupo. </li>
           <li><strong>Fabrizzio Pereira:</strong> </li>
           <li><strong>Guillermo Tantaleán:</strong> </li>
         </ul>
 			</td>
 			<td>
 				<strong>TB1:</strong> El equipo demostró apertura hacia el aprendizaje permanente, investigando tanto aspectos técnicos (diagramas C4, DDD, user stories) como estratégicos (modelo de negocio, competidores y dominio del café de especialidad). Esta disposición a aprender y actualizarse permitió aplicar de forma más efectiva los conocimientos adquiridos, adaptándolos a un contexto real y fortaleciendo las competencias profesionales de cada integrante. <br>
-        <strong>TP: El equipo mejoró las observaciones anteriormente obtenidas, desarrolló la app teniendo en cuenta styles guidelines. Su uso fue aprobada por los entrevistados que dieron un feedback de la aplicación mostrada, dando observaciones que serán de utilidad para próximas mejoras.</strong> 
+        <strong>TP:</strong> El equipo mejoró las observaciones recibidas anteriormente y avanzó en el desarrollo de la aplicación, respetando los style guidelines y principios de usabilidad definidos. Los prototipos fueron evaluados positivamente por los usuarios entrevistados, quienes brindaron retroalimentación útil para futuras mejoras, consolidando así la aplicación de un proceso iterativo de aprendizaje y mejora continua. 
 			</td>
 		</tr>
 	</tbody>
 </table>
+
 
 <div style="page-break-before: always;"></div>
 
