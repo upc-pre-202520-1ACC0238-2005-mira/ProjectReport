@@ -1818,9 +1818,10 @@ Diagrama de componente Tienda:
 <img src="./img/chapter2/c4_7.png">
 
 ### 2.5.3.4. Software Architecture Deployment Diagrams
+
 Este es el diagrama de Despliegue de nuestro sistema:
+
 <img src="./img/chapter2/c4_3.png">
-AuthService y Notification Service son servicios externos gestionados (p. ej. Firebase Auth, Firebase Cloud Messaging) que proveen autenticación y mensajería push. Aunque no forman parte del código base de la aplicación, son dependencias críticas integradas vía APIs seguras (OAuth2 / HTTPS).
 
 # 2.6. Tactical-Level Domain-Driven Design
 
