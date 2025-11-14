@@ -4970,7 +4970,8 @@ Gracias a este flujo de trabajo, la aplicación móvil de **Xantina** puede ser 
 | EP12/TS30     | Control de sesiones activas       | TK34        | Implementar control de sesiones   | Crear sistema para visualizar y cerrar sesiones activas en la cuenta.              | 5                      | Fabián          | In Process    |
 
 
-## 4.2.2.3. Development Evidence for Sprint Review 
+## 4.2.2.3. Development Evidence for Sprint Review
+
 | Repository                         | Branch           | Commit Id | Commit Message                                                                 | Commit Message Body                                                                                                                   | Commited on (Date) |
 |------------------------------------|------------------|-----------|--------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|------------------|
 | MiguelVidal/XantinaApp  | main             | 14ca4e3   | feat(extracts): add coffee parameters                                           | Se añadieron parámetros de extracción de café para el flujo principal de extracciones.                                                | 09/11/2025       |
