@@ -252,20 +252,29 @@ Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta
 
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
+- [Contenido](#contenido)
 - [Student Outcome](#student-outcome)
+- [Student Outcome](#student-outcome-1)
+- [Objetivos SMART](#objetivos-smart)
 - [Capítulo I: Introducción](#capítulo-i-introducción)
   - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
     - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
   - [1.2. Solution Profile](#12-solution-profile)
-    - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
-    - [1.2.2. Lean UX Process](#122-lean-ux-process)
+    - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
+    - [1.2.2 Lean UX Process](#122-lean-ux-process)
       - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
       - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
       - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
       - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
   - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
-
+    - [1.3.1. Baristas (junior y senior)](#131-baristas-junior-y-senior)
+    - [1.3.2. Jefes de barra / Dueños](#132-jefes-de-barra--dueños)
+    - [1.3.3. Entusiastas avanzados (home brewers) – Segmento secundario](#133-entusiastas-avanzados-home-brewers--segmento-secundario)
+    - [1.3.4. Aliados del ecosistema (tostadores, escuelas) – Influenciadores](#134-aliados-del-ecosistema-tostadores-escuelas--influenciadores)
+    - [1.3.5. Mapa de priorización (MVP)](#135-mapa-de-priorización-mvp)
+    - [1.3.6. Tamaño de mercado (marco de estimación)](#136-tamaño-de-mercado-marco-de-estimación)
+    - [1.3.7. Señales de ajuste por segmento (qué observar)](#137-señales-de-ajuste-por-segmento-qué-observar)
 - [Capítulo II: Requirements Development and Software Solution Design](#capítulo-ii-requirements-development-and-software-solution-design)
   - [2.1. Competidores](#21-competidores)
     - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
@@ -278,32 +287,141 @@ Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta
     - [2.3.1. User Personas](#231-user-personas)
     - [2.3.2. User Task Matrix](#232-user-task-matrix)
     - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+    - [2.3.3. User Journey Mapping — Miguel Vergara (Barista)](#233-user-journey-mapping--miguel-vergara-barista)
+    - [2.3.3. User Journey Mapping — Harry Salazar (Owner)](#233-user-journey-mapping--harry-salazar-owner)
     - [2.3.4. Empathy Mapping](#234-empathy-mapping)
     - [2.3.5. Ubiquitous Language](#235-ubiquitous-language)
-  - [2.4. Requirements specification](#24-requirements-specification)
-    - [2.4.1. User Stories](#241-user-stories)
-    - [2.4.2. Impact Mapping](#242-impact-mapping)
-    - [2.4.3. Product Backlog](#243-product-backlog)
-  - [2.5. Strategic-Level Domain-Driven Design](#25-strategic-level-domain-driven-design)
-    - [2.5.1. EventStorming](#251-eventstorming)
-      - [2.5.1.1. Candidate Context Discovery](#2511-candidate-context-discovery)
-      - [2.5.1.2. Domain Message Flows Modeling](#2512-domain-message-flows-modeling)
-      - [2.5.1.3. Bounded Context Canvases](#2513-bounded-context-canvases)
-    - [2.5.2. Context Mapping](#252-context-mapping)
-    - [2.5.3. Software Architecture](#253-software-architecture)
-      - [2.5.3.1. Software Architecture Context Level Diagrams](#2531-software-architecture-context-level-diagrams)
-      - [2.5.3.2. Software Architecture Container Level Diagrams](#2532-software-architecture-container-level-diagrams)
-      - [2.5.3.3. Software Architecture Deployment Diagrams](#2533-software-architecture-deployment-diagrams)
-  - [2.6. Tactical-Level Domain-Driven Design](#26-tactical-level-domain-driven-design)
-    - [2.6.1. Bounded Context: Sprint 1](#261-bounded-context-sprint-1)
-      - [2.6.1.1. Domain Layer](#2611-domain-layer)
-      - [2.6.1.2. Interface Layer](#2612-interface-layer)
-      - [2.6.1.3. Application Layer](#2613-application-layer)
-      - [2.6.1.4. Infrastructure Layer](#2614-infrastructure-layer)
-      - [2.6.1.5. Bounded Context Software Architecture Component Level Diagrams](#2615-bounded-context-software-architecture-component-level-diagrams)
-      - [2.6.1.6. Bounded Context Software Architecture Code Level Diagrams](#2616-bounded-context-software-architecture-code-level-diagrams)
-        - [2.6.1.6.1. Bounded Context Domain Layer Class Diagrams](#26161-bounded-context-domain-layer-class-diagrams)
-        - [2.6.1.6.2. Bounded Context Database Design Diagram](#26162-bounded-context-database-design-diagram)
+- [2.4. Requirements specification](#24-requirements-specification)
+  - [2.4.1. User Stories](#241-user-stories)
+      - [Desglose de Historias de Usuario por Épica](#desglose-de-historias-de-usuario-por-épica)
+        - [**EP09: Landing Page y Difusión Pública**](#ep09-landing-page-y-difusión-pública)
+        - [**EP10: Aplicación Móvil**](#ep10-aplicación-móvil)
+        - [**EP11: Backend y API**](#ep11-backend-y-api)
+        - [**EP12: Seguridad y Autenticación Avanzada**](#ep12-seguridad-y-autenticación-avanzada)
+  - [2.4.2. Impact Mapping](#242-impact-mapping)
+  - [2.4.3. Product Backlog](#243-product-backlog)
+- [📌 Product Backlog – Xantina](#-product-backlog--xantina)
+- [2.5. Strategic-Level Domain-Driven Design](#25-strategic-level-domain-driven-design)
+  - [2.5.1. EventStorming](#251-eventstorming)
+    - [2.5.1.1. Candidate Context Discovery](#2511-candidate-context-discovery)
+    - [2.5.1.2. Domain Message Flows Modeling](#2512-domain-message-flows-modeling)
+    - [2.5.1.3. Bounded Context Canvases](#2513-bounded-context-canvases)
+  - [2.5.2. Context Mapping](#252-context-mapping)
+  - [2.5.3. Software Architecture](#253-software-architecture)
+    - [2.5.3.1. Software Architecture Context Level Diagrams](#2531-software-architecture-context-level-diagrams)
+    - [2.5.3.2. Software Architecture Container Level Diagrams](#2532-software-architecture-container-level-diagrams)
+    - [2.5.3.3. Software Architecture Components Level Diagrams](#2533-software-architecture-components-level-diagrams)
+    - [2.5.3.4. Software Architecture Deployment Diagrams](#2534-software-architecture-deployment-diagrams)
+- [2.6. Tactical-Level Domain-Driven Design](#26-tactical-level-domain-driven-design)
+  - [2.6.1. Bounded Context: Sprint 1](#261-bounded-context-sprint-1)
+    - [2.6.1.1. Domain Layer](#2611-domain-layer)
+    - [2.6.1.2. Interface Layer](#2612-interface-layer)
+    - [2.6.1.3. Application Layer](#2613-application-layer)
+    - [2.6.1.4. Infrastructure Layer](#2614-infrastructure-layer)
+      - [IngredientRepository](#ingredientrepository)
+    - [2.6.1.5. Bounded Context Software Architecture Component Level Diagrams](#2615-bounded-context-software-architecture-component-level-diagrams)
+    - [SPA](#spa)
+    - [Api Application](#api-application)
+    - [2.6.1.6. Bounded Context Software Architecture Code Level Diagrams](#2616-bounded-context-software-architecture-code-level-diagrams)
+      - [2.6.1.6.1. Bounded Context Domain Layer Class Diagrams](#26161-bounded-context-domain-layer-class-diagrams)
+    - [Profiles](#profiles)
+    - [IAM](#iam)
+    - [Shared](#shared)
+      - [2.6.1.6.2. Bounded Context Database Design Diagram](#26162-bounded-context-database-design-diagram)
+- [Capítulo III: UX/UI Design](#capítulo-iii-uxui-design)
+- [3.1 Product Design](#31-product-design)
+  - [3.1.1 Style Guidelines](#311-style-guidelines)
+    - [3.1.1.1 General Style Guidelines](#3111-general-style-guidelines)
+    - [Colores principales](#colores-principales)
+    - [Estilo visual](#estilo-visual)
+    - [Interactividad](#interactividad)
+    - [Paletas de color](#paletas-de-color)
+  - [3.1.2 Information Architecture](#312-information-architecture)
+    - [3.1.2.1 Organization Systems](#3121-organization-systems)
+      - [Jerárquico](#jerárquico)
+      - [Modular y Seccional](#modular-y-seccional)
+    - [3.1.2.2 Labelling Systems](#3122-labelling-systems)
+      - [Menú principal](#menú-principal)
+      - [Botones de acción](#botones-de-acción)
+      - [Formulario](#formulario)
+    - [3.1.2.3 SEO Tags and Meta Tags](#3123-seo-tags-and-meta-tags)
+      - [Título](#título)
+      - [Descripción](#descripción)
+      - [Palabras clave](#palabras-clave)
+      - [Derechos de autor](#derechos-de-autor)
+    - [3.1.2.4 Searching Systems](#3124-searching-systems)
+    - [3.1.2.5 Navigation Systems](#3125-navigation-systems)
+    - [Navegación Superior](#navegación-superior)
+    - [Flujo Lógico](#flujo-lógico)
+    - [Footer con Navegación Secundaria](#footer-con-navegación-secundaria)
+    - [Estructura Modular](#estructura-modular)
+  - [3.1.3 Landing Page UI Design](#313-landing-page-ui-design)
+    - [3.1.3.1 Landing Page Wireframe](#3131-landing-page-wireframe)
+    - [3.1.3.2 Landing Page Mock-up](#3132-landing-page-mock-up)
+  - [3.1.4 Mobile Applications UX/UI Design](#314-mobile-applications-uxui-design)
+    - [3.1.4.1 Mobile Applications Wireframes](#3141-mobile-applications-wireframes)
+    - [3.1.4.2 Mobile Applications Wireflow Diagrams](#3142-mobile-applications-wireflow-diagrams)
+  - [User Goal 01: Crear y acceder a la cuenta de usuario](#user-goal-01-crear-y-acceder-a-la-cuenta-de-usuario)
+  - [User Goal 02: Gestionar recetas de café de forma estandarizada](#user-goal-02-gestionar-recetas-de-café-de-forma-estandarizada)
+  - [User Goal 03: Calibrar y operar la barra de manera guiada](#user-goal-03-calibrar-y-operar-la-barra-de-manera-guiada)
+  - [User Goal 04: Registrar y analizar catas de café](#user-goal-04-registrar-y-analizar-catas-de-café)
+  - [User Goal 05: Controlar inventario y trazabilidad de lotes](#user-goal-05-controlar-inventario-y-trazabilidad-de-lotes)
+  - [User Goal 06: Gestionar usuarios y permisos de equipo](#user-goal-06-gestionar-usuarios-y-permisos-de-equipo)
+  - [User Goal 07: Generar reportes y visualizar tendencias](#user-goal-07-generar-reportes-y-visualizar-tendencias)
+  - [User Goal 08: Comunicar novedades y actualizaciones al equipo](#user-goal-08-comunicar-novedades-y-actualizaciones-al-equipo)
+    - [3.1.4.3 Mobile Applications Mock-ups](#3143-mobile-applications-mock-ups)
+    - [3.1.4.4 Mobile Applications User Flow Diagrams](#3144-mobile-applications-user-flow-diagrams)
+  - [User Goal 01: Crear y acceder a la cuenta de usuario](#user-goal-01-crear-y-acceder-a-la-cuenta-de-usuario-1)
+  - [User Goal 02: Gestionar recetas de café de forma estandarizada](#user-goal-02-gestionar-recetas-de-café-de-forma-estandarizada-1)
+  - [User Goal 03: Calibrar y operar la barra de manera guiada](#user-goal-03-calibrar-y-operar-la-barra-de-manera-guiada-1)
+  - [User Goal 04: Registrar y analizar catas de café](#user-goal-04-registrar-y-analizar-catas-de-café-1)
+  - [User Goal 05: Controlar inventario y trazabilidad de lotes](#user-goal-05-controlar-inventario-y-trazabilidad-de-lotes-1)
+  - [User Goal 06: Gestionar usuarios y permisos de equipo](#user-goal-06-gestionar-usuarios-y-permisos-de-equipo-1)
+  - [User Goal 07: Generar reportes y visualizar tendencias](#user-goal-07-generar-reportes-y-visualizar-tendencias-1)
+  - [User Goal 08: Comunicar novedades y actualizaciones al equipo](#user-goal-08-comunicar-novedades-y-actualizaciones-al-equipo-1)
+    - [3.1.4.5 Mobile Applications Prototyping](#3145-mobile-applications-prototyping)
+- [Capítulo IV: Product Implementation \& Validation](#capítulo-iv-product-implementation--validation)
+  - [4.1. Software Configuration Management](#41-software-configuration-management)
+    - [4.1.1. Software Development Environment Configuration](#411-software-development-environment-configuration)
+    - [4.1.2. Source Code Management](#412-source-code-management)
+    - [4.1.3. Source Code Style Guide \& Conventions](#413-source-code-style-guide--conventions)
+    - [HTML](#html)
+    - [CSS](#css)
+    - [JavaScript](#javascript)
+    - [Android Studio](#android-studio)
+  - [4.1.4. Software Deployment Configuration](#414-software-deployment-configuration)
+    - [Aplicación Móvil Deployment](#aplicación-móvil-deployment)
+    - [Creación de ramas](#creación-de-ramas)
+    - [Estructura del proyecto](#estructura-del-proyecto)
+    - [Subida de archivos al repositorio](#subida-de-archivos-al-repositorio)
+    - [Configuración para el despliegue](#configuración-para-el-despliegue)
+    - [Resolución de conflictos](#resolución-de-conflictos)
+  - [4.2. Landing Page \& Mobile Application Implementation](#42-landing-page--mobile-application-implementation)
+    - [4.2.1. Sprint 1](#421-sprint-1)
+      - [4.2.1.1. Sprint Planning 1](#4211-sprint-planning-1)
+      - [4.2.1.2. Sprint Backlog 1](#4212-sprint-backlog-1)
+      - [4.2.1.3. Development Evidence for Sprint Review](#4213-development-evidence-for-sprint-review)
+      - [4.2.1.4. Testing Suite Evidence for Sprint Review](#4214-testing-suite-evidence-for-sprint-review)
+      - [4.2.1.5. Execution Evidence for Sprint Review](#4215-execution-evidence-for-sprint-review)
+      - [4.2.1.6. Services Documentation Evidence for Sprint Review](#4216-services-documentation-evidence-for-sprint-review)
+      - [4.2.1.7. Software Deployment Evidence for Sprint Review](#4217-software-deployment-evidence-for-sprint-review)
+      - [4.2.1.8. Team Collaboration Insights during Sprint](#4218-team-collaboration-insights-during-sprint)
+- [4.2.2. Sprint 2](#422-sprint-2)
+  - [4.2.2.1. Sprint Planning 2](#4221-sprint-planning-2)
+  - [4.3. Validation Interviews](#43-validation-interviews)
+    - [4.3.1. Diseño de Entrevistas](#431-diseño-de-entrevistas)
+      - [Segmento #1: **Baristas (junior y senior)**](#segmento-1-baristas-junior-y-senior)
+      - [Segmento #2: **Jefes de barra / Dueños**](#segmento-2-jefes-de-barra--dueños)
+      - [Segmento #3: **Entusiastas avanzados (home brewers)**](#segmento-3-entusiastas-avanzados-home-brewers)
+      - [Segmento #4: **Aliados del ecosistema (tostadores, escuelas) – Influenciadores**](#segmento-4-aliados-del-ecosistema-tostadores-escuelas--influenciadores)
+    - [Preguntas para cada segmento:](#preguntas-para-cada-segmento)
+      - [Baristas](#baristas)
+      - [Jefes de barra / Dueños](#jefes-de-barra--dueños)
+      - [Entusiastas avanzados (home brewers)](#entusiastas-avanzados-home-brewers)
+      - [Aliados del ecosistema](#aliados-del-ecosistema)
+    - [4.3.2. Registro de Entrevistas](#432-registro-de-entrevistas)
+    - [4.3.3. Evaluaciones según heurísticas](#433-evaluaciones-según-heurísticas)
+  - [4.4. Database Diagram.](#44-database-diagram)
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
@@ -4797,6 +4915,83 @@ Gracias a este flujo de trabajo, la aplicación móvil de **Xantina** puede ser 
 #### 4.2.1.7. Software Deployment Evidence for Sprint Review
 
 #### 4.2.1.8. Team Collaboration Insights during Sprint
+
+# 4.2.2. Sprint 2
+
+## 4.2.2.1. Sprint Planning 2
+
+<table border="1" cellpadding="6" cellspacing="0">
+    <tbody>
+        <tr>
+            <th>Sprint #</th>
+            <td>2</td>
+        </tr>
+        <tr>
+            <th colspan="2">Sprint Planning Background</th>
+        </tr>
+        <tr>
+            <th>Date</th>
+            <td>13/11/2025</td>
+        </tr>
+        <tr>
+            <th>Time</th>
+            <td> 11:PM</td>
+        </tr>
+        <tr>
+            <th>Location</th>
+            <td>Reunión presencial después de clase</td>
+        </tr>
+        <tr>
+            <th>Prepared By</th>
+            <td>Guillermo Tantaleán</td>
+        </tr>
+        <tr>
+            <th>Attendees (to planning meeting)</th>
+            <td>Guillermo Tantaleán, Fabrizzio Pereira, Miguel Vidal, Fabián Oliva, Juan Diego Mondoñedo</td>
+        </tr>
+       <tr>
+    <th>Sprint 1 Review Summary</th>
+    <td>
+        Se avanzó significativamente en la aplicación móvil XantinaApp, completando las 
+        funcionalidades principales planificadas para el Sprint 1. Se habilitó el sistema 
+        de registro e inicio de sesión seguro, se implementó la visualización de perfiles 
+        y se desarrolló la navegación principal (extrae, inventario y perfil). 
+        El desarrollo se alineó con los diseños establecidos en Figma y se trabajó de forma 
+        colaborativa con revisiones continuas del código. El sprint cumplió con el objetivo 
+        propuesto gracias a la comunicación efectiva entre los miembros del equipo.
+    </td>
+</tr>
+
+<tr>
+    <th>Sprint 1 Retrospective Summary</th>
+    <td>
+        El equipo destacó aspectos positivos como la buena coordinación, el cumplimiento 
+        de tareas asignadas y la rápida integración entre pantallas y autenticación. 
+        Como oportunidades de mejora se identificó fortalecer la documentación técnica 
+        durante el sprint, estandarizar convenciones de commits y realizar reuniones 
+        intermedias más frecuentes para mantener visibilidad del progreso.
+        El equipo acordó mejorar la gestión del flujo de tareas y corrección de observaciones
+        en el repositorio para facilitar el trabajo en los siguientes sprints.
+    </td>
+</tr>
+
+        <tr>
+            <th colspan="2">Sprint Goal & User Stories</th>
+        </tr>
+        <tr>
+            <th>Sprint 2 Goal</th>
+            <td>Desarrollar completamente las vistas del front-end, garantizar el correcto funcionamiento del sistema de autenticación y establecer la integración con el backend, asegurando que este cumpla plenamente con los requerimientos definidos.</td>
+        </tr>
+        <tr>
+            <th>Sprint 1 Velocity</th>
+            <td>16</td>
+        </tr>
+        <tr>
+            <th>Sum of Story Points</th>
+            <td>16</td>
+        </tr>
+    </tbody>
+</table>
 
 ## 4.3. Validation Interviews
 
