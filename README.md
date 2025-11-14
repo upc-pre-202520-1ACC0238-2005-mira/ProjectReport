@@ -4935,7 +4935,7 @@ Gracias a este flujo de trabajo, la aplicación móvil de **Xantina** puede ser 
         </tr>
         <tr>
             <th>Time</th>
-            <td> 11:PM</td>
+            <td>11:00 PM</td>
         </tr>
         <tr>
             <th>Location</th>
@@ -4949,32 +4949,34 @@ Gracias a este flujo de trabajo, la aplicación móvil de **Xantina** puede ser 
             <th>Attendees (to planning meeting)</th>
             <td>Guillermo Tantaleán, Fabrizzio Pereira, Miguel Vidal, Fabián Oliva, Juan Diego Mondoñedo</td>
         </tr>
-       <tr>
-    <th>Sprint 1 Review Summary</th>
-    <td>
-        Se avanzó significativamente en la aplicación móvil XantinaApp, completando las 
-        funcionalidades principales planificadas para el Sprint 1. Se habilitó el sistema 
-        de registro e inicio de sesión seguro, se implementó la visualización de perfiles 
-        y se desarrolló la navegación principal (extrae, inventario y perfil). 
-        El desarrollo se alineó con los diseños establecidos en Figma y se trabajó de forma 
-        colaborativa con revisiones continuas del código. El sprint cumplió con el objetivo 
-        propuesto gracias a la comunicación efectiva entre los miembros del equipo.
-    </td>
-</tr>
-
-<tr>
-    <th>Sprint 1 Retrospective Summary</th>
-    <td>
-        El equipo destacó aspectos positivos como la buena coordinación, el cumplimiento 
-        de tareas asignadas y la rápida integración entre pantallas y autenticación. 
-        Como oportunidades de mejora se identificó fortalecer la documentación técnica 
-        durante el sprint, estandarizar convenciones de commits y realizar reuniones 
-        intermedias más frecuentes para mantener visibilidad del progreso.
-        El equipo acordó mejorar la gestión del flujo de tareas y corrección de observaciones
-        en el repositorio para facilitar el trabajo en los siguientes sprints.
-    </td>
-</tr>
-
+        <tr>
+            <th colspan="2">Sprint 1 Review Summary</th>
+        </tr>
+        <tr>
+            <td colspan="2">
+                Se avanzó significativamente en la aplicación móvil XantinaApp, completando las 
+                funcionalidades principales planificadas para el Sprint 1. Se habilitó el sistema 
+                de registro e inicio de sesión seguro, se implementó la visualización de perfiles 
+                y se desarrolló la navegación principal (extrae, inventario y perfil). 
+                El desarrollo se alineó con los diseños establecidos en Figma y se trabajó de forma 
+                colaborativa con revisiones continuas del código. El sprint cumplió con el objetivo 
+                propuesto gracias a la comunicación efectiva entre los miembros del equipo.
+            </td>
+        </tr>
+        <tr>
+            <th colspan="2">Sprint 1 Retrospective Summary</th>
+        </tr>
+        <tr>
+            <td colspan="2">
+                El equipo destacó aspectos positivos como la buena coordinación, el cumplimiento 
+                de tareas asignadas y la rápida integración entre pantallas y autenticación. 
+                Como oportunidades de mejora se identificó fortalecer la documentación técnica 
+                durante el sprint, estandarizar convenciones de commits y realizar reuniones 
+                intermedias más frecuentes para mantener visibilidad del progreso.
+                El equipo acordó mejorar la gestión del flujo de tareas y corrección de observaciones
+                en el repositorio para facilitar el trabajo en los siguientes sprints.
+            </td>
+        </tr>
         <tr>
             <th colspan="2">Sprint Goal & User Stories</th>
         </tr>
@@ -4983,7 +4985,7 @@ Gracias a este flujo de trabajo, la aplicación móvil de **Xantina** puede ser 
             <td>Desarrollar completamente las vistas del front-end, garantizar el correcto funcionamiento del sistema de autenticación y establecer la integración con el backend, asegurando que este cumpla plenamente con los requerimientos definidos.</td>
         </tr>
         <tr>
-            <th>Sprint 1 Velocity</th>
+            <th>Sprint 2 Velocity</th>
             <td>16</td>
         </tr>
         <tr>
@@ -4992,6 +4994,7 @@ Gracias a este flujo de trabajo, la aplicación móvil de **Xantina** puede ser 
         </tr>
     </tbody>
 </table>
+
 
 ## 4.3. Validation Interviews
 
