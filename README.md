@@ -5086,6 +5086,29 @@ Durante el Sprint 2, se documentaron los endpoints del backend relacionados con 
 
 ## 4.2.2.7. Software Deployment Evidence for Sprint Review 
 
+Durante el Sprint 2, se realizaron mejoras en el proceso de despliegue del backend y se configuró el entorno para testing de la aplicación móvil.
+
+**Procesos realizados:**
+
+1. **Mejoras en el script de despliegue:**
+   - Optimización del script `deploy.sh` para mejor manejo de errores
+   - Agregado de health checks más robustos
+   - Mejoras en la configuración de Docker Compose
+
+2. **Configuración de CI/CD:**
+   - Configuración inicial de GitHub Actions para automatización de builds
+   - Preparación para deployment automático en GCP
+
+3. **Testing en producción:**
+   - Verificación de todos los endpoints en el ambiente de producción
+   - Validación de la integración móvil-backend
+
+**URLs de despliegue:**
+- **Backend API:** `http://34.59.110.88:8080/api`
+- **Swagger Documentation:** `http://34.59.110.88:8080/api/docs`
+- **Health Check:** `http://34.59.110.88:8080/api`
+
+
 ## 4.2.2.8. Team Collaboration Insights during Sprint
 
 
