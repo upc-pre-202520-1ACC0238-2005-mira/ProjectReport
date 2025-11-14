@@ -4919,6 +4919,7 @@ Gracias a este flujo de trabajo, la aplicación móvil de **Xantina** puede ser 
 # 4.2.2. Sprint 2
 
 ## 4.2.2.1. Sprint Planning 2
+
 <table border="1" cellpadding="6" cellspacing="0">
     <tbody>
         <tr>
