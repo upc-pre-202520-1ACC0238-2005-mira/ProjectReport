@@ -5016,6 +5016,28 @@ Durante el Sprint 2, el equipo se enfocó en la implementación de funcionalidad
 
 ## 4.2.2.5. Execution Evidence for Sprint Review 
 
+Durante el Sprint 2, el equipo logró implementar exitosamente todas las funcionalidades planificadas. La aplicación móvil ahora cuenta con un sistema completo de gestión de recetas de café, permitiendo a los usuarios crear, visualizar, editar y eliminar recetas, así como seguir una guía paso a paso durante las extracciones.
+
+**Resumen de lo alcanzado:**
+
+✅ **CRUD completo de recetas:** Los usuarios pueden crear, visualizar, editar y eliminar recetas de café
+✅ **Pantalla de extracción paso a paso:** Implementación completa de guía interactiva con timer
+✅ **Integración robusta con backend:** Todos los endpoints funcionando correctamente
+✅ **Mejoras en UX:** Estados de carga, manejo de errores y validaciones mejoradas
+
+**Screenshots de principales vistas implementadas:**
+
+- Lista de recetas
+- 
+- Formulario de creación de receta
+- 
+- Pantalla de edición de receta
+- 
+- Pantalla de extracción paso a paso
+- 
+- Confirmación de eliminación
+
+
 ## 4.2.2.6. Services Documentation Evidence for Sprint Review 
 
 ## 4.2.2.7. Software Deployment Evidence for Sprint Review 
