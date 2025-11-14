@@ -408,7 +408,13 @@ Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta
       - [4.2.1.8. Team Collaboration Insights during Sprint](#4218-team-collaboration-insights-during-sprint)
 - [4.2.2. Sprint 2](#422-sprint-2)
   - [4.2.2.1. Sprint Planning 2](#4221-sprint-planning-2)
-  - [4.2.2.1. Sprint Planning 2](#4221-sprint-planning-2-1)
+    - [4.2.1.2. Sprint Backlog 2](#4212-sprint-backlog-2)
+  - [4.2.2.3. Development Evidence for Sprint Review](#4223-development-evidence-for-sprint-review)
+  - [4.2.2.4. Testing Suite Evidence for Sprint Review](#4224-testing-suite-evidence-for-sprint-review)
+  - [4.2.2.5. Execution Evidence for Sprint Review](#4225-execution-evidence-for-sprint-review)
+  - [4.2.2.6. Services Documentation Evidence for Sprint Review](#4226-services-documentation-evidence-for-sprint-review)
+  - [4.2.2.7. Software Deployment Evidence for Sprint Review](#4227-software-deployment-evidence-for-sprint-review)
+  - [4.2.2.8. Team Collaboration Insights during Sprint](#4228-team-collaboration-insights-during-sprint)
   - [4.3. Validation Interviews](#43-validation-interviews)
     - [4.3.1. Diseño de Entrevistas](#431-diseño-de-entrevistas)
       - [Segmento #1: **Baristas (junior y senior)**](#segmento-1-baristas-junior-y-senior)
@@ -4921,8 +4927,6 @@ Gracias a este flujo de trabajo, la aplicación móvil de **Xantina** puede ser 
 
 ## 4.2.2.1. Sprint Planning 2
 
-## 4.2.2.1. Sprint Planning 2
-
 | Campo | Valor |
 |-------|--------|
 | **Sprint #** | 2 |
@@ -4938,6 +4942,45 @@ Gracias a este flujo de trabajo, la aplicación móvil de **Xantina** puede ser 
 | **Sprint 2 Goal** | Desarrollar completamente las vistas del front-end, garantizar el correcto funcionamiento del sistema de autenticación y establecer la integración con el backend, asegurando que este cumpla plenamente con los requerimientos definidos. |
 | **Sprint 2 Velocity** | 16 |
 | **Sum of Story Points** | 16 |
+
+### 4.2.1.2. Sprint Backlog 2
+
+| **Epic Id**   | **User Story Title**             | **Task Id** | **Task Title**                    | **Description**                                                              | **Estimation (Hours)** | **Assigned To** | **Status**    |
+|---------------|-----------------------------------|-------------|-----------------------------------|------------------------------------------------------------------------------|------------------------|-----------------|---------------|
+| EP01/US01     | Creación de cuenta y unión a cafetería | TK14        | Configurar proyecto Nest.js y conexión a MongoDB | Configurar entorno, módulos principales y conexión con base de datos Mongo.          | 6                      | Guillermo       | In Process    |
+|               |                                   | TK15        | Implementar módulo de usuarios   | Crear endpoints para registro, login y recuperación de cuenta.                        | 8                      | Guillermo       | In Process    |
+| EP02/US04     | Crear y guardar una receta        | TK16        | Implementar módulo de recetas    | Crear endpoints CRUD para recetas con historial de modificaciones.                   | 8                      | Guillermo       | In Process    |
+| EP05/US12     | Controlar mis lotes de café       | TK17        | Endpoints inventario y lotes     | Crear endpoints para registrar, consultar y alertar stock bajo de granos.             | 6                      | Guillermo       | In Process    |
+| EP01/US02     | Entrar a mi cuenta                | TK18        | Diseñar pantalla Login y Registro| Implementar interfaces con validación de campos y conexión al backend.               | 6                      | Fabrizzio       | Done          |
+| EP02/US05     | Acceder rápidamente a recetas     | TK19        | Pantalla de Recetas              | Implementar vista lista de recetas con accesos rápidos a parámetros clave.           | 7                      | Miguel          | In Process    |
+| EP05/US12     | Controlar mis lotes de café       | TK20        | Pantalla de Inventario           | Construir pantalla para registrar lotes de café e inventario actual.                | 6                      | Fabrizzio       | In Process    |
+| EP04/US10     | Registrar una cata simplificada   | TK21        | Pantalla de Catas                | Crear formulario simplificado para registrar notas sensoriales y puntajes.          | 5                      | Miguel          | In Process    |
+| EP06/US19     | Registrar nuevo barista           | TK22        | Crear invitación de nuevo barista | Desarrollar funcionalidad para invitar a nuevos baristas a la aplicación.            | 5                      | Fabián          | In Process    |
+| EP06/US20     | Asignar roles y permisos          | TK23        | Crear funcionalidad de roles y permisos | Implementar funcionalidad para asignar roles y permisos a los usuarios.            | 6                      | Fabián          | In Process    |
+| EP07/US22     | Generar reporte de consumo        | TK24        | Crear vista de reportes de consumo | Desarrollar una vista para generar reportes de consumo de café por período.          | 6                      | Miguel          | In Process    |
+| EP08/US23     | Enviar comunicados al equipo      | TK25        | Crear funcionalidad de comunicados  | Implementar sistema para enviar comunicados a todos los miembros del equipo.        | 5                      | Fabián          | In Process    |
+| EP08/US24     | Notificar cambios en lotes        | TK26        | Crear notificaciones de cambios    | Desarrollar notificaciones que alerten sobre cambios en lotes de café.               | 5                      | Miguel          | In Process    |
+| EP10/US23     | Acceso rápido desde móvil         | TK27        | Optimizar app para móvil         | Mejorar la navegación para uso con una sola mano, asegurando facilidad en los menús. | 5                      | Fabrizzio       | In Process    |
+| EP10/US24     | Notificaciones push               | TK28        | Implementar notificaciones push    | Implementar notificaciones push para alertar a los usuarios de cambios importantes.  | 6                      | Fabián          | In Process    |
+| EP10/US25     | Uso offline parcial               | TK29        | Guardar recetas offline           | Crear funcionalidad para que las recetas se guarden y se accedan sin conexión.      | 7                      | Sergio          | In Process    |
+| EP11/TS26     | API de gestión de usuarios        | TK30        | Crear endpoints de usuario        | Desarrollar API para gestionar usuarios, registro, login, y autenticación.         | 7                      | Guillermo       | In Process    |
+| EP11/TS27     | API de recetas e inventario       | TK31        | Crear endpoints de recetas e inventario | Desarrollar API para gestionar recetas y lotes de inventario.                     | 8                      | Sergio          | In Process    |
+| EP11/TS28     | Logs y monitoreo                  | TK32        | Implementar sistema de logs       | Configurar sistema de logs para monitoreo y diagnóstico de errores.               | 6                      | Fabián          | In Process    |
+| EP12/TS29     | Cifrado de datos sensibles        | TK33        | Implementar cifrado de contraseñas | Asegurar que las contraseñas y datos sensibles se cifren adecuadamente.              | 5                      | Sergio          | In Process    |
+| EP12/TS30     | Control de sesiones activas       | TK34        | Implementar control de sesiones   | Crear sistema para visualizar y cerrar sesiones activas en la cuenta.              | 5                      | Sergio          | In Process    |
+
+
+## 4.2.2.3. Development Evidence for Sprint Review 
+
+## 4.2.2.4. Testing Suite Evidence for Sprint Review 
+
+## 4.2.2.5. Execution Evidence for Sprint Review 
+
+## 4.2.2.6. Services Documentation Evidence for Sprint Review 
+
+## 4.2.2.7. Software Deployment Evidence for Sprint Review 
+
+## 4.2.2.8. Team Collaboration Insights during Sprint
 
 
 ## 4.3. Validation Interviews
