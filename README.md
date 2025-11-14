@@ -5040,6 +5040,50 @@ Durante el Sprint 2, el equipo logró implementar exitosamente todas las funcion
 
 ## 4.2.2.6. Services Documentation Evidence for Sprint Review 
 
+Durante el Sprint 2, se documentaron los endpoints del backend relacionados con la gestión de recetas utilizando OpenAPI/Swagger. La documentación está disponible en la ruta `/api/docs` del backend desplegado.
+
+**Endpoints documentados:**
+
+1. **GET /api/extraccion** - Obtener todas las recetas
+2. **GET /api/extraccion/:id** - Obtener receta por ID
+3. **POST /api/extraccion** - Crear nueva receta
+4. **PUT /api/extraccion/:id** - Actualizar receta existente
+5. **DELETE /api/extraccion/:id** - Eliminar receta
+
+**Documentation Commits Table**
+
+<table style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid black; padding: 8px; font-weight: bold;">Repository</th>
+      <th style="border: 1px solid black; padding: 8px; font-weight: bold;">Branch</th>
+      <th style="border: 1px solid black; padding: 8px; font-weight: bold;">Commit Id</th>
+      <th style="border: 1px solid black; padding: 8px; font-weight: bold;">Commit Message</th>
+      <th style="border: 1px solid black; padding: 8px; font-weight: bold;">Commit Message Body</th>
+      <th style="border: 1px solid black; padding: 8px; font-weight: bold;">Committed on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">upc-pre-202520-1ACC0238-2005-mira/backend</td>
+      <td style="border: 1px solid black; padding: 8px;">featrure/methods</td>
+      <td style="border: 1px solid black; padding: 8px;">33eca02</td>
+      <td style="border: 1px solid black; padding: 8px;">chore: update Receta entity and DTOs for enhanced recipe management</td>
+      <td style="border: 1px solid black; padding: 8px;">Added optional etiqueta and descripcion fields to CreateRecetaDto and UpdateRecetaDto. Updated Receta entity and schema. Improved DTOs documentation with better field descriptions.</td>
+      <td style="border: 1px solid black; padding: 8px;">2025-11-14</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">upc-pre-202520-1ACC0238-2005-mira/backend</td>
+      <td style="border: 1px solid black; padding: 8px;">featrure/methods</td>
+      <td style="border: 1px solid black; padding: 8px;">34a5ce3</td>
+      <td style="border: 1px solid black; padding: 8px;">feat: enhance social module with user search and follow functionalities</td>
+      <td style="border: 1px solid black; padding: 8px;">Added searchUsers method in SocialService. Implemented followUser, unfollowUser, and toggleFollow methods. Updated SocialController with new endpoints secured with JWT authentication. All endpoints include comprehensive OpenAPI documentation.</td>
+      <td style="border: 1px solid black; padding: 8px;">2025-11-14</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ## 4.2.2.7. Software Deployment Evidence for Sprint Review 
 
 ## 4.2.2.8. Team Collaboration Insights during Sprint
