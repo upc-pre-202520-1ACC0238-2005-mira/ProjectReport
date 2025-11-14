@@ -4998,6 +4998,22 @@ Gracias a este flujo de trabajo, la aplicación móvil de **Xantina** puede ser 
 
 ## 4.2.2.4. Testing Suite Evidence for Sprint Review 
 
+Durante el Sprint 2, el equipo se enfocó en la implementación de funcionalidades principales. La estructura de testing se encuentra preparada con los archivos base de ejemplo, y los tests específicos se implementarán en los siguientes sprints como parte del proceso de mejoramiento continuo del código.
+
+**Estado Actual de Testing:**
+
+**Estructura Preparada:**
+- **Mobile App (Kotlin):** Archivos de ejemplo de tests unitarios (`ExampleUnitTest.kt`) y tests de instrumentación (`ExampleInstrumentedTest.kt`) están disponibles en el proyecto
+- **Backend (NestJS):** Archivo de ejemplo de tests (`app.controller.spec.ts`) está disponible
+
+**Próximos Pasos para Testing:**
+- Implementar tests unitarios para los nuevos módulos de extracción y autenticación
+- Agregar tests de integración para verificar la comunicación con el backend
+- Implementar tests de UI con Compose Testing para validar los flujos de usuario
+
+**Nota:** Durante este Sprint 2, el equipo priorizó la implementación de funcionalidades core y la integración entre frontend y backend. Los tests específicos se desarrollarán en sprints posteriores como parte del proceso de refactorización y mejoramiento de la calidad del código. La estructura de testing está preparada y lista para ser utilizada.
+
+
 ## 4.2.2.5. Execution Evidence for Sprint Review 
 
 ## 4.2.2.6. Services Documentation Evidence for Sprint Review 
