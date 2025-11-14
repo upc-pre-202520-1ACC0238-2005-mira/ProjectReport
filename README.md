@@ -3949,6 +3949,62 @@ El diseño de base de datos es el proceso de organizar y estructurar los datos e
 ### 4.8.1. Database Diagram.
 <td><img src="img\Database_Diagram.png"></td>
 
+## 4.2.1.8. Team Collaboration Insights during Sprint
+
+Durante este sprint el equipo trabajó de manera colaborativa en los tres repositorios principales del proyecto: **XantinaApp (Android)**, **Backend** y **Landing Page**. Las actividades se coordinaron mediante GitHub utilizando ramas, commits y revisiones de código, lo que permitió integrar los avances de cada miembro de forma ordenada y mantener una adecuada calidad del proyecto.
+
+Avances:
+- XantinaApp: Se avanzó en el desarrollo final de las pantallas principales, la navegación interna de la aplicación y la integración inicial con el backend.
+- Backend: Se implementaron los endpoints finales para usuarios, recetas y tips. Además, se configuró el manejo de variables de entorno y se estructuró el proyecto para facilitar la integración con Android Studio.
+- Landing Page: No se realizaron cambios funcionales en este sprint; únicamente se mantuvo la estructura para documentación del proyecto y presentación general de Xantina.
+- Documentación y Despliegue: Se actualizaron los archivos README de los repositorios, se documentaron los pasos para ejecutar la app y el backend en local y se dejaron lineamientos iniciales para el despliegue en un entorno de prueba.
+
+### XantinaApp
+Durante este sprint se fortaleció la estructura y la funcionalidad base de la app en Android Studio. Se completaron pantallas como inicio de sesión, listado de recetas y vista detallada. También hubo la integración final con el backend, mostrando datos reales dentro de la interfaz.
+-falta imagen aca xd
+
+### Backend
+El backend alcanzó su versión final. Se implementaron los endpoints pivotales del sistema, se configuraron variables de entorno y se preparó el proyecto para su ejecución y pruebas integradas con la aplicación móvil.
+-falta imagen aca xd
+
+### Landing Page
+En este sprint la landing page se mantuvo principalmente para fines de documentación y presentación del proyecto. Se revisó la estructura existente y se aseguraron los enlaces hacia los repositorios y la información general de Xantina, sin cambios funcionales significativos.
+
+## 4.3. Validation Interviews
+
+Esta sección describe el diseño de las entrevistas utilizadas para validar funcional de la aplicación móvil Xantina. Se plantearon **preguntas simples y directas**, con el objetivo de evaluar la usabilidad, claridad y utilidad de la app en condiciones reales.
+
+### 4.3.1. Diseño de Entrevistas
+
+Preguntas generales (para cualquier entrevistado)
+
+- ¿Te resultó fácil entender para qué sirve la aplicación?  
+- ¿La navegación entre pantallas te pareció sencilla?  
+- ¿La información mostrada (recetas, tips, catas) te resultó clara?  
+- ¿Hubo algo confuso o difícil de usar en la app?  
+- ¿Consideras que la app es cómoda y práctica en general?
+
+Preguntas para Baristas (junior y senior)
+
+- ¿Las recetas son útiles durante un turno de trabajo?  
+- ¿Te resulta fácil consultar los parámetros importantes (dosis, tiempo, molienda)?  
+- ¿Los tips cortos son claros y aplicables?  
+- ¿Puedes registrar notas de cata sin complicarte?
+
+Preguntas para Jefes de barra / Dueños
+
+- ¿La app podría ayudar a estandarizar recetas entre turnos?  
+- ¿Sería útil para entrenar a baristas nuevos?  
+- ¿Te gustaría revisar las catas de tu equipo mediante la app?  
+- ¿Qué funcionalidad priorizarías para tu negocio?
+
+Preguntas para Entusiastas del café (home brewers)
+
+- ¿La app te ayuda a mejorar tus preparaciones en casa?  
+- ¿Te resultó sencillo seguir las recetas paso a paso?  
+- ¿La usarías para aprender nuevas recetas o tips?  
+- ¿Qué mejorarías para que sea más útil para ti?
+
 
 # Conclusiones
 - Xantina encaja con claridad en el nicho de cafeterías de especialidad en Lima: resuelve dos trabajos críticos —aprendizaje práctico y estandarización operativa— donde hoy dominan soluciones dispersas (cursos presenciales y contenido suelto en redes). El diferencial no es “tener más contenido”, sino insertarse en el flujo diario de barra con recetas aprobadas, checklist y catas accionables. El go-to-market más sólido combina pilotos por tienda, alianzas con tostadores y escuelas y un modelo freemium→B2B para equipos. El principal riesgo es la adopción en turno; queda mitigado con co-diseño en tiendas piloto y evidencia de uso en momentos clave (apertura, pico y cierre).
