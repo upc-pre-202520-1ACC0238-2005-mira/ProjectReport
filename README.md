@@ -5111,6 +5111,46 @@ Durante el Sprint 2, se realizaron mejoras en el proceso de despliegue del backe
 
 ## 4.2.2.8. Team Collaboration Insights during Sprint
 
+Durante el Sprint 2, el equipo trabajó de manera colaborativa y eficiente, distribuyendo las tareas según las especialidades de cada miembro. La arquitectura DDD facilitó la colaboración al permitir que diferentes miembros trabajen en diferentes capas sin conflictos.
+
+**Distribución de trabajo:**
+
+- **Miguel Vidal Castro:** Desarrollo de UI/UX y componentes visuales
+- **Nelson Pereira Vasquez:** Integración con backend y arquitectura de datos
+- **Juan Diego Mondoñedo:** Implementación de ViewModels y lógica de negocio
+- **Fabián Oliva López:** Testing y validaciones
+- **Guillermo Tantaleán:** Backend y documentación de APIs
+
+**Métricas de colaboración:**
+
+- **Total de commits:** 17 (Mobile App: 10, Backend: 7)
+- **Pull requests creados:** 5
+- **Code reviews realizados:** 5
+- **Issues cerrados:** 4
+- **Período del Sprint:** 10 de noviembre - 14 de noviembre, 2025
+
+**Insights del equipo:**
+
+1. **Buenas prácticas identificadas:**
+   - La arquitectura DDD facilitó la colaboración paralela
+   - El uso de Conventional Commits mejoró la trazabilidad
+   - Las code reviews ayudaron a mantener la calidad del código
+
+2. **Desafíos encontrados:**
+   - Sincronización entre cambios en backend y frontend
+   - Manejo de estados complejos en Compose
+   - Testing de componentes UI
+
+3. **Mejoras para próximos sprints:**
+   - Implementar más tests de integración
+   - Mejorar la documentación de componentes compartidos
+   - Establecer mejor comunicación sobre cambios en APIs
+
+**URLs de analíticos:**
+- **Network Graph:** https://github.com/upc-pre-202520-1ACC0238-2005-mira/XantinaApp/network
+- **Contributors:** https://github.com/upc-pre-202520-1ACC0238-2005-mira/XantinaApp/graphs/contributors
+- **Pulse:** https://github.com/upc-pre-202520-1ACC0238-2005-mira/XantinaApp/pulse
+
 
 ## 4.3. Validation Interviews
 
