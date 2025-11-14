@@ -408,6 +408,7 @@ Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta
       - [4.2.1.8. Team Collaboration Insights during Sprint](#4218-team-collaboration-insights-during-sprint)
 - [4.2.2. Sprint 2](#422-sprint-2)
   - [4.2.2.1. Sprint Planning 2](#4221-sprint-planning-2)
+  - [4.2.2.1. Sprint Planning 2](#4221-sprint-planning-2-1)
   - [4.3. Validation Interviews](#43-validation-interviews)
     - [4.3.1. Diseño de Entrevistas](#431-diseño-de-entrevistas)
       - [Segmento #1: **Baristas (junior y senior)**](#segmento-1-baristas-junior-y-senior)
@@ -4920,101 +4921,23 @@ Gracias a este flujo de trabajo, la aplicación móvil de **Xantina** puede ser 
 
 ## 4.2.2.1. Sprint Planning 2
 
-<table border="1" cellpadding="6" cellspacing="0">
-    <tbody>
-        <tr>
-            <th>Sprint #</th>
-            <td>2</td>
-        </tr>
+## 4.2.2.1. Sprint Planning 2
 
-        <tr>
-            <th colspan="2">Sprint Planning Background</th>
-        </tr>
-
-        <tr>
-            <th>Date</th>
-            <td>13/11/2025</td>
-        </tr>
-
-        <tr>
-            <th>Time</th>
-            <td>11:00 PM</td>
-        </tr>
-
-        <tr>
-            <th>Location</th>
-            <td>Reunión presencial después de clase</td>
-        </tr>
-
-        <tr>
-            <th>Prepared By</th>
-            <td>Guillermo Tantaleán</td>
-        </tr>
-
-        <tr>
-            <th>Attendees (to planning meeting)</th>
-            <td>
-                Guillermo Tantaleán, Fabrizzio Pereira, Miguel Vidal, 
-                Fabián Oliva, Juan Diego Mondoñedo
-            </td>
-        </tr>
-
-        <tr>
-            <th colspan="2">Sprint 1 Review Summary</th>
-        </tr>
-
-        <tr>
-            <td colspan="2">
-                Se avanzó significativamente en la aplicación móvil XantinaApp, 
-                completando las funcionalidades principales planificadas para el Sprint 1. 
-                Se habilitó el sistema de registro e inicio de sesión seguro, se implementó la 
-                visualización de perfiles y se desarrolló la navegación principal (extrae, inventario 
-                y perfil). El desarrollo se alineó con los diseños establecidos en Figma y se trabajó 
-                de forma colaborativa con revisiones continuas del código. El sprint cumplió con el 
-                objetivo propuesto gracias a la comunicación efectiva entre los miembros del equipo.
-            </td>
-        </tr>
-
-        <tr>
-            <th colspan="2">Sprint 1 Retrospective Summary</th>
-        </tr>
-
-        <tr>
-            <td colspan="2">
-                El equipo destacó aspectos positivos como la buena coordinación, el cumplimiento 
-                de tareas asignadas y la rápida integración entre pantallas y autenticación. Como 
-                oportunidades de mejora se identificó fortalecer la documentación técnica durante 
-                el sprint, estandarizar convenciones de commits y realizar reuniones intermedias 
-                más frecuentes para mantener visibilidad del progreso. El equipo acordó mejorar 
-                la gestión del flujo de tareas y corrección de observaciones en el repositorio para 
-                facilitar el trabajo en los siguientes sprints.
-            </td>
-        </tr>
-
-        <tr>
-            <th colspan="2">Sprint Goal & User Stories</th>
-        </tr>
-
-        <tr>
-            <th>Sprint 2 Goal</th>
-            <td>
-                Desarrollar completamente las vistas del front-end, garantizar el correcto 
-                funcionamiento del sistema de autenticación y establecer la integración con el 
-                backend, asegurando que este cumpla plenamente con los requerimientos definidos.
-            </td>
-        </tr>
-
-        <tr>
-            <th>Sprint 2 Velocity</th>
-            <td>16</td>
-        </tr>
-
-        <tr>
-            <th>Sum of Story Points</th>
-            <td>16</td>
-        </tr>
-    </tbody>
-</table>
+| Campo | Valor |
+|-------|--------|
+| **Sprint #** | 2 |
+| **Sprint Planning Background** |  |
+| **Date** | 13/11/2025 |
+| **Time** | 11:00 PM |
+| **Location** | Reunión presencial después de clase |
+| **Prepared By** | Guillermo Tantaleán |
+| **Attendees (to planning meeting)** | Guillermo Tantaleán, Fabrizzio Pereira, Miguel Vidal, Fabián Oliva, Juan Diego Mondoñedo |
+| **Sprint 1 Review Summary** | Se avanzó significativamente en la aplicación móvil XantinaApp, completando las funcionalidades principales planificadas para el Sprint 1. Se habilitó el sistema de registro e inicio de sesión seguro, se implementó la visualización de perfiles y se desarrolló la navegación principal (extrae, inventario y perfil). El desarrollo se alineó con los diseños de Figma y se trabajó de forma colaborativa con revisiones continuas del código. El sprint cumplió con el objetivo propuesto gracias a la comunicación efectiva entre los miembros del equipo. |
+| **Sprint 1 Retrospective Summary** | El equipo destacó la buena coordinación, el cumplimiento de tareas asignadas y la rápida integración entre pantallas y autenticación. Como oportunidades de mejora se identificó fortalecer la documentación técnica, estandarizar convenciones de commits y realizar reuniones intermedias más frecuentes para mantener visibilidad del progreso. El equipo acordó mejorar la gestión del flujo de tareas y corrección de observaciones en el repositorio para facilitar el trabajo en los siguientes sprints. |
+| **Sprint Goal & User Stories** |  |
+| **Sprint 2 Goal** | Desarrollar completamente las vistas del front-end, garantizar el correcto funcionamiento del sistema de autenticación y establecer la integración con el backend, asegurando que este cumpla plenamente con los requerimientos definidos. |
+| **Sprint 2 Velocity** | 16 |
+| **Sum of Story Points** | 16 |
 
 
 ## 4.3. Validation Interviews
