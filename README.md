@@ -4623,6 +4623,8 @@ En esta sección, nuestro equipo detalla los métodos y la estructura organizati
 - Figma: https: (https://www.figma.com/design/zS1yCqj9PyyEGF9Zt7cW8m/XANTINA?node-id=48-2&t=On8xXJobTBgODpbA-1)
 - Landing Page: https://github.com/upc-pre-202520-1ACC0238-2005-mira/landing-page.git
 - Backend Web Applications: https://github.com/upc-pre-202520-1ACC0238-2005-mira/backend.git
+- Backend: https://github.com/upc-pre-202520-1ACC0238-2005-mira/backend
+- Frontend: https://github.com/upc-pre-202520-1ACC0238-2005-mira/XantinaApp
 
 ### 4.1.3. Source Code Style Guide & Conventions
 
