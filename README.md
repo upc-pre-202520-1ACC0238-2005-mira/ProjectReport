@@ -4478,12 +4478,6 @@ Ofrece una sección centralizada donde el jefe de barra puede enviar comunicados
 
 ![Mockup 14](./img/chapter3/mamk14.png) ![Mockup 15](./img/chapter3/mamk15.png)
 
-![Mockup 16](./img/chapter3/mamk16.png) ![Mockup 17](./img/chapter3/mamk17.png)
-
-![Mockup 17.1](./img/chapter3/mamk171.png) ![Mockup 17.2](./img/chapter3/mamk172.png)
-
-![Mockup 18](./img/chapter3/mamk18.png) ![Mockup 19](./img/chapter3/mamk19.png) ![Mockup 20](./img/chapter3/mamk20.png)
-
 ### 3.1.4.4 Mobile Applications User Flow Diagrams
 
 ## User Goal 01: Crear y acceder a la cuenta de usuario
