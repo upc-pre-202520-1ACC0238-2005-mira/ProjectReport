@@ -427,6 +427,9 @@ Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta
       - [Entusiastas avanzados (home brewers)](#entusiastas-avanzados-home-brewers)
       - [Aliados del ecosistema](#aliados-del-ecosistema)
     - [4.3.2. Registro de Entrevistas](#432-registro-de-entrevistas)
+    - [**Entrevista Nº1**](#entrevista-nº1)
+    - [**Entrevista Nº2**](#entrevista-nº2)
+    - [**Entrevista Nº3**](#entrevista-nº3)
     - [4.3.3. Evaluaciones según heurísticas](#433-evaluaciones-según-heurísticas)
   - [4.4. Database Diagram.](#44-database-diagram)
 - [Conclusiones](#conclusiones)
@@ -5210,6 +5213,91 @@ Para estas entrevistas primero realizaremos un diseño enfocándonos en identifi
 4. ¿Qué te motivaría a recomendar Xantina a tu red principal de colaboradores?  
 
 ### 4.3.2. Registro de Entrevistas
+
+### **Entrevista Nº1**  
+
+**Segmento:**  
+
+- [ ] Baristas  
+
+**Nombre y Apellidos:**  
+
+
+**Edad:**  
+
+
+**Distrito:**  
+
+
+**Screenshot del Cuadro de Video:**  
+
+
+**URL del Video Subido en OneDrive:**  
+
+*[Enlace al video](URL)*
+
+**Timing de la Entrevista:**  
+
+- **Inicio:** 00:01:15 (min:seg)  
+- **Duración:** 15 minutos
+
+**Resumen de la Entrevista:**  
+
+### **Entrevista Nº2**  
+
+**Segmento:**
+
+- [ ] Jefes de Barra / Dueños de Cafeterías
+
+**Nombre y Apellidos:**  
+
+
+**Edad:**  
+
+
+**Distrito:**  
+
+
+**Screenshot del Cuadro de Video:**  
+
+**URL del Video Subido en OneDrive:**  
+ *[Enlace al video](URL)*
+
+**Timing de la Entrevista:**  
+
+- **Inicio:** 00:01:15 (min:seg)  
+- **Duración:** 15 minutos
+
+**Resumen de la Entrevista:**  
+
+### **Entrevista Nº3**  
+
+**Segmento:**
+
+- [ ] Entusiastas Avanzados (Home Brewers)
+
+**Nombre y Apellidos:**  
+
+
+**Edad:**  
+
+
+**Distrito:**  
+
+
+**Screenshot del Cuadro de Video:**  
+
+
+**URL del Video Subido en OneDrive:**  
+
+*[Enlace al video](URL)*
+
+**Timing de la Entrevista:**  
+- **Inicio:** 00:01:15 (min:seg)  
+- **Duración:** 15 minutos
+
+**Resumen de la Entrevista:**  
+
 
 ### 4.3.3. Evaluaciones según heurísticas
 
