@@ -5342,27 +5342,31 @@ Para estas entrevistas primero realizaremos un diseño enfocándonos en identifi
 - [ ] Baristas  
 
 **Nombre y Apellidos:**  
-
+Diego Cacho Seminario
 
 **Edad:**  
-
+19
 
 **Distrito:**  
-
+Surco
 
 **Screenshot del Cuadro de Video:**  
+
+![Screenshot2](https://github.com/user-attachments/assets/cac9078b-d714-40b1-a0fa-e93c0352105c)
 
 
 **URL del Video Subido en OneDrive:**  
 
-*[Enlace al video](URL)*
+*[URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQAsg8OEZ_jtRKvB1jGAbFX1AbSEDarYR-ffzm1fCVCJqtU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=IStj6f](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQAsg8OEZ_jtRKvB1jGAbFX1AbSEDarYR-ffzm1fCVCJqtU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=IStj6f )*
 
 **Timing de la Entrevista:**  
 
-- **Inicio:** 00:01:15 (min:seg)  
-- **Duración:** 15 minutos
+- **Inicio:** 00:04:00 (min:seg)  
+- **Duración:** 3:53 minutos
 
 **Resumen de la Entrevista:**  
+
+La entrevista fue realizada a Diego, un barista de 19 años que trabaja en una cafetería de especialidad en el centro de la ciudad. Diego lleva aproximadamente 5 años trabajando en el mundo del café y dedica alrededor de 40 horas a la semana preparando cafés de todo tipo, especializándose en métodos manuales como la V60, Chemex y Aeropress. A lo largo de la entrevista, mencionó que es muy meticuloso con los detalles de cada preparación, buscando siempre perfeccionar el sabor de las bebidas, y que considera que el control de los parámetros es fundamental para mantener una calidad constante en cada taza.
 
 ### **Entrevista Nº2**  
 
@@ -5371,25 +5375,31 @@ Para estas entrevistas primero realizaremos un diseño enfocándonos en identifi
 - [ ] Jefes de Barra / Dueños de Cafeterías
 
 **Nombre y Apellidos:**  
-
+Renzo Sebastián Uribe Livia
 
 **Edad:**  
-
+19
 
 **Distrito:**  
-
+Surco
 
 **Screenshot del Cuadro de Video:**  
 
+![Screenshot1](https://github.com/user-attachments/assets/0eab7c07-16c7-46e5-a8c7-77a9d4597a22)
+
+
 **URL del Video Subido en OneDrive:**  
- *[Enlace al video](URL)*
+
+*[URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQAsg8OEZ_jtRKvB1jGAbFX1AbSEDarYR-ffzm1fCVCJqtU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=IStj6f](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQAsg8OEZ_jtRKvB1jGAbFX1AbSEDarYR-ffzm1fCVCJqtU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=IStj6f )*
 
 **Timing de la Entrevista:**  
 
-- **Inicio:** 00:01:15 (min:seg)  
-- **Duración:** 15 minutos
+- **Inicio:** 00:00:00 (min:seg)  
+- **Duración:** 4 minutos
 
 **Resumen de la Entrevista:**  
+
+Se entrevistó a Renzo, un entusiasta del café que también tiene experiencia trabajando como jefe de barra en una cafetería. Renzo tiene 19 años y vive en Lima, donde dedica aproximadamente 15 horas a la semana a preparar café en casa, especialmente utilizando métodos como la cafetera de émbolo y la V60. Durante la entrevista, destacó la importancia de la precisión y la consistencia en la preparación del café, y mencionó que una aplicación como Xantina podría ser útil para asegurar la calidad de cada preparación. A lo largo de la conversación, mencionó que valora mucho la capacidad de la app para enseñar a los usuarios a preparar café con parámetros exactos y en una interfaz intuitiva.
 
 ### **Entrevista Nº3**  
 
@@ -5409,18 +5419,15 @@ Para estas entrevistas primero realizaremos un diseño enfocándonos en identifi
 **Screenshot del Cuadro de Video:**  
 
 
-**URL del Video Subido en OneDrive:**  
+*[URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQAsg8OEZ_jtRKvB1jGAbFX1AbSEDarYR-ffzm1fCVCJqtU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=IStj6f](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQAsg8OEZ_jtRKvB1jGAbFX1AbSEDarYR-ffzm1fCVCJqtU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=IStj6f )*
 
-*[Enlace al video](URL)*
 
 **Timing de la Entrevista:**  
-- **Inicio:** 00:01:15 (min:seg)  
+- **Inicio:** 00:00:00 (min:seg)  
 - **Duración:** 15 minutos
 
 **Resumen de la Entrevista:**  
 
-
-### 4.3.3. Evaluaciones según heurísticas
 
 ## 4.4. Database Diagram.
 <td><img src="img\Database_Diagram.png"></td>
