@@ -5101,6 +5101,126 @@ Durante el Sprint 2, se realizaron mejoras en el proceso de despliegue del backe
    - Verificación de todos los endpoints en el ambiente de producción
    - Validación de la integración móvil-backend
 
+```bash
+#!/bin/bash
+# Script rápido para desplegar versión subsecuente de Xantina a Firebase
+# Asume que ya estás autenticado y has configurado Firebase previamente
+# Uso: ./deploy-quick.sh [PROJECT_ID] [testers|grupos] [notas]
+
+set -e
+
+PROJECT_ID=${1}
+TESTERS=${2}
+RELEASE_NOTES=${3:-"Nueva versión"}
+
+# Colores
+GREEN='\033[0;32m'
+YELLOW='\033[1;33m'
+RED='\033[0;31m'
+BLUE='\033[0;34m'
+NC='\033[0m'
+
+echo -e "${BLUE}🚀 Despliegue Rápido - Xantina v2${NC}"
+echo "=========================================="
+
+# Verificar directorio
+if [ ! -f "app/build.gradle.kts" ]; then
+    echo -e "${RED}❌ Error: Ejecuta desde el directorio XantinaApp${NC}"
+    exit 1
+fi
+
+# Función para obtener firebase path
+get_firebase_path() {
+    if command -v firebase &> /dev/null; then
+        echo "firebase"
+    elif [ -f "$HOME/.nvm/versions/node/v22.19.0/bin/firebase" ]; then
+        echo "$HOME/.nvm/versions/node/v22.19.0/bin/firebase"
+    else
+        local npm_path=$(npm config get prefix)
+        [ -f "$npm_path/bin/firebase" ] && echo "$npm_path/bin/firebase" || echo ""
+    fi
+}
+
+FIREBASE_CMD=$(get_firebase_path)
+
+if [ -z "$FIREBASE_CMD" ]; then
+    echo -e "${RED}❌ Firebase CLI no encontrado${NC}"
+    exit 1
+fi
+
+# Verificar autenticación
+if ! $FIREBASE_CMD projects:list &> /dev/null; then
+    echo -e "${YELLOW}⚠️  No estás autenticado. Ejecuta: ${FIREBASE_CMD} login${NC}"
+    exit 1
+fi
+
+# Solicitar PROJECT_ID si no se proporcionó
+if [ -z "$PROJECT_ID" ]; then
+    echo -e "${BLUE}📋 Ingresa el ID de tu proyecto Firebase:${NC}"
+    read -r PROJECT_ID
+fi
+
+if [ -z "$PROJECT_ID" ]; then
+    echo -e "${RED}❌ Debes proporcionar un PROJECT_ID${NC}"
+    exit 1
+fi
+
+# Limpiar y compilar
+echo -e "${BLUE}🧹 Limpiando...${NC}"
+./gradlew clean --quiet
+
+echo -e "${BLUE}📦 Generando APK de release...${NC}"
+./gradlew assembleRelease
+
+# Intentar encontrar el APK (puede ser firmado o sin firmar)
+if [ -f "app/build/outputs/apk/release/app-release.apk" ]; then
+    APK_PATH="app/build/outputs/apk/release/app-release.apk"
+elif [ -f "app/build/outputs/apk/release/app-release-unsigned.apk" ]; then
+    APK_PATH="app/build/outputs/apk/release/app-release-unsigned.apk"
+else
+    echo -e "${RED}❌ Error: No se generó el APK${NC}"
+    echo -e "${YELLOW}💡 Verificando archivos en app/build/outputs/apk/release/:${NC}"
+    ls -la app/build/outputs/apk/release/ 2>/dev/null || echo "Directorio no existe"
+    exit 1
+fi
+
+echo -e "${GREEN}✅ APK generado: $APK_PATH${NC}"
+
+# Obtener testers/grupos si no se proporcionaron
+if [ -z "$TESTERS" ]; then
+    echo ""
+    echo -e "${BLUE}👥 Ingresa grupos (ej: testers,developers) o emails separados por comas:${NC}"
+    read -r TESTERS
+fi
+
+if [ -z "$TESTERS" ]; then
+    echo -e "${RED}❌ Debes proporcionar testers o grupos${NC}"
+    exit 1
+fi
+
+# Determinar si son grupos o emails (los grupos suelen no tener @)
+if [[ "$TESTERS" == "@" ]]; then
+    # Son emails
+    echo -e "${BLUE}📤 Distribuyendo a emails: $TESTERS${NC}"
+    $FIREBASE_CMD appdistribution:distribute "$APK_PATH" \
+        --app "$PROJECT_ID:android:com.upc.xantina" \
+        --testers "$TESTERS" \
+        --release-notes "$RELEASE_NOTES"
+else
+    # Son grupos
+    echo -e "${BLUE}📤 Distribuyendo a grupos: $TESTERS${NC}"
+    $FIREBASE_CMD appdistribution:distribute "$APK_PATH" \
+        --app "$PROJECT_ID:android:com.upc.xantina" \
+        --groups "$TESTERS" \
+        --release-notes "$RELEASE_NOTES"
+fi
+
+echo ""
+echo -e "${GREEN}✅ ¡Despliegue completado!${NC}"
+echo -e "${BLUE}📱 Testers recibirán un email con el link de descarga${NC}"
+echo -e "${BLUE}🔗 Ver release: https://console.firebase.google.com/project/$PROJECT_ID/appdistribution${NC}"
+```
+
 **URLs de despliegue:**
 - **Backend API:** `http://34.59.110.88:8080/api`
 - **Swagger Documentation:** `http://34.59.110.88:8080/api/docs`
