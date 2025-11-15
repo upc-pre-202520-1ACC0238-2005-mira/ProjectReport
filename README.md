@@ -438,7 +438,6 @@ Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta
 
 <div style="page-break-before: always;"></div>
 
-# Student Outcome
 
 # Student Outcome
 
@@ -458,61 +457,75 @@ Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta
 			<td>
 				<strong>TB1:</strong><br>
 				<ul>
-					<li><strong>Fabrizio León:</strong>
-          Realiza una investigación mediante el uso de entrevistas para la validación de los ítems hechos en el Lean UX Process.
-          </li>
-					<li><strong>Juan Diego Mondoñedo:</strong> Analicé los resultados de nuestras entrevistas para desarrollar parte del needfinding y definir las user stories. </li>
-          <li><strong>Fabián Oliva López:</strong> Investigué acerca de posibles competidores y desarrollé su respectivo análisis competitivo, además de estrategias frente a estos competidores.</li>
-          <li><strong>Miguel Vidal Castro:</strong> Determiné mediante las entrevistas al segmento objetivo de dueños de café, información relevante para entender qué bounded contexts desarrollar en la aplicación y cubrir sus necesidades. </li>
-          <li><strong>Fabrizzio Pereira:</strong> Investigué el dominio del café de especialidad y desarrollé la arquitectura completa del sistema usando metodologías como Lean UX y Domain-Driven Design.</li>
-					<li><strong>Guillermo Tantaleán:</strong> Desarrollé toda la parte de DDD, incluyendo el event storming e identificación de los principales bounded contexts.  </li>
+					<li><strong>Fabrizio León:</strong> Realiza una investigación mediante el uso de entrevistas para la validación de los ítems hechos en el Lean UX Process.</li>
+					<li><strong>Juan Diego Mondoñedo:</strong> Analicé los resultados de nuestras entrevistas para desarrollar parte del needfinding y definir las user stories.</li>
+					<li><strong>Fabián Oliva López:</strong> Investigué acerca de posibles competidores y desarrollé su respectivo análisis competitivo, además de estrategias frente a estos competidores.</li>
+					<li><strong>Miguel Vidal Castro:</strong> Determiné mediante las entrevistas al segmento objetivo de dueños de café, información relevante para entender qué bounded contexts desarrollar en la aplicación y cubrir sus necesidades.</li>
+					<li><strong>Fabrizzio Pereira:</strong> Investigué el dominio del café de especialidad y desarrollé la arquitectura completa del sistema usando metodologías como Lean UX y Domain-Driven Design.</li>
+					<li><strong>Guillermo Tantaleán:</strong> Desarrollé toda la parte de DDD, incluyendo el event storming e identificación de los principales bounded contexts.</li>
 				</ul>
         <br><strong>TP:</strong><br>
         <ul>
           <li><strong>Fabrizio León:</strong> </li>
           <li><strong>Juan Diego Mondoñedo:</strong> </li>
           <li><strong>Fabián Oliva López:</strong> </li>
-          <li><strong>Miguel Vidal Castro:</strong> Elaboré los wireframes y mockups de la aplicación, aplicando los style guidelines definidos por el equipo. Este trabajo permitió plasmar de forma visual la estructura y funcionalidad del producto, facilitando la validación con los usuarios y asegurando coherencia con los objetivos del proyecto. </li>
+          <li><strong>Miguel Vidal Castro:</strong> Elaboré los wireframes y mockups de la aplicación, aplicando los style guidelines definidos por el equipo. Este trabajo permitió plasmar de forma visual la estructura y funcionalidad del producto, facilitando la validación con los usuarios y asegurando coherencia con los objetivos del proyecto.</li>
           <li><strong>Fabrizzio Pereira:</strong> </li>
           <li><strong>Guillermo Tantaleán:</strong> </li>
         </ul>
+        <br><strong>TB2:</strong><br>
+        <ul>
+          <li><strong>Fabrizzio León:</strong> Se enfocó en el desarrollo frontend de la aplicación y su deploy, apoyando activamente en la organización del equipo y coordinando tareas. Mantuvo constante comunicación con todos los integrantes, asegurando que sus aportes fueran pertinentes y oportunos. Además, supervisó avances de integración y validación de interfaces, garantizando consistencia en la aplicación.</li>
+          <li><strong>Miguel Vidal Castro:</strong> Avanzó en el desarrollo frontend, realizó correcciones en la documentación del proyecto y se encargó del registro de entrevistas con los usuarios. Su aporte fue clave para mantener la información actualizada y asegurar que las implementaciones coincidieran con los requerimientos definidos.</li>
+          <li><strong>Fabián Oliva López:</strong> Se dedicó a corregir y mejorar la documentación del proyecto, registrando todas las entrevistas de usuarios realizadas. Además, optimizó los prototipos en Figma, asegurando que los wireframes y mockups fueran más claros y alineados con los objetivos del proyecto.</li>
+        </ul>
 			</td>
 			<td>
-				<strong>TB1:</strong> El equipo reforzó y actualizó conocimientos clave en metodologías de desarrollo como Lean UX y Domain-Driven Design, aplicándolos al dominio del café de especialidad. Cada integrante contribuyó con investigación y análisis (usuarios, competidores, modelo de negocio, arquitectura), lo que permitió construir una base conceptual sólida para el proyecto y asegurar la pertinencia de las soluciones propuestas. <br>
-        <strong>TP:</strong> El equipo continuó ampliando y aplicando los conocimientos adquiridos en metodologías de desarrollo como Lean UX y Domain-Driven Design, consolidando la arquitectura del sistema y afinando los aspectos de diseño e implementación. Cada integrante profundizó en su área de especialización, lo que permitió fortalecer la comprensión técnica y mejorar la calidad de los artefactos generados. Este proceso de actualización constante aseguró que las soluciones desarrolladas se mantuvieran alineadas con las mejores prácticas del sector y con las necesidades reales del proyecto.
+				<strong>TB1:</strong> El equipo reforzó y actualizó conocimientos clave en metodologías de desarrollo como Lean UX y Domain-Driven Design, aplicándolos al dominio del café de especialidad. Cada integrante contribuyó con investigación y análisis (usuarios, competidores, modelo de negocio, arquitectura), lo que permitió construir una base conceptual sólida para el proyecto y asegurar la pertinencia de las soluciones propuestas.<br>
+        <strong>TP:</strong> El equipo continuó ampliando y aplicando los conocimientos adquiridos en metodologías de desarrollo como Lean UX y Domain-Driven Design, consolidando la arquitectura del sistema y afinando los aspectos de diseño e implementación. Cada integrante profundizó en su área de especialización, lo que permitió fortalecer la comprensión técnica y mejorar la calidad de los artefactos generados.<br>
+        <strong>TB2:</strong> Entre equipo demostraron un enfoque práctico en la implementación y mejora del proyecto, aplicando conocimientos técnicos en frontend, documentación y prototipos. La constante comunicación, organización y colaboración entre ellos permitió optimizar procesos, reducir errores y consolidar un flujo de trabajo eficiente, fortaleciendo el aprendizaje colectivo, destacando habilidades técnicas y blandas del equipo, y asegurando la calidad del producto final.
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software. 
+				Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.
 			</td>
 			<td>
 				<strong>TB1:</strong><br>
 				<ul>
-					<li><strong>Fabrizio León:</strong> Fue importante que aprenda sobre el modelo de negocio para así desarrollar los artefactos de una mejor manera. Además, investigué más acerca del DDD para su correcto planteamiento. </li>
-					<li><strong>Juan Diego Mondoñedo:</strong> Refresqué mis conocimientos sobre las user stories e investigué sobre el ambiente laboral de nuestro público objetivo para plantear user stories pertinentes. </li>
-          <li><strong>Fabián Oliva López:</strong> Pude aprender la necesidad de investigar acerca de competidores, lo cual ayuda a ver puntos estratégicos que pueden mejorar nuestro trabajo para entregar un producto de buena calidad. </li>
+					<li><strong>Fabrizio León:</strong> Fue importante que aprenda sobre el modelo de negocio para así desarrollar los artefactos de una mejor manera. Además, investigué más acerca del DDD para su correcto planteamiento.</li>
+					<li><strong>Juan Diego Mondoñedo:</strong> Refresqué mis conocimientos sobre las user stories e investigué sobre el ambiente laboral de nuestro público objetivo para plantear user stories pertinentes.</li>
+          <li><strong>Fabián Oliva López:</strong> Pude aprender la necesidad de investigar acerca de competidores, lo cual ayuda a ver puntos estratégicos que pueden mejorar nuestro trabajo para entregar un producto de buena calidad.</li>
           <li><strong>Miguel Vidal Castro:</strong> Pude aprender a investigar sobre cómo realizar un diagrama C4, reforzando conocimientos previos. Realicé un Event Storming del proyecto que me ayudó a identificar los bounded contexts.</li>
           <li><strong>Fabrizzio Pereira:</strong> Aprendí sobre café de especialidad desde cero y estudié nuevas metodologías de desarrollo que no conocía previamente.</li>
-					<li><strong>Guillermo Tantaleán:</strong> Realicé investigación del modelo de negocio del tema en cuestión para el trabajo, lo cual me permitió entender la aplicación de conocimientos de software a nivel de dirección.  </li>
+					<li><strong>Guillermo Tantaleán:</strong> Realicé investigación del modelo de negocio del tema en cuestión para el trabajo, lo cual me permitió entender la aplicación de conocimientos de software a nivel de dirección.</li>
 				</ul>
         <br><strong>TP:</strong><br>
         <ul>
           <li><strong>Fabrizio León:</strong> </li>
           <li><strong>Juan Diego Mondoñedo:</strong> </li>
           <li><strong>Fabián Oliva López:</strong> </li>
-          <li><strong>Miguel Vidal Castro:</strong> El equipo demostró una actitud de aprendizaje continuo al incorporar nuevos conocimientos durante el desarrollo de la aplicación. A partir de las observaciones recibidas, se realizaron mejoras en la interfaz y la experiencia del usuario, aplicando los style guidelines definidos. Esta experiencia reforzó la importancia de la retroalimentación y la adaptación constante como parte del crecimiento profesional, promoviendo una cultura de mejora y aprendizaje permanente dentro del grupo. </li>
+          <li><strong>Miguel Vidal Castro:</strong> El equipo demostró una actitud de aprendizaje continuo al incorporar nuevos conocimientos durante el desarrollo de la aplicación. A partir de las observaciones recibidas, se realizaron mejoras en la interfaz y la experiencia del usuario, aplicando los style guidelines definidos. Esta experiencia reforzó la importancia de la retroalimentación y la adaptación constante como parte del crecimiento profesional, promoviendo una cultura de mejora y aprendizaje permanente dentro del grupo.</li>
           <li><strong>Fabrizzio Pereira:</strong> </li>
           <li><strong>Guillermo Tantaleán:</strong> </li>
         </ul>
+        <br><strong>TB2:</strong><br>
+        <ul>
+          <li><strong>Fabrizzio León:</strong> Continuó reforzando sus conocimientos en desarrollo frontend y deployment, aprendiendo nuevas técnicas para optimizar la implementación y mantener el flujo de trabajo del equipo eficiente.</li>
+          <li><strong>Miguel Vidal Castro:</strong> Mejoró su aprendizaje sobre documentación y registro de entrevistas, fortaleciendo la capacidad de organización y trazabilidad de información crítica para el proyecto.</li>
+          <li><strong>Fabián Oliva López:</strong> Amplió sus conocimientos en herramientas de prototipado (Figma) y documentación, asegurando que la información registrada fuese clara, precisa y útil para el desarrollo y la toma de decisiones del equipo.</li>
+        </ul>
 			</td>
 			<td>
-				<strong>TB1:</strong> El equipo demostró apertura hacia el aprendizaje permanente, investigando tanto aspectos técnicos (diagramas C4, DDD, user stories) como estratégicos (modelo de negocio, competidores y dominio del café de especialidad). Esta disposición a aprender y actualizarse permitió aplicar de forma más efectiva los conocimientos adquiridos, adaptándolos a un contexto real y fortaleciendo las competencias profesionales de cada integrante. <br>
-        <strong>TP:</strong> El equipo mejoró las observaciones recibidas anteriormente y avanzó en el desarrollo de la aplicación, respetando los style guidelines y principios de usabilidad definidos. Los prototipos fueron evaluados positivamente por los usuarios entrevistados, quienes brindaron retroalimentación útil para futuras mejoras, consolidando así la aplicación de un proceso iterativo de aprendizaje y mejora continua. 
+				<strong>TB1:</strong> El equipo demostró apertura hacia el aprendizaje permanente, investigando tanto aspectos técnicos (diagramas C4, DDD, user stories) como estratégicos (modelo de negocio, competidores y dominio del café de especialidad). Esta disposición a aprender y actualizarse permitió aplicar de forma más efectiva los conocimientos adquiridos, adaptándolos a un contexto real y fortaleciendo las competencias profesionales de cada integrante.<br>
+        <strong>TP:</strong> El equipo mejoró las observaciones recibidas anteriormente y avanzó en el desarrollo de la aplicación, respetando los style guidelines y principios de usabilidad definidos. Los prototipos fueron evaluados positivamente por los usuarios entrevistados, quienes brindaron retroalimentación útil para futuras mejoras, consolidando así la aplicación de un proceso iterativo de aprendizaje y mejora continua.<br>
+        <strong>TB2:</strong> Entre equipo evidenciaron un aprendizaje constante al aplicar nuevas técnicas y buenas prácticas en frontend, documentación y prototipado. La colaboración y apoyo mutuo permitió una ejecución más fluida de tareas, consolidando habilidades profesionales y blandas del equipo, destacando su capacidad de adaptación, comunicación y resolución de problemas, fomentando la mejora continua dentro del proyecto.
 			</td>
 		</tr>
 	</tbody>
 </table>
+
+
 
 
 <div style="page-break-before: always;"></div>
