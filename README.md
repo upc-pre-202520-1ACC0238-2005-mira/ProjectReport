@@ -252,20 +252,29 @@ Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta
 
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
+- [Contenido](#contenido)
 - [Student Outcome](#student-outcome)
+- [Student Outcome](#student-outcome-1)
+- [Objetivos SMART](#objetivos-smart)
 - [Capítulo I: Introducción](#capítulo-i-introducción)
   - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
     - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
   - [1.2. Solution Profile](#12-solution-profile)
-    - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
-    - [1.2.2. Lean UX Process](#122-lean-ux-process)
+    - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
+    - [1.2.2 Lean UX Process](#122-lean-ux-process)
       - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
       - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
       - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
       - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
   - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
-
+    - [1.3.1. Baristas (junior y senior)](#131-baristas-junior-y-senior)
+    - [1.3.2. Jefes de barra / Dueños](#132-jefes-de-barra--dueños)
+    - [1.3.3. Entusiastas avanzados (home brewers) – Segmento secundario](#133-entusiastas-avanzados-home-brewers--segmento-secundario)
+    - [1.3.4. Aliados del ecosistema (tostadores, escuelas) – Influenciadores](#134-aliados-del-ecosistema-tostadores-escuelas--influenciadores)
+    - [1.3.5. Mapa de priorización (MVP)](#135-mapa-de-priorización-mvp)
+    - [1.3.6. Tamaño de mercado (marco de estimación)](#136-tamaño-de-mercado-marco-de-estimación)
+    - [1.3.7. Señales de ajuste por segmento (qué observar)](#137-señales-de-ajuste-por-segmento-qué-observar)
 - [Capítulo II: Requirements Development and Software Solution Design](#capítulo-ii-requirements-development-and-software-solution-design)
   - [2.1. Competidores](#21-competidores)
     - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
@@ -278,37 +287,158 @@ Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta
     - [2.3.1. User Personas](#231-user-personas)
     - [2.3.2. User Task Matrix](#232-user-task-matrix)
     - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+    - [2.3.3. User Journey Mapping — Miguel Vergara (Barista)](#233-user-journey-mapping--miguel-vergara-barista)
+    - [2.3.3. User Journey Mapping — Harry Salazar (Owner)](#233-user-journey-mapping--harry-salazar-owner)
     - [2.3.4. Empathy Mapping](#234-empathy-mapping)
     - [2.3.5. Ubiquitous Language](#235-ubiquitous-language)
-  - [2.4. Requirements specification](#24-requirements-specification)
-    - [2.4.1. User Stories](#241-user-stories)
-    - [2.4.2. Impact Mapping](#242-impact-mapping)
-    - [2.4.3. Product Backlog](#243-product-backlog)
-  - [2.5. Strategic-Level Domain-Driven Design](#25-strategic-level-domain-driven-design)
-    - [2.5.1. EventStorming](#251-eventstorming)
-      - [2.5.1.1. Candidate Context Discovery](#2511-candidate-context-discovery)
-      - [2.5.1.2. Domain Message Flows Modeling](#2512-domain-message-flows-modeling)
-      - [2.5.1.3. Bounded Context Canvases](#2513-bounded-context-canvases)
-    - [2.5.2. Context Mapping](#252-context-mapping)
-    - [2.5.3. Software Architecture](#253-software-architecture)
-      - [2.5.3.1. Software Architecture Context Level Diagrams](#2531-software-architecture-context-level-diagrams)
-      - [2.5.3.2. Software Architecture Container Level Diagrams](#2532-software-architecture-container-level-diagrams)
-      - [2.5.3.3. Software Architecture Deployment Diagrams](#2533-software-architecture-deployment-diagrams)
-  - [2.6. Tactical-Level Domain-Driven Design](#26-tactical-level-domain-driven-design)
-    - [2.6.1. Bounded Context: Sprint 1](#261-bounded-context-sprint-1)
-      - [2.6.1.1. Domain Layer](#2611-domain-layer)
-      - [2.6.1.2. Interface Layer](#2612-interface-layer)
-      - [2.6.1.3. Application Layer](#2613-application-layer)
-      - [2.6.1.4. Infrastructure Layer](#2614-infrastructure-layer)
-      - [2.6.1.5. Bounded Context Software Architecture Component Level Diagrams](#2615-bounded-context-software-architecture-component-level-diagrams)
-      - [2.6.1.6. Bounded Context Software Architecture Code Level Diagrams](#2616-bounded-context-software-architecture-code-level-diagrams)
-        - [2.6.1.6.1. Bounded Context Domain Layer Class Diagrams](#26161-bounded-context-domain-layer-class-diagrams)
-        - [2.6.1.6.2. Bounded Context Database Design Diagram](#26162-bounded-context-database-design-diagram)
+- [2.4. Requirements specification](#24-requirements-specification)
+  - [2.4.1. User Stories](#241-user-stories)
+      - [Desglose de Historias de Usuario por Épica](#desglose-de-historias-de-usuario-por-épica)
+        - [**EP09: Landing Page y Difusión Pública**](#ep09-landing-page-y-difusión-pública)
+        - [**EP10: Aplicación Móvil**](#ep10-aplicación-móvil)
+        - [**EP11: Backend y API**](#ep11-backend-y-api)
+        - [**EP12: Seguridad y Autenticación Avanzada**](#ep12-seguridad-y-autenticación-avanzada)
+  - [2.4.2. Impact Mapping](#242-impact-mapping)
+  - [2.4.3. Product Backlog](#243-product-backlog)
+- [📌 Product Backlog – Xantina](#-product-backlog--xantina)
+- [2.5. Strategic-Level Domain-Driven Design](#25-strategic-level-domain-driven-design)
+  - [2.5.1. EventStorming](#251-eventstorming)
+    - [2.5.1.1. Candidate Context Discovery](#2511-candidate-context-discovery)
+    - [2.5.1.2. Domain Message Flows Modeling](#2512-domain-message-flows-modeling)
+    - [2.5.1.3. Bounded Context Canvases](#2513-bounded-context-canvases)
+  - [2.5.2. Context Mapping](#252-context-mapping)
+  - [2.5.3. Software Architecture](#253-software-architecture)
+    - [2.5.3.1. Software Architecture Context Level Diagrams](#2531-software-architecture-context-level-diagrams)
+    - [2.5.3.2. Software Architecture Container Level Diagrams](#2532-software-architecture-container-level-diagrams)
+    - [2.5.3.3. Software Architecture Components Level Diagrams](#2533-software-architecture-components-level-diagrams)
+    - [2.5.3.4. Software Architecture Deployment Diagrams](#2534-software-architecture-deployment-diagrams)
+- [2.6. Tactical-Level Domain-Driven Design](#26-tactical-level-domain-driven-design)
+  - [2.6.1. Bounded Context: Sprint 1](#261-bounded-context-sprint-1)
+    - [2.6.1.1. Domain Layer](#2611-domain-layer)
+    - [2.6.1.2. Interface Layer](#2612-interface-layer)
+    - [2.6.1.3. Application Layer](#2613-application-layer)
+    - [2.6.1.4. Infrastructure Layer](#2614-infrastructure-layer)
+      - [IngredientRepository](#ingredientrepository)
+    - [2.6.1.5. Bounded Context Software Architecture Component Level Diagrams](#2615-bounded-context-software-architecture-component-level-diagrams)
+    - [SPA](#spa)
+    - [Api Application](#api-application)
+    - [2.6.1.6. Bounded Context Software Architecture Code Level Diagrams](#2616-bounded-context-software-architecture-code-level-diagrams)
+      - [2.6.1.6.1. Bounded Context Domain Layer Class Diagrams](#26161-bounded-context-domain-layer-class-diagrams)
+    - [Profiles](#profiles)
+    - [IAM](#iam)
+    - [Shared](#shared)
+      - [2.6.1.6.2. Bounded Context Database Design Diagram](#26162-bounded-context-database-design-diagram)
+- [Capítulo III: UX/UI Design](#capítulo-iii-uxui-design)
+- [3.1 Product Design](#31-product-design)
+  - [3.1.1 Style Guidelines](#311-style-guidelines)
+    - [3.1.1.1 General Style Guidelines](#3111-general-style-guidelines)
+    - [Colores principales](#colores-principales)
+    - [Estilo visual](#estilo-visual)
+    - [Interactividad](#interactividad)
+    - [Paletas de color](#paletas-de-color)
+  - [3.1.2 Information Architecture](#312-information-architecture)
+    - [3.1.2.1 Organization Systems](#3121-organization-systems)
+      - [Jerárquico](#jerárquico)
+      - [Modular y Seccional](#modular-y-seccional)
+    - [3.1.2.2 Labelling Systems](#3122-labelling-systems)
+      - [Menú principal](#menú-principal)
+      - [Botones de acción](#botones-de-acción)
+      - [Formulario](#formulario)
+    - [3.1.2.3 SEO Tags and Meta Tags](#3123-seo-tags-and-meta-tags)
+      - [Título](#título)
+      - [Descripción](#descripción)
+      - [Palabras clave](#palabras-clave)
+      - [Derechos de autor](#derechos-de-autor)
+    - [3.1.2.4 Searching Systems](#3124-searching-systems)
+    - [3.1.2.5 Navigation Systems](#3125-navigation-systems)
+    - [Navegación Superior](#navegación-superior)
+    - [Flujo Lógico](#flujo-lógico)
+    - [Footer con Navegación Secundaria](#footer-con-navegación-secundaria)
+    - [Estructura Modular](#estructura-modular)
+  - [3.1.3 Landing Page UI Design](#313-landing-page-ui-design)
+    - [3.1.3.1 Landing Page Wireframe](#3131-landing-page-wireframe)
+    - [3.1.3.2 Landing Page Mock-up](#3132-landing-page-mock-up)
+  - [3.1.4 Mobile Applications UX/UI Design](#314-mobile-applications-uxui-design)
+    - [3.1.4.1 Mobile Applications Wireframes](#3141-mobile-applications-wireframes)
+    - [3.1.4.2 Mobile Applications Wireflow Diagrams](#3142-mobile-applications-wireflow-diagrams)
+  - [User Goal 01: Crear y acceder a la cuenta de usuario](#user-goal-01-crear-y-acceder-a-la-cuenta-de-usuario)
+  - [User Goal 02: Gestionar recetas de café de forma estandarizada](#user-goal-02-gestionar-recetas-de-café-de-forma-estandarizada)
+  - [User Goal 03: Calibrar y operar la barra de manera guiada](#user-goal-03-calibrar-y-operar-la-barra-de-manera-guiada)
+  - [User Goal 04: Registrar y analizar catas de café](#user-goal-04-registrar-y-analizar-catas-de-café)
+  - [User Goal 05: Controlar inventario y trazabilidad de lotes](#user-goal-05-controlar-inventario-y-trazabilidad-de-lotes)
+  - [User Goal 06: Gestionar usuarios y permisos de equipo](#user-goal-06-gestionar-usuarios-y-permisos-de-equipo)
+  - [User Goal 07: Generar reportes y visualizar tendencias](#user-goal-07-generar-reportes-y-visualizar-tendencias)
+  - [User Goal 08: Comunicar novedades y actualizaciones al equipo](#user-goal-08-comunicar-novedades-y-actualizaciones-al-equipo)
+    - [3.1.4.3 Mobile Applications Mock-ups](#3143-mobile-applications-mock-ups)
+    - [3.1.4.4 Mobile Applications User Flow Diagrams](#3144-mobile-applications-user-flow-diagrams)
+  - [User Goal 01: Crear y acceder a la cuenta de usuario](#user-goal-01-crear-y-acceder-a-la-cuenta-de-usuario-1)
+  - [User Goal 02: Gestionar recetas de café de forma estandarizada](#user-goal-02-gestionar-recetas-de-café-de-forma-estandarizada-1)
+  - [User Goal 03: Calibrar y operar la barra de manera guiada](#user-goal-03-calibrar-y-operar-la-barra-de-manera-guiada-1)
+  - [User Goal 04: Registrar y analizar catas de café](#user-goal-04-registrar-y-analizar-catas-de-café-1)
+  - [User Goal 05: Controlar inventario y trazabilidad de lotes](#user-goal-05-controlar-inventario-y-trazabilidad-de-lotes-1)
+  - [User Goal 06: Gestionar usuarios y permisos de equipo](#user-goal-06-gestionar-usuarios-y-permisos-de-equipo-1)
+  - [User Goal 07: Generar reportes y visualizar tendencias](#user-goal-07-generar-reportes-y-visualizar-tendencias-1)
+  - [User Goal 08: Comunicar novedades y actualizaciones al equipo](#user-goal-08-comunicar-novedades-y-actualizaciones-al-equipo-1)
+    - [3.1.4.5 Mobile Applications Prototyping](#3145-mobile-applications-prototyping)
+- [Capítulo IV: Product Implementation \& Validation](#capítulo-iv-product-implementation--validation)
+  - [4.1. Software Configuration Management](#41-software-configuration-management)
+    - [4.1.1. Software Development Environment Configuration](#411-software-development-environment-configuration)
+    - [4.1.2. Source Code Management](#412-source-code-management)
+    - [4.1.3. Source Code Style Guide \& Conventions](#413-source-code-style-guide--conventions)
+    - [HTML](#html)
+    - [CSS](#css)
+    - [JavaScript](#javascript)
+    - [Android Studio](#android-studio)
+  - [4.1.4. Software Deployment Configuration](#414-software-deployment-configuration)
+    - [Aplicación Móvil Deployment](#aplicación-móvil-deployment)
+    - [Creación de ramas](#creación-de-ramas)
+    - [Estructura del proyecto](#estructura-del-proyecto)
+    - [Subida de archivos al repositorio](#subida-de-archivos-al-repositorio)
+    - [Configuración para el despliegue](#configuración-para-el-despliegue)
+    - [Resolución de conflictos](#resolución-de-conflictos)
+  - [4.2. Landing Page \& Mobile Application Implementation](#42-landing-page--mobile-application-implementation)
+    - [4.2.1. Sprint 1](#421-sprint-1)
+      - [4.2.1.1. Sprint Planning 1](#4211-sprint-planning-1)
+      - [4.2.1.2. Sprint Backlog 1](#4212-sprint-backlog-1)
+      - [4.2.1.3. Development Evidence for Sprint Review](#4213-development-evidence-for-sprint-review)
+      - [4.2.1.4. Testing Suite Evidence for Sprint Review](#4214-testing-suite-evidence-for-sprint-review)
+      - [4.2.1.5. Execution Evidence for Sprint Review](#4215-execution-evidence-for-sprint-review)
+      - [4.2.1.6. Services Documentation Evidence for Sprint Review](#4216-services-documentation-evidence-for-sprint-review)
+      - [4.2.1.7. Software Deployment Evidence for Sprint Review](#4217-software-deployment-evidence-for-sprint-review)
+      - [4.2.1.8. Team Collaboration Insights during Sprint](#4218-team-collaboration-insights-during-sprint)
+- [4.2.2. Sprint 2](#422-sprint-2)
+  - [4.2.2.1. Sprint Planning 2](#4221-sprint-planning-2)
+    - [4.2.1.2. Sprint Backlog 2](#4212-sprint-backlog-2)
+  - [4.2.2.3. Development Evidence for Sprint Review](#4223-development-evidence-for-sprint-review)
+  - [4.2.2.4. Testing Suite Evidence for Sprint Review](#4224-testing-suite-evidence-for-sprint-review)
+  - [4.2.2.5. Execution Evidence for Sprint Review](#4225-execution-evidence-for-sprint-review)
+  - [4.2.2.6. Services Documentation Evidence for Sprint Review](#4226-services-documentation-evidence-for-sprint-review)
+  - [4.2.2.7. Software Deployment Evidence for Sprint Review](#4227-software-deployment-evidence-for-sprint-review)
+  - [4.2.2.8. Team Collaboration Insights during Sprint](#4228-team-collaboration-insights-during-sprint)
+  - [4.3. Validation Interviews](#43-validation-interviews)
+    - [4.3.1. Diseño de Entrevistas](#431-diseño-de-entrevistas)
+      - [Segmento #1: **Baristas (junior y senior)**](#segmento-1-baristas-junior-y-senior)
+      - [Segmento #2: **Jefes de barra / Dueños**](#segmento-2-jefes-de-barra--dueños)
+      - [Segmento #3: **Entusiastas avanzados (home brewers)**](#segmento-3-entusiastas-avanzados-home-brewers)
+      - [Segmento #4: **Aliados del ecosistema (tostadores, escuelas) – Influenciadores**](#segmento-4-aliados-del-ecosistema-tostadores-escuelas--influenciadores)
+    - [Preguntas para cada segmento:](#preguntas-para-cada-segmento)
+      - [Baristas](#baristas)
+      - [Jefes de barra / Dueños](#jefes-de-barra--dueños)
+      - [Entusiastas avanzados (home brewers)](#entusiastas-avanzados-home-brewers)
+      - [Aliados del ecosistema](#aliados-del-ecosistema)
+    - [4.3.2. Registro de Entrevistas](#432-registro-de-entrevistas)
+    - [**Entrevista Nº1**](#entrevista-nº1)
+    - [**Entrevista Nº2**](#entrevista-nº2)
+    - [**Entrevista Nº3**](#entrevista-nº3)
+    - [4.3.3. Evaluaciones según heurísticas](#433-evaluaciones-según-heurísticas)
+  - [4.4. Database Diagram.](#44-database-diagram)
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
 <div style="page-break-before: always;"></div>
+
+# Student Outcome
 
 # Student Outcome
 
@@ -329,17 +459,27 @@ Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta
 				<strong>TB1:</strong><br>
 				<ul>
 					<li><strong>Fabrizio León:</strong>
-          Realiza una investigación mediante el uso de entrevistas para la validación de los items hechos en el Lean UX Process.
+          Realiza una investigación mediante el uso de entrevistas para la validación de los ítems hechos en el Lean UX Process.
           </li>
-					<li><strong>Juan Diego Mondoñedo:</strong> Analicé los resultados de nuestras entrevistas para desarrollar parte del needfinding y definir las user stories </li>
-          <li><strong>Fabián Oliva López:</strong> Investigué acerca de posibles competidores y desarrollo su respectivo análisis competitivo a su vez de estrategias frente a estos competidores</li>
-          <li><strong>Miguel Vidal Castro</strong> Determiné mediante las entrevistas del segmento objetivo de dueño de café, información relevante para entender que bounded contexts desarrollar en la aplicación para poder cubrir sus necesidades. </li>
+					<li><strong>Juan Diego Mondoñedo:</strong> Analicé los resultados de nuestras entrevistas para desarrollar parte del needfinding y definir las user stories. </li>
+          <li><strong>Fabián Oliva López:</strong> Investigué acerca de posibles competidores y desarrollé su respectivo análisis competitivo, además de estrategias frente a estos competidores.</li>
+          <li><strong>Miguel Vidal Castro:</strong> Determiné mediante las entrevistas al segmento objetivo de dueños de café, información relevante para entender qué bounded contexts desarrollar en la aplicación y cubrir sus necesidades. </li>
           <li><strong>Fabrizzio Pereira:</strong> Investigué el dominio del café de especialidad y desarrollé la arquitectura completa del sistema usando metodologías como Lean UX y Domain-Driven Design.</li>
-					<li><strong>Guillermo Tantaleán:</strong> Desarrollé toda la parte de DDD como el event storming identificando los principales bounded context.  </li>
+					<li><strong>Guillermo Tantaleán:</strong> Desarrollé toda la parte de DDD, incluyendo el event storming e identificación de los principales bounded contexts.  </li>
 				</ul>
+        <br><strong>TP:</strong><br>
+        <ul>
+          <li><strong>Fabrizio León:</strong> </li>
+          <li><strong>Juan Diego Mondoñedo:</strong> </li>
+          <li><strong>Fabián Oliva López:</strong> </li>
+          <li><strong>Miguel Vidal Castro:</strong> Elaboré los wireframes y mockups de la aplicación, aplicando los style guidelines definidos por el equipo. Este trabajo permitió plasmar de forma visual la estructura y funcionalidad del producto, facilitando la validación con los usuarios y asegurando coherencia con los objetivos del proyecto. </li>
+          <li><strong>Fabrizzio Pereira:</strong> </li>
+          <li><strong>Guillermo Tantaleán:</strong> </li>
+        </ul>
 			</td>
 			<td>
-				<strong>TB1:</strong>El equipo reforzó y actualizó conocimientos clave en metodologías de desarrollo como Lean UX y Domain-Driven Design, aplicándolos al dominio del café de especialidad. Cada integrante contribuyó con investigación y análisis (usuarios, competidores, modelo de negocio, arquitectura) lo que permitió construir una base conceptual sólida para el proyecto y asegurar la pertinencia de las soluciones propuestas. <br>
+				<strong>TB1:</strong> El equipo reforzó y actualizó conocimientos clave en metodologías de desarrollo como Lean UX y Domain-Driven Design, aplicándolos al dominio del café de especialidad. Cada integrante contribuyó con investigación y análisis (usuarios, competidores, modelo de negocio, arquitectura), lo que permitió construir una base conceptual sólida para el proyecto y asegurar la pertinencia de las soluciones propuestas. <br>
+        <strong>TP:</strong> El equipo continuó ampliando y aplicando los conocimientos adquiridos en metodologías de desarrollo como Lean UX y Domain-Driven Design, consolidando la arquitectura del sistema y afinando los aspectos de diseño e implementación. Cada integrante profundizó en su área de especialización, lo que permitió fortalecer la comprensión técnica y mejorar la calidad de los artefactos generados. Este proceso de actualización constante aseguró que las soluciones desarrolladas se mantuvieran alineadas con las mejores prácticas del sector y con las necesidades reales del proyecto.
 			</td>
 		</tr>
 		<tr>
@@ -349,21 +489,31 @@ Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta
 			<td>
 				<strong>TB1:</strong><br>
 				<ul>
-					<li><strong>Fabrizio León:</strong>
-          Fue importante que aprenda sobre del modelo de negocio para así desarrollar los artefactos de una mejora manera. Además, investigue más acerca del DDD para su correcto planteamiento. </li>
-					<li><strong>Juan Diego Mondoñedo:</strong> Refresqué mis conocimientos sobre las user stories e investigué sobre el ambiente laboral de nuestro publico objetivo para plantear user stories pertinentes. </li>
-          <li><strong>Fabian Oliva López:</strong> Pude aprender la necesidad de investigar acerca de competidores lo cual ayuda a ver puntos estrategicos los cuales puede improvisar nuestro trabajor para entregar un producto de buena calidad </li>
-          <li><strong>Miguel Vidal Castro:</strong> Pude aprendar a investigar sobre como realizar un diagrama C4, reforzando conocimientos pasados. Realicé un Event Storming del proyecto lo que me ayudó a identificar los bounded contexts</li>
+					<li><strong>Fabrizio León:</strong> Fue importante que aprenda sobre el modelo de negocio para así desarrollar los artefactos de una mejor manera. Además, investigué más acerca del DDD para su correcto planteamiento. </li>
+					<li><strong>Juan Diego Mondoñedo:</strong> Refresqué mis conocimientos sobre las user stories e investigué sobre el ambiente laboral de nuestro público objetivo para plantear user stories pertinentes. </li>
+          <li><strong>Fabián Oliva López:</strong> Pude aprender la necesidad de investigar acerca de competidores, lo cual ayuda a ver puntos estratégicos que pueden mejorar nuestro trabajo para entregar un producto de buena calidad. </li>
+          <li><strong>Miguel Vidal Castro:</strong> Pude aprender a investigar sobre cómo realizar un diagrama C4, reforzando conocimientos previos. Realicé un Event Storming del proyecto que me ayudó a identificar los bounded contexts.</li>
           <li><strong>Fabrizzio Pereira:</strong> Aprendí sobre café de especialidad desde cero y estudié nuevas metodologías de desarrollo que no conocía previamente.</li>
-					<li><strong>Guillermo Tantaleán:</strong>  Realicé investigación del modelo de negocio del tema en cuestión para el trabajo lo cual me permitió entender la aplicación de conocimientos de software a nivel de dirección.  </li>
+					<li><strong>Guillermo Tantaleán:</strong> Realicé investigación del modelo de negocio del tema en cuestión para el trabajo, lo cual me permitió entender la aplicación de conocimientos de software a nivel de dirección.  </li>
 				</ul>
+        <br><strong>TP:</strong><br>
+        <ul>
+          <li><strong>Fabrizio León:</strong> </li>
+          <li><strong>Juan Diego Mondoñedo:</strong> </li>
+          <li><strong>Fabián Oliva López:</strong> </li>
+          <li><strong>Miguel Vidal Castro:</strong> El equipo demostró una actitud de aprendizaje continuo al incorporar nuevos conocimientos durante el desarrollo de la aplicación. A partir de las observaciones recibidas, se realizaron mejoras en la interfaz y la experiencia del usuario, aplicando los style guidelines definidos. Esta experiencia reforzó la importancia de la retroalimentación y la adaptación constante como parte del crecimiento profesional, promoviendo una cultura de mejora y aprendizaje permanente dentro del grupo. </li>
+          <li><strong>Fabrizzio Pereira:</strong> </li>
+          <li><strong>Guillermo Tantaleán:</strong> </li>
+        </ul>
 			</td>
 			<td>
-				<strong>TB1:</strong>El equipo demostró apertura hacia el aprendizaje permanente, investigando tanto aspectos técnicos (diagramas C4, DDD, user stories) como estratégicos (modelo de negocio, competidores y dominio del café de especialidad). Esta disposición a aprender y actualizarse permitió aplicar de forma más efectiva los conocimientos adquiridos, adaptándolos a un contexto real y fortaleciendo las competencias profesionales de cada integrante. <br>
+				<strong>TB1:</strong> El equipo demostró apertura hacia el aprendizaje permanente, investigando tanto aspectos técnicos (diagramas C4, DDD, user stories) como estratégicos (modelo de negocio, competidores y dominio del café de especialidad). Esta disposición a aprender y actualizarse permitió aplicar de forma más efectiva los conocimientos adquiridos, adaptándolos a un contexto real y fortaleciendo las competencias profesionales de cada integrante. <br>
+        <strong>TP:</strong> El equipo mejoró las observaciones recibidas anteriormente y avanzó en el desarrollo de la aplicación, respetando los style guidelines y principios de usabilidad definidos. Los prototipos fueron evaluados positivamente por los usuarios entrevistados, quienes brindaron retroalimentación útil para futuras mejoras, consolidando así la aplicación de un proceso iterativo de aprendizaje y mejora continua. 
 			</td>
 		</tr>
-	</tobdy>
+	</tbody>
 </table>
+
 
 <div style="page-break-before: always;"></div>
 
@@ -380,28 +530,54 @@ Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta
     <tr>
       <td style="border: 1px solid #000; padding: 8px;">Pereira Vasquez, Fabrizzio</td>
       <td style="border: 1px solid #000; padding: 8px;">Completar el diseño de la arquitectura de software para Mira/Xantina aplicando Domain-Driven Design incluyendo bounded contexts, agregados y servicios del dominio del café de especialidad.</td>
-      <td style="border: 1px solid #000; padding: 8px;">Desarrollar y documentar el Lean UX Process completo (Problem Statements, Assumptions, Hypothesis Statements y Canvas) </td>
+      <td style="border: 1px solid #000; padding: 8px;">Desarrollar y documentar el Lean UX Process completo (Problem Statements, Assumptions, Hypothesis Statements y Canvas).</td>
     </tr>
     <tr>
       <td style="border: 1px solid #000; padding: 8px;">Tantaleán Mesta, Guillermo Fabián</td>
-      <td style="border: 1px solid #000; padding: 8px;">Definir y documentar la arquitectura de software de Xantina mediante la aplicación de Domain-Driven Design, incluyendo la delimitación de bounded contexts, modelos de comunicación y decisiones estratégicas del dominio.
-;</td>
+      <td style="border: 1px solid #000; padding: 8px;">Definir y documentar la arquitectura de software de Xantina mediante la aplicación de Domain-Driven Design, incluyendo la delimitación de bounded contexts, modelos de comunicación y decisiones estratégicas del dominio.</td>
       <td style="border: 1px solid #000; padding: 8px;">Elaborar y validar el proceso Lean UX para Xantina, integrando problem statements, supuestos, hipótesis y el Lean UX Canvas, como base para el diseño centrado en el usuario.</td>
     </tr>
     <tr>
       <td style="border: 1px solid #000; padding: 8px;">Mondoñedo Rodriguez, Juan Diego Javier</td>
-      <td style="border: 1px solid #000; padding: 8px;">Resolver parte de las problematicas y dolores diarios del grupo objetivo que seleccionamos para nuestro enfoque de proyecto para brindarles mayor satisfaccion de vida.</td>
+      <td style="border: 1px solid #000; padding: 8px;">Resolver parte de las problemáticas y dolores diarios del grupo objetivo que seleccionamos para nuestro enfoque de proyecto para brindarles mayor satisfacción de vida.</td>
       <td style="border: 1px solid #000; padding: 8px;">Identificar correctamente las necesidades de nuestros segmentos mediante el needfinding e interpretarlas para definir user stories adecuados para su caso.</td>
     </tr>
     <tr>
       <td style="border: 1px solid #000; padding: 8px;">Oliva López, Fabián Alejandro</td>
-      <td style="border: 1px solid #000; padding: 8px;"> Realizar un análisis detallado de los competidores directos e indirectos de Xantina, identificando sus fortalezas, debilidades y estrategias de mercado, con el fin de reconocer oportunidades de diferenciación.</td>
+      <td style="border: 1px solid #000; padding: 8px;">Realizar un análisis detallado de los competidores directos e indirectos de Xantina, identificando sus fortalezas, debilidades y estrategias de mercado, con el fin de reconocer oportunidades de diferenciación.</td>
       <td style="border: 1px solid #000; padding: 8px;">Proponer y documentar estrategias competitivas para Xantina basadas en el análisis realizado, estableciendo acciones concretas que permitan posicionar la solución frente a los principales competidores.</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #000; padding: 8px;">Vidal Castro Miguel Angel</td>
+      <td style="border: 1px solid #000; padding: 8px;">Vidal Castro, Miguel Ángel</td>
       <td style="border: 1px solid #000; padding: 8px;">Completar la parte de Software Architecture Diagrams, entrevistar al segmento objetivo de dueño de cafetería.</td>
-      <td style="border: 1px solid #000; padding: 8px;">Determinar que bounded context se aplican en los diagramas para saber identificarlos. Realización de Event Storming para entender que bounded context se usan.</td>
+      <td style="border: 1px solid #000; padding: 8px;">Determinar qué bounded context se aplican en los diagramas para saber identificarlos. Realización de Event Storming para entender qué bounded context se usan.</td>
+    </tr>
+
+    <!-- TP vacío -->
+    <tr>
+      <td style="border: 1px solid #000; padding: 8px;">Pereira Vasquez, Fabrizzio</td>
+      <td style="border: 1px solid #000; padding: 8px;"></td>
+      <td style="border: 1px solid #000; padding: 8px;"></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #000; padding: 8px;">Tantaleán Mesta, Guillermo Fabián</td>
+      <td style="border: 1px solid #000; padding: 8px;"></td>
+      <td style="border: 1px solid #000; padding: 8px;"></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #000; padding: 8px;">Mondoñedo Rodriguez, Juan Diego Javier</td>
+      <td style="border: 1px solid #000; padding: 8px;"></td>
+      <td style="border: 1px solid #000; padding: 8px;"></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #000; padding: 8px;">Oliva López, Fabián Alejandro</td>
+      <td style="border: 1px solid #000; padding: 8px;"></td>
+      <td style="border: 1px solid #000; padding: 8px;"></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #000; padding: 8px;">Vidal Castro, Miguel Ángel</td>
+      <td style="border: 1px solid #000; padding: 8px;"></td>
+      <td style="border: 1px solid #000; padding: 8px;"></td>
     </tr>
   </tbody>
 </table>
@@ -1770,9 +1946,10 @@ Diagrama de componente Tienda:
 <img src="./img/chapter2/c4_7.png">
 
 ### 2.5.3.4. Software Architecture Deployment Diagrams
+
 Este es el diagrama de Despliegue de nuestro sistema:
+
 <img src="./img/chapter2/c4_3.png">
-AuthService y Notification Service son servicios externos gestionados (p. ej. Firebase Auth, Firebase Cloud Messaging) que proveen autenticación y mensajería push. Aunque no forman parte del código base de la aplicación, son dependencias críticas integradas vía APIs seguras (OAuth2 / HTTPS).
 
 # 2.6. Tactical-Level Domain-Driven Design
 
@@ -4305,12 +4482,6 @@ Ofrece una sección centralizada donde el jefe de barra puede enviar comunicados
 
 ![Mockup 14](./img/chapter3/mamk14.png) ![Mockup 15](./img/chapter3/mamk15.png)
 
-![Mockup 16](./img/chapter3/mamk16.png) ![Mockup 17](./img/chapter3/mamk17.png)
-
-![Mockup 17.1](./img/chapter3/mamk171.png) ![Mockup 17.2](./img/chapter3/mamk172.png)
-
-![Mockup 18](./img/chapter3/mamk18.png) ![Mockup 19](./img/chapter3/mamk19.png) ![Mockup 20](./img/chapter3/mamk20.png)
-
 ### 3.1.4.4 Mobile Applications User Flow Diagrams
 
 ## User Goal 01: Crear y acceder a la cuenta de usuario
@@ -4750,6 +4921,355 @@ Gracias a este flujo de trabajo, la aplicación móvil de **Xantina** puede ser 
 
 #### 4.2.1.8. Team Collaboration Insights during Sprint
 
+# 4.2.2. Sprint 2
+
+## 4.2.2.1. Sprint Planning 2
+
+| Campo | Valor |
+|-------|--------|
+| **Sprint #** | 2 |
+| **Sprint Planning Background** |  |
+| **Date** | 13/11/2025 |
+| **Time** | 11:00 PM |
+| **Location** | Reunión presencial después de clase |
+| **Prepared By** | Guillermo Tantaleán |
+| **Attendees (to planning meeting)** | Guillermo Tantaleán, Fabrizzio Pereira, Miguel Vidal, Fabián Oliva, Juan Diego Mondoñedo |
+| **Sprint 1 Review Summary** | Se avanzó significativamente en la aplicación móvil XantinaApp, completando las funcionalidades principales planificadas para el Sprint 1. Se habilitó el sistema de registro e inicio de sesión seguro, se implementó la visualización de perfiles y se desarrolló la navegación principal (extrae, inventario y perfil). El desarrollo se alineó con los diseños de Figma y se trabajó de forma colaborativa con revisiones continuas del código. El sprint cumplió con el objetivo propuesto gracias a la comunicación efectiva entre los miembros del equipo. |
+| **Sprint 1 Retrospective Summary** | El equipo destacó la buena coordinación, el cumplimiento de tareas asignadas y la rápida integración entre pantallas y autenticación. Como oportunidades de mejora se identificó fortalecer la documentación técnica, estandarizar convenciones de commits y realizar reuniones intermedias más frecuentes para mantener visibilidad del progreso. El equipo acordó mejorar la gestión del flujo de tareas y corrección de observaciones en el repositorio para facilitar el trabajo en los siguientes sprints. |
+| **Sprint Goal & User Stories** |  |
+| **Sprint 2 Goal** | Desarrollar completamente las vistas del front-end, garantizar el correcto funcionamiento del sistema de autenticación y establecer la integración con el backend, asegurando que este cumpla plenamente con los requerimientos definidos. |
+| **Sprint 2 Velocity** | 16 |
+| **Sum of Story Points** | 16 |
+
+### 4.2.1.2. Sprint Backlog 2
+
+| **Epic Id**   | **User Story Title**             | **Task Id** | **Task Title**                    | **Description**                                                              | **Estimation (Hours)** | **Assigned To** | **Status**    |
+|---------------|-----------------------------------|-------------|-----------------------------------|------------------------------------------------------------------------------|------------------------|-----------------|---------------|
+| EP01/US01     | Creación de cuenta y unión a cafetería | TK14        | Configurar proyecto Nest.js y conexión a MongoDB | Configurar entorno, módulos principales y conexión con base de datos Mongo.          | 6                      | Guillermo       | Done          |
+|               |                                   | TK15        | Implementar módulo de usuarios   | Crear endpoints para registro, login y recuperación de cuenta.                        | 8                      | Guillermo       | Done          |
+| EP02/US04     | Crear y guardar una receta        | TK16        | Implementar módulo de recetas    | Crear endpoints CRUD para recetas con historial de modificaciones.                   | 8                      | Guillermo       | Done          |
+| EP05/US12     | Controlar mis lotes de café       | TK17        | Endpoints inventario y lotes     | Crear endpoints para registrar, consultar y alertar stock bajo de granos.             | 6                      | Guillermo       | Done          |
+| EP01/US02     | Entrar a mi cuenta                | TK18        | Diseñar pantalla Login y Registro| Implementar interfaces con validación de campos y conexión al backend.               | 6                      | Fabrizzio       | Done          |
+| EP02/US05     | Acceder rápidamente a recetas     | TK19        | Pantalla de Recetas              | Implementar vista lista de recetas con accesos rápidos a parámetros clave.           | 7                      | Miguel          | In Process    |
+| EP05/US12     | Controlar mis lotes de café       | TK20        | Pantalla de Inventario           | Construir pantalla para registrar lotes de café e inventario actual.                | 6                      | Fabrizzio       | Done          |
+| EP04/US10     | Registrar una cata simplificada   | TK21        | Pantalla de Catas                | Crear formulario simplificado para registrar notas sensoriales y puntajes.          | 5                      | Miguel          | In Process    |
+| EP06/US19     | Registrar nuevo barista           | TK22        | Crear invitación de nuevo barista | Desarrollar funcionalidad para invitar a nuevos baristas a la aplicación.            | 5                      | Fabián          | In Process    |
+| EP06/US20     | Asignar roles y permisos          | TK23        | Crear funcionalidad de roles y permisos | Implementar funcionalidad para asignar roles y permisos a los usuarios.            | 6                      | Fabián          | In Process    |
+| EP07/US22     | Generar reporte de consumo        | TK24        | Crear vista de reportes de consumo | Desarrollar una vista para generar reportes de consumo de café por período.          | 6                      | Miguel          | In Process    |
+| EP08/US23     | Enviar comunicados al equipo      | TK25        | Crear funcionalidad de comunicados  | Implementar sistema para enviar comunicados a todos los miembros del equipo.        | 5                      | Fabián          | In Process    |
+| EP08/US24     | Notificar cambios en lotes        | TK26        | Crear notificaciones de cambios    | Desarrollar notificaciones que alerten sobre cambios en lotes de café.               | 5                      | Miguel          | In Process    |
+| EP10/US23     | Acceso rápido desde móvil         | TK27        | Optimizar app para móvil         | Mejorar la navegación para uso con una sola mano, asegurando facilidad en los menús. | 5                      | Fabrizzio       | In Process    |
+| EP10/US24     | Notificaciones push               | TK28        | Implementar notificaciones push    | Implementar notificaciones push para alertar a los usuarios de cambios importantes.  | 6                      | Fabián          | In Process    |
+| EP10/US25     | Uso offline parcial               | TK29        | Guardar recetas offline           | Crear funcionalidad para que las recetas se guarden y se accedan sin conexión.      | 7                      | Fabrizzio       | In Process    |
+| EP11/TS26     | API de gestión de usuarios        | TK30        | Crear endpoints de usuario        | Desarrollar API para gestionar usuarios, registro, login, y autenticación.         | 7                      | Guillermo       | In Process          |
+| EP11/TS27     | API de recetas e inventario       | TK31        | Crear endpoints de recetas e inventario | Desarrollar API para gestionar recetas y lotes de inventario.                     | 8                      | Guillermo       | In Process          |
+| EP11/TS28     | Logs y monitoreo                  | TK32        | Implementar sistema de logs       | Configurar sistema de logs para monitoreo y diagnóstico de errores.               | 6                      | Fabián          | In Process    |
+| EP12/TS29     | Cifrado de datos sensibles        | TK33        | Implementar cifrado de contraseñas | Asegurar que las contraseñas y datos sensibles se cifren adecuadamente.              | 5                      | Fabián          | In Process    |
+| EP12/TS30     | Control de sesiones activas       | TK34        | Implementar control de sesiones   | Crear sistema para visualizar y cerrar sesiones activas en la cuenta.              | 5                      | Fabián          | In Process    |
+
+
+## 4.2.2.3. Development Evidence for Sprint Review
+
+| Repository                         | Branch           | Commit Id | Commit Message                                                                 | Commit Message Body                                                                                                                   | Commited on (Date) |
+|------------------------------------|------------------|-----------|--------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|------------------|
+| MiguelVidal/XantinaApp  | main             | 14ca4e3   | feat(extracts): add coffee parameters                                           | Se añadieron parámetros de extracción de café para el flujo principal de extracciones.                                                | 09/11/2025       |
+| FabrizzioPereira/XantinaApp        | main             | 81bd210   | feat(profile): add Conecta and profile                                          | Implementación de pantalla Conecta y actualización de perfil.                                                                         | 09/10/2025       |
+| MiguelVidal/XantinaApp  | main             | af129de   | feat(Navigation): integrate ExtraccionScreen with login flow                    | Actualización de navegación para integrar la pantalla de extracciones al flujo de autenticación.                                       | 08/10/2025       |
+| FabrizzioPereira/XantinaApp        | main             | 33af220   | feat(UI): add MethodCard, RecentCard, BottomNavigation                          | Nuevos componentes UI modernos para métodos, recientes y barra inferior.                                                               | 08/10/2025       |
+| MiguelVidal/XantinaApp  | main             | 91ceaa2   | feat(Extraccion): add main UI screen                                            | Se implementó la pantalla principal de extracciones, con scroll, header fijo y navegación.                                             | 08/10/2025       |
+| FabrizzioPereira/XantinaApp        | main             | a87be13   | feat(Extraccion): add data layer - DTOs + mappers                               | Se añadieron DTOs y mapeadores para el módulo de extracciones.                                                                         | 08/10/2025       |
+| FabrizzioPereira/XantinaApp        | main             | bb117ac   | feat(Extraccion): add use cases and additional DTOs                             | Caso de uso para obtener métodos, extracciones recientes y DTO de métodos.                                                             | 08/10/2025       |
+| MiguelVidal/XantinaApp  | main             | c123dbc   | feat(Extraccion): add domain layer                                              | Creación de entidades, repositorio y modelo de dominio para extracciones.                                                              | 08/10/2025       |
+| FabrizzioPereira/XantinaApp        | main             | 332af01   | feat(AuthScreen): add authentication screen                                     | Se implementaron pantallas de login y registro modernas.                                                                               | 08/10/2025       |
+| FabrizzioPereira/XantinaApp        | main             | aa9013b   | feat(LoginUseCase): add user entity + repository                                | Entidad User, repositorio de Auth y caso de uso de login.                                                                              | 08/10/2025       |
+| FabrizzioPereira/XantinaApp        | feature/login    | f0aa913   | feat(ui): enhance ParametrosExtraccionScreen + PasoExtraccionScreen             | Mejoras visuales, navegación, controles y estructura del flujo de parámetros de extracción.                                            | 13/11/2025       |
+| FabrizzioPereira/XantinaApp        | feature/login    | ae9011f   | feat(extraccion): integrate BolsaCafe management + improved ViewModel handling  | Integración del manejo de bolsas, mejoras en el estado del ViewModel y selección de parámetros.                                       | 12/11/2025       |
+| GuillermoTantalean/XantinaApp      | feature/login    | d199fa1   | feat(navigation): streamline navigation + improve extraction & notes handling    | Navegación optimizada entre pantallas, mejoras en ConectaScreen, extracciones y notas con AuthRepository.                             | 11/11/2025       |
+| GuillermoTantalean/XantinaApp      | feature/login    | c1ba889   | feat(profile): add logout + integration with MainActivity                        | Funcionalidad de cierre de sesión y su integración completa en el flujo principal.                                                     | 11/11/2025       |
+| MiguelAngelVidalCastro/XantinaApp  | feature/login    | acb189f   | feat(auth): implement AuthRepository                                             | Implementación del repositorio de autenticación y manejo de token.                                                                    | 11/11/2025       |
+| GuillermoTantalean/XantinaApp      | feature/login    | ffa110a   | feat(extraccion): integrate Coil + Lottie + new API flow                         | Integración gráfica avanzada (Coil, Lottie), ajustes al flujo de creación de métodos y manejo de parámetros.                           | 11/11/2025       |
+| GuillermoTantalean/XantinaApp      | feature/login    | 881bc11   | feat(extraccion): add visibility flag + API updates                              | Se añadió visibilidad pública a extracciones y métodos; mejoras en el backend y UI.                                                    | 10/11/2025       |
+| GuillermoTantalean/XantinaApp      | feature/login    | 092abbc   | feat(auth): integrate Hilt + auth logic                                          | Integración de Hilt para inyección de dependencias en autenticación.                                                                   | 10/11/2025       |
+| FabrizzioPereira/XantinaApp        | feature/extracts | 44ca41e   | feat(Navigation): integrate ExtraccionScreen with login flow                     | Integración del flujo de extracciones con autenticación.                                                                               | 08/10/2025       |
+| FabrizzioPereira/XantinaApp        | feature/extracts | 55bac33   | feat(Extraccion): add full extraction UI + domain layer + data layer             | Implementación completa de la característica de extracciones (UI + dominio + datos).                                                   | 08/10/2025       |
+
+
+## 4.2.2.4. Testing Suite Evidence for Sprint Review 
+
+Durante el Sprint 2, el equipo se enfocó en la implementación de funcionalidades principales. La estructura de testing se encuentra preparada con los archivos base de ejemplo, y los tests específicos se implementarán en los siguientes sprints como parte del proceso de mejoramiento continuo del código.
+
+**Estado Actual de Testing:**
+
+**Estructura Preparada:**
+- **Mobile App (Kotlin):** Archivos de ejemplo de tests unitarios (`ExampleUnitTest.kt`) y tests de instrumentación (`ExampleInstrumentedTest.kt`) están disponibles en el proyecto
+- **Backend (NestJS):** Archivo de ejemplo de tests (`app.controller.spec.ts`) está disponible
+
+**Próximos Pasos para Testing:**
+- Implementar tests unitarios para los nuevos módulos de extracción y autenticación
+- Agregar tests de integración para verificar la comunicación con el backend
+- Implementar tests de UI con Compose Testing para validar los flujos de usuario
+
+**Nota:** Durante este Sprint 2, el equipo priorizó la implementación de funcionalidades core y la integración entre frontend y backend. Los tests específicos se desarrollarán en sprints posteriores como parte del proceso de refactorización y mejoramiento de la calidad del código. La estructura de testing está preparada y lista para ser utilizada.
+
+
+## 4.2.2.5. Execution Evidence for Sprint Review 
+
+Durante el Sprint 2, el equipo logró implementar exitosamente todas las funcionalidades planificadas. La aplicación móvil ahora cuenta con un sistema completo de gestión de recetas de café, permitiendo a los usuarios crear, visualizar, editar y eliminar recetas, así como seguir una guía paso a paso durante las extracciones.
+
+**Resumen de lo alcanzado:**
+
+✅ **CRUD completo de recetas:** Los usuarios pueden crear, visualizar, editar y eliminar recetas de café
+✅ **Pantalla de extracción paso a paso:** Implementación completa de guía interactiva con timer
+✅ **Integración robusta con backend:** Todos los endpoints funcionando correctamente
+✅ **Mejoras en UX:** Estados de carga, manejo de errores y validaciones mejoradas
+
+**Screenshots de principales vistas implementadas:**
+
+- Lista de recetas
+- 
+- Formulario de creación de receta
+- 
+- Pantalla de edición de receta
+- 
+- Pantalla de extracción paso a paso
+- 
+- Confirmación de eliminación
+
+
+## 4.2.2.6. Services Documentation Evidence for Sprint Review 
+
+Durante el Sprint 2, se documentaron los endpoints del backend relacionados con la gestión de recetas utilizando OpenAPI/Swagger. La documentación está disponible en la ruta `/api/docs` del backend desplegado.
+
+**Endpoints documentados:**
+
+1. **GET /api/extraccion** - Obtener todas las recetas
+2. **GET /api/extraccion/:id** - Obtener receta por ID
+3. **POST /api/extraccion** - Crear nueva receta
+4. **PUT /api/extraccion/:id** - Actualizar receta existente
+5. **DELETE /api/extraccion/:id** - Eliminar receta
+
+**Documentation Commits Table**
+
+<table style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid black; padding: 8px; font-weight: bold;">Repository</th>
+      <th style="border: 1px solid black; padding: 8px; font-weight: bold;">Branch</th>
+      <th style="border: 1px solid black; padding: 8px; font-weight: bold;">Commit Id</th>
+      <th style="border: 1px solid black; padding: 8px; font-weight: bold;">Commit Message</th>
+      <th style="border: 1px solid black; padding: 8px; font-weight: bold;">Commit Message Body</th>
+      <th style="border: 1px solid black; padding: 8px; font-weight: bold;">Committed on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">upc-pre-202520-1ACC0238-2005-mira/backend</td>
+      <td style="border: 1px solid black; padding: 8px;">featrure/methods</td>
+      <td style="border: 1px solid black; padding: 8px;">33eca02</td>
+      <td style="border: 1px solid black; padding: 8px;">chore: update Receta entity and DTOs for enhanced recipe management</td>
+      <td style="border: 1px solid black; padding: 8px;">Added optional etiqueta and descripcion fields to CreateRecetaDto and UpdateRecetaDto. Updated Receta entity and schema. Improved DTOs documentation with better field descriptions.</td>
+      <td style="border: 1px solid black; padding: 8px;">2025-11-14</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">upc-pre-202520-1ACC0238-2005-mira/backend</td>
+      <td style="border: 1px solid black; padding: 8px;">featrure/methods</td>
+      <td style="border: 1px solid black; padding: 8px;">34a5ce3</td>
+      <td style="border: 1px solid black; padding: 8px;">feat: enhance social module with user search and follow functionalities</td>
+      <td style="border: 1px solid black; padding: 8px;">Added searchUsers method in SocialService. Implemented followUser, unfollowUser, and toggleFollow methods. Updated SocialController with new endpoints secured with JWT authentication. All endpoints include comprehensive OpenAPI documentation.</td>
+      <td style="border: 1px solid black; padding: 8px;">2025-11-14</td>
+    </tr>
+  </tbody>
+</table>
+
+
+## 4.2.2.7. Software Deployment Evidence for Sprint Review 
+
+Durante el Sprint 2, se realizaron mejoras en el proceso de despliegue del backend y se configuró el entorno para testing de la aplicación móvil.
+
+**Procesos realizados:**
+
+1. **Mejoras en el script de despliegue:**
+   - Optimización del script `deploy.sh` para mejor manejo de errores
+   - Agregado de health checks más robustos
+   - Mejoras en la configuración de Docker Compose
+
+2. **Configuración de CI/CD:**
+   - Configuración inicial de GitHub Actions para automatización de builds
+   - Preparación para deployment automático en GCP
+
+3. **Testing en producción:**
+   - Verificación de todos los endpoints en el ambiente de producción
+   - Validación de la integración móvil-backend
+
+```bash
+#!/bin/bash
+# Script rápido para desplegar versión subsecuente de Xantina a Firebase
+# Asume que ya estás autenticado y has configurado Firebase previamente
+# Uso: ./deploy-quick.sh [PROJECT_ID] [testers|grupos] [notas]
+
+set -e
+
+PROJECT_ID=${1}
+TESTERS=${2}
+RELEASE_NOTES=${3:-"Nueva versión"}
+
+# Colores
+GREEN='\033[0;32m'
+YELLOW='\033[1;33m'
+RED='\033[0;31m'
+BLUE='\033[0;34m'
+NC='\033[0m'
+
+echo -e "${BLUE}🚀 Despliegue Rápido - Xantina v2${NC}"
+echo "=========================================="
+
+# Verificar directorio
+if [ ! -f "app/build.gradle.kts" ]; then
+    echo -e "${RED}❌ Error: Ejecuta desde el directorio XantinaApp${NC}"
+    exit 1
+fi
+
+# Función para obtener firebase path
+get_firebase_path() {
+    if command -v firebase &> /dev/null; then
+        echo "firebase"
+    elif [ -f "$HOME/.nvm/versions/node/v22.19.0/bin/firebase" ]; then
+        echo "$HOME/.nvm/versions/node/v22.19.0/bin/firebase"
+    else
+        local npm_path=$(npm config get prefix)
+        [ -f "$npm_path/bin/firebase" ] && echo "$npm_path/bin/firebase" || echo ""
+    fi
+}
+
+FIREBASE_CMD=$(get_firebase_path)
+
+if [ -z "$FIREBASE_CMD" ]; then
+    echo -e "${RED}❌ Firebase CLI no encontrado${NC}"
+    exit 1
+fi
+
+# Verificar autenticación
+if ! $FIREBASE_CMD projects:list &> /dev/null; then
+    echo -e "${YELLOW}⚠️  No estás autenticado. Ejecuta: ${FIREBASE_CMD} login${NC}"
+    exit 1
+fi
+
+# Solicitar PROJECT_ID si no se proporcionó
+if [ -z "$PROJECT_ID" ]; then
+    echo -e "${BLUE}📋 Ingresa el ID de tu proyecto Firebase:${NC}"
+    read -r PROJECT_ID
+fi
+
+if [ -z "$PROJECT_ID" ]; then
+    echo -e "${RED}❌ Debes proporcionar un PROJECT_ID${NC}"
+    exit 1
+fi
+
+# Limpiar y compilar
+echo -e "${BLUE}🧹 Limpiando...${NC}"
+./gradlew clean --quiet
+
+echo -e "${BLUE}📦 Generando APK de release...${NC}"
+./gradlew assembleRelease
+
+# Intentar encontrar el APK (puede ser firmado o sin firmar)
+if [ -f "app/build/outputs/apk/release/app-release.apk" ]; then
+    APK_PATH="app/build/outputs/apk/release/app-release.apk"
+elif [ -f "app/build/outputs/apk/release/app-release-unsigned.apk" ]; then
+    APK_PATH="app/build/outputs/apk/release/app-release-unsigned.apk"
+else
+    echo -e "${RED}❌ Error: No se generó el APK${NC}"
+    echo -e "${YELLOW}💡 Verificando archivos en app/build/outputs/apk/release/:${NC}"
+    ls -la app/build/outputs/apk/release/ 2>/dev/null || echo "Directorio no existe"
+    exit 1
+fi
+
+echo -e "${GREEN}✅ APK generado: $APK_PATH${NC}"
+
+# Obtener testers/grupos si no se proporcionaron
+if [ -z "$TESTERS" ]; then
+    echo ""
+    echo -e "${BLUE}👥 Ingresa grupos (ej: testers,developers) o emails separados por comas:${NC}"
+    read -r TESTERS
+fi
+
+if [ -z "$TESTERS" ]; then
+    echo -e "${RED}❌ Debes proporcionar testers o grupos${NC}"
+    exit 1
+fi
+
+# Determinar si son grupos o emails (los grupos suelen no tener @)
+if [[ "$TESTERS" == "@" ]]; then
+    # Son emails
+    echo -e "${BLUE}📤 Distribuyendo a emails: $TESTERS${NC}"
+    $FIREBASE_CMD appdistribution:distribute "$APK_PATH" \
+        --app "$PROJECT_ID:android:com.upc.xantina" \
+        --testers "$TESTERS" \
+        --release-notes "$RELEASE_NOTES"
+else
+    # Son grupos
+    echo -e "${BLUE}📤 Distribuyendo a grupos: $TESTERS${NC}"
+    $FIREBASE_CMD appdistribution:distribute "$APK_PATH" \
+        --app "$PROJECT_ID:android:com.upc.xantina" \
+        --groups "$TESTERS" \
+        --release-notes "$RELEASE_NOTES"
+fi
+
+echo ""
+echo -e "${GREEN}✅ ¡Despliegue completado!${NC}"
+echo -e "${BLUE}📱 Testers recibirán un email con el link de descarga${NC}"
+echo -e "${BLUE}🔗 Ver release: https://console.firebase.google.com/project/$PROJECT_ID/appdistribution${NC}"
+```
+
+**URLs de despliegue:**
+- **Backend API:** `http://34.59.110.88:8080/api`
+- **Swagger Documentation:** `http://34.59.110.88:8080/api/docs`
+- **Health Check:** `http://34.59.110.88:8080/api`
+
+
+## 4.2.2.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 2, el equipo trabajó de manera colaborativa y eficiente, distribuyendo las tareas según las especialidades de cada miembro. La arquitectura DDD facilitó la colaboración al permitir que diferentes miembros trabajen en diferentes capas sin conflictos.
+
+**Distribución de trabajo:**
+
+- **Miguel Vidal Castro:** Desarrollo de UI/UX y componentes visuales
+- **Nelson Pereira Vasquez:** Integración con backend y arquitectura de datos
+- **Juan Diego Mondoñedo:** Implementación de ViewModels y lógica de negocio
+- **Fabián Oliva López:** Testing y validaciones
+- **Guillermo Tantaleán:** Backend y documentación de APIs
+
+**Métricas de colaboración:**
+
+- **Total de commits:** 17 (Mobile App: 10, Backend: 7)
+- **Pull requests creados:** 5
+- **Code reviews realizados:** 5
+- **Issues cerrados:** 4
+- **Período del Sprint:** 10 de noviembre - 14 de noviembre, 2025
+
+**Insights del equipo:**
+
+1. **Buenas prácticas identificadas:**
+   - La arquitectura DDD facilitó la colaboración paralela
+   - El uso de Conventional Commits mejoró la trazabilidad
+   - Las code reviews ayudaron a mantener la calidad del código
+
+2. **Desafíos encontrados:**
+   - Sincronización entre cambios en backend y frontend
+   - Manejo de estados complejos en Compose
+   - Testing de componentes UI
+
+3. **Mejoras para próximos sprints:**
+   - Implementar más tests de integración
+   - Mejorar la documentación de componentes compartidos
+   - Establecer mejor comunicación sobre cambios en APIs
+
+**URLs de analíticos:**
+- **Network Graph:** https://github.com/upc-pre-202520-1ACC0238-2005-mira/XantinaApp/network
+- **Contributors:** https://github.com/upc-pre-202520-1ACC0238-2005-mira/XantinaApp/graphs/contributors
+- **Pulse:** https://github.com/upc-pre-202520-1ACC0238-2005-mira/XantinaApp/pulse
+
+
 ## 4.3. Validation Interviews
 
 En esta sección validaremos la propuesta de valor y la usabilidad de Xantina con usuarios reales de nuestros segmentos principales .  
@@ -4815,7 +5335,99 @@ Para estas entrevistas primero realizaremos un diseño enfocándonos en identifi
 
 ### 4.3.2. Registro de Entrevistas
 
-### 4.3.3. Evaluaciones según heurísticas
+### **Entrevista Nº1**  
+
+**Segmento:**  
+
+- [ ] Baristas  
+
+**Nombre y Apellidos:**  
+Diego Cacho Seminario
+
+**Edad:**  
+19
+
+**Distrito:**  
+Surco
+
+**Screenshot del Cuadro de Video:**  
+
+![Screenshot2](https://github.com/user-attachments/assets/cac9078b-d714-40b1-a0fa-e93c0352105c)
+
+
+**URL del Video Subido en OneDrive:**  
+
+*[URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQAsg8OEZ_jtRKvB1jGAbFX1AbSEDarYR-ffzm1fCVCJqtU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=IStj6f](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQAsg8OEZ_jtRKvB1jGAbFX1AbSEDarYR-ffzm1fCVCJqtU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=IStj6f )*
+
+**Timing de la Entrevista:**  
+
+- **Inicio:** 00:04:00 (min:seg)  
+- **Duración:** 3:53 minutos
+
+**Resumen de la Entrevista:**  
+
+La entrevista fue realizada a Diego, un barista de 19 años que trabaja en una cafetería de especialidad en el centro de la ciudad. Diego lleva aproximadamente 5 años trabajando en el mundo del café y dedica alrededor de 40 horas a la semana preparando cafés de todo tipo, especializándose en métodos manuales como la V60, Chemex y Aeropress. A lo largo de la entrevista, mencionó que es muy meticuloso con los detalles de cada preparación, buscando siempre perfeccionar el sabor de las bebidas, y que considera que el control de los parámetros es fundamental para mantener una calidad constante en cada taza.
+
+### **Entrevista Nº2**  
+
+**Segmento:**
+
+- [ ] Jefes de Barra / Dueños de Cafeterías
+
+**Nombre y Apellidos:**  
+Renzo Sebastián Uribe Livia
+
+**Edad:**  
+19
+
+**Distrito:**  
+Surco
+
+**Screenshot del Cuadro de Video:**  
+
+![Screenshot1](https://github.com/user-attachments/assets/0eab7c07-16c7-46e5-a8c7-77a9d4597a22)
+
+
+**URL del Video Subido en OneDrive:**  
+
+*[URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQAsg8OEZ_jtRKvB1jGAbFX1AbSEDarYR-ffzm1fCVCJqtU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=IStj6f](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQAsg8OEZ_jtRKvB1jGAbFX1AbSEDarYR-ffzm1fCVCJqtU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=IStj6f )*
+
+**Timing de la Entrevista:**  
+
+- **Inicio:** 00:00:00 (min:seg)  
+- **Duración:** 4 minutos
+
+**Resumen de la Entrevista:**  
+
+Se entrevistó a Renzo, un entusiasta del café que también tiene experiencia trabajando como jefe de barra en una cafetería. Renzo tiene 19 años y vive en Lima, donde dedica aproximadamente 15 horas a la semana a preparar café en casa, especialmente utilizando métodos como la cafetera de émbolo y la V60. Durante la entrevista, destacó la importancia de la precisión y la consistencia en la preparación del café, y mencionó que una aplicación como Xantina podría ser útil para asegurar la calidad de cada preparación. A lo largo de la conversación, mencionó que valora mucho la capacidad de la app para enseñar a los usuarios a preparar café con parámetros exactos y en una interfaz intuitiva.
+
+### **Entrevista Nº3**  
+
+**Segmento:**
+
+- [ ] Entusiastas Avanzados (Home Brewers)
+
+**Nombre y Apellidos:**  
+
+
+**Edad:**  
+
+
+**Distrito:**  
+
+
+**Screenshot del Cuadro de Video:**  
+
+
+*[URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQAsg8OEZ_jtRKvB1jGAbFX1AbSEDarYR-ffzm1fCVCJqtU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=IStj6f](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQAsg8OEZ_jtRKvB1jGAbFX1AbSEDarYR-ffzm1fCVCJqtU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=IStj6f )*
+
+
+**Timing de la Entrevista:**  
+- **Inicio:** 00:00:00 (min:seg)  
+- **Duración:** 15 minutos
+
+**Resumen de la Entrevista:**  
+
 
 ## 4.4. Database Diagram.
 <td><img src="img\Database_Diagram.png"></td>
