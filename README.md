@@ -530,14 +530,12 @@ Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta
 </table>
 
 
-
-
 <div style="page-break-before: always;"></div>
 
 # Objetivos SMART
 
 #### **S – Specific (Específico)**  
-Diseñar y desarrollar una aplicación móvil en **Android (Kotlin)** y **Flutter (cross-platform)**, con backend cloud, que permita a baristas, jefes de barra y dueños estandarizar recetas, registrar catas, consultar microlecciones de 1–3 minutos y acceder a cápsulas breves sobre cultura y origen del café. La app debe reducir la variabilidad en preparación y acelerar el aprendizaje técnico en barra mediante flujos simples y guías prácticas.
+Diseñar y desarrollar una aplicación móvil en **Android (Kotlin)** y **Flutter **, con backend cloud, que permita a baristas, jefes de barra y dueños estandarizar recetas, registrar catas y acceder a comunidades para comentar sobre recetas de café. La app debe reducir la variabilidad en preparación y acelerar el aprendizaje técnico en barra mediante flujos simples.
 
 ---
 
@@ -549,15 +547,15 @@ Implementar y validar al menos **10 funcionalidades clave**:
 3. Guías paso a paso para preparación.  
 4. Checklist de calibración al inicio de turno.  
 5. Registro de catas con notas y rueda de sabores.  
-6. Microlecciones cortas (1–3 minutos).  
-7. Cápsulas educativas sobre origen y procesos.  
+6. Comunidades donde compartan sus extracciones.
+7. Distinos métodos para escoger. 
 8. Inventario básico por lotes con recordatorios.  
-9. Búsqueda y filtros avanzados.  
-10. Onboarding guiado para baristas nuevos.
+9. Perfiles de usuario para conectar con otros usuarios baristas. 
+10. Interactuar con los post de la comunidad cafetera
 
 Además:  
 - Validar la usabilidad en **dos tiendas piloto**.  
-- Lograr **reducción observable de variabilidad** en 2–4 semanas.  
+- Lograr **reducción observable de variabilidad**.
 - Obtener **retención de uso diario** durante calibración, servicio y cierre.
 
 ---
@@ -583,16 +581,15 @@ La app incrementará consistencia en taza, mejorará el onboarding, fortalecerá
 #### **T – Time-Bound (Acotado en el tiempo)**  
 Completar diseño, desarrollo, pruebas de usabilidad y un MVP funcional de la app en **Android y Flutter** en un plazo máximo de **4 meses calendario**.  
 Incluye:  
-- Diseño UX/UI (semana 1–3)  
-- Implementación iterativa (semana 2–12)  
-- Pruebas con tiendas piloto (semana 10–16)  
-- Ajustes finales y validación (semana 14–16)
+- Diseño UX/UI
+- Implementación iterativa
+- Ajustes finales y validación
 
 ---
 
 ### **Objetivo final redactado**
 
-> Nuestro objetivo es diseñar y desarrollar en un máximo de cuatro meses una aplicación móvil en **Android y Flutter** con backend cloud que permita estandarizar recetas, acelerar el aprendizaje barista mediante guías y microlecciones, registrar catas y difundir la cultura cafetera desde el origen. Esto será logrado implementando al menos diez funcionalidades clave y validando la app en tiendas piloto, asegurando reducción de variabilidad en preparación y uso recurrente durante la operación diaria. Con ello, Xantina se consolidará como la herramienta central de consulta, aprendizaje y estandarización en cafeterías de especialidad.
+Nuestro objetivo es diseñar y desarrollar en un máximo de cuatro meses una aplicación móvil en **Android y Flutter** con backend cloud que permita estandarizar recetas, acelerar el aprendizaje barista mediante guías y microlecciones, registrar catas, etc. Esto será logrado implementando al menos diez funcionalidades clave, asegurando reducción de variabilidad en preparación y uso recurrente durante la operación diaria. Con ello, Xantina se consolidará como la herramienta central de consulta y estandarización en cafeterías de especialidad.
 
 # Capítulo I: Introducción
 
