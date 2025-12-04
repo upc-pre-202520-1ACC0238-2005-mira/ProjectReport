@@ -254,7 +254,6 @@ Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
 - [Contenido](#contenido)
 - [Student Outcome](#student-outcome)
-- [Student Outcome](#student-outcome-1)
 - [Objetivos SMART](#objetivos-smart)
 - [Capítulo I: Introducción](#capítulo-i-introducción)
   - [1.1. Startup Profile](#11-startup-profile)
@@ -430,7 +429,6 @@ Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta
     - [**Entrevista Nº1**](#entrevista-nº1)
     - [**Entrevista Nº2**](#entrevista-nº2)
     - [**Entrevista Nº3**](#entrevista-nº3)
-    - [4.3.3. Evaluaciones según heurísticas](#433-evaluaciones-según-heurísticas)
   - [4.4. Database Diagram.](#44-database-diagram)
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
@@ -565,36 +563,8 @@ Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta
       <td style="border: 1px solid #000; padding: 8px;">Completar la parte de Software Architecture Diagrams, entrevistar al segmento objetivo de dueño de cafetería.</td>
       <td style="border: 1px solid #000; padding: 8px;">Determinar qué bounded context se aplican en los diagramas para saber identificarlos. Realización de Event Storming para entender qué bounded context se usan.</td>
     </tr>
-
-    <!-- TP vacío -->
-    <tr>
-      <td style="border: 1px solid #000; padding: 8px;">Pereira Vasquez, Fabrizzio</td>
-      <td style="border: 1px solid #000; padding: 8px;"></td>
-      <td style="border: 1px solid #000; padding: 8px;"></td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #000; padding: 8px;">Tantaleán Mesta, Guillermo Fabián</td>
-      <td style="border: 1px solid #000; padding: 8px;"></td>
-      <td style="border: 1px solid #000; padding: 8px;"></td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #000; padding: 8px;">Mondoñedo Rodriguez, Juan Diego Javier</td>
-      <td style="border: 1px solid #000; padding: 8px;"></td>
-      <td style="border: 1px solid #000; padding: 8px;"></td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #000; padding: 8px;">Oliva López, Fabián Alejandro</td>
-      <td style="border: 1px solid #000; padding: 8px;"></td>
-      <td style="border: 1px solid #000; padding: 8px;"></td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #000; padding: 8px;">Vidal Castro, Miguel Ángel</td>
-      <td style="border: 1px solid #000; padding: 8px;"></td>
-      <td style="border: 1px solid #000; padding: 8px;"></td>
-    </tr>
   </tbody>
 </table>
-
 
 # Capítulo I: Introducción
 
