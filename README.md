@@ -255,6 +255,12 @@ Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta
 - [Contenido](#contenido)
 - [Student Outcome](#student-outcome)
 - [Objetivos SMART](#objetivos-smart)
+      - [**S – Specific (Específico)**](#s--specific-específico)
+      - [**M – Measurable (Medible)**](#m--measurable-medible)
+      - [**A – Achievable (Alcanzable)**](#a--achievable-alcanzable)
+      - [**R – Relevant (Relevante)**](#r--relevant-relevante)
+      - [**T – Time-Bound (Acotado en el tiempo)**](#t--time-bound-acotado-en-el-tiempo)
+    - [**Objetivo final redactado**](#objetivo-final-redactado)
 - [Capítulo I: Introducción](#capítulo-i-introducción)
   - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
@@ -530,41 +536,63 @@ Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta
 
 # Objetivos SMART
 
-<table style="border-collapse: collapse; width: 100%; text-align: left;">
-  <thead>
-    <tr>
-      <th style="border: 1px solid #000; padding: 8px;" rowspan="2">Nombre del estudiante</th>
-      <th style="border: 1px solid #000; padding: 8px; text-align: center;" colspan="2">Objetivos</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border: 1px solid #000; padding: 8px;">Pereira Vasquez, Fabrizzio</td>
-      <td style="border: 1px solid #000; padding: 8px;">Completar el diseño de la arquitectura de software para Mira/Xantina aplicando Domain-Driven Design incluyendo bounded contexts, agregados y servicios del dominio del café de especialidad.</td>
-      <td style="border: 1px solid #000; padding: 8px;">Desarrollar y documentar el Lean UX Process completo (Problem Statements, Assumptions, Hypothesis Statements y Canvas).</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #000; padding: 8px;">Tantaleán Mesta, Guillermo Fabián</td>
-      <td style="border: 1px solid #000; padding: 8px;">Definir y documentar la arquitectura de software de Xantina mediante la aplicación de Domain-Driven Design, incluyendo la delimitación de bounded contexts, modelos de comunicación y decisiones estratégicas del dominio.</td>
-      <td style="border: 1px solid #000; padding: 8px;">Elaborar y validar el proceso Lean UX para Xantina, integrando problem statements, supuestos, hipótesis y el Lean UX Canvas, como base para el diseño centrado en el usuario.</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #000; padding: 8px;">Mondoñedo Rodriguez, Juan Diego Javier</td>
-      <td style="border: 1px solid #000; padding: 8px;">Resolver parte de las problemáticas y dolores diarios del grupo objetivo que seleccionamos para nuestro enfoque de proyecto para brindarles mayor satisfacción de vida.</td>
-      <td style="border: 1px solid #000; padding: 8px;">Identificar correctamente las necesidades de nuestros segmentos mediante el needfinding e interpretarlas para definir user stories adecuados para su caso.</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #000; padding: 8px;">Oliva López, Fabián Alejandro</td>
-      <td style="border: 1px solid #000; padding: 8px;">Realizar un análisis detallado de los competidores directos e indirectos de Xantina, identificando sus fortalezas, debilidades y estrategias de mercado, con el fin de reconocer oportunidades de diferenciación.</td>
-      <td style="border: 1px solid #000; padding: 8px;">Proponer y documentar estrategias competitivas para Xantina basadas en el análisis realizado, estableciendo acciones concretas que permitan posicionar la solución frente a los principales competidores.</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #000; padding: 8px;">Vidal Castro, Miguel Ángel</td>
-      <td style="border: 1px solid #000; padding: 8px;">Completar la parte de Software Architecture Diagrams, entrevistar al segmento objetivo de dueño de cafetería.</td>
-      <td style="border: 1px solid #000; padding: 8px;">Determinar qué bounded context se aplican en los diagramas para saber identificarlos. Realización de Event Storming para entender qué bounded context se usan.</td>
-    </tr>
-  </tbody>
-</table>
+#### **S – Specific (Específico)**  
+Diseñar y desarrollar una aplicación móvil en **Android (Kotlin)** y **Flutter (cross-platform)**, con backend cloud, que permita a baristas, jefes de barra y dueños estandarizar recetas, registrar catas, consultar microlecciones de 1–3 minutos y acceder a cápsulas breves sobre cultura y origen del café. La app debe reducir la variabilidad en preparación y acelerar el aprendizaje técnico en barra mediante flujos simples y guías prácticas.
+
+---
+
+#### **M – Measurable (Medible)**  
+Implementar y validar al menos **10 funcionalidades clave**:
+
+1. Recetas estandarizadas por método y lote.  
+2. Parámetros críticos: dosis, molienda, relación, tiempo, temperatura.  
+3. Guías paso a paso para preparación.  
+4. Checklist de calibración al inicio de turno.  
+5. Registro de catas con notas y rueda de sabores.  
+6. Microlecciones cortas (1–3 minutos).  
+7. Cápsulas educativas sobre origen y procesos.  
+8. Inventario básico por lotes con recordatorios.  
+9. Búsqueda y filtros avanzados.  
+10. Onboarding guiado para baristas nuevos.
+
+Además:  
+- Validar la usabilidad en **dos tiendas piloto**.  
+- Lograr **reducción observable de variabilidad** en 2–4 semanas.  
+- Obtener **retención de uso diario** durante calibración, servicio y cierre.
+
+---
+
+#### **A – Achievable (Alcanzable)**  
+El equipo cuenta con experiencia en **Android/Kotlin**, **Flutter**, backend cloud, UX/UI, Lean UX, arquitectura DDD y pruebas en barra.  
+Las funcionalidades se desarrollarán iterativamente usando herramientas **open source** y pruebas reales con tiendas piloto, asegurando que el alcance es viable dentro del tiempo del proyecto.
+
+---
+
+#### **R – Relevant (Relevante)**  
+Este objetivo responde directamente a los problemas actuales del sector:  
+- aprendizaje técnico disperso,  
+- falta de estandarización entre turnos,  
+- curva de capacitación lenta,  
+- invisibilidad del origen y procesos,  
+- necesidad de microaprendizaje en horarios irregulares.  
+
+La app incrementará consistencia en taza, mejorará el onboarding, fortalecerá la cultura cafetera y brindará una herramienta diaria de consulta para equipos de barra.
+
+---
+
+#### **T – Time-Bound (Acotado en el tiempo)**  
+Completar diseño, desarrollo, pruebas de usabilidad y un MVP funcional de la app en **Android y Flutter** en un plazo máximo de **4 meses calendario**.  
+Incluye:  
+- Diseño UX/UI (semana 1–3)  
+- Implementación iterativa (semana 2–12)  
+- Pruebas con tiendas piloto (semana 10–16)  
+- Ajustes finales y validación (semana 14–16)
+
+---
+
+### **Objetivo final redactado**
+
+> Nuestro objetivo es diseñar y desarrollar en un máximo de cuatro meses una aplicación móvil en **Android y Flutter** con backend cloud que permita estandarizar recetas, acelerar el aprendizaje barista mediante guías y microlecciones, registrar catas y difundir la cultura cafetera desde el origen. Esto será logrado implementando al menos diez funcionalidades clave y validando la app en tiendas piloto, asegurando reducción de variabilidad en preparación y uso recurrente durante la operación diaria. Con ello, Xantina se consolidará como la herramienta central de consulta, aprendizaje y estandarización en cafeterías de especialidad.
 
 # Capítulo I: Introducción
 
