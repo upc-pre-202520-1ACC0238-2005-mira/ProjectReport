@@ -4800,7 +4800,7 @@ Gracias a este flujo de trabajo, la aplicación móvil de **Xantina** puede ser 
       <td>TK13</td>
       <td>Footer con navegación</td>
       <td>Construir pie de página con enlaces a secciones, contacto y legales.</td>
-      <td>3</td>
+      <td>4</td>
       <td>Fabrizzio</td>
       <td>Done</td>
     </tr>
