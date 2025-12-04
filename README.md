@@ -1853,31 +1853,31 @@ En esta sección se aborda el Diseño Estratégico con Domain Driven Design (DDD
 ## 2.5.1. EventStorming
 
 <img 
-      src="/img/chapter2/ddd1.png" 
+      src="img/chapter2/ddd1.png" 
       alt="Event storming Map de Xantina"
       style="max-width: 100%; height: auto;">
 
 
 ### 2.5.1.1. Candidate Context Discovery
 <img 
-      src="/img/chapter2/ddd2.png" 
+      src="img/chapter2/ddd2.png" 
       alt="Event storming Map de Xantina"
       style="max-width: 100%; height: auto;">
 
 ### 2.5.1.2. Domain Message Flows Modeling
 <img 
-      src="/img/chapter2/dd3.png" 
+      src="img/chapter2/dd3.png" 
       alt="Event storming Map de Xantina"
       style="max-width: 100%; height: auto;">
 
 ### 2.5.1.3. Bounded Context Canvases
 <img 
-      src="/img/chapter2/bccExtraccion.jpg" 
+      src="img/chapter2/bccExtraccion.jpg" 
       alt="Event storming Map de Xantina"
       style="max-width: 100%; height: auto;">
 
 <img 
-      src="/img/chapter2/bccSocial.jpg" 
+      src="img/chapter2/bccSocial.jpg" 
       alt="Event storming Map de Xantina"
       style="max-width: 100%; height: auto;">
 
