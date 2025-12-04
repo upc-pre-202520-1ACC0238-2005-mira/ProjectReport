@@ -260,7 +260,7 @@ Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta
       - [**A – Achievable (Alcanzable)**](#a--achievable-alcanzable)
       - [**R – Relevant (Relevante)**](#r--relevant-relevante)
       - [**T – Time-Bound (Acotado en el tiempo)**](#t--time-bound-acotado-en-el-tiempo)
-    - [**Objetivo final redactado**](#objetivo-final-redactado)
+    - [**Objetivo final**](#objetivo-final)
 - [Capítulo I: Introducción](#capítulo-i-introducción)
   - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
@@ -587,7 +587,7 @@ Incluye:
 
 ---
 
-### **Objetivo final redactado**
+### **Objetivo final**
 
 Nuestro objetivo es diseñar y desarrollar en un máximo de cuatro meses una aplicación móvil en **Android y Flutter** con backend cloud que permita estandarizar recetas, acelerar el aprendizaje barista mediante guías y microlecciones, registrar catas, etc. Esto será logrado implementando al menos diez funcionalidades clave, asegurando reducción de variabilidad en preparación y uso recurrente durante la operación diaria. Con ello, Xantina se consolidará como la herramienta central de consulta y estandarización en cafeterías de especialidad.
 
