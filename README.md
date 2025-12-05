@@ -420,6 +420,16 @@ Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta
   - [4.2.2.6. Services Documentation Evidence for Sprint Review](#4226-services-documentation-evidence-for-sprint-review)
   - [4.2.2.7. Software Deployment Evidence for Sprint Review](#4227-software-deployment-evidence-for-sprint-review)
   - [4.2.2.8. Team Collaboration Insights during Sprint](#4228-team-collaboration-insights-during-sprint)
+  - [4.2.1.8. Team Collaboration Insights during Sprint](#4218-team-collaboration-insights-during-sprint-1)
+    - [XantinaApp](#xantinaapp)
+    - [Backend](#backend)
+- [4.2.3. Sprint 3](#423-sprint-3)
+  - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+  - [4.2.3.3. Sprint Backlog 3](#4233-sprint-backlog-3)
+    - [**User Stories y Tasks**](#user-stories-y-tasks)
+  - [4.2.3.4. Development Evidence for Sprint Review](#4234-development-evidence-for-sprint-review)
+  - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+    - [**📌 Espacio para evidencias visuales (pendiente de completar):**](#-espacio-para-evidencias-visuales-pendiente-de-completar)
   - [4.3. Validation Interviews](#43-validation-interviews)
     - [4.3.1. Diseño de Entrevistas](#431-diseño-de-entrevistas)
       - [Segmento #1: **Baristas (junior y senior)**](#segmento-1-baristas-junior-y-senior)
@@ -5281,6 +5291,100 @@ Durante el Sprint 2, el equipo trabajó de manera colaborativa y eficiente, dist
 - **Contributors:** https://github.com/upc-pre-202520-1ACC0238-2005-mira/XantinaApp/graphs/contributors
 - **Pulse:** https://github.com/upc-pre-202520-1ACC0238-2005-mira/XantinaApp/pulse
 
+
+## 4.2.1.8. Team Collaboration Insights during Sprint
+
+Durante este sprint el equipo trabajó de manera colaborativa en los tres repositorios principales del proyecto: **XantinaApp (Android)**, **Backend** y **Landing Page**. Las actividades se coordinaron mediante GitHub utilizando ramas, commits y revisiones de código, lo que permitió integrar los avances de cada miembro de forma ordenada y mantener una adecuada calidad del proyecto.
+
+Avances:
+- XantinaApp: Se avanzó en el desarrollo final de las pantallas principales, la navegación interna de la aplicación y la integración inicial con el backend.
+- Backend: Se implementaron los endpoints finales para usuarios, recetas y tips. Además, se configuró el manejo de variables de entorno y se estructuró el proyecto para facilitar la integración con Android Studio.
+- Landing Page: No se realizaron cambios funcionales en este sprint; únicamente se mantuvo la estructura para documentación del proyecto y presentación general de Xantina.
+- Documentación y Despliegue: Se actualizaron los archivos README de los repositorios, se documentaron los pasos para ejecutar la app y el backend en local y se dejaron lineamientos iniciales para el despliegue en un entorno de prueba.
+
+### XantinaApp
+Durante este sprint se fortaleció la estructura y la funcionalidad base de la app en Android Studio. Se completaron pantallas como inicio de sesión, listado de recetas y vista detallada. También hubo la integración final con el backend, mostrando datos reales dentro de la interfaz.
+-falta imagen aca xd
+
+### Backend
+El backend alcanzó su versión final. Se implementaron los endpoints pivotales del sistema, se configuraron variables de entorno y se preparó el proyecto para su ejecución y pruebas integradas con la aplicación móvil.
+-falta imagen aca xd
+
+
+# 4.2.3. Sprint 3
+
+## 5.2.3.1. Sprint Planning 3
+
+| Campo | Valor |
+|-------|--------|
+| **Sprint #** | 3 |
+| **Sprint Planning Background** | Reunión virtual mediante Discord |
+| **Date** | 01/12/2025 |
+| **Time** | 07:00 PM |
+| **Location** | Reunión virtual mediante Discord |
+| **Prepared By** | Miguel Vidal |
+| **Attendees (to planning meeting)** | Fabián Oliva, Nelson Fabrizzio, Miguel Vidal |
+| **Sprint 2 Review Summary** | Durante este sprint se completó la versión Android de la aplicación siguiendo las style guidelines definidas y las user stories priorizadas. Además, se logró un avance importante en la implementación de la versión en Flutter, garantizando coherencia visual y funcional entre ambas plataformas. |
+| **Sprint 2 Retrospective Summary** | El equipo destacó la buena coordinación, la responsabilidad en las tareas y la integración fluida de las pantallas. También se identificó la necesidad de mejorar la documentación técnica, unificar convenciones de commits y realizar reuniones cortas con mayor frecuencia para mantener visibilidad constante del avance. En conjunto, se acordó optimizar el flujo de trabajo y atender observaciones del repositorio con mayor rapidez en los siguientes sprints. |
+| **Sprint 3 Goal** | Finalizar el desarrollo de la app en Flutter con integración total al backend, aplicando style guidelines y user stories asignadas. Este sprint se orienta especialmente a cumplir con las necesidades del segmento de dueños de cafetería. |
+| **Sprint 3 Velocity** | 28 |
+| **Sum of Story Points** | 28 |
+
+
+## 4.2.3.3. Sprint Backlog 3
+
+### **User Stories y Tasks**
+
+| User Story | Title | Task ID | Task | Description | Estimation (Hours) | Assigned To | Status |
+|------------|-------|---------|------|-------------|---------------------|-------------|--------|
+| **US18** | Correcciones de UI | TK31 | Actualizar componentes visuales | Ajustar espaciados, tipografías y colores para mejorar consistencia visual | 2 | Fabián | Done |
+| | | TK32 | Optimizar responsividad | Asegurar que las pantallas se adapten correctamente a diferentes tamaños | 1 | Miguel | Done |
+| **US19** | Mejoras en navegación | TK33 | Ajustar rutas | Corregir rutas internas y asegurar navegación fluida | 2 | Nelson | Done |
+| | | TK34 | Validar navegación con casos reales | Probar flujos desde el onboarding hasta secciones internas | 1 | Fabián | Done |
+| **US20** | Integración final | TK35 | Conectar pantallas faltantes | Integrar vistas pendientes del sprint anterior | 2 | Miguel | Done |
+| | | TK36 | Revisar endpoints | Ajustar y validar llamadas básicas al backend | 1 | Nelson | Done |
+| **US21** | Correcciones funcionales | TK37 | Reparar bugs menores | Resolver errores de botones, formularios y estados visuales | 2 | Fabián | Done |
+| | | TK38 | Ajustar validaciones | Implementar validaciones simples de datos | 1 | Nelson | Done |
+| **US22** | Preparación para despliegue | TK39 | Revisar estructura de archivos | Ordenar carpetas y preparar build | 1 | Miguel | Done |
+| | | TK40 | Testing manual final | Probar flujos completos antes del sprint review | 1 | Equipo | Done |
+
+---
+
+## 4.2.3.4. Development Evidence for Sprint Review
+
+| Branch | Commit ID | Commit Message | Committer | Date |
+|--------|-----------|----------------|-----------|------|
+| main | **b1b7b7d** | feat: enhance BusinessModule with business member functionalities | fabrizzioper | Dec 4, 2025 |
+| main | **7171c08** | feat: enhance user authentication with profile update functionality | fabrizzioper | Dec 4, 2025 |
+| main | **c949271** | feat: integrate BusinessModule and configure body size limits | fabrizzioper | Dec 4, 2025 |
+| main | **b0de248** | feat: add UserAuthModule to application module | fabrizzioper | Dec 4, 2025 |
+| main | **b3bfae3** | feat(extracts): add coffee parameters | Gossk | Nov 9, 2025 |
+| main | **b6a4470** | Refactor business repository and API to enforce required fields | fabrizzioper | Dec 4, 2025 |
+| main | **ebc841a** | Enhance user authentication flow and profile management | fabrizzioper | Dec 4, 2025 |
+| main | **2661d8b** | Refactor environment variable handling, enhance Dio client, and improve business creation UI | fabrizzioper | Dec 4, 2025 |
+| main | **8f45ed5** | Enhance application with new dependencies and UI improvements | fabrizzioper | Dec 4, 2025 |
+| main | **708f665** | Replace bar chart with circular progress indicator in HomePage for improved data visualization | fabrizzioper | Dec 4, 2025 |
+| main | **7aafb9c** | Enhance ReportsPage and HomePage with New Features | fabrizzioper | Dec 4, 2025 |
+| main | **2cca695** | Enhance HomePage with Profile and Settings Navigation | fabrizzioper | Dec 4, 2025 |
+| main | **4795dcb** | Add ReportsPage navigation to AlertsPage, HomePage, and TeamPage | fabrizzioper | Dec 4, 2025 |
+| main | **d60f4e3** | Add AlertsPage navigation to MyBusinessesPage, HomePage, and TeamPage | fabrizzioper | Dec 4, 2025 |
+| main | **aad66d4** | Enhance BusinessDetailsPage with Team Navigation Options | fabrizzioper | Dec 4, 2025 |
+
+
+## 5.2.3.5. Execution Evidence for Sprint Review
+
+Se deja el siguiente espacio para incluir las imágenes y capturas correspondientes al funcionamiento final mostrado durante la revisión del Sprint:
+
+---
+
+### **📌 Espacio para evidencias visuales (pendiente de completar):**
+
+**[IMAGEN 1 – PENDIENTE]**  
+**[IMAGEN 2 – PENDIENTE]**  
+**[IMAGEN 3 – PENDIENTE]**  
+**[IMAGEN 4 – PENDIENTE]**
+
+---
 
 ## 4.3. Validation Interviews
 
