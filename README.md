@@ -1930,6 +1930,7 @@ Este es el diagrama de Contexto de nuestro sistema:
 <img src="./img/chapter2/c4_1.png">
 
 ### 2.5.3.2. Software Architecture Container Level Diagrams
+
 Este es el diagrama de Contenedores de nuestro sistema:
 <img src="./img/chapter2/c4_2.png">
 
@@ -1939,19 +1940,20 @@ Estos son los diagramas de Componentes de nuestro sistema
 
 Diagrama de componente Social:
 
-<img src="./img/chapter2/c4_4.png">
+<img src="./img/chapter2/ca_4.png">
+
 
 Diagrama de componente Auth:
 
-<img src="./img/chapter2/c4_5.png">
+<img src="./img/chapter2/ca_5.png">
 
 Diagrama de componente Extracción:
 
-<img src="./img/chapter2/c4_6.png">
+<img src="./img/chapter2/ca_6.png">
 
 Diagrama de componente Tienda:
 
-<img src="./img/chapter2/c4_7.png">
+<img src="./img/chapter2/ca_7.png">
 
 ### 2.5.3.4. Software Architecture Deployment Diagrams
 
