@@ -5348,8 +5348,6 @@ El backend alcanzó su versión final. Se implementaron los endpoints pivotales 
 | **US22** | Preparación para despliegue | TK39 | Revisar estructura de archivos | Ordenar carpetas y preparar build | 1 | Miguel | Done |
 | | | TK40 | Testing manual final | Probar flujos completos antes del sprint review | 1 | Equipo | Done |
 
----
-
 ## 4.2.3.4. Development Evidence for Sprint Review
 
 | Branch | Commit ID | Commit Message | Committer | Date |
@@ -5373,11 +5371,9 @@ El backend alcanzó su versión final. Se implementaron los endpoints pivotales 
 
 ## 4.2.3.5. Execution Evidence for Sprint Review
 
-Se deja el siguiente espacio para incluir las imágenes y capturas correspondientes al funcionamiento final mostrado durante la revisión del Sprint:
+Evidencias del funcionamiento final mostrado durante la revisión del Sprint:
 
----
-
-### **📌 Espacio para evidencias visuales (pendiente de completar):**
+### **EVIDENCIAS:**
 
 **[IMAGEN 1 – PENDIENTE]**  
 **[IMAGEN 2 – PENDIENTE]**  
