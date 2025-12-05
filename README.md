@@ -426,7 +426,7 @@ Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta
     - [**User Stories y Tasks**](#user-stories-y-tasks)
   - [4.2.3.4. Development Evidence for Sprint Review](#4234-development-evidence-for-sprint-review)
   - [4.2.3.5. Execution Evidence for Sprint Review](#4235-execution-evidence-for-sprint-review)
-    - [**📌 Espacio para evidencias visuales (pendiente de completar):**](#-espacio-para-evidencias-visuales-pendiente-de-completar)
+    - [**EVIDENCIAS:**](#evidencias)
   - [4.3. Validation Interviews](#43-validation-interviews)
     - [4.3.1. Diseño de Entrevistas](#431-diseño-de-entrevistas)
       - [Segmento #1: **Baristas (junior y senior)**](#segmento-1-baristas-junior-y-senior)
@@ -442,6 +442,8 @@ Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta
     - [**Entrevista Nº1**](#entrevista-nº1)
     - [**Entrevista Nº2**](#entrevista-nº2)
   - [4.4. Database Diagram.](#44-database-diagram)
+- [About the Product](#about-the-product)
+- [About the Team](#about-the-team)
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
@@ -5503,6 +5505,26 @@ Se entrevistó a Renzo, un entusiasta del café que también tiene experiencia t
 
 ## 4.4. Database Diagram.
 <td><img src="img\Database_Diagram.png"></td>
+
+
+# About the Product
+
+![About the Product Screenshot](./img/about-product-screenshot.png)
+
+**Video Link:**  
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQCj6754SXJ4SL-Y-Qr1VRJUATxhY81G6VIgC4yRv3yg3zU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=i9i4B4
+
+
+# About the Team
+
+![About the Team Screenshot](./img/about-the-team.png)
+
+**Video Link:**  
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQAPqW8DXZoXQ5GjCxj0QIs0AdwxP5qZOiVwnKaddRnnIcI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=T4J8jN
+
+
 
 # Conclusiones
 - Xantina encaja con claridad en el nicho de cafeterías de especialidad en Lima: resuelve dos trabajos críticos —aprendizaje práctico y estandarización operativa— donde hoy dominan soluciones dispersas (cursos presenciales y contenido suelto en redes). El diferencial no es “tener más contenido”, sino insertarse en el flujo diario de barra con recetas aprobadas, checklist y catas accionables. El go-to-market más sólido combina pilotos por tienda, alianzas con tostadores y escuelas y un modelo freemium→B2B para equipos. El principal riesgo es la adopción en turno; queda mitigado con co-diseño en tiendas piloto y evidencia de uso en momentos clave (apertura, pico y cierre).
