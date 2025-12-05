@@ -5371,7 +5371,7 @@ El backend alcanzó su versión final. Se implementaron los endpoints pivotales 
 | main | **aad66d4** | Enhance BusinessDetailsPage with Team Navigation Options | fabrizzioper | Dec 4, 2025 |
 
 
-## 5.2.3.5. Execution Evidence for Sprint Review
+## 4.2.3.5. Execution Evidence for Sprint Review
 
 Se deja el siguiente espacio para incluir las imágenes y capturas correspondientes al funcionamiento final mostrado durante la revisión del Sprint:
 
