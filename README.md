@@ -5473,3 +5473,4 @@ Pichler, R. (2010). Agile Product Management with Scrum: Creating Products that 
 - Backend API: [Enlace](https://backend-production-da30.up.railway.app/api)
 - Enlace para acceder al [video exposición de TP1](https://upcedupe-my.sharepoint.com/:f:/g/personal/u202311958_upc_edu_pe/EjGOGgMcO51MhhDyf7FuWIgBqsYm6hWDUe0vhWCp1AmMzw?e=U0Ra7a)
 - Enlace para acceder al [Figma](https://www.figma.com/design/zS1yCqj9PyyEGF9Zt7cW8m/XANTINA?node-id=48-2&p=f&t=On8xXJobTBgODpbA-0)
+ 
