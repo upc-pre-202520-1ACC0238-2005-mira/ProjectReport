@@ -4005,6 +4005,105 @@ Preguntas para Entusiastas del café (home brewers)
 - ¿La usarías para aprender nuevas recetas o tips?  
 - ¿Qué mejorarías para que sea más útil para ti?
 
+# 5.2.3. Sprint 3
+
+## 5.2.3.1. Sprint Planning 3
+
+| Sprint # | Date       | Time     | Location                         | Prepared By   | Attendees                                              |
+|----------|------------|----------|----------------------------------|----------------|--------------------------------------------------------|
+| 3        | 29/05/2025 | 07:00 PM | Reunión virtual mediante Discord | Miguel Vidal   | Fabián Oliva, Nelson Pereira, Miguel Vidal             |
+
+### **Sprint 3 Goal**
+
+Consolidar las funcionalidades principales del frontend y flutter de la aplicación, finalizando pantallas críticas e integrando ajustes menores al backend.  
+El foco del sprint consistió en asegurar navegabilidad continua, corregir errores del sprint previo y preparar la aplicación para la fase final.
+
+### **Sprint 3 Velocity**
+
+| Story Points comprometidos | Story Points completados |
+|---------------------------|--------------------------|
+| 40                        | 40                       |
+
+---
+
+## 5.2.3.2. Aspect Leaders and Collaborators
+
+Para este sprint, los integrantes activos fueron únicamente:
+
+- **Fabián Alejandro Oliva López**
+- **Nelson Fabrizzio Pereira Vasquez**
+- **Miguel Ángel Vidal Castro**
+
+Cada uno asumió responsabilidades específicas según sus fortalezas técnicas, cubriendo las user stories restantes asociadas a navegación, interfaz, correcciones funcionales y ajustes de integración.
+
+### **Asignación de Roles (L = Líder, C = Colaborador)**
+
+| User Story | Fabián Oliva | Nelson Pereira | Miguel Vidal |
+|------------|--------------|----------------|--------------|
+| US18: Correcciones de diseño UI | L | C | C |
+| US19: Ajustes de navegación general | C | L | C |
+| US20: Integración de pantallas finales | C | C | L |
+| US21: Correcciones funcionales menores | L | C | C |
+| US22: Preparación para despliegue | C | L | C |
+
+---
+
+## 5.2.3.3. Sprint Backlog 3
+
+### **User Stories y Tasks**
+
+| User Story | Title | Task ID | Task | Description | Estimation (Hours) | Assigned To | Status |
+|------------|-------|---------|------|-------------|---------------------|-------------|--------|
+| **US18** | Correcciones de UI | TK31 | Actualizar componentes visuales | Ajustar espaciados, tipografías y colores para mejorar consistencia visual | 2 | Fabián | Done |
+| | | TK32 | Optimizar responsividad | Asegurar que las pantallas se adapten correctamente a diferentes tamaños | 1 | Miguel | Done |
+| **US19** | Mejoras en navegación | TK33 | Ajustar rutas | Corregir rutas internas y asegurar navegación fluida | 2 | Nelson | Done |
+| | | TK34 | Validar navegación con casos reales | Probar flujos desde el onboarding hasta secciones internas | 1 | Fabián | Done |
+| **US20** | Integración final | TK35 | Conectar pantallas faltantes | Integrar vistas pendientes del sprint anterior | 2 | Miguel | Done |
+| | | TK36 | Revisar endpoints | Ajustar y validar llamadas básicas al backend | 1 | Nelson | Done |
+| **US21** | Correcciones funcionales | TK37 | Reparar bugs menores | Resolver errores de botones, formularios y estados visuales | 2 | Fabián | Done |
+| | | TK38 | Ajustar validaciones | Implementar validaciones simples de datos | 1 | Nelson | Done |
+| **US22** | Preparación para despliegue | TK39 | Revisar estructura de archivos | Ordenar carpetas y preparar build | 1 | Miguel | Done |
+| | | TK40 | Testing manual final | Probar flujos completos antes del sprint review | 1 | Equipo | Done |
+
+---
+
+## 5.2.3.4. Development Evidence for Sprint Review
+
+| Branch | Commit ID | Commit Message | Committer | Date |
+|--------|-----------|----------------|-----------|------|
+| main | **b1b7b7d** | feat: enhance BusinessModule with business member functionalities | fabrizzioper | Dec 4, 2025 |
+| main | **7171c08** | feat: enhance user authentication with profile update functionality | fabrizzioper | Dec 4, 2025 |
+| main | **c949271** | feat: integrate BusinessModule and configure body size limits | fabrizzioper | Dec 4, 2025 |
+| main | **b0de248** | feat: add UserAuthModule to application module | fabrizzioper | Dec 4, 2025 |
+| main | **b3bfae3** | feat(extracts): add coffee parameters | Gossk | Nov 9, 2025 |
+| main | **b6a4470** | Refactor business repository and API to enforce required fields | fabrizzioper | Dec 4, 2025 |
+| main | **ebc841a** | Enhance user authentication flow and profile management | fabrizzioper | Dec 4, 2025 |
+| main | **2661d8b** | Refactor environment variable handling, enhance Dio client, and improve business creation UI | fabrizzioper | Dec 4, 2025 |
+| main | **8f45ed5** | Enhance application with new dependencies and UI improvements | fabrizzioper | Dec 4, 2025 |
+| main | **708f665** | Replace bar chart with circular progress indicator in HomePage for improved data visualization | fabrizzioper | Dec 4, 2025 |
+| main | **7aafb9c** | Enhance ReportsPage and HomePage with New Features | fabrizzioper | Dec 4, 2025 |
+| main | **2cca695** | Enhance HomePage with Profile and Settings Navigation | fabrizzioper | Dec 4, 2025 |
+| main | **4795dcb** | Add ReportsPage navigation to AlertsPage, HomePage, and TeamPage | fabrizzioper | Dec 4, 2025 |
+| main | **d60f4e3** | Add AlertsPage navigation to MyBusinessesPage, HomePage, and TeamPage | fabrizzioper | Dec 4, 2025 |
+| main | **aad66d4** | Enhance BusinessDetailsPage with Team Navigation Options | fabrizzioper | Dec 4, 2025 |
+
+
+## 5.2.3.5. Execution Evidence for Sprint Review
+
+Se deja el siguiente espacio para incluir las imágenes y capturas correspondientes al funcionamiento final mostrado durante la revisión del Sprint:
+
+---
+
+### **📌 Espacio para evidencias visuales (pendiente de completar):**
+
+**[IMAGEN 1 – PENDIENTE]**  
+**[IMAGEN 2 – PENDIENTE]**  
+**[IMAGEN 3 – PENDIENTE]**  
+**[IMAGEN 4 – PENDIENTE]**
+
+---
+
+
 
 # Conclusiones
 - Xantina encaja con claridad en el nicho de cafeterías de especialidad en Lima: resuelve dos trabajos críticos —aprendizaje práctico y estandarización operativa— donde hoy dominan soluciones dispersas (cursos presenciales y contenido suelto en redes). El diferencial no es “tener más contenido”, sino insertarse en el flujo diario de barra con recetas aprobadas, checklist y catas accionables. El go-to-market más sólido combina pilotos por tienda, alianzas con tostadores y escuelas y un modelo freemium→B2B para equipos. El principal riesgo es la adopción en turno; queda mitigado con co-diseño en tiendas piloto y evidencia de uso en momentos clave (apertura, pico y cierre).
