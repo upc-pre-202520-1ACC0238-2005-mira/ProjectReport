@@ -419,9 +419,6 @@ Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta
   - [4.2.2.5. Execution Evidence for Sprint Review](#4225-execution-evidence-for-sprint-review)
   - [4.2.2.6. Services Documentation Evidence for Sprint Review](#4226-services-documentation-evidence-for-sprint-review)
   - [4.2.2.7. Software Deployment Evidence for Sprint Review](#4227-software-deployment-evidence-for-sprint-review)
-  - [4.2.1.8. Team Collaboration Insights during Sprint](#4218-team-collaboration-insights-during-sprint-1)
-    - [XantinaApp](#xantinaapp)
-    - [Backend](#backend)
   - [4.2.2.8. Team Collaboration Insights during Sprint](#4228-team-collaboration-insights-during-sprint)
 - [4.2.3. Sprint 3](#423-sprint-3)
   - [4.2.3.1. Sprint Planning 3](#4231-sprint-planning-3)
@@ -5246,25 +5243,6 @@ echo -e "${BLUE}🔗 Ver release: https://console.firebase.google.com/project/$P
 - **Backend API:** `http://34.59.110.88:8080/api`
 - **Swagger Documentation:** `http://34.59.110.88:8080/api/docs`
 - **Health Check:** `http://34.59.110.88:8080/api`
-
-
-## 4.2.1.8. Team Collaboration Insights during Sprint
-
-Durante este sprint el equipo trabajó de manera colaborativa en los tres repositorios principales del proyecto: **XantinaApp (Android)**, **Backend** y **Landing Page**. Las actividades se coordinaron mediante GitHub utilizando ramas, commits y revisiones de código, lo que permitió integrar los avances de cada miembro de forma ordenada y mantener una adecuada calidad del proyecto.
-
-Avances:
-- XantinaApp: Se avanzó en el desarrollo final de las pantallas principales, la navegación interna de la aplicación y la integración inicial con el backend.
-- Backend: Se implementaron los endpoints finales para usuarios, recetas y tips. Además, se configuró el manejo de variables de entorno y se estructuró el proyecto para facilitar la integración con Android Studio.
-- Landing Page: No se realizaron cambios funcionales en este sprint; únicamente se mantuvo la estructura para documentación del proyecto y presentación general de Xantina.
-- Documentación y Despliegue: Se actualizaron los archivos README de los repositorios, se documentaron los pasos para ejecutar la app y el backend en local y se dejaron lineamientos iniciales para el despliegue en un entorno de prueba.
-
-### XantinaApp
-Durante este sprint se fortaleció la estructura y la funcionalidad base de la app en Android Studio. Se completaron pantallas como inicio de sesión, listado de recetas y vista detallada. También hubo la integración final con el backend, mostrando datos reales dentro de la interfaz.
--falta imagen aca xd
-
-### Backend
-El backend alcanzó su versión final. Se implementaron los endpoints pivotales del sistema, se configuraron variables de entorno y se preparó el proyecto para su ejecución y pruebas integradas con la aplicación móvil.
--falta imagen aca xd
 
 
 ## 4.2.2.8. Team Collaboration Insights during Sprint
