@@ -424,11 +424,11 @@ Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta
     - [Backend](#backend)
   - [4.2.2.8. Team Collaboration Insights during Sprint](#4228-team-collaboration-insights-during-sprint)
 - [4.2.3. Sprint 3](#423-sprint-3)
-  - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+  - [4.2.3.1. Sprint Planning 3](#4231-sprint-planning-3)
   - [4.2.3.3. Sprint Backlog 3](#4233-sprint-backlog-3)
     - [**User Stories y Tasks**](#user-stories-y-tasks)
   - [4.2.3.4. Development Evidence for Sprint Review](#4234-development-evidence-for-sprint-review)
-  - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+  - [4.2.3.5. Execution Evidence for Sprint Review](#4235-execution-evidence-for-sprint-review)
     - [**📌 Espacio para evidencias visuales (pendiente de completar):**](#-espacio-para-evidencias-visuales-pendiente-de-completar)
   - [4.3. Validation Interviews](#43-validation-interviews)
     - [4.3.1. Diseño de Entrevistas](#431-diseño-de-entrevistas)
@@ -444,7 +444,6 @@ Este entregable comprende la elaboración del informe desde el Capítulo 3 hasta
     - [4.3.2. Registro de Entrevistas](#432-registro-de-entrevistas)
     - [**Entrevista Nº1**](#entrevista-nº1)
     - [**Entrevista Nº2**](#entrevista-nº2)
-    - [**Entrevista Nº3**](#entrevista-nº3)
   - [4.4. Database Diagram.](#44-database-diagram)
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
@@ -5313,7 +5312,7 @@ Durante el Sprint 2, el equipo trabajó de manera colaborativa y eficiente, dist
 
 # 4.2.3. Sprint 3
 
-## 5.2.3.1. Sprint Planning 3
+## 4.2.3.1. Sprint Planning 3
 
 | Campo | Valor |
 |-------|--------|
@@ -5371,7 +5370,7 @@ Durante el Sprint 2, el equipo trabajó de manera colaborativa y eficiente, dist
 | main | **aad66d4** | Enhance BusinessDetailsPage with Team Navigation Options | fabrizzioper | Dec 4, 2025 |
 
 
-## 5.2.3.5. Execution Evidence for Sprint Review
+## 4.2.3.5. Execution Evidence for Sprint Review
 
 Se deja el siguiente espacio para incluir las imágenes y capturas correspondientes al funcionamiento final mostrado durante la revisión del Sprint:
 
@@ -5516,33 +5515,6 @@ Surco
 **Resumen de la Entrevista:**  
 
 Se entrevistó a Renzo, un entusiasta del café que también tiene experiencia trabajando como jefe de barra en una cafetería. Renzo tiene 19 años y vive en Lima, donde dedica aproximadamente 15 horas a la semana a preparar café en casa, especialmente utilizando métodos como la cafetera de émbolo y la V60. Durante la entrevista, destacó la importancia de la precisión y la consistencia en la preparación del café, y mencionó que una aplicación como Xantina podría ser útil para asegurar la calidad de cada preparación. A lo largo de la conversación, mencionó que valora mucho la capacidad de la app para enseñar a los usuarios a preparar café con parámetros exactos y en una interfaz intuitiva.
-
-### **Entrevista Nº3**  
-
-**Segmento:**
-
-- [ ] Entusiastas Avanzados (Home Brewers)
-
-**Nombre y Apellidos:**  
-
-
-**Edad:**  
-
-
-**Distrito:**  
-
-
-**Screenshot del Cuadro de Video:**  
-
-
-*[URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQAsg8OEZ_jtRKvB1jGAbFX1AbSEDarYR-ffzm1fCVCJqtU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=IStj6f](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQAsg8OEZ_jtRKvB1jGAbFX1AbSEDarYR-ffzm1fCVCJqtU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=IStj6f )*
-
-
-**Timing de la Entrevista:**  
-- **Inicio:** 00:00:00 (min:seg)  
-- **Duración:** 15 minutos
-
-**Resumen de la Entrevista:**  
 
 
 ## 4.4. Database Diagram.
