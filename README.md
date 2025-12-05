@@ -4011,7 +4011,7 @@ Preguntas para Entusiastas del café (home brewers)
 
 | Sprint # | Date       | Time     | Location                         | Prepared By   | Attendees                                              |
 |----------|------------|----------|----------------------------------|----------------|--------------------------------------------------------|
-| 3        | 29/05/2025 | 07:00 PM | Reunión virtual mediante Discord | Miguel Vidal   | Fabián Oliva, Nelson Pereira, Miguel Vidal             |
+| 3        | 01/12/2025 | 07:00 PM | Reunión virtual mediante Discord | Miguel Vidal   | Fabián Oliva, Nelson Pereira, Miguel Vidal             |
 
 ### **Sprint 3 Goal**
 
