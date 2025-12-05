@@ -5352,12 +5352,22 @@ Evidencias del funcionamiento final mostrado durante la revisión del Sprint:
 
 ### **EVIDENCIAS:**
 
-**[IMAGEN 1 – PENDIENTE]**  
-**[IMAGEN 2 – PENDIENTE]**  
-**[IMAGEN 3 – PENDIENTE]**  
-**[IMAGEN 4 – PENDIENTE]**
+<img width="628" height="1280" alt="image" src="https://github.com/user-attachments/assets/ac1de0a0-1623-4f09-a7eb-7efe62f7c1a9" />
 
----
+<img width="603" height="1280" alt="image" src="https://github.com/user-attachments/assets/e033c32b-002e-421f-9912-3ec77f07daa3" />
+
+<img width="620" height="1280" alt="image" src="https://github.com/user-attachments/assets/35e9d96b-9334-47cf-999c-c1ec54d59b84" />
+
+<img width="575" height="1280" alt="image" src="https://github.com/user-attachments/assets/d4eaffb8-842b-4b7b-a9b9-fc263cec2602" />
+
+<img width="522" height="1280" alt="image" src="https://github.com/user-attachments/assets/3e150dac-b61d-4faf-a180-0d051d09d1d8" />
+
+<img width="615" height="1280" alt="image" src="https://github.com/user-attachments/assets/c012d659-63a8-491b-b8c7-33c2c85dd2c3" />
+
+<img width="547" height="1280" alt="image" src="https://github.com/user-attachments/assets/b3a590a0-acd3-44c3-8828-b99c40011ac8" />
+
+<img width="577" height="1280" alt="image" src="https://github.com/user-attachments/assets/204314ff-310a-4df2-8ee1-8629e0b70ead" />
+
 
 ## 4.3. Validation Interviews
 
